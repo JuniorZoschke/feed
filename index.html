@@ -1,0 +1,19 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#000000"><meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Feed">
+<title>Feed</title><link rel="manifest" href="manifest.webmanifest"><link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="icon" href="icons/icon-192.png"><link rel="stylesheet" href="app.css?v=1">
+</head><body>
+<header id="top">
+  <div class="bar"><h1>Feed</h1><button id="searchBtn" class="ic" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></button></div>
+  <div id="searchRow" hidden><input id="q" type="search" placeholder="Search stories" autocomplete="off"><button id="searchClose" class="txt">Cancel</button></div>
+  <nav id="tabs" role="tablist"></nav>
+</header>
+<main id="feed" aria-live="polite"></main>
+<div id="sentinel"></div>
+<section id="detail" hidden aria-modal="true" role="dialog"></section>
+<div id="sheet" hidden><div class="scrim"></div><div class="panel"><div class="grab"></div><div class="sheetHead"><b>Ask follow up</b><button class="ic close" aria-label="Close"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div><div id="chat"></div><div id="sugg"></div><form id="askForm"><input id="askIn" placeholder="Ask anything about this story…" autocomplete="off"><button class="send" aria-label="Send"><svg viewBox="0 0 24 24"><path d="M5 12h13M13 6l6 6-6 6"/></svg></button></form></div></div>
+<div id="menu" hidden></div><div id="toast" hidden></div>
+<div id="nudge" hidden></div>
+<script src="app.js?v=1"></script></body></html>
