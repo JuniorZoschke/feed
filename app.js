@@ -1,6 +1,6 @@
 "use strict";
-const CATS={all:"For You",laugh:"Laugh",whoa:"Whoa facts",ideas:"Big ideas",wins:"Quick wins",calm:"Calm",news:"News"};
-const CATLBL={laugh:"Laugh",whoa:"Whoa fact",ideas:"Big idea",wins:"Quick win",calm:"Calm",news:"News"};
+const CATS={all:"For You",news:"News",money:"Money & Deals",health:"Health",adhd:"ADHD Edge",mind:"Mind",ai:"AI",travel:"Travel & Borders",english:"English",whoa:"Whoa",laugh:"Laugh",calm:"Calm"};
+const CATLBL={news:"News",money:"Money & Deals",health:"Health",adhd:"ADHD Edge",mind:"Mind",ai:"AI",travel:"Travel & Borders",english:"English",whoa:"Whoa fact",laugh:"Laugh",calm:"Calm"};
 const $=s=>document.querySelector(s), esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const IC={
  listen:'<svg viewBox="0 0 24 24"><path d="M4 10v4M8 7v10M12 4v16M16 8v8M20 11v2"/></svg>',
@@ -17,6 +17,8 @@ const IC={
  ext:'<svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>'};
 IC.x='<svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>';
 IC.link='<svg viewBox="0 0 24 24"><path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></svg>';
+IC.upF='<svg viewBox="0 0 24 24"><path d="M7 11v9H4v-9z" fill="currentColor"/><path d="M7 11l4-8c1.5 0 2.5 1 2.2 2.6L12.6 9H19a2 2 0 0 1 2 2.3l-1.3 7A2 2 0 0 1 17.7 20H7z" fill="currentColor"/></svg>';
+IC.search='<svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>';
 IC.hide='<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M5.6 5.6l12.8 12.8"/></svg>';
 /* ---------- state & preference model ---------- */
 const LS="feed.v1";
@@ -38,7 +40,7 @@ function score(s){let v=(st.cat[s.cat]||0)*1.0+s.tags.reduce((a,t)=>a+(st.tag[t]
  return v+jit(s.id);}
 function jit(id){let h=round*7919+st.sessions*104729;for(const c of id)h=(h*31+c.charCodeAt(0))|0;return ((h>>>0)%1000)/1000*1.6;}
 function rebuild(){
- let pool=STORIES.filter(s=>(tab==="all"||s.cat===tab)&&(!query||(s.title+" "+s.snippet+" "+s.tags.join(" ")+" "+s.bullets.join(" ")).toLowerCase().includes(query)));
+ let pool=STORIES.filter(s=>(tab==="all"||s.cat===tab)&&(!query||(s.title+" "+s.snippet+" "+s.tags.join(" ")+" "+s.bullets.join(" ")+" "+(CATS[s.cat]||"")).toLowerCase().includes(query)));
  pool=pool.filter(s=>!shown.has(s.id)&&!(round>0&&(st.react[s.id]===-1||st.hidden[s.id])));
  pool.sort((a,b)=>score(b)-score(a));
  if(tab==="all"){const out=[];const rest=pool.slice();let l1=feedLastCat(),l2=null;while(rest.length){let i=(l1&&l1===l2)?rest.findIndex(s=>s.cat!==l1):0;if(i<0)i=0;const s=rest.splice(i,1)[0];out.push(s);l2=l1;l1=s.cat;}pool=out;}
@@ -55,9 +57,9 @@ function cardHTML(s,i){
  <div class="body"><div class="lbl">${CATLBL[s.cat]}</div>
  <h2 data-tog>${esc(s.title)}</h2><p class="snip" data-tog>${esc(s.snippet)} <span class="see">See more</span></p>
  <div class="meta"><div class="time"><span>${rel(s.date)}</span><span class="likeMark">· Liked</span></div>
- <div class="acts">${actsHTML()}</div></div></div>
+ <div class="acts">${actsHTML(s.id)}</div></div></div>
  <div class="xwrap" aria-hidden="true"></div></article>`;}
-const actsHTML=()=>`<button class="ic listen" aria-label="Listen">${IC.listen}</button><button class="ic shareB" aria-label="Share">${IC.share}</button><button class="ic more" aria-label="More">${IC.more}</button>`;
+const actsHTML=(id)=>{const r=id?st.react[id]||0:0;return `<button class="ic listen" aria-label="Listen">${IC.listen}</button><button class="ic likeB${r===1?" on":""}" aria-label="Like" aria-pressed="${r===1}">${r===1?IC.upF:IC.up}</button><button class="ic lessB" aria-label="Less like this" aria-pressed="false">${IC.down}</button><button class="ic shareB" aria-label="Share">${IC.share}</button><button class="ic more" aria-label="More">${IC.more}</button>`;};
 let loading=false;
 function loadMore(n=5){
  if(loading)return;loading=true;
@@ -96,6 +98,10 @@ $("#feed").addEventListener("click",e=>{
  const card=e.target.closest(".card");if(!card)return;const s=byId[card.dataset.id];
  if(e.target.closest(".more")){e.preventDefault();e.stopPropagation();toggleMenu(e.target.closest(".more"),s);return;}
  if(e.target.closest(".shareB")){share(s);return;}
+ if(e.target.closest(".likeB")){react(s,1);return;}
+ if(e.target.closest(".lessB")){react(s,-1);return;}
+ if(e.target.closest(".srcT")){toggleSrc(card);return;}
+ if(e.target.closest(".openStory")){const o=byId[e.target.closest(".openStory").dataset.id];if(o)jumpTo(o);return;}
  if(e.target.closest(".listen")){startSpeak(s,card);return;}           // speak() runs synchronously inside this tap
  if(e.target.closest(".ppB")){pauseResume();return;}
  if(e.target.closest(".stopB")){stopSpeak();return;}
@@ -110,7 +116,9 @@ function react(s,v){
  const prev=st.react[s.id]||0; if(prev===v){st.react[s.id]=0;learn(s,v===1?-1.5:2,"undo");toast("Removed");}
  else{st.react[s.id]=v;learn(s,v===1?2.5+(prev?2:0):-2-(prev?1.5:0),v===1?"like":"dislike");
   toast(v===1?`More ${CATLBL[s.cat].toLowerCase()} stories coming up`:`Got it, fewer like this`);}
- save();document.querySelectorAll(`.card[data-id="${s.id}"]`).forEach(c=>{c.classList.toggle("liked",st.react[s.id]===1);if(st.react[s.id]===-1)removeCard(c)});
+ save();document.querySelectorAll(`.card[data-id="${s.id}"]`).forEach(c=>{c.classList.toggle("liked",st.react[s.id]===1);
+  const lb=c.querySelector(".likeB");if(lb){const on=st.react[s.id]===1;lb.classList.toggle("on",on);lb.setAttribute("aria-pressed",on);lb.innerHTML=on?IC.upF:IC.up;lb.classList.remove("pop");void lb.offsetWidth;lb.classList.add("pop");}
+  if(st.react[s.id]===-1){const lb2=c.querySelector(".lessB");if(lb2){lb2.classList.add("on");lb2.setAttribute("aria-pressed","true")}setTimeout(()=>removeCard(c),260)}});
  rebuild();
 }
 function removeCard(c){if(speaking&&speaking.root===c)stopSpeak();c.style.transition="opacity .3s";c.style.opacity=0;setTimeout(()=>c.remove(),320);}
@@ -120,11 +128,11 @@ let menuFor=null;
 function toggleMenu(btn,s){if(!$("#menu").hidden&&menuFor===btn){closeMenu();return;}openMenu(btn,s);}
 function openMenu(btn,s){
  const m=$("#menu"),r=btn.getBoundingClientRect();menuFor=btn;
- m.innerHTML=`<button role="menuitem" data-a="like">${IC.up}${st.react[s.id]===1?"Liked":"Like"}</button><button role="menuitem" data-a="dislike">${IC.down}Dislike</button><button role="menuitem" data-a="hide">${IC.hide}Not interested</button><button role="menuitem" data-a="copy">${IC.link}Copy link</button>`;
+ m.innerHTML=`<button role="menuitem" data-a="hide">${IC.hide}Not interested</button><button role="menuitem" data-a="copy">${IC.link}Copy link</button><button role="menuitem" data-a="src">${IC.ext}Open original source</button>`;
  m.hidden=false;const mw=230,mh=m.offsetHeight;m.style.left=Math.max(8,Math.min(innerWidth-mw-8,r.right-mw))+"px";
  m.style.top=(r.bottom+mh+8>innerHeight?Math.max(8,r.top-mh-4):r.bottom+4)+"px";
  m.onclick=e=>{const a=e.target.closest("button")?.dataset.a;if(!a)return;closeMenu();
-  if(a==="like")react(s,1);else if(a==="dislike")react(s,-1);else if(a==="hide")notInterested(s);else copyLink(s);};
+  if(a==="hide")notInterested(s);else if(a==="src"){window.open(s.sources[0].url,"_blank","noopener");logEv("src",s.id);}else copyLink(s);};
 }
 document.addEventListener("pointerdown",e=>{if(!$("#menu").hidden&&!e.target.closest("#menu")&&!e.target.closest(".more"))closeMenu();},true);
 addEventListener("scroll",()=>{if(!$("#menu").hidden)closeMenu()},{passive:true});
@@ -135,65 +143,98 @@ async function copyLink(s){const ok=await copyText(storyURL(s));toast(ok?"Link c
 /* Share icon: native share sheet only (fallback: copy) */
 function share(s){const data={title:s.title,text:s.snippet+"\nSource: "+s.sources[0].url,url:storyURL(s)};logEv("share",s.id);
  if(navigator.share){navigator.share(data).catch(()=>{});}else{copyText(s.title+" — "+storyURL(s)).then(ok=>toast(ok?"Link copied":"Couldn't copy link"));}}
-/* ---------- Listen (Web Speech) — iOS WebKit safe ----------
- * speak() is called synchronously inside the tap handler (no await/timers before it), after cancel();
- * text is split into sentence-sized utterances (iOS silently drops/stops very long ones); utterances are kept
- * referenced in TTS.q so they aren't garbage-collected mid-speech (a known WebKit bug); a generation counter
- * ignores stale events from cancelled queues; state resets on end/error. */
+/* ---------- Listen: pre-generated natural neural-voice MP3 per story (audio/<id>.mp3) ----------
+ * play() is called synchronously inside the tap (iOS needs the user gesture). One shared <audio> element.
+ * Progress bar + elapsed time, pause/resume, stop, Media Session (lock-screen controls + artwork).
+ * Fallback: Web Speech, only when the MP3 can't be loaded (e.g. offline and never played before). */
+const AU=new Audio();AU.preload="none";AU.setAttribute("playsinline","");AU.setAttribute("webkit-playsinline","");
+const CAN_MP3=(()=>{try{return AU.canPlayType("audio/mpeg")!==""}catch(e){return false}})();
 const TTS={q:[],gen:0,voice:null,started:false,warned:false};
 const HAS_TTS=!!(window.speechSynthesis&&window.SpeechSynthesisUtterance);
 function pickVoice(){if(!HAS_TTS)return;const vs=speechSynthesis.getVoices()||[];
- TTS.voice=vs.find(v=>/^en[-_]US/i.test(v.lang)&&/Samantha|Ava|Allison|Susan|Google US English/i.test(v.name))||vs.find(v=>/^en[-_]US/i.test(v.lang)&&v.localService)||vs.find(v=>/^en[-_]US/i.test(v.lang))||vs.find(v=>/^en/i.test(v.lang))||null;}
+ TTS.voice=vs.find(v=>/^en[-_](GB|US)/i.test(v.lang)&&/Premium|Enhanced|Neural|Natural|Siri|Ava|Samantha|Google UK English Female|Google US English/i.test(v.name))||vs.find(v=>/^en[-_]GB/i.test(v.lang))||vs.find(v=>/^en/i.test(v.lang))||null;}
 if(HAS_TTS){pickVoice();try{speechSynthesis.addEventListener("voiceschanged",pickVoice)}catch(e){speechSynthesis.onvoiceschanged=pickVoice}}
 const plain=t=>t.replace(/\[\d+\]/g,"").replace(/\s+/g," ").trim();
-function speechText(s){const parts=[s.title+".",plain(s.snippet),...s.bullets.map(plain)];
- (s.sections||[]).forEach(x=>{parts.push(x.h+".");x.paras.forEach(p=>parts.push(plain(p)))});return parts;}
+function speechText(s){return [s.title+".",plain(s.snippet),...s.bullets.map(plain),s.why?"Why it matters to you. "+s.why:"",s.tryit?"One thing to try. "+s.tryit:""].filter(Boolean);}
 function chunkText(parts){const out=[];parts.forEach(p=>p.split(/(?<=[.!?])\s+/).forEach(sn=>{sn=sn.trim();if(!sn)return;
   while(sn.length>220){let k=sn.lastIndexOf(", ",200);if(k<60)k=sn.lastIndexOf(" ",200);if(k<60)k=200;out.push(sn.slice(0,k+1).trim());sn=sn.slice(k+1).trim();}
   if(sn)out.push(sn);}));return out;}
 let speaking=null;
+const fmt=t=>!isFinite(t)||t<0?"0:00":Math.floor(t/60)+":"+String(Math.floor(t%60)).padStart(2,"0");
 function startSpeak(s,root){
  if(speaking&&speaking.id===s.id&&speaking.root===root){pauseResume();return;}
- if(!HAS_TTS){toast("Listening isn't supported in this browser");return;}
- const synth=window.speechSynthesis;
- synth.cancel();                       // clear anything queued/stuck (iOS)
- const gen=++TTS.gen;resetPlayerUI();
- if(!TTS.voice)pickVoice();
- const chunks=chunkText(speechText(s));
- TTS.q=chunks.map((text,i)=>{const u=new SpeechSynthesisUtterance(text);u.lang=(TTS.voice&&TTS.voice.lang)||"en-US";if(TTS.voice)u.voice=TTS.voice;u.rate=1;u.pitch=1;u.volume=1;
-  u.onstart=()=>{if(gen!==TTS.gen)return;TTS.started=true;if(speaking)speaking.idx=i;logEv("tts_start",s.id,{i});};
-  u.onboundary=()=>{if(gen===TTS.gen)TTS.started=true;};
-  u.onend=()=>{if(gen!==TTS.gen)return;if(i===chunks.length-1)stopSpeak();};
-  u.onerror=ev=>{if(gen!==TTS.gen)return;const er=ev&&ev.error;if(er==="interrupted"||er==="canceled")return;stopSpeak();toast("Couldn't play audio"+(er?" ("+er+")":""));};
-  return u;});
- for(const u of TTS.q)synth.speak(u);  // synchronous, still inside the user gesture
- if(synth.paused)synth.resume();        // WebKit can start in a paused state
- speaking={id:s.id,root,gen,idx:0};TTS.started=false;
- showPlayer(root);learn(s,.4,"listen");
- setTimeout(()=>{if(speaking&&speaking.gen===gen&&!TTS.started&&!synth.speaking&&!TTS.warned){TTS.warned=true;toast("No sound? Turn the volume up and make sure the ring/silent switch isn't on silent.");}},2500);
+ stopSpeak();
+ const gen=++TTS.gen;speaking={id:s.id,root,gen,mode:"audio",paused:false};
+ showPlayer(root);
+ if(!CAN_MP3){fallbackTTS(s,gen);setMedia(s);learn(s,.4,"listen");logEv("listen",s.id);return;}
+ AU.src=s.audio||("audio/"+s.id+".mp3");
+ let p;try{p=AU.play();}catch(e){p=Promise.reject(e)}          // synchronous, inside the tap
+ if(p&&p.catch)p.catch(err=>{if(!speaking||speaking.gen!==gen)return;
+   if(err&&err.name==="AbortError")return;
+   if(err&&err.name==="NotAllowedError"){setPlayerState(false);toast("Tap play to start audio");return;}
+   fallbackTTS(s,gen);});
+ setMedia(s);learn(s,.4,"listen");logEv("listen",s.id);
 }
-function pauseResume(){if(!HAS_TTS||!speaking)return;const synth=speechSynthesis;
- if(speaking.paused){synth.resume();speaking.paused=false;
-   setTimeout(()=>{if(speaking&&!speaking.paused&&!synth.speaking){/* iOS sometimes loses the queue on resume: restart from current sentence */ }},400);}
- else{synth.pause();speaking.paused=true;}
+AU.addEventListener("error",()=>{if(speaking&&speaking.mode==="audio"&&AU.getAttribute("src"))fallbackTTS(byId[speaking.id],speaking.gen)});
+AU.addEventListener("timeupdate",()=>{if(!speaking||speaking.mode!=="audio")return;const p=speaking.root.querySelector(".player");if(!p)return;
+ const d=AU.duration||0;p.querySelector(".bar i").style.width=(d?AU.currentTime/d*100:0)+"%";p.querySelector(".pl").textContent=fmt(AU.currentTime)+(d?" / "+fmt(d):"");});
+AU.addEventListener("playing",()=>{if(speaking&&speaking.mode==="audio"){speaking.paused=false;setPlayerState(true)}});
+AU.addEventListener("pause",()=>{if(speaking&&speaking.mode==="audio"&&!AU.ended){speaking.paused=true;setPlayerState(false)}});
+AU.addEventListener("ended",()=>{if(speaking&&speaking.mode==="audio"){logEv("listen_done",speaking.id);stopSpeak();}});
+function setMedia(s){if(!("mediaSession" in navigator))return;try{
+ navigator.mediaSession.metadata=new MediaMetadata({title:s.title,artist:"Feed · "+(CATLBL[s.cat]||""),album:"Feed",artwork:[{src:new URL(s.image.src,location.href).href,sizes:"1200x675",type:"image/jpeg"},{src:new URL("icons/icon-512.png",location.href).href,sizes:"512x512",type:"image/png"}]});
+ navigator.mediaSession.setActionHandler("play",()=>{if(speaking&&speaking.paused)pauseResume()});
+ navigator.mediaSession.setActionHandler("pause",()=>{if(speaking&&!speaking.paused)pauseResume()});
+ navigator.mediaSession.setActionHandler("stop",()=>stopSpeak());
+ navigator.mediaSession.setActionHandler("seekbackward",()=>{AU.currentTime=Math.max(0,AU.currentTime-10)});
+ navigator.mediaSession.setActionHandler("seekforward",()=>{AU.currentTime=Math.min(AU.duration||0,AU.currentTime+10)});
+}catch(e){}}
+function fallbackTTS(s,gen){ // only when the MP3 can't load
+ if(!speaking||speaking.gen!==gen)return;try{AU.pause();AU.removeAttribute("src");AU.load();}catch(e){}
+ if(!HAS_TTS){toast("Audio isn't available offline for this story yet");stopSpeak();return;}
+ speaking.mode="tts";const synth=speechSynthesis;synth.cancel();if(!TTS.voice)pickVoice();
+ const chunks=chunkText(speechText(s));
+ TTS.q=chunks.map((text,i)=>{const u=new SpeechSynthesisUtterance(text);u.lang=(TTS.voice&&TTS.voice.lang)||"en-GB";if(TTS.voice)u.voice=TTS.voice;u.rate=1;
+  u.onstart=()=>{if(gen!==TTS.gen)return;TTS.started=true;const p=speaking&&speaking.root.querySelector(".player .bar i");if(p)p.style.width=(i/chunks.length*100)+"%";};
+  u.onend=()=>{if(gen!==TTS.gen)return;if(i===chunks.length-1)stopSpeak();};
+  u.onerror=ev=>{if(gen!==TTS.gen)return;const er=ev&&ev.error;if(er==="interrupted"||er==="canceled")return;stopSpeak();toast("Couldn't play audio");};return u;});
+ for(const u of TTS.q)synth.speak(u);if(synth.paused)synth.resume();
+ const pl=speaking.root.querySelector(".player .pl");if(pl)pl.textContent="Device voice";logEv("tts_fallback",s.id);
+}
+function pauseResume(){if(!speaking)return;
+ if(speaking.mode==="audio"){if(AU.paused){const p=AU.play();if(p&&p.catch)p.catch(()=>{});speaking.paused=false;}else{AU.pause();speaking.paused=true;}}
+ else if(HAS_TTS){if(speaking.paused){speechSynthesis.resume();speaking.paused=false}else{speechSynthesis.pause();speaking.paused=true}}
  setPlayerState(!speaking.paused);}
-function stopSpeak(){TTS.gen++;try{if(HAS_TTS)speechSynthesis.cancel()}catch(e){}TTS.q=[];resetPlayerUI();speaking=null;}
+function stopSpeak(){TTS.gen++;const was=speaking;speaking=null;
+ try{if(!AU.paused)AU.pause();if(AU.getAttribute("src")){AU.removeAttribute("src");AU.load();}}catch(e){}
+ try{if(HAS_TTS&&was&&was.mode==="tts")speechSynthesis.cancel()}catch(e){}
+ TTS.q=[];resetPlayerUI();if("mediaSession" in navigator)try{navigator.mediaSession.playbackState="none"}catch(e){}}
 function showPlayer(root){const a=root.querySelector(".acts");
- a.innerHTML=`<div class="player" role="group" aria-label="Audio player"><span class="wave" aria-hidden="true"><b></b><b></b><b></b></span><span class="pl">Playing</span><button class="ic ppB" aria-label="Pause">${IC.pause}</button><button class="ic stopB" aria-label="Stop">${IC.stop}</button></div>`;}
-function setPlayerState(playing){const p=speaking&&speaking.root.querySelector(".player");if(!p)return;p.classList.toggle("paused",!playing);const b=p.querySelector(".ppB");b.innerHTML=playing?IC.pause:IC.play;b.setAttribute("aria-label",playing?"Pause":"Play");p.querySelector(".pl").textContent=playing?"Playing":"Paused";}
-function resetPlayerUI(){document.querySelectorAll(".card .player").forEach(p=>{p.parentElement.innerHTML=actsHTML()});}
+ a.innerHTML=`<div class="player" role="group" aria-label="Audio player"><span class="wave" aria-hidden="true"><b></b><b></b><b></b></span><span class="bar" aria-hidden="true"><i></i></span><span class="pl">0:00</span><button class="ic ppB" aria-label="Pause">${IC.pause}</button><button class="ic stopB" aria-label="Stop">${IC.stop}</button></div>`;}
+function setPlayerState(playing){const p=speaking&&speaking.root.querySelector(".player");if(!p)return;p.classList.toggle("paused",!playing);const b=p.querySelector(".ppB");b.innerHTML=playing?IC.pause:IC.play;b.setAttribute("aria-label",playing?"Pause":"Play");
+ if("mediaSession" in navigator)try{navigator.mediaSession.playbackState=playing?"playing":"paused"}catch(e){}}
+function resetPlayerUI(){document.querySelectorAll(".card .player").forEach(p=>{const c=p.closest(".card");p.parentElement.innerHTML=actsHTML(c&&c.dataset.id)});}
 addEventListener("pagehide",()=>{if(speaking)stopSpeak()});
 /* ---------- in-place expansion ---------- */
-function chips(text,s){ // "[1][2]" runs → one grey pill "wikipedia +1" linking to the first source
+function chips(text,s){ // "[1][2]" → one tiny inline cite: favicon + short domain (+1)
  return esc(text).replace(/(?:\[\d+\])+/g,run=>{const ns=[...new Set([...run.matchAll(/\d+/g)].map(m=>+m[0]))].filter(n=>s.sources[n-1]);if(!ns.length)return"";
-  const f=s.sources[ns[0]-1];return ` <a class="pill" href="${esc(f.url)}" target="_blank" rel="noopener" title="${esc(f.title)}">${esc(srcName(f.domain))}${ns.length>1?" +"+(ns.length-1):""}</a>`;});}
+  const f=s.sources[ns[0]-1];return `<a class="cite" href="${esc(f.url)}" target="_blank" rel="noopener" title="${esc(f.title)}"><img src="${fav(f.domain)}" alt="" width="11" height="11">${esc(srcName(f.domain))}${ns.length>1?" +"+(ns.length-1):""}</a>`;});}
+function srcBlock(s){const fs=[...new Set(s.sources.map(x=>x.domain))].slice(0,3);
+ return `<button class="srcT" aria-expanded="false"><span class="favs">${fs.map(d=>`<img src="${fav(d)}" alt="" width="16" height="16">`).join("")}</span><span>Sources · ${s.sources.length}</span>${IC.chev}</button>
+ <ol class="srcList" hidden>${s.sources.map((x,i)=>`<li><a href="${esc(x.url)}" target="_blank" rel="noopener"><span class="n">${i+1}</span><img src="${fav(x.domain)}" alt="" width="14" height="14"><span class="sd">${esc(srcName(x.domain))}</span><span class="st">${esc(x.title)}</span></a></li>`).join("")}</ol>`;}
+function toggleSrc(card){const b=card.querySelector(".srcT"),l=card.querySelector(".srcList"),w=card.querySelector(".xwrap");const open=b.getAttribute("aria-expanded")==="true";
+ b.setAttribute("aria-expanded",!open);l.hidden=open;w.style.height="auto";if(!open)logEv("sources",card.dataset.id);}
+const repWords=s=>(s.report||[]).reduce((a,x)=>a+x.t.split(/\s+/).length,0)+((s.why||"")+" "+(s.tryit||"")).split(/\s+/).length;
 function expHTML(s){
- const secs=s.sections&&s.sections.length?s.sections:[{h:"The story",paras:s.report}];
- const rq=[...s.qa.map(x=>x[0]),"Explain it simply","What are the sources?"].slice(0,4);
+ const rq=s.qa.map(x=>x[0]).slice(0,5);const mins=Math.max(1,Math.round(repWords(s)/220));
  return `<div class="x"><ul class="bul">${s.bullets.map(b=>`<li>${chips(b,s)}</li>`).join("")}</ul>
- <button class="repT" aria-expanded="false"><span>Full report</span>${IC.chev}</button>
- <div class="rwrap"><div class="rbody">${secs.map(x=>`<h3>${esc(x.h)}</h3>${x.paras.map(p=>`<p>${chips(p,s)}</p>`).join("")}`).join("")}</div></div>
- <div class="sect">Sources</div><div class="srcRow">${s.sources.map(x=>`<a class="srcCard" href="${esc(x.url)}" target="_blank" rel="noopener"><img class="th" src="${fav(x.domain)}" alt="" loading="lazy"><div><div class="d">${esc(x.domain)}</div><div class="t">${esc(x.title)}</div><div class="v">View full article ↗</div></div></a>`).join("")}</div>
+ ${srcBlock(s)}
+ <button class="repT" aria-expanded="false"><span>Quick read · ${mins} min</span>${IC.chev}</button>
+ <div class="rwrap"><div class="rbody">${(s.report||[]).map(x=>`<h3>${esc(x.h)}</h3><p>${chips(x.t,s)}</p>`).join("")}
+  ${s.why?`<div class="why"><b>Why it matters to you</b><p>${esc(s.why)}</p></div>`:""}
+  ${s.tryit?`<div class="try"><b>Try this</b><p>${esc(s.tryit)}</p></div>`:""}
+  ${/health|peptide|sexual|weight|skin|hair|men's/.test(s.tags.join(" "))&&s.cat!=="calm"?`<p class="disc">General information from the sources above, not medical advice.</p>`:""}
+  ${/tax|money|deals|business|savings/.test(s.tags.join(" "))?`<p class="disc">General information, not financial or tax advice.</p>`:""}</div></div>
  <div class="sect">Related</div><ul class="rel">${rq.map(q=>`<li><button class="relQ" data-q="${esc(q)}">${esc(q)}<span>+</span></button></li>`).join("")}</ul>
  <div class="photoCredit">Photo: ${esc(s.image.credit)}${s.image.license?" · "+esc(s.image.license):""} · <a href="${esc(s.image.page)}" target="_blank" rel="noopener">Wikimedia Commons</a></div>
  <button class="less">Show less</button></div>
@@ -221,44 +262,80 @@ function collapse(card,keepInView,instant){
 }
 function toggleReport(card,s){const b=card.querySelector(".repT"),r=card.querySelector(".rwrap"),w=card.querySelector(".xwrap");
  const open=b.getAttribute("aria-expanded")==="true";b.setAttribute("aria-expanded",!open);
- b.querySelector("span").textContent=open?"Full report":"Hide full report";
- w.style.height="auto";animH(r,open?0:"auto");if(!open){learn(s,.3,"full report");logEv("report",s.id);}}
-/* ---------- ask follow-up (answers only from the story's own sources) ---------- */
-const STOP=new Set("a an the is are was were be to of and or in on at for with it its this that what why how who when where which do does did can could would should i you me my your about from by as into than then there their they them he she his her we our us more most very just so not no yes much many get got have has had will".split(" "));
-const words=t=>t.toLowerCase().replace(/[^a-z0-9\s-]/g," ").split(/\s+/).filter(w=>w.length>2&&!STOP.has(w)).map(w=>w.replace(/(ies|es|s)$/,""));
+ b.classList.toggle("on",!open);
+ w.style.height="auto";animH(r,open?0:"auto");if(!open){learn(s,.3,"quick read");logEv("report",s.id);}}
+/* ---------- ask follow-up: every question gets a visible answer, instantly ----------
+ * 1) pre-written Q&As from the sources  2) intents (sources / simple / why / try)  3) local retrieval over the story
+ * (bullets, quick read, Q&As) with chips  4) other Feed stories that match  5) graceful "not in these sources" card
+ * with one-tap Perplexity/Grok search + a live Wikipedia lookup (keyless, CORS) appended when it arrives. */
+const STOP=new Set("a an the is are was were be been to of and or in on at for with it its it's this that these those what whats why how who whom when where which do does did can could would should will shall may might i im i'm you me my your yours about from by as into than then there their they them he she his her we our us more most very just so not no yes much many get got have has had if any some tell explain mean means really also like one thing things".split(" "));
+const stem=w=>w.replace(/'s$/,"").replace(/(ies)$/,"y").replace(/(ing|ed|es|s)$/,"");
+const words=t=>t.toLowerCase().replace(/[^a-z0-9£$€%\s-]/g," ").split(/[\s-]+/).filter(w=>w.length>1&&!STOP.has(w)).map(stem).filter(w=>w.length>1);
+let DF=null;function df(){if(DF)return DF;DF={};STORIES.forEach(s=>{new Set(words(docText(s))).forEach(w=>DF[w]=(DF[w]||0)+1)});return DF;}
+const idf=w=>Math.log(1+STORIES.length/(1+(df()[w]||0)));
+const docText=s=>[s.title,s.snippet,s.tags.join(" "),...s.bullets,...(s.report||[]).map(x=>x.h+". "+x.t),s.why||"",s.tryit||"",...s.qa.map(x=>x.join(" "))].join(" ");
+function sentencesOf(s){const out=[];const push=(t,kind)=>t.split(/(?<=[.!?](?:\[\d+\])*)\s+(?=[A-Z0-9'"‘£$])/).forEach(x=>{x=x.trim();if(x.length>12)out.push({t:x,kind})});
+ s.bullets.forEach(b=>push(b,"b"));(s.report||[]).forEach(x=>push(x.t,"r"));s.qa.forEach(([q,a])=>push(a,"qa"));if(s.why)push(s.why,"w");return out;}
+function overlap(qw,t){const tw=new Set(words(t));let sc=0,n=0;qw.forEach(w=>{if(tw.has(w)){sc+=idf(w);n++}});return{sc,n};}
+function cite(t,s){return chips(t,s)}
 function answer(s,q){
- const qw=new Set(words(q));
- // 1) curated Q&A
- let best=null,bs=0;s.qa.forEach(([qq,a])=>{const w=words(qq);const o=w.filter(x=>qw.has(x)).length/Math.max(1,Math.min(w.length,qw.size));if(o>bs){bs=o;best=a}});
- if(bs>=.5)return{html:esc(best),ok:true};
- if(/source|where.*(from|read)|cite|evidence|proof/i.test(q))return{html:"This story uses "+s.sources.map((x,i)=>`<sup><a href="${x.url}" target="_blank" rel="noopener">${i+1}</a></sup> ${esc(x.title)} (${esc(x.domain)})`).join("; ")+".",ok:true};
- if(/simple|explain|eli5|like i'?m|summar|tl;?dr|short/i.test(q))return{html:esc(s.snippet)+" "+cite(s.bullets[0],s),ok:true};
- // 2) retrieve sentences from bullets + report
- const sents=[...s.bullets,...s.report.concat(...(s.sections||[]).slice(1).map(x=>x.paras)).flatMap(p=>p.split(/(?<=\.(?:\[\d+\])?)\s+(?=[A-Z])/))];
- const ranked=sents.map(t=>({t,sc:words(t).filter(x=>qw.has(x)).length})).filter(x=>x.sc>0).sort((a,b)=>b.sc-a.sc);
- if(ranked.length&&ranked[0].sc>=1&&qw.size){return{html:ranked.slice(0,2).map(x=>cite(x.t,s)).join(" "),ok:true,partial:ranked[0].sc<2}}
- return{html:"I don't have that in this story's sources yet.",ok:false};
+ const qw=[...new Set(words(q))];const ql=q.toLowerCase();
+ // 1) curated Q&A (exact or strong overlap)
+ let best=null,bs=0;s.qa.forEach(([qq,a])=>{if(qq.toLowerCase().replace(/[?.!\s]+$/,"")===ql.replace(/[?.!\s]+$/,"")){best=a;bs=9;return}
+  const w=[...new Set(words(qq))];const hit=w.filter(x=>qw.includes(x));const o=hit.reduce((a,x)=>a+idf(x),0)/Math.max(1e-6,w.reduce((a,x)=>a+idf(x),0));
+  const cov=qw.length?hit.length/qw.length:0;const sc=Math.min(o,1)*.6+cov*.4;if(sc>bs){bs=sc;best=a}});
+ if(bs>=.62)return{html:cite(best,s),conf:"high"};
+ // 2) intents
+ if(/\b(source|sources|cite|citation|evidence|proof|where.*(from|read|info))\b/.test(ql))return{html:"This story uses: "+s.sources.map((x,i)=>`<a class="cite" href="${esc(x.url)}" target="_blank" rel="noopener"><img src="${fav(x.domain)}" alt="" width="11" height="11">${esc(srcName(x.domain))}</a> ${esc(x.title)}`).join("; ")+".",conf:"high"};
+ if(/\b(simpl|eli5|tl;?dr|summar|in short|short version|gist|main point|key point)/.test(ql)||/explain (it|this)( simply)?\??$/.test(ql))return{html:esc(s.snippet)+" "+cite(s.bullets[0],s),conf:"high"};
+ if(/\b(matter|relevant|why should i care|so what|affect me|for me|mean for me|impact on me)\b/.test(ql)&&s.why)return{html:esc(s.why)+(s.bullets[1]?" "+cite(s.bullets[1],s):""),conf:"high"};
+ if(/\b(what (can|should) i do|try|practical|takeaway|action|next step|how (can|do) i (use|apply|start))\b/.test(ql)&&s.tryit)return{html:esc(s.tryit),conf:"high"};
+ // 3) retrieval inside this story
+ if(qw.length){const ranked=sentencesOf(s).map(x=>Object.assign(x,overlap(qw,x.t))).filter(x=>x.n>0).sort((a,b)=>b.sc-a.sc||(a.kind==="qa"?-1:1));
+  const top=ranked[0];const qmax=qw.reduce((a,w)=>a+idf(w),0);
+  if(top&&(top.n>=2||top.sc/qmax>=.55)&&top.sc>=1.6){const pick=[top];const second=ranked.find(x=>x!==top&&x.t!==top.t&&x.sc>=top.sc*.6);if(second)pick.push(second);
+   return{html:pick.map(x=>cite(x.t,s)).join(" "),conf:top.sc/qmax>=.6?"high":"mid"};}
+  if(bs>=.45)return{html:cite(best,s),conf:"mid"};}
+ return{html:"",conf:"low"};
 }
+function otherStories(s,q){const qw=[...new Set(words(q))];if(!qw.length)return[];const qmax=qw.reduce((a,w)=>a+idf(w),0);
+ return STORIES.filter(x=>x!==s).map(x=>({x,...overlap(qw,x.title+" "+x.tags.join(" ")+" "+x.snippet+" "+x.bullets.join(" "))})).filter(r=>r.sc/qmax>=.5&&r.sc>=2).sort((a,b)=>b.sc-a.sc).slice(0,2).map(r=>r.x);}
+const extBtns=q=>`<div class="ext"><a class="extB" href="https://www.perplexity.ai/search?q=${encodeURIComponent(q)}" target="_blank" rel="noopener">${IC.search}Perplexity</a><a class="extB" href="https://grok.com/?q=${encodeURIComponent(q)}" target="_blank" rel="noopener">${IC.search}Grok</a></div>`;
+async function liveWiki(q,ms){ // Wikipedia search+extract: free, no key, CORS (origin=*)
+ const ctl=new AbortController();const t=setTimeout(()=>ctl.abort(),ms);
+ try{const term=words(q).join(" ")||q;const u="https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&generator=search&gsrlimit=1&gsrsearch="+encodeURIComponent(term)+"&prop=extracts|info&exintro=1&explaintext=1&exsentences=3&inprop=url&redirects=1";
+  const r=await fetch(u,{signal:ctl.signal});const j=await r.json();const p=j.query&&Object.values(j.query.pages)[0];if(!p||!p.extract)return null;
+  return{title:p.title,url:p.fullurl,text:p.extract.replace(/\s+/g," ").trim()};}catch(e){return null}finally{clearTimeout(t)}}
 let skipPop=false;addEventListener("popstate",()=>{if(skipPop){skipPop=false;return;}if(!$("#sheet").hidden)closeSheet(true);});
 function openSheet(s,firstQ){
- closeMenu();const sh=$("#sheet");sh.hidden=false;document.body.classList.add("lock");
- $("#chat").innerHTML=`<div class="msg bot">Ask me anything about <b>${esc(s.title)}</b>. I answer from this story's sources.</div>`;
- const sug=[...s.qa.map(x=>x[0]),"What are the sources?","Explain it simply"];
- $("#sugg").innerHTML=sug.slice(0,4).map(q=>`<button>${esc(q)}</button>`).join("");
+ closeMenu();const sh=$("#sheet");sh.hidden=false;document.body.classList.add("lock");sh.dataset.id=s.id;
+ $("#chat").innerHTML=`<div class="msg bot">Ask me anything about <b>${esc(s.title)}</b>. I answer from this story's sources, and point you to a live search when they don't cover it.</div>`;
+ const sug=[...s.qa.map(x=>x[0]),s.why?"Why does this matter to me?":"","What are the sources?"].filter(Boolean).slice(0,6);
+ $("#sugg").innerHTML=sug.map(q=>`<button>${esc(q)}</button>`).join("");
  $("#sugg").onclick=e=>{const b=e.target.closest("button");if(b)ask(s,b.textContent)};
- $("#askForm").onsubmit=e=>{e.preventDefault();const v=$("#askIn").value.trim();if(v){ask(s,v);$("#askIn").value=""}};
+ $("#askForm").onsubmit=e=>{e.preventDefault();const v=$("#askIn").value.trim();if(v){ask(s,v);$("#askIn").value="";$("#askIn").blur()}};
  sh.querySelector(".scrim").onclick=()=>closeSheet();sh.querySelector(".close").onclick=()=>closeSheet();
  history.pushState({sheet:1},"",location.hash||"#"+s.id);logEv("ask_open",s.id);
  if(firstQ)ask(s,firstQ);
 }
 function ask(s,q){
  const c=$("#chat");c.insertAdjacentHTML("beforeend",`<div class="msg me">${esc(q)}</div>`);
- const a=answer(s,q);
- const fb=`<button class="fallback" data-q="${esc(q)}">${IC.ask.replace('<svg','<svg style="width:15px;height:15px"')}Ask Feed in chat</button>`;
- c.insertAdjacentHTML("beforeend",`<div class="msg bot">${a.html}${a.ok?(a.partial?"<small>Closest match from the sources. For more depth:</small>"+fb:"<small>From this story's sources</small>"):"<small>Copy your question and ask me in our chat for a fuller answer:</small>"+fb}</div>`);
- c.scrollTop=c.scrollHeight;learn(s,.6,"ask");logEv("ask",s.id,{q,ok:a.ok});
- c.querySelectorAll(".fallback").forEach(b=>b.onclick=async()=>{const ok=await copyText(`About "${s.title}": ${b.dataset.q}`);toast(ok?"Question copied. Paste it to Feed in chat":"Question: "+b.dataset.q);logEv("ask_fallback",s.id,{q:b.dataset.q})});
+ const a=answer(s,q);const others=otherStories(s,q);const id="a"+Date.now()+Math.floor(Math.random()*1e3);
+ const rel=others.length?`<div class="also">Also in Feed: ${others.map(o=>`<button class="openStory" data-id="${o.id}">${esc(o.title)}</button>`).join("")}</div>`:"";
+ let html;
+ if(a.conf==="high")html=`${a.html}<small>From this story's sources</small>${rel}`;
+ else if(a.conf==="mid")html=`${a.html}<small>Closest match in this story's sources. Want more depth?</small>${extBtns(q)}${rel}`;
+ else html=`<p class="nb">This story's sources don't cover that directly. Here's what they do say: ${esc(s.snippet)}</p>${rel}<div class="live" id="${id}"><span class="dot"></span>Checking Wikipedia…</div><small>Get a full live answer:</small>${extBtns(q)}`;
+ c.insertAdjacentHTML("beforeend",`<div class="msg bot ${a.conf}">${html}</div>`);
+ c.scrollTop=c.scrollHeight;learn(s,.6,"ask");logEv("ask",s.id,{q,conf:a.conf});
+ c.querySelectorAll(".openStory").forEach(b=>b.onclick=()=>{const o=byId[b.dataset.id];closeSheet();if(o)jumpTo(o)});
+ if(a.conf==="low")liveWiki(q,4000).then(w=>{const el=document.getElementById(id);if(!el)return;
+  el.outerHTML=w?`<div class="live ok"><b>Live from Wikipedia: ${esc(w.title)}</b><p>${esc(w.text.length>420?w.text.slice(0,420).replace(/\s\S*$/,"")+"…":w.text)}</p><a class="cite" href="${esc(w.url)}" target="_blank" rel="noopener"><img src="${fav("en.wikipedia.org")}" alt="" width="11" height="11">wikipedia</a> <span class="warn">Automatic match. Check it fits your question.</span></div>`:`<div class="live none">No live result right now${navigator.onLine===false?" (you're offline)":""}.</div>`;
+  if(c.scrollHeight-c.scrollTop-c.clientHeight<200)c.scrollTop=c.scrollHeight;});
 }
+function jumpTo(s){let c=$(`.card[data-id="${s.id}"]`);if(!c){const f=$("#feed");const cur=[...f.querySelectorAll(".card")].find(x=>x.getBoundingClientRect().bottom>0);
+  const html=cardHTML(s,1);if(cur)cur.insertAdjacentHTML("afterend",html);else f.insertAdjacentHTML("afterbegin",html);shown.add(s.id);observeCard(s.id);c=$(`.card[data-id="${s.id}"]`);}
+ expand(c,s);setTimeout(()=>{scrollBy({top:c.getBoundingClientRect().top-($("#top").offsetHeight+8),behavior:reduce?"auto":"smooth"})},60);}
 function closeSheet(silent){const sh=$("#sheet");if(sh.hidden)return;sh.hidden=true;document.body.classList.remove("lock");if(!silent&&history.state&&history.state.sheet){skipPop=true;history.back();}}
 /* ---------- wellbeing nudge ---------- */
 let active=0,lastTick=Date.now();
@@ -267,7 +344,7 @@ setInterval(()=>{const now=Date.now();if(!document.hidden&&now-lastAct<60000)act
 let lastAct=Date.now(),nudged=false;["scroll","touchstart","click","keydown"].forEach(ev=>addEventListener(ev,()=>lastAct=Date.now(),{passive:true}));
 function showNudge(){const n=$("#nudge");n.innerHTML=`<div class="box"><div class="orb"></div><h3>You've been here 15 min</h3><p>Take a breath? Breathe in as the circle grows, out as it shrinks.</p><div class="btns"><button class="btn" id="nKeep">Keep going</button><button class="btn pri" id="nDone">I'm good, close</button></div><p style="margin:14px 0 0;font-size:12px"><button id="nOff" style="color:var(--mut);text-decoration:underline">Don't remind me</button></p></div>`;
  n.hidden=false;$("#nKeep").onclick=()=>{n.hidden=true;active=0;nudged=false};$("#nDone").onclick=()=>{n.hidden=true;active=0;nudged=false;toast("Nice. See you later 👋")};$("#nOff").onclick=()=>{st.nudgeOff=true;save();n.hidden=true};logEv("nudge",null);}
-window.__feed={st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,chunkText,speechText:id=>speechText(byId[id])};
+window.__feed={st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,audio:AU,speaking:()=>speaking,chunkText,speechText:id=>speechText(byId[id])};
 /* ---------- boot ---------- */
 (async()=>{
  $("#feed").innerHTML='<div class="skel"></div><div class="skel"></div>';
