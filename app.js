@@ -39,10 +39,28 @@ function score(s){let v=(st.cat[s.cat]||0)*1.0+s.tags.reduce((a,t)=>a+(st.tag[t]
  if(st.react[s.id]===-1||st.hidden[s.id])v-=50; if(st.seen[s.id])v-=4; if(st.opened[s.id])v-=3; if(s.cat==="news")v+=.8;
  return v+jit(s.id);}
 function jit(id){let h=round*7919+st.sessions*104729;for(const c of id)h=(h*31+c.charCodeAt(0))|0;return ((h>>>0)%1000)/1000*1.6;}
+/* ---------- freshness: Today batch, New badges, Earlier, evergreen mixed 1 in 4 ---------- */
+const DAY=864e5,FRESH_DAYS=14;
+const VKEY="feed.lastVisit";const PREV_VISIT=+localStorage.getItem(VKEY)||0;
+const isEver=s=>!!s.evergreen||!s.addedAt;
+const tAdded=s=>s.addedAt?Date.parse(s.addedAt):0;
+const tPub=s=>Date.parse(s.publishedAt||(s.date?s.date+"T12:00:00Z":0))||0;
+let NEWEST=0;
+const isToday=s=>!isEver(s)&&NEWEST-tAdded(s)<20*3600e3;
+const isNew=s=>!isEver(s)&&(PREV_VISIT?tAdded(s)>PREV_VISIT:isToday(s));
+function prune(list){const now=Date.now();return list.filter(s=>isEver(s)||now-tPub(s)<=FRESH_DAYS*DAY);}
+function mixEver(fresh,ever){const out=[];let e=0;fresh.forEach((s,i)=>{out.push(s);if((i+1)%3===0&&e<ever.length)out.push(ever[e++]);});return {out,used:e};}
 function rebuild(){
  let pool=STORIES.filter(s=>(tab==="all"||s.cat===tab)&&(!query||(s.title+" "+s.snippet+" "+s.tags.join(" ")+" "+s.bullets.join(" ")+" "+(CATS[s.cat]||"")).toLowerCase().includes(query)));
  pool=pool.filter(s=>!shown.has(s.id)&&!(round>0&&(st.react[s.id]===-1||st.hidden[s.id])));
  pool.sort((a,b)=>score(b)-score(a));
+ if(tab==="all"&&!query&&round===0&&STORIES.some(x=>!isEver(x))){
+  const fresh=pool.filter(x=>!isEver(x)),ever=pool.filter(isEver);
+  const td=fresh.filter(isToday).sort((a,b)=>(isNew(b)-isNew(a))||score(b)-score(a)),er=fresh.filter(x=>!isToday(x)).sort((a,b)=>score(b)-score(a)||tPub(b)-tPub(a));
+  const A=mixEver(td,ever),B=mixEver(er,ever.slice(A.used));
+  A.out.forEach(x=>x._sec="today");B.out.forEach((x,i)=>x._sec=i===0?"earlier":"");
+  queue=[...A.out,...B.out,...ever.slice(A.used+B.used)];return;}
+ pool.forEach(x=>x._sec="");
  if(tab==="all"){const out=[];const rest=pool.slice();let l1=feedLastCat(),l2=null;while(rest.length){let i=(l1&&l1===l2)?rest.findIndex(s=>s.cat!==l1):0;if(i<0)i=0;const s=rest.splice(i,1)[0];out.push(s);l2=l1;l1=s.cat;}pool=out;}
  queue=pool;
 }
@@ -51,12 +69,16 @@ function feedLastCat(){const c=[...$("#feed").querySelectorAll(".card")].pop();r
 const fav=d=>`fav/${d}.png`;
 const srcName=d=>d.replace(/^(en|www|news)\./,"").replace(/\.(org|com|edu|gov|ac\.uk|co\.uk)$/,"");
 function rel(d){if(!d)return"Evergreen";const days=Math.round((Date.now()-new Date(d+"T12:00:00"))/864e5);if(days<=0)return"Today";if(days===1)return"Yesterday";if(days<7)return days+"d ago";if(days<30)return Math.round(days/7)+"w ago";return new Date(d+"T12:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric"});}
+function relT(s){const t=tPub(s);if(!t)return rel(s.date);const m=(Date.now()-t)/6e4;if(m<60)return Math.max(1,Math.round(m))+"m ago";if(m<1440)return Math.round(m/60)+"h ago";return rel(new Date(t).toISOString().slice(0,10));}
+const ago=t=>{const m=(Date.now()-t)/6e4;return m<1?"just now":m<60?Math.round(m)+" min ago":m<1440?Math.round(m/60)+" h ago":Math.round(m/1440)+" d ago";};
+function todayHead(){const d=new Date();return `<div class="todayH"><b>Today</b> · ${d.toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long"})}</div>`;}
 function cardHTML(s,i){
- return `<article class="card ${st.react[s.id]===1?"liked":""}" data-id="${s.id}" data-cat="${s.cat}">
+ const sec=s._sec==="earlier"&&!document.querySelector(".secH.earlier")?`<div class="secH earlier">Earlier</div>`:"";s._sec="";
+ return `${sec}<article class="card ${st.react[s.id]===1?"liked":""}" data-id="${s.id}" data-cat="${s.cat}">
  <div class="ph" data-tog><img class="loading" src="${s.image.src}" alt="${esc(s.title)}" ${i>2?'loading="lazy"':''} decoding="async" width="1200" height="675" onload="this.classList.remove('loading')"><span class="credit">${esc(s.image.credit)}</span></div>
- <div class="body"><div class="lbl">${CATLBL[s.cat]}</div>
+ <div class="body"><div class="lbl">${isNew(s)?'<span class="newB">New</span>':""}${CATLBL[s.cat]}</div>
  <h2 data-tog>${esc(s.title)}</h2><p class="snip" data-tog>${esc(s.snippet)} <span class="see">See more</span></p>
- <div class="meta"><div class="time"><span>${rel(s.date)}</span><span class="likeMark">· Liked</span></div>
+ <div class="meta"><div class="time"><span>${isEver(s)?"Evergreen":relT(s)}</span><span class="likeMark">· Liked</span></div>
  <div class="acts">${actsHTML(s.id)}</div></div></div>
  <div class="xwrap" aria-hidden="true"></div></article>`;}
 const actsHTML=(id)=>{const r=id?st.react[id]||0:0;return `<button class="ic listen" aria-label="Listen">${IC.listen}</button><button class="ic likeB${r===1?" on":""}" aria-label="Like" aria-pressed="${r===1}">${r===1?IC.upF:IC.up}</button><button class="ic lessB" aria-label="Less like this" aria-pressed="false">${IC.down}</button><button class="ic shareB" aria-label="Share">${IC.share}</button><button class="ic more" aria-label="More">${IC.more}</button>`;};
@@ -77,7 +99,7 @@ function loadMore(n=5){
  loading=false;
 }
 function endNote(t){if(t&&!$(".endnote.q"))$("#feed").insertAdjacentHTML("beforeend",`<div class="endnote q">${t}</div>`);}
-function resetFeed(){stopSpeak();$("#feed").innerHTML="";shown.clear();rebuild();loadMore(6);scrollTo(0,0);}
+function resetFeed(){stopSpeak();$("#feed").innerHTML=(tab==="all"&&!query)?todayHead():"";shown.clear();rebuild();loadMore(6);scrollTo(0,0);}
 /* dwell tracking */
 const vis={};
 const io=new IntersectionObserver(es=>{es.forEach(e=>{const id=e.target.dataset.id;if(e.target.classList.contains("open"))return;if(e.intersectionRatio>=.6){vis[id]=performance.now()}else if(vis[id]){commitDwell(id,performance.now()-vis[id]);delete vis[id]}})},{threshold:[0,.6]});
@@ -236,7 +258,7 @@ function expHTML(s){
   ${/health|peptide|sexual|weight|skin|hair|men's/.test(s.tags.join(" "))&&s.cat!=="calm"?`<p class="disc">General information from the sources above, not medical advice.</p>`:""}
   ${/tax|money|deals|business|savings/.test(s.tags.join(" "))?`<p class="disc">General information, not financial or tax advice.</p>`:""}</div></div>
  <div class="sect">Related</div><ul class="rel">${rq.map(q=>`<li><button class="relQ" data-q="${esc(q)}">${esc(q)}<span>+</span></button></li>`).join("")}</ul>
- <div class="photoCredit">Photo: ${esc(s.image.credit)}${s.image.license?" · "+esc(s.image.license):""} · <a href="${esc(s.image.page)}" target="_blank" rel="noopener">Wikimedia Commons</a></div>
+ <div class="photoCredit">Photo: ${esc(s.image.credit)}${s.image.license?" · "+esc(s.image.license):""} · <a href="${esc(s.image.page)}" target="_blank" rel="noopener">${/commons\.wikimedia/.test(s.image.page||"")?"Wikimedia Commons":"Publisher"}</a></div>
  <button class="less">Show less</button></div>
  <div class="askbar"><div class="in"><button class="askOpen">${IC.ask}<span>Ask follow-up</span></button></div></div>`;}
 const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -300,7 +322,17 @@ function answer(s,q){
 }
 function otherStories(s,q){const qw=[...new Set(words(q))];if(!qw.length)return[];const qmax=qw.reduce((a,w)=>a+idf(w),0);
  return STORIES.filter(x=>x!==s).map(x=>({x,...overlap(qw,x.title+" "+x.tags.join(" ")+" "+x.snippet+" "+x.bullets.join(" "))})).filter(r=>r.sc/qmax>=.5&&r.sc>=2).sort((a,b)=>b.sc-a.sc).slice(0,2).map(r=>r.x);}
-const extBtns=q=>`<div class="ext"><a class="extB" href="https://www.perplexity.ai/search?q=${encodeURIComponent(q)}" target="_blank" rel="noopener">${IC.search}Perplexity</a><a class="extB" href="https://grok.com/?q=${encodeURIComponent(q)}" target="_blank" rel="noopener">${IC.search}Grok</a></div>`;
+/* hand-off to other AIs: a context-rich prompt (story title + summary + source + question), copied first (Safari-safe), then the official deep link */
+const AIS=[["perplexity","Perplexity","https://www.perplexity.ai/search?q="],["chatgpt","ChatGPT","https://chatgpt.com/?q="],["claude","Claude","https://claude.ai/new?q="],["grok","Grok","https://grok.com/?q="]];
+function sumOf(s){const t=plain(s.snippet)+" "+s.bullets.map(plain).join(" ");const ss=t.split(/(?<=[.!?])\s+/).filter(Boolean);let out="";for(const x of ss){if((out+" "+x).length>520||out.split(/(?<=[.!?])\s+/).length>=3&&out)break;out=(out?out+" ":"")+x;}return out||plain(s.snippet);}
+function handoffPrompt(s,q){const src=s.sources&&s.sources[0]?s.sources[0].url:"";
+ let sum=sumOf(s);const mk=()=>`I'm reading a story: "${s.title}". Summary: ${sum} ${src?"Source: "+src+". ":""}My question: ${q} Please answer with current, reliable sources.`;
+ let t=mk();while(t.length>1500&&sum.length>80){sum=sum.slice(0,sum.length-80).replace(/\s\S*$/,"")+"…";t=mk();}return t.slice(0,1500);}
+const extBtns=(q,s)=>{s=s||byId[$("#sheet").dataset.id];const P=s?handoffPrompt(s,q):q;
+ return `<div class="ext"><span class="extL">Ask elsewhere</span><div class="extR">${AIS.map(([k,n,u])=>`<a class="extB ai-${k}" data-ai="${k}" href="${esc(u+encodeURIComponent(P))}" target="_blank" rel="noopener noreferrer">${n}</a>`).join("")}<button class="extB copyQ" data-p="${esc(P)}">Copy with context</button></div></div>`;};
+document.addEventListener("click",e=>{const a=e.target.closest(".ext .extB");if(!a)return;const P=a.dataset.p||a.closest(".ext").querySelector(".copyQ").dataset.p;
+ if(a.classList.contains("copyQ")){e.preventDefault();copyText(P).then(ok=>toast(ok?"Question copied with story context":"Couldn't copy"));logEv("handoff_copy",$("#sheet").dataset.id);return;}
+ copyText(P);toast("Opening "+a.textContent+" · question also copied");logEv("handoff",$("#sheet").dataset.id,{ai:a.dataset.ai});});
 async function liveWiki(q,ms){ // Wikipedia search+extract: free, no key, CORS (origin=*)
  const ctl=new AbortController();const t=setTimeout(()=>ctl.abort(),ms);
  try{const term=words(q).join(" ")||q;const u="https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&generator=search&gsrlimit=1&gsrsearch="+encodeURIComponent(term)+"&prop=extracts|info&exintro=1&explaintext=1&exsentences=3&inprop=url&redirects=1";
@@ -323,9 +355,9 @@ function ask(s,q){
  const a=answer(s,q);const others=otherStories(s,q);const id="a"+Date.now()+Math.floor(Math.random()*1e3);
  const rel=others.length?`<div class="also">Also in Feed: ${others.map(o=>`<button class="openStory" data-id="${o.id}">${esc(o.title)}</button>`).join("")}</div>`:"";
  let html;
- if(a.conf==="high")html=`${a.html}<small>From this story's sources</small>${rel}`;
- else if(a.conf==="mid")html=`${a.html}<small>Closest match in this story's sources. Want more depth?</small>${extBtns(q)}${rel}`;
- else html=`<p class="nb">This story's sources don't cover that directly. Here's what they do say: ${esc(s.snippet)}</p>${rel}<div class="live" id="${id}"><span class="dot"></span>Checking Wikipedia…</div><small>Get a full live answer:</small>${extBtns(q)}`;
+ if(a.conf==="high")html=`${a.html}<small>From this story's sources</small>${extBtns(q,s)}${rel}`;
+ else if(a.conf==="mid")html=`${a.html}<small>Closest match in this story's sources. Want more depth?</small>${extBtns(q,s)}${rel}`;
+ else html=`<p class="nb">This story's sources don't cover that directly. Here's what they do say: ${esc(s.snippet)}</p>${rel}<div class="live" id="${id}"><span class="dot"></span>Checking Wikipedia…</div>${extBtns(q,s)}`;
  c.insertAdjacentHTML("beforeend",`<div class="msg bot ${a.conf}">${html}</div>`);
  c.scrollTop=c.scrollHeight;learn(s,.6,"ask");logEv("ask",s.id,{q,conf:a.conf});
  c.querySelectorAll(".openStory").forEach(b=>b.onclick=()=>{const o=byId[b.dataset.id];closeSheet();if(o)jumpTo(o)});
@@ -349,7 +381,7 @@ async function askLive(s,q){
  const el=document.getElementById(id);if(!el)return;
  if(!j){el.remove();c.lastElementChild&&c.lastElementChild.classList.contains("me")&&c.lastElementChild.remove();logEv("ask_live_fail",s.id);ask(s,q);return;}
  const src=(j.sources||[]).slice(0,3);
- el.classList.remove("loading");el.innerHTML=fmtAnswer(j.answer)+(src.length?`<div class="aiSrc">${src.map(x=>`<a class="cite" href="${esc(x.url)}" target="_blank" rel="noopener"><img src="${fav(x.domain)}" alt="" width="11" height="11">${esc(srcName(x.domain))}</a>`).join("")}</div>`:"")+`<small>${j.capped?"Daily limit reached":"AI answer"+(j.fromStory===false?" from general knowledge, not this story":" based on this story")}. Double-check anything important.</small>`+(j.fromStory===false||j.capped?extBtns(q):"");
+ el.classList.remove("loading");el.innerHTML=fmtAnswer(j.answer)+(src.length?`<div class="aiSrc">${src.map(x=>`<a class="cite" href="${esc(x.url)}" target="_blank" rel="noopener"><img src="${fav(x.domain)}" alt="" width="11" height="11">${esc(srcName(x.domain))}</a>`).join("")}</div>`:"")+`<small>${j.capped?"Daily limit reached":"AI answer"+(j.fromStory===false?" from general knowledge, not this story":" based on this story")}. Double-check anything important.</small>`+extBtns(q,s);
  if(c.scrollHeight-c.scrollTop-c.clientHeight<400)el.scrollIntoView({block:"nearest"});
  learn(s,.6,"ask");logEv("ask",s.id,{q,conf:"live"});}
 function jumpTo(s){let c=$(`.card[data-id="${s.id}"]`);if(!c){const f=$("#feed");const cur=[...f.querySelectorAll(".card")].find(x=>x.getBoundingClientRect().bottom>0);
@@ -363,13 +395,35 @@ setInterval(()=>{const now=Date.now();if(!document.hidden&&now-lastAct<60000)act
 let lastAct=Date.now(),nudged=false;["scroll","touchstart","click","keydown"].forEach(ev=>addEventListener(ev,()=>lastAct=Date.now(),{passive:true}));
 function showNudge(){const n=$("#nudge");n.innerHTML=`<div class="box"><div class="orb"></div><h3>You've been here 15 min</h3><p>Take a breath? Breathe in as the circle grows, out as it shrinks.</p><div class="btns"><button class="btn" id="nKeep">Keep going</button><button class="btn pri" id="nDone">I'm good, close</button></div><p style="margin:14px 0 0;font-size:12px"><button id="nOff" style="color:var(--mut);text-decoration:underline">Don't remind me</button></p></div>`;
  n.hidden=false;$("#nKeep").onclick=()=>{n.hidden=true;active=0;nudged=false};$("#nDone").onclick=()=>{n.hidden=true;active=0;nudged=false;toast("Nice. See you later 👋")};$("#nOff").onclick=()=>{st.nudgeOff=true;save();n.hidden=true};logEv("nudge",null);}
-window.__feed={st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,audio:AU,speaking:()=>speaking,chunkText,speechText:id=>speechText(byId[id])};
+window.__feed={refresh,isNew:id=>isNew(byId[id]),prevVisit:PREV_VISIT,handoffPrompt:(id,q)=>handoffPrompt(byId[id],q),stories:()=>STORIES,st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,audio:AU,speaking:()=>speaking,chunkText,speechText:id=>speechText(byId[id])};
+/* ---------- boot ---------- */
+function setData(list){STORIES=prune(list);byId={};STORIES.forEach(x=>byId[x.id]=x);DF=null;NEWEST=Math.max(0,...STORIES.map(tAdded));updStamp();}
+function updStamp(){const el=$("#upd");if(el)el.textContent=NEWEST?"Updated "+ago(NEWEST):"";}
+setInterval(updStamp,60000);
+async function getStories(fresh){let r;
+ try{r=await fetch("data/stories.json"+(fresh?"?t="+Date.now():""),{cache:fresh?"reload":"no-cache"});if(!r.ok)throw 0;}
+ catch(e){r=await caches.match("data/stories.json",{ignoreSearch:true});}
+ return r.json();}
+let refreshing=false;
+async function refresh(manual){if(refreshing)return;refreshing=true;$("#refreshBtn").classList.add("spin");
+ try{const before=new Set(STORIES.map(x=>x.id));const list=await getStories(true);setData(list);
+  const added=STORIES.filter(x=>!before.has(x.id)).length;round=0;resetFeed();
+  if(manual)toast(added?`${added} new ${added===1?"story":"stories"}`:"You're up to date");logEv("refresh",null,{added});}
+ catch(e){if(manual)toast("Couldn't refresh. Check your connection");}
+ finally{refreshing=false;$("#refreshBtn").classList.remove("spin");}}
+$("#refreshBtn").onclick=()=>refresh(true);
+let hiddenAt=0;document.addEventListener("visibilitychange",()=>{if(document.hidden)hiddenAt=Date.now();else if(hiddenAt&&Date.now()-hiddenAt>30*6e4&&$("#sheet").hidden)refresh(false);});
+/* pull to refresh */
+(()=>{let y0=null,dy=0;const pt=$("#ptr");
+ addEventListener("touchstart",e=>{y0=(scrollY<=0&&$("#sheet").hidden&&e.touches.length===1)?e.touches[0].clientY:null;dy=0;},{passive:true});
+ addEventListener("touchmove",e=>{if(y0==null)return;dy=e.touches[0].clientY-y0;if(dy>0&&scrollY<=0){pt.style.height=Math.min(dy*.5,70)+"px";pt.classList.toggle("ready",dy>120);}},{passive:true});
+ addEventListener("touchend",()=>{if(y0==null)return;const go=dy>120;y0=null;pt.style.height="";pt.classList.remove("ready");if(go)refresh(true);},{passive:true});})();
 /* ---------- boot ---------- */
 (async()=>{
  $("#feed").innerHTML='<div class="skel"></div><div class="skel"></div>';
- let r;try{r=await fetch("data/stories.json",{cache:"no-cache"});}catch(e){r=await caches.match("data/stories.json");}
- STORIES=await r.json();STORIES.forEach(s=>byId[s.id]=s);
- renderTabs();$("#feed").innerHTML="";rebuild();
+ setData(await getStories(false));
+ localStorage.setItem(VKEY,String(Date.now()));
+ renderTabs();$("#feed").innerHTML=todayHead();rebuild();
  const hid=location.hash.slice(1).split("/")[0];
  if(byId[hid]){queue=[byId[hid],...queue.filter(x=>x.id!==hid)];}
  loadMore(6);
