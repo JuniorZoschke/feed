@@ -313,7 +313,7 @@ function openSheet(s,firstQ){
  const sug=[...s.qa.map(x=>x[0]),s.why?"Why does this matter to me?":"","What are the sources?"].filter(Boolean).slice(0,6);
  $("#sugg").innerHTML=sug.map(q=>`<button>${esc(q)}</button>`).join("");
  $("#sugg").onclick=e=>{const b=e.target.closest("button");if(b)ask(s,b.textContent)};
- $("#askForm").onsubmit=e=>{e.preventDefault();const v=$("#askIn").value.trim();if(v){ask(s,v);$("#askIn").value="";$("#askIn").blur()}};
+ $("#askForm").onsubmit=e=>{e.preventDefault();const v=$("#askIn").value.trim();if(v){askLive(s,v);$("#askIn").value="";$("#askIn").blur()}};
  sh.querySelector(".scrim").onclick=()=>closeSheet();sh.querySelector(".close").onclick=()=>closeSheet();
  history.pushState({sheet:1},"",location.hash||"#"+s.id);logEv("ask_open",s.id);
  if(firstQ)ask(s,firstQ);
@@ -333,6 +333,25 @@ function ask(s,q){
   el.outerHTML=w?`<div class="live ok"><b>Live from Wikipedia: ${esc(w.title)}</b><p>${esc(w.text.length>420?w.text.slice(0,420).replace(/\s\S*$/,"")+"…":w.text)}</p><a class="cite" href="${esc(w.url)}" target="_blank" rel="noopener"><img src="${fav("en.wikipedia.org")}" alt="" width="11" height="11">wikipedia</a> <span class="warn">Automatic match. Check it fits your question.</span></div>`:`<div class="live none">No live result right now${navigator.onLine===false?" (you're offline)":""}.</div>`;
   if(c.scrollHeight-c.scrollTop-c.clientHeight<200)c.scrollTop=c.scrollHeight;});
 }
+/* live AI answer via Cloudflare Worker (Gemini); falls back to the local chain above on any failure */
+const ASK_API="https://feed-ask.juniorfeed.workers.dev/";
+const storyText=s=>[s.snippet,...s.bullets,...(s.report||[]).map(x=>x.h+". "+x.t),s.why?"Why it matters: "+s.why:"",s.tryit?"Try: "+s.tryit:"",...s.qa.map(x=>"Q: "+x[0]+" A: "+x[1])].filter(Boolean).join("\n").replace(/\[\d+\]/g,"");
+function chatHistory(){return [...$("#chat").querySelectorAll(".msg")].slice(1).slice(-6).map(m=>({role:m.classList.contains("me")?"me":"bot",text:m.innerText.slice(0,400)}));}
+function fmtAnswer(t){const lines=t.split(/\n+/).map(x=>x.trim()).filter(Boolean);const bl=lines.filter(x=>/^[-*•]\s+/.test(x));
+ if(bl.length>=2){const pre=lines.filter(x=>!/^[-*•]\s+/.test(x));return pre.map(x=>`<p>${esc(x)}</p>`).join("")+`<ul class="aiList">${bl.map(x=>`<li>${esc(x.replace(/^[-*•]\s+/,""))}</li>`).join("")}</ul>`;}
+ return `<p>${esc(lines.join(" "))}</p>`;}
+async function askLive(s,q){
+ const c=$("#chat");const hist=chatHistory();c.insertAdjacentHTML("beforeend",`<div class="msg me">${esc(q)}</div>`);
+ const id="L"+Date.now();c.insertAdjacentHTML("beforeend",`<div class="msg bot ai loading" id="${id}"><span class="typing"><i></i><i></i><i></i></span><span class="lt">Thinking…</span></div>`);c.scrollTop=c.scrollHeight;
+ const ctl=new AbortController();const t=setTimeout(()=>ctl.abort(),15000);let j=null;
+ try{const r=await fetch(window.__ASK_API||ASK_API,{method:"POST",cache:"no-store",signal:ctl.signal,headers:{"content-type":"application/json"},body:JSON.stringify({question:q,story:{title:s.title,text:storyText(s),sources:s.sources},history:hist})});
+  if(r.ok){j=await r.json();if(!j||!j.answer)j=null}}catch(e){j=null}finally{clearTimeout(t)}
+ const el=document.getElementById(id);if(!el)return;
+ if(!j){el.remove();c.lastElementChild&&c.lastElementChild.classList.contains("me")&&c.lastElementChild.remove();logEv("ask_live_fail",s.id);ask(s,q);return;}
+ const src=(j.sources||[]).slice(0,3);
+ el.classList.remove("loading");el.innerHTML=fmtAnswer(j.answer)+(src.length?`<div class="aiSrc">${src.map(x=>`<a class="cite" href="${esc(x.url)}" target="_blank" rel="noopener"><img src="${fav(x.domain)}" alt="" width="11" height="11">${esc(srcName(x.domain))}</a>`).join("")}</div>`:"")+`<small>${j.capped?"Daily limit reached":"AI answer"+(j.fromStory===false?" from general knowledge, not this story":" based on this story")}. Double-check anything important.</small>`+(j.fromStory===false||j.capped?extBtns(q):"");
+ if(c.scrollHeight-c.scrollTop-c.clientHeight<400)el.scrollIntoView({block:"nearest"});
+ learn(s,.6,"ask");logEv("ask",s.id,{q,conf:"live"});}
 function jumpTo(s){let c=$(`.card[data-id="${s.id}"]`);if(!c){const f=$("#feed");const cur=[...f.querySelectorAll(".card")].find(x=>x.getBoundingClientRect().bottom>0);
   const html=cardHTML(s,1);if(cur)cur.insertAdjacentHTML("afterend",html);else f.insertAdjacentHTML("afterbegin",html);shown.add(s.id);observeCard(s.id);c=$(`.card[data-id="${s.id}"]`);}
  expand(c,s);setTimeout(()=>{scrollBy({top:c.getBoundingClientRect().top-($("#top").offsetHeight+8),behavior:reduce?"auto":"smooth"})},60);}
