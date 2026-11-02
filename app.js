@@ -18,6 +18,7 @@ const IC={
 IC.x='<svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>';
 IC.link='<svg viewBox="0 0 24 24"><path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></svg>';
 IC.upF='<svg viewBox="0 0 24 24"><path d="M7 11v9H4v-9z" fill="currentColor"/><path d="M7 11l4-8c1.5 0 2.5 1 2.2 2.6L12.6 9H19a2 2 0 0 1 2 2.3l-1.3 7A2 2 0 0 1 17.7 20H7z" fill="currentColor"/></svg>';
+IC.save='<svg viewBox="0 0 24 24"><path d="M6 4h12v17l-6-4-6 4z"/></svg>';IC.saveF='<svg viewBox="0 0 24 24"><path d="M6 4h12v17l-6-4-6 4z" fill="currentColor"/></svg>';
 IC.search='<svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>';
 IC.hide='<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M5.6 5.6l12.8 12.8"/></svg>';
 /* ---------- state & preference model ---------- */
@@ -26,6 +27,10 @@ const st=Object.assign({cat:{},tag:{},react:{},seen:{},opened:{},dwell:{},hidden
 st.hidden=st.hidden||{};
 const save=()=>localStorage.setItem(LS,JSON.stringify(st));
 st.sessions++;save();
+/* library: full story copies of saved + liked items, so they outlive the 14-day prune */
+const LIBK="feed.library";const LIB=Object.assign({saved:{},liked:{}},JSON.parse(localStorage.getItem(LIBK)||"{}"));
+const saveLib=()=>{try{localStorage.setItem(LIBK,JSON.stringify(LIB))}catch(e){toast("Storage full")}};
+const libCopy=s=>{const c=Object.assign({},s);delete c._sec;return c;};
 let STORIES=[],byId={},tab="all",query="",queue=[],shown=new Set(),round=0;
 /* reaction log: only when served by the local Feed server (GitHub Pages is static → no POST, no 405s) */
 const LOCAL=/^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
@@ -81,7 +86,7 @@ function cardHTML(s,i){
  <div class="meta"><div class="time"><span>${isEver(s)?"Evergreen":relT(s)}</span><span class="likeMark">· Liked</span></div>
  <div class="acts">${actsHTML(s.id)}</div></div></div>
  <div class="xwrap" aria-hidden="true"></div></article>`;}
-const actsHTML=(id)=>{const r=id?st.react[id]||0:0;return `<button class="ic listen" aria-label="Listen">${IC.listen}</button><button class="ic likeB${r===1?" on":""}" aria-label="Like" aria-pressed="${r===1}">${r===1?IC.upF:IC.up}</button><button class="ic lessB" aria-label="Less like this" aria-pressed="false">${IC.down}</button><button class="ic shareB" aria-label="Share">${IC.share}</button><button class="ic more" aria-label="More">${IC.more}</button>`;};
+const actsHTML=(id)=>{const r=id?st.react[id]||0:0;return `<button class="ic listen" aria-label="Listen">${IC.listen}</button><button class="ic likeB${r===1?" on":""}" aria-label="Like" aria-pressed="${r===1}">${r===1?IC.upF:IC.up}</button><button class="ic lessB" aria-label="Less like this" aria-pressed="false">${IC.down}</button><button class="ic saveB${id&&LIB.saved[id]?" on":""}" aria-label="Save" aria-pressed="${!!(id&&LIB.saved[id])}">${id&&LIB.saved[id]?IC.saveF:IC.save}</button><button class="ic shareB" aria-label="Share">${IC.share}</button><button class="ic more" aria-label="More">${IC.more}</button>`;};
 let loading=false;
 function loadMore(n=5){
  if(loading)return;loading=true;
@@ -108,7 +113,7 @@ function commitDwell(id,ms){const s=byId[id];if(!s)return;st.seen[id]=(st.seen[i
  if(ms>2500){const w=Math.min(ms/1000,12)/12*0.6;learn(s,w,"dwell "+Math.round(ms/1000)+"s")}else if(ms<900){learn(s,-0.05,"skip")}else save();}
 new IntersectionObserver(es=>{if(es[0].isIntersecting)loadMore(5)},{rootMargin:"1400px 0px"}).observe($("#sentinel"));
 let st8=0;addEventListener("scroll",()=>{if(st8)return;st8=setTimeout(()=>{st8=0;if(scrollY+innerHeight>document.documentElement.scrollHeight-1600)loadMore(5)},120)},{passive:true});
-addEventListener("keydown",e=>{if(e.key==="Escape"){if(!$("#menu").hidden)closeMenu();else if(!$("#sheet").hidden)closeSheet();}});
+addEventListener("keydown",e=>{if(e.key==="Escape"){if(!$("#lib").hidden){closeLib();return;}if(!$("#menu").hidden)closeMenu();else if(!$("#sheet").hidden)closeSheet();}});
 /* ---------- tabs & search ---------- */
 function renderTabs(){$("#tabs").innerHTML=Object.entries(CATS).map(([k,v])=>`<button class="tab" role="tab" data-k="${k}" aria-selected="${k===tab}">${v}</button>`).join("");}
 $("#tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(!b)return;tab=b.dataset.k;renderTabs();$(`.tab[data-k="${tab}"]`).scrollIntoView({inline:"center",block:"nearest",behavior:"smooth"});resetFeed();logEv("tab",null,{tab});});
@@ -122,6 +127,7 @@ $("#feed").addEventListener("click",e=>{
  if(e.target.closest(".shareB")){share(s);return;}
  if(e.target.closest(".likeB")){react(s,1);return;}
  if(e.target.closest(".lessB")){react(s,-1);return;}
+ if(e.target.closest(".saveB")){toggleSave(s);return;}
  if(e.target.closest(".srcT")){toggleSrc(card);return;}
  if(e.target.closest(".openStory")){const o=byId[e.target.closest(".openStory").dataset.id];if(o)jumpTo(o);return;}
  if(e.target.closest(".listen")){startSpeak(s,card);return;}           // speak() runs synchronously inside this tap
@@ -138,11 +144,30 @@ function react(s,v){
  const prev=st.react[s.id]||0; if(prev===v){st.react[s.id]=0;learn(s,v===1?-1.5:2,"undo");toast("Removed");}
  else{st.react[s.id]=v;learn(s,v===1?2.5+(prev?2:0):-2-(prev?1.5:0),v===1?"like":"dislike");
   toast(v===1?`More ${CATLBL[s.cat].toLowerCase()} stories coming up`:`Got it, fewer like this`);}
+ if(st.react[s.id]===1)LIB.liked[s.id]={s:libCopy(s),t:Date.now()};else delete LIB.liked[s.id];saveLib();
  save();document.querySelectorAll(`.card[data-id="${s.id}"]`).forEach(c=>{c.classList.toggle("liked",st.react[s.id]===1);
   const lb=c.querySelector(".likeB");if(lb){const on=st.react[s.id]===1;lb.classList.toggle("on",on);lb.setAttribute("aria-pressed",on);lb.innerHTML=on?IC.upF:IC.up;lb.classList.remove("pop");void lb.offsetWidth;lb.classList.add("pop");}
   if(st.react[s.id]===-1){const lb2=c.querySelector(".lessB");if(lb2){lb2.classList.add("on");lb2.setAttribute("aria-pressed","true")}setTimeout(()=>removeCard(c),260)}});
  rebuild();
 }
+function toggleSave(s,silent){const on=!LIB.saved[s.id];if(on)LIB.saved[s.id]={s:libCopy(s),t:Date.now()};else delete LIB.saved[s.id];saveLib();
+ if(on)learn(s,1,"save");logEv(on?"save":"unsave",s.id);if(!silent)toast(on?"Saved to Library":"Removed from Saved");
+ document.querySelectorAll(`.card[data-id="${s.id}"] .saveB`).forEach(b=>{b.classList.toggle("on",on);b.setAttribute("aria-pressed",on);b.innerHTML=on?IC.saveF:IC.save;b.classList.remove("pop");void b.offsetWidth;b.classList.add("pop");});}
+/* Library screen */
+let libTab="saved";
+function libItems(){const q=$("#libQ").value.trim().toLowerCase();return Object.values(LIB[libTab]).sort((a,b)=>b.t-a.t).map(x=>x.s).filter(s=>!q||[s.title,s.snippet,(s.bullets||[]).join(" "),(s.report||[]).map(r=>r.t).join(" "),CATLBL[s.cat]||s.cat,(s.tags||[]).join(" "),(s.sources||[]).map(x=>x.domain+" "+x.title).join(" ")].join(" ").toLowerCase().includes(q));}
+function renderLib(){const items=libItems(),q=$("#libQ").value.trim(),total=Object.keys(LIB[libTab]).length;
+ document.querySelectorAll(".libTabs button").forEach(b=>{b.setAttribute("aria-selected",b.dataset.t===libTab);b.innerHTML=(b.dataset.t==="saved"?"Saved":"Liked")+`<span class="n">${Object.keys(LIB[b.dataset.t]).length}</span>`});
+ $("#libList").innerHTML=items.length?items.map(s=>`<li class="li" data-id="${s.id}"><button class="open"><img src="${esc(s.image.src)}" alt="" loading="lazy"><span class="tx"><span class="lt">${esc(s.title)}</span><span class="lm"><b>${esc(CATLBL[s.cat]||s.cat)}</b> · ${esc(s.date?new Date(s.date+"T12:00:00").toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"}):"Evergreen")}</span></span></button><button class="ic rm" aria-label="${libTab==="saved"?"Unsave":"Unlike"}">${IC.x}</button></li>`).join("")
+  :`<li class="libEmpty">${total&&q?`<b>No matches</b>Nothing in ${libTab==="saved"?"Saved":"Liked"} matches "${esc(q)}".`:libTab==="saved"?`<b>Nothing saved yet</b>Tap the bookmark on any story to keep it here.`:`<b>No liked stories yet</b>Tap the thumbs-up on stories you enjoy and they'll appear here.`}</li>`;}
+function openLib(){closeMenu();$("#lib").hidden=false;document.body.classList.add("lock");renderLib();logEv("library",null);}
+function closeLib(){$("#lib").hidden=true;document.body.classList.remove("lock");}
+$("#libBtn").onclick=openLib;$(".libClose").onclick=closeLib;
+$(".libTabs").onclick=e=>{const b=e.target.closest("button");if(b){libTab=b.dataset.t;renderLib();}};
+$("#libQ").addEventListener("input",renderLib);
+$("#libList").onclick=e=>{const li=e.target.closest(".li");if(!li)return;const x=LIB[libTab][li.dataset.id];if(!x)return;let s=byId[x.s.id];
+ if(e.target.closest(".rm")){if(libTab==="saved")toggleSave(s||x.s);else if(s)react(s,1);else{delete LIB.liked[x.s.id];st.react[x.s.id]=0;save();saveLib();}renderLib();return;}
+ if(!s){s=x.s;byId[s.id]=s;}closeLib();jumpTo(s);};
 function removeCard(c){if(speaking&&speaking.root===c)stopSpeak();c.style.transition="opacity .3s";c.style.opacity=0;setTimeout(()=>c.remove(),320);}
 function notInterested(s){st.hidden[s.id]=1;learn(s,-.8,"not interested");save();document.querySelectorAll(`.card[data-id="${s.id}"]`).forEach(removeCard);rebuild();toast("Hidden. You'll see less like this");}
 /* More menu: always the same 4 actions, toggled only by the ⋯ button */
@@ -395,9 +420,9 @@ setInterval(()=>{const now=Date.now();if(!document.hidden&&now-lastAct<60000)act
 let lastAct=Date.now(),nudged=false;["scroll","touchstart","click","keydown"].forEach(ev=>addEventListener(ev,()=>lastAct=Date.now(),{passive:true}));
 function showNudge(){const n=$("#nudge");n.innerHTML=`<div class="box"><div class="orb"></div><h3>You've been here 15 min</h3><p>Take a breath? Breathe in as the circle grows, out as it shrinks.</p><div class="btns"><button class="btn" id="nKeep">Keep going</button><button class="btn pri" id="nDone">I'm good, close</button></div><p style="margin:14px 0 0;font-size:12px"><button id="nOff" style="color:var(--mut);text-decoration:underline">Don't remind me</button></p></div>`;
  n.hidden=false;$("#nKeep").onclick=()=>{n.hidden=true;active=0;nudged=false};$("#nDone").onclick=()=>{n.hidden=true;active=0;nudged=false;toast("Nice. See you later 👋")};$("#nOff").onclick=()=>{st.nudgeOff=true;save();n.hidden=true};logEv("nudge",null);}
-window.__feed={refresh,isNew:id=>isNew(byId[id]),prevVisit:PREV_VISIT,handoffPrompt:(id,q)=>handoffPrompt(byId[id],q),stories:()=>STORIES,st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,audio:AU,speaking:()=>speaking,chunkText,speechText:id=>speechText(byId[id])};
+window.__feed={lib:LIB,refresh,isNew:id=>isNew(byId[id]),prevVisit:PREV_VISIT,handoffPrompt:(id,q)=>handoffPrompt(byId[id],q),stories:()=>STORIES,st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,audio:AU,speaking:()=>speaking,chunkText,speechText:id=>speechText(byId[id])};
 /* ---------- boot ---------- */
-function setData(list){STORIES=prune(list);byId={};STORIES.forEach(x=>byId[x.id]=x);DF=null;NEWEST=Math.max(0,...STORIES.map(tAdded));updStamp();}
+function setData(list){list.forEach(x=>{if(st.react[x.id]===1&&!LIB.liked[x.id])LIB.liked[x.id]={s:libCopy(x),t:Date.now()}});saveLib();STORIES=prune(list);byId={};STORIES.forEach(x=>byId[x.id]=x);DF=null;NEWEST=Math.max(0,...STORIES.map(tAdded));updStamp();}
 function updStamp(){const el=$("#upd");if(el)el.textContent=NEWEST?"Updated "+ago(NEWEST):"";}
 setInterval(updStamp,60000);
 async function getStories(fresh){let r;

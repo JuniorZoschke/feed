@@ -11,7 +11,7 @@ svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.9;stroke
 .sr{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap}
 /* top bar */
 #top{position:sticky;top:0;z-index:20;background:#000;backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);padding-top:var(--safe-t)}
-.bar{display:grid;grid-template-columns:44px 1fr 44px;align-items:center;padding:6px 8px 2px}
+.bar{display:grid;grid-template-columns:84px 1fr 84px;align-items:center;padding:6px 8px 2px}
 .bar h1{margin:0;text-align:center;font-size:17px;font-weight:700;letter-spacing:-.2px}
 .bar .ic{color:var(--txt)}
 #searchRow{display:flex;gap:10px;padding:4px 16px 8px}
@@ -160,3 +160,22 @@ ul.bul li::marker{color:var(--mut)}
 .todayH{padding:0 16px 14px;font-size:15px;color:var(--mut)}.todayH b{color:var(--txt);font-size:22px;font-weight:800;letter-spacing:-.3px}
 .secH{margin:4px 16px 18px;padding-top:14px;border-top:1px solid var(--line);font-size:13px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;color:var(--mut)}
 .newB{display:inline-block;background:var(--acc);color:#000;font-size:10.5px;font-weight:800;letter-spacing:.3px;text-transform:uppercase;border-radius:5px;padding:1px 6px;margin-right:7px;vertical-align:1px}
+
+/* v6: save + library */
+.rbtn{display:flex;justify-content:flex-end}.bar .rbtn .ic{width:40px}
+.saveB.on{color:var(--acc)}
+#lib{position:fixed;inset:0;z-index:60;background:#000;display:flex;flex-direction:column;padding-top:var(--safe-t)}
+.libHead{display:grid;grid-template-columns:44px 1fr 44px;align-items:center;padding:6px 8px 2px}.libHead h2{margin:0;text-align:center;font-size:17px}.libHead .ic{color:var(--txt)}
+.libTabs{display:flex;gap:22px;padding:8px 16px 0;border-bottom:1px solid var(--line)}
+.libTabs button{padding:6px 0 10px;color:var(--mut);font-size:15px;font-weight:600;border-bottom:2px solid transparent;margin-bottom:-1px}.libTabs button[aria-selected=true]{color:var(--txt);border-bottom-color:var(--txt)}
+.libTabs .n{color:var(--mut);font-weight:500;margin-left:5px}
+.libSearch{padding:12px 16px 6px}#libQ{width:100%;background:var(--card);border:0;border-radius:10px;color:var(--txt);padding:9px 12px;font-size:16px;outline:none}
+#libList{list-style:none;margin:0;padding:4px 0 calc(24px + var(--safe-b));overflow-y:auto;flex:1}
+.li{display:flex;align-items:center;gap:12px;padding:10px 8px 10px 16px}
+.li .open{display:flex;gap:12px;align-items:center;flex:1;min-width:0;text-align:left}
+.li img{width:84px;height:56px;object-fit:cover;border-radius:8px;flex:none;background:#111}
+.li .tx{min-width:0;flex:1}.li .lt{font-size:15px;font-weight:600;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.li .lm{font-size:12.5px;color:var(--mut);margin-top:3px}.li .lm b{color:var(--lbl);font-weight:600}
+.li .rm{flex:none;color:var(--mut)}.li .rm svg{width:18px;height:18px}
+.libEmpty{color:var(--mut);text-align:center;padding:60px 32px;font-size:15px;line-height:1.5}.libEmpty b{display:block;color:var(--txt);font-size:17px;margin-bottom:6px}
+#lib:not([hidden]) ~ #toast{top:auto;bottom:calc(28px + var(--safe-b))}
