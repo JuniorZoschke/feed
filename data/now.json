@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T00:53:49Z",
+ "updatedAt": "2026-11-03T02:03:56Z",
  "mix": {
   "L": 3,
   "C": 4,
@@ -7,43 +7,43 @@
  },
  "items": [
   {
-   "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-   "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+   "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+   "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "domain": "bbc.co.uk",
    "lean": "C",
-   "publishedAt": "2026-11-03T00:41:36Z",
-   "image": "img/now/c8bd78b9cf7d.jpg",
+   "publishedAt": "2026-11-03T01:57:46Z",
+   "image": "img/now/8db4c84c73ea.jpg",
    "credit": "BBC News"
   },
   {
-   "title": "Investigative journalist Kate McClymont gives evidence in Alan Jones indecent assault trial",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb",
+   "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+   "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
    "source": "The Guardian",
    "domain": "theguardian.com",
    "lean": "L",
-   "publishedAt": "2026-11-03T00:30:57Z",
-   "image": "img/now/0b04bb27fa43.jpg",
+   "publishedAt": "2026-11-03T01:13:52Z",
+   "image": "img/now/48d1730715a2.jpg",
    "credit": "The Guardian"
   },
   {
-   "title": "U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
-   "url": "https://www.wsj.com/world/middle-east/u-s-strikes-irans-qeshm-island-as-trump-talks-down-war-risks-79d73d3d?mod=rss_worldnews",
+   "title": "China’s Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
+   "url": "https://www.wsj.com/economy/central-banking/chinas-central-bank-tweaks-forex-reserve-rules-to-steady-yuan-ad7ca0a2?mod=rss_socialeconomyfeed",
    "source": "The Wall Street Journal",
    "domain": "wsj.com",
    "lean": "R",
-   "publishedAt": "2026-11-03T00:39:00Z",
-   "image": "img/now/65df43063f6d.jpg",
+   "publishedAt": "2026-11-03T01:38:00Z",
+   "image": "img/now/78d1c5cb8ffd.jpg",
    "credit": "The Wall Street Journal"
   },
   {
-   "title": "Lindsay Clancy judge says he's leaning toward retrial in March",
-   "url": "https://www.cbsnews.com/news/lindsay-clancy-hearing-new-second-trial/",
+   "title": "More European grocery stores hit by apparent fridge-freezer hacks",
+   "url": "https://www.cbsnews.com/news/europe-grocery-store-refrigerator-freezer-cyberattack-hack-food-wasted/",
    "source": "CBS News",
    "domain": "cbsnews.com",
    "lean": "C",
-   "publishedAt": "2026-11-03T00:07:28Z",
-   "image": "img/now/d38c6a4aa905.jpg",
+   "publishedAt": "2026-11-03T01:51:41Z",
+   "image": "img/now/c8e10ad9e8fd.jpg",
    "credit": "CBS News"
   },
   {
@@ -57,13 +57,13 @@
    "credit": "NPR"
   },
   {
-   "title": "US will mediate upcoming Ukraine-Russia talks in Abu Dhabi, Witkoff says",
-   "url": "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says",
+   "title": "Ex-West Point cadet sued for secretly drugging pregnant girlfriend with abortion pills",
+   "url": "https://www.foxnews.com/us/ex-west-point-cadet-sued-secretly-drugging-pregnant-girlfriend-abortion-pills",
    "source": "Fox News",
    "domain": "foxnews.com",
    "lean": "R",
-   "publishedAt": "2026-11-02T23:47:08Z",
-   "image": "img/now/f607263fe4f3.jpg",
+   "publishedAt": "2026-11-03T00:48:23Z",
+   "image": "img/now/e6bfa19bd907.jpg",
    "credit": "Fox News"
   },
   {
@@ -92,7 +92,7 @@
      "domain": "theguardian.com",
      "lean": "L",
      "leanLabel": "Left-leaning",
-     "publishedAt": "2026-11-02T23:09:57Z"
+     "publishedAt": "2026-11-03T00:50:37Z"
     },
     {
      "title": "Supreme Court rejects Trump's request in California mail ballots dispute",
@@ -101,7 +101,7 @@
      "domain": "cbsnews.com",
      "lean": "C",
      "leanLabel": "Centre",
-     "publishedAt": "2026-11-02T23:03:00Z"
+     "publishedAt": "2026-11-03T01:02:00Z"
     },
     {
      "title": "Supreme Court denies Trump admin request to reverse block on segregating 20K California ballots",
@@ -115,33 +115,33 @@
    ]
   },
   {
-   "title": "New York reports first measles death in more than 30 years",
-   "url": "https://www.nbcnews.com/health/health-news/new-york-measles-death-rcna607137",
+   "title": "17-year-old arrested in Spirit Halloween shooting that killed pregnant woman, injured 6 others",
+   "url": "https://www.nbcnews.com/news/us-news/teen-arrested-spirit-halloween-shooting-fairfield-california-rcna607147",
    "source": "NBC News",
    "domain": "nbcnews.com",
    "lean": "L",
-   "publishedAt": "2026-11-02T23:52:36Z",
-   "image": "img/now/429b83becfc9.jpg",
+   "publishedAt": "2026-11-03T01:34:57Z",
+   "image": "img/now/0a2b95fb313a.jpg",
    "credit": "NBC News"
   },
   {
-   "title": "DOJ charges 63 people with voting-related crimes day before midterm elections",
-   "url": "https://www.washingtonexaminer.com/news/justice/4788901/doj-charges-63-people-voter-fraud-midterm-elections/",
+   "title": "OpenAI hires ex-Army Secretary Dan Driscoll two months after Pentagon exit",
+   "url": "https://www.washingtonexaminer.com/policy/national-security/4788952/openai-hires-ex-army-secretary-dan-driscoll/",
    "source": "Washington Examiner",
    "domain": "washingtonexaminer.com",
    "lean": "R",
-   "publishedAt": "2026-11-03T00:35:31Z",
-   "image": "img/now/60996bc4c395.jpg",
+   "publishedAt": "2026-11-03T01:43:57Z",
+   "image": "img/now/6ff44f9b63e8.jpg",
    "credit": "Washington Examiner"
   },
   {
-   "title": "Apple unsure when more foldable iPhones will be available after selling out",
-   "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+   "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
+   "url": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "domain": "bbc.co.uk",
    "lean": "C",
-   "publishedAt": "2026-11-03T00:29:00Z",
-   "image": "img/now/e63da366cbf9.jpg",
+   "publishedAt": "2026-11-03T01:52:28Z",
+   "image": "img/now/6a79b88efaff.jpg",
    "credit": "BBC News"
   }
  ]
