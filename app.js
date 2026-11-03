@@ -35,7 +35,7 @@ st.sessions++;save();
 const LIBK="feed.library";const LIB=Object.assign({saved:{},liked:{}},JSON.parse(localStorage.getItem(LIBK)||"{}"));
 const saveLib=()=>{try{localStorage.setItem(LIBK,JSON.stringify(LIB))}catch(e){toast("Storage full")}};
 const libCopy=s=>{const c=Object.assign({},s);delete c._sec;return c;};
-let STORIES=[],byId={},tab="all",query="",queue=[],shown=new Set(),round=0,SEENQ=[],NEWN=0,UNSEENN=0;const JUSTIN=new Set(); // stories that arrived via refresh during this session lead the feed
+let STORIES=[],byId={},tab="all",query="",queue=[],shown=new Set(),round=0,SEENQ=[],NEWN=0,UNSEENN=0,BONUSN=0;const JUSTIN=new Set(); // stories that arrived via refresh during this session lead the feed
 /* reaction log: only when served by the local Feed server (GitHub Pages is static → no POST, no 405s) */
 const LOCAL=/^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
 const evq=[];
@@ -63,21 +63,25 @@ function rebuild(){
  let pool=STORIES.filter(s=>(tab==="all"||s.cat===tab)&&(!query||(s.title+" "+s.snippet+" "+s.tags.join(" ")+" "+s.bullets.join(" ")+" "+(CATS[s.cat]||"")).toLowerCase().includes(query)));
  pool=pool.filter(s=>!shown.has(s.id)&&!(round>0&&(st.react[s.id]===-1||st.hidden[s.id])));
  pool.sort((a,b)=>score(b)-score(a));
- if(tab==="all"&&!query&&round===0){
+ if(!query&&round===0){
   const un=pool.filter(x=>!isSeen(x)),seen=pool.filter(isSeen);
-  const uf=un.filter(x=>!isEver(x)).sort((a,b)=>fscore(b)-fscore(a)),ue=un.filter(isEver);
-  const A=mixEver(uf,ue);let lead=[...A.out,...ue.slice(A.used)];
-  const ji=lead.filter(x=>JUSTIN.has(x.id));lead=diversify([...ji,...catMix(rotate(lead.filter(x=>!JUSTIN.has(x.id))))]);
-  seen.sort((a,b)=>score(b)-score(a));
-  lead.forEach((x,i)=>x._sec=i===0?"hook":"");seen.forEach(x=>x._sec="");
-  if(document.querySelector("#feed .seenT.open")){queue=diversify([...lead,...catMix(seen)]);SEENQ=[];return;}
-  queue=lead;SEENQ=diversify(catMix(seen));return;}
+  const uf=un.filter(x=>!isEver(x)).sort((a,b)=>fscore(b)-fscore(a)),ue=un.filter(isEver).sort((a,b)=>score(b)-score(a));
+  const ji=uf.filter(x=>JUSTIN.has(x.id));let lead=[...ji,...catMix(rotate(uf.filter(x=>!JUSTIN.has(x.id))))];
+  if(tab==="all")lead=diversify(lead);
+  // Bonus picks: short + finite. His best unseen evergreen; if fewer than 3, top up with the evergreen he saw longest ago.
+  const BN=tab==="all"?5:3;let leadRun=0;for(const x of lead)leadRun=isExplore(x)?0:leadRun+1;let bonus=(tab==="all"?diversify(ue,leadRun):ue).slice(0,BN);
+  if(bonus.length<3){const old=seen.filter(isEver).sort((a,b)=>(st.seenAt[a.id]||0)-(st.seenAt[b.id]||0)).slice(0,3-bonus.length);bonus=bonus.concat(old);}
+  const bset=new Set(bonus.map(x=>x.id));const rest=seen.filter(x=>!bset.has(x.id)).sort((a,b)=>score(b)-score(a));
+  lead.forEach((x,i)=>x._sec=i===0&&tab==="all"?"hook":"");bonus.forEach((x,i)=>x._sec=i===0?"bonus":"");rest.forEach(x=>x._sec="");
+  BONUSN=bonus.length;
+  if(document.querySelector("#feed .seenT.open")){queue=[...lead,...bonus,...catMix(rest)];SEENQ=[];return;}
+  queue=[...lead,...bonus];SEENQ=catMix(rest);return;}
  pool.forEach(x=>x._sec="");
  if(tab==="all"){const out=[];const rest=pool.slice();let l1=feedLastCat(),l2=null;while(rest.length){let i=(l1&&l1===l2)?rest.findIndex(s=>s.cat!==l1):0;if(i<0)i=0;const s=rest.splice(i,1)[0];out.push(s);l2=l1;l1=s.cat;}pool=out;}
  queue=tab==="all"&&!query?diversify(pool,feedRun()):pool;
 }
 /* fresher + liked first; rotate the top few each open; never two of a category in a row (if avoidable) */
-function fscore(s){return score(s)+(isNew(s)?3:0)+Math.max(0,2-(NEWEST-tAdded(s))/DAY);}
+function fscore(s){return score(s)+(isNew(s)?3:0)+Math.max(0,2-(NEWEST-tAdded(s))/DAY)+Math.max(0,1.5-(Date.now()-tPub(s))/(2*DAY));}
 function rotate(a){const nn=a.findIndex(s=>!isNew(s));const k=Math.min(5,a.length,nn>1?nn:(nn===-1?a.length:5));if(k<2)return a;const r=st.sessions%k;const top=a.slice(0,k);return [...top.slice(r),...top.slice(0,r),...a.slice(k)];}
 function catMix(a){const out=[],rest=a.slice();let last=null;while(rest.length){let i=rest.findIndex(s=>s.cat!==last);if(i<0)i=0;const s=rest.splice(i,1)[0];out.push(s);last=s.cat;}return out;}
 /* anti-bubble: at least 1 in every 4 cards is from a category he hasn't liked, or a 'whoa' story, whatever the like weighting */
@@ -87,6 +91,11 @@ function diversify(a,run0=0){const out=[],rest=a.slice();let run=run0;
  while(rest.length){let i=0;
   if(run>=3&&!isExplore(rest[0])){const last=out.length?out[out.length-1].cat:null;let j=rest.findIndex(x=>isExplore(x)&&x.cat!==last);if(j<0)j=rest.findIndex(isExplore);if(j>=0)i=j;}
   const x=rest.splice(i,1)[0];out.push(x);run=isExplore(x)?0:run+1;}
+ // tail fix: if explore stories ran out, tuck leftover liked ones back into earlier gaps (never >3 in a row)
+ const runOk=(a,k)=>{let r=0,w=0;for(const x of a){r=isExplore(x)?0:r+1;w=Math.max(w,r);}return w<=3;};
+ let r=run0,tail=0;for(const x of out){r=isExplore(x)?0:r+1;}tail=r;
+ if(tail>3){const extra=out.splice(out.length-(tail-3),tail-3);
+  for(const x of extra.reverse()){let placed=false;for(let k=out.length-1;k>0;k--){const c=out.slice();c.splice(k,0,x);if(runOk(c)&&c[k-1].cat!==x.cat){out.splice(k,0,x);placed=true;break;}}if(!placed)out.push(x);}}
  return out;}
 function feedRun(){const cs=[...$("#feed").querySelectorAll(".card")];let r=0;for(let k=cs.length-1;k>=0;k--){const s=byId[cs[k].dataset.id];if(!s||isExplore(s))break;r++;}return r;}
 function feedLastCat(){const c=[...$("#feed").querySelectorAll(".card")].pop();return c&&c.dataset.cat;}
@@ -96,16 +105,12 @@ const srcName=d=>d.replace(/^(en|www|news)\./,"").replace(/\.(org|com|edu|gov|ac
 function rel(d){if(!d)return"Evergreen";const days=Math.round((Date.now()-new Date(d+"T12:00:00"))/864e5);if(days<=0)return"Today";if(days===1)return"Yesterday";if(days<7)return days+"d ago";if(days<30)return Math.round(days/7)+"w ago";return new Date(d+"T12:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric"});}
 function relT(s){const t=tPub(s);if(!t)return rel(s.date);const m=(Date.now()-t)/6e4;if(m<60)return Math.max(1,Math.round(m))+"m ago";if(m<1440)return Math.round(m/60)+"h ago";return rel(new Date(t).toISOString().slice(0,10));}
 const ago=t=>{const m=(Date.now()-t)/6e4;return m<1?"just now":m<60?Math.round(m)+" min ago":m<1440?Math.round(m/60)+" h ago":Math.round(m/1440)+" d ago";};
-function todayHead(){const d=new Date();
- const nl=NEWN?`<b>${NEWN} new</b> since your last visit`:(UNSEENN?`Nothing new since your last visit · <b>${UNSEENN}</b> you haven't seen`:`You're all caught up`);
- return `<div class="todayH"><b>Today</b> · ${d.toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long"})}</div><div class="newLine"><span class="dot"></span>${nl}</div>`;}
-function counts(){const un=STORIES.filter(x=>!isSeen(x)&&!st.hidden[x.id]&&st.react[x.id]!==-1);UNSEENN=un.length;NEWN=un.filter(x=>!isEver(x)&&(PREV_VISIT?tAdded(x)>PREV_VISIT:isToday(x))).length;}
-/* Right now: publisher headlines (BBC/Guardian/NPR), verified links + photos, refreshed by the pipeline */
-let NOW=null;
-async function getNow(){try{const r=await fetch("data/now.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;NOW=await r.json();}catch(e){try{const m=await caches.match("data/now.json",{ignoreSearch:true});NOW=m?await m.json():null}catch(x){NOW=null}}}
-function nowItems(){if(!NOW||!NOW.items)return[];return NOW.items.filter(x=>Date.now()-Date.parse(x.publishedAt)<36*3600e3).slice(0,10);}
-function nowHTML(){const it=nowItems();if(!it.length)return"";
- return `<section class="nowS" aria-label="Right now"><div class="nowH"><span class="nowDot"></span><b>Right now</b><span class="nowSub">${new Set(it.map(x=>x.source)).size} outlets · left, centre & right</span></div><div class="nowR">${it.map((x,i)=>`<div class="nowI"><a href="${esc(x.url)}" target="_blank" rel="noopener" data-src="${esc(x.domain)}"><img src="${esc(x.image)}" alt="" loading="lazy" decoding="async" width="132" height="74"><span class="nt">${esc(x.title)}</span><span class="nm">${esc(x.source)} · ${ago(Date.parse(x.publishedAt))}</span></a>${sidesBtn(x,"now:"+i)}</div>`).join("")}</div></section>`;}
+function nextBatch(){const d=new Date(),m=d.getHours()*60+d.getMinutes();const slots=[[6,0],[12,30],[18,30]];const nx=slots.find(([h,mi])=>h*60+mi>m)||slots[0];
+ const t=new Date(d);t.setHours(nx[0],nx[1],0,0);return (nx===slots[0]&&m>=18*60+30?"tomorrow ":"")+t.toLocaleTimeString("en-GB",{hour:"numeric",minute:"2-digit"});}
+function todayHead(){const d=new Date();const nm=tab==="all"?"":` in ${CATS[tab]}`;
+ const nl=NEWN?`<b>${NEWN} new</b> since your last visit${UNSEENN>NEWN?` · ${UNSEENN} unread`:""}`:(UNSEENN?`<b>${UNSEENN} unread</b>${nm} for you`:`Nothing new${nm} yet · bonus picks below · next batch ${nextBatch()}`);
+ return (tab==="all"?`<div class="todayH"><b>Today</b> · ${d.toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long"})}</div>`:"")+`<div class="newLine"><span class="dot"></span>${nl}</div>`;}
+function counts(){const un=STORIES.filter(x=>(tab==="all"||x.cat===tab)&&!isEver(x)&&!isSeen(x)&&!st.hidden[x.id]&&st.react[x.id]!==-1);UNSEENN=un.length;NEWN=un.filter(x=>PREV_VISIT?tAdded(x)>PREV_VISIT:isToday(x)).length;}
 /* See other sides: 2-4 real articles on the same event from outlets across the spectrum (built + link-checked by pipeline/sides.py) */
 const SCALE='<svg viewBox="0 0 24 24"><path d="M12 3v18M5 21h14M4 8h16M4 8l-3 6a3 3 0 0 0 6 0zM20 8l-3 6a3 3 0 0 0 6 0z"/></svg>';
 const hasSides=x=>Array.isArray(x.sides)&&x.sides.length>=2;
@@ -114,11 +119,10 @@ function openSides(x){const ls={L:"Left-leaning",C:"Centre",R:"Right-leaning"};c
  el.innerHTML=`<div class="scrim"></div><div class="panel" role="dialog" aria-label="Other sides"><div class="grab"></div><div class="sheetHead"><b>Other sides</b><button class="ic close" aria-label="Close">${IC.x}</button></div><p class="sdIntro">Same story, other outlets: <i>${esc(x.title)}</i></p><ul class="sdList">${x.sides.map(o=>`<li><a href="${esc(o.url)}" target="_blank" rel="noopener"><span class="sdO"><b>${esc(o.outlet)}</b><span class="lean ${o.lean}">${ls[o.lean]||""}</span><span class="sdT">${ago(Date.parse(o.publishedAt))}</span></span><span class="sdH">${esc(o.title)}</span></a></li>`).join("")}</ul><p class="sdNote">Headlines as each outlet published them. Lean labels follow common media-bias ratings.</p></div>`;
  el.hidden=false;document.body.classList.add("lock");el.querySelector(".scrim").onclick=closeSides;el.querySelector(".close").onclick=closeSides;logEv("sides",x.id||null);}
 function closeSides(){$("#sides").hidden=true;if($("#sheet").hidden&&$("#lib").hidden)document.body.classList.remove("lock");}
-document.addEventListener("click",e=>{const b=e.target.closest(".sidesB");if(!b)return;e.preventDefault();e.stopPropagation();const k=b.dataset.sides;const x=k.startsWith("now:")?nowItems()[+k.slice(4)]:byId[k];if(x)openSides(x);},true);
-function placeNow(){const f=$("#feed");if(f.querySelector(".nowS")||tab!=="all"||query)return;const h=nowHTML();if(!h)return;const hk=f.querySelector(".card.hook");if(hk)hk.insertAdjacentHTML("afterend",h);else{const nl=f.querySelector(".newLine");nl?nl.insertAdjacentHTML("afterend",h):f.insertAdjacentHTML("afterbegin",h);}}
+document.addEventListener("click",e=>{const b=e.target.closest(".sidesB");if(!b)return;e.preventDefault();e.stopPropagation();const k=b.dataset.sides;const x=byId[k];if(x)openSides(x);},true);
 function cardHTML(s,i){
- const hook=s._sec==="hook";s._sec="";
- return `<article class="card ${hook?"hook ":""}${st.react[s.id]===1?"liked":""}" data-id="${s.id}" data-cat="${s.cat}">${hook?`<div class="hookK"><span class="spark">●</span> ${!isEver(s)&&Date.now()-tPub(s)<12*3600e3?"Just in":isNew(s)?"New for you":"Fresh for you"} · ${isEver(s)?"Top pick":relT(s)}</div>`:""}
+ const hook=s._sec==="hook",bon=s._sec==="bonus";s._sec="";
+ return `${bon?`<div class="secH bonusH">Bonus picks · worth your time</div>`:""}<article class="card ${hook?"hook ":""}${st.react[s.id]===1?"liked":""}" data-id="${s.id}" data-cat="${s.cat}">${hook?`<div class="hookK"><span class="spark">●</span> ${!isEver(s)&&Date.now()-tPub(s)<12*3600e3?"Just in":isNew(s)?"New for you":"Fresh for you"} · ${isEver(s)?"Top pick":relT(s)}</div>`:""}
  <div class="ph" data-tog><img class="loading" src="${s.image.src}" alt="${esc(s.title)}" ${i>2?'loading="lazy"':''} decoding="async" width="1200" height="675" onload="this.classList.remove('loading')"><span class="credit">${esc(s.image.credit)}</span></div>
  <div class="body"><div class="lbl">${isNew(s)?'<span class="newB">New</span>':""}${CATLBL[s.cat]}</div>
  <h2 data-tog>${esc(s.title)}</h2><p class="snip" data-tog>${esc(s.snippet)} <span class="see">See more</span></p>${sidesBtn(s,s.id)}
@@ -129,26 +133,26 @@ const actsHTML=(id)=>{const r=id?st.react[id]||0:0;return `<button class="ic lis
 let loading=false;
 function loadMore(n=5){
  if(loading)return;loading=true;
- if(!queue.length&&SEENQ.length&&tab==="all"&&!query&&round===0){
-   if(!$("#feed .seenT")){const n=SEENQ.length;$("#feed").insertAdjacentHTML("beforeend",`${$("#feed .card")?`<div class="endnote caught">You're all caught up on new stories ✨</div>`:`<div class="endnote caught">You've seen everything here. Fresh stories land a few times a day.</div>`}<button class="seenT" aria-expanded="false">${IC.chev}<span>Seen · ${n} ${n===1?"story":"stories"} you've scrolled past</span></button>`);}
-   loading=false;return;}
+ if(!queue.length&&!query&&round===0&&!$("#feed .seenT.open")){endCard();loading=false;return;}
  if(!queue.length){
    const pool=STORIES.filter(s=>(tab==="all"||s.cat===tab)&&!query);
    if(!pool.length||query){endNote(query?"No more matches.":"");loading=false;return;}
    round++;shown.clear();rebuild();
    if(!queue.length){loading=false;return;}
-   if($("#feed .card")) $("#feed").insertAdjacentHTML("beforeend",`<div class="endnote">You're all caught up on new stories. Here are some worth another look.</div>`);
+   if($("#feed .card")) $("#feed").insertAdjacentHTML("beforeend",`<div class="endnote">That's everything in Seen. Here are some worth another look.</div>`);
  }
  const f=$("#feed");const start=f.querySelectorAll(".card").length;
  const batch=queue.splice(0,n);
  f.insertAdjacentHTML("beforeend",batch.map((s,k)=>cardHTML(s,start+k)).join(""));
  batch.forEach(s=>{shown.add(s.id);observeCard(s.id)});
+ if(!queue.length&&!query&&round===0&&!$("#feed .seenT.open"))endCard();
  loading=false;
 }
+function endCard(){if($("#feed .endCard"))return;const n=SEENQ.length;$("#feed").insertAdjacentHTML("beforeend",`<div class="endCard" role="status"><b>You're done for now ✓</b><span>Next fresh batch around ${nextBatch()}. Pull down any time to reshuffle.</span></div>${n?`<button class="seenT" aria-expanded="false">${IC.chev}<span>Seen · ${n} ${n===1?"story":"stories"} you've scrolled past</span></button>`:""}`);}
 function endNote(t){if(t&&!$(".endnote.q"))$("#feed").insertAdjacentHTML("beforeend",`<div class="endnote q">${t}</div>`);}
 function openSeen(btn){btn.setAttribute("aria-expanded","true");btn.classList.add("open");btn.disabled=true;btn.insertAdjacentHTML("afterend",`<div class="secH seenH">Seen</div>`);queue=SEENQ;SEENQ=[];logEv("seenOpen",null);loadMore(6);}
 document.addEventListener("click",e=>{const b=e.target.closest(".seenT");if(b&&!b.disabled)openSeen(b);});
-function resetFeed(){stopSpeak();SEENQ=[];counts();$("#feed").innerHTML=(tab==="all"&&!query)?todayHead():"";shown.clear();rebuild();loadMore(6);placeNow();scrollTo(0,0);}
+function resetFeed(){stopSpeak();SEENQ=[];counts();$("#feed").innerHTML=!query?todayHead():"";shown.clear();rebuild();loadMore(6);scrollTo(0,0);}
 /* dwell tracking */
 const vis={},imp={};
 const io=new IntersectionObserver(es=>{es.forEach(e=>{const id=e.target.dataset.id;if(e.target.classList.contains("open"))return;if(e.intersectionRatio>=.6){vis[id]=performance.now();clearTimeout(imp[id]);imp[id]=setTimeout(()=>{if(vis[id])markSeen(id,"view")},1500)}else if(vis[id]){clearTimeout(imp[id]);commitDwell(id,performance.now()-vis[id]);delete vis[id]}})},{threshold:[0,.6]});
@@ -475,9 +479,11 @@ async function getStories(fresh){let r;
  return r.json();}
 let refreshing=false;
 async function refresh(manual){if(refreshing)return;refreshing=true;$("#refreshBtn").classList.add("spin");
- try{const before=new Set(STORIES.map(x=>x.id));const [list]=await Promise.all([getStories(true),getNow()]);setData(list);
-  const addL=STORIES.filter(x=>!before.has(x.id));addL.forEach(x=>JUSTIN.add(x.id));const added=addL.length;round=0;resetFeed();
-  if(manual)toast(added?`${added} new ${added===1?"story":"stories"}`:"You're up to date");logEv("refresh",null,{added});}
+ try{const before=new Set(STORIES.map(x=>x.id));const list=await getStories(true);setData(list);
+  const addL=STORIES.filter(x=>!before.has(x.id));addL.forEach(x=>JUSTIN.add(x.id));const added=addL.length;
+  st.sessions++;save(); // reshuffle: new rotation + jitter seed
+  round=0;resetFeed();
+  if(manual)toast(added?`${added} new ${added===1?"story":"stories"} at the top`:(UNSEENN?`Reshuffled · ${UNSEENN} unread`:`Reshuffled · next batch ${nextBatch()}`));logEv("refresh",null,{added});}
  catch(e){if(manual)toast("Couldn't refresh. Check your connection");}
  finally{refreshing=false;$("#refreshBtn").classList.remove("spin");}}
 $("#refreshBtn").onclick=()=>refresh(true);
@@ -490,13 +496,13 @@ let hiddenAt=0;document.addEventListener("visibilitychange",()=>{if(document.hid
 /* ---------- boot ---------- */
 (async()=>{
  $("#feed").innerHTML='<div class="skel"></div><div class="skel"></div>';
- const nowP=getNow();setData(await getStories(false));
+ setData(await getStories(false));
  localStorage.setItem(VKEY,String(Date.now()));
- await nowP;counts();
+ counts();
  renderTabs();$("#feed").innerHTML=todayHead();rebuild();
  const hid=location.hash.slice(1).split("/")[0];
  if(byId[hid]){queue=[byId[hid],...queue.filter(x=>x.id!==hid)];}
- loadMore(6);placeNow();
+ loadMore(6);
  if(byId[hid]){const c=$(`.card[data-id="${hid}"]`);if(c)expand(c,byId[hid]);}
  if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 })();

@@ -212,3 +212,8 @@ ul.bul li::marker{color:var(--mut)}
 .sdH{display:block;margin-top:4px;font-size:15px;font-weight:600;line-height:1.3}
 .lean{font-size:11px;font-weight:700;padding:2px 7px;border-radius:999px}.lean.L{background:#1e3a8a;color:#bfdbfe}.lean.C{background:#3f3f46;color:#e4e4e7}.lean.R{background:#7f1d1d;color:#fecaca}
 .sdNote{color:var(--mut);font-size:11px;margin:10px 0 0}
+
+/* v9 */
+.bonusH{color:#f5b301}
+.endCard{margin:8px 16px 18px;padding:22px 18px;border-radius:16px;background:linear-gradient(135deg,#1e293b,#111827);text-align:center;display:flex;flex-direction:column;gap:6px}
+.endCard b{font-size:18px}.endCard span{color:var(--mut);font-size:14px;line-height:1.4}
