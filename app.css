@@ -179,3 +179,23 @@ ul.bul li::marker{color:var(--mut)}
 .li .rm{flex:none;color:var(--mut)}.li .rm svg{width:18px;height:18px}
 .libEmpty{color:var(--mut);text-align:center;padding:60px 32px;font-size:15px;line-height:1.5}.libEmpty b{display:block;color:var(--txt);font-size:17px;margin-bottom:6px}
 #lib:not([hidden]) ~ #toast{top:auto;bottom:calc(28px + var(--safe-b))}
+
+/* v7: fresh-open */
+.newLine{display:flex;align-items:center;gap:8px;margin:-6px 16px 16px;font-size:14px;color:var(--mut)}.newLine b{color:var(--txt)}
+.newLine .dot{width:8px;height:8px;border-radius:50%;background:#3b82f6;box-shadow:0 0 0 4px rgba(59,130,246,.18);flex:none}
+.card.hook .ph img{aspect-ratio:4/3;object-fit:cover}
+.card.hook h2{font-size:25px;line-height:1.18}
+.hookK{margin:0 16px 10px;font-size:12px;font-weight:800;letter-spacing:.7px;text-transform:uppercase;color:#3b82f6}.hookK .spark{animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.25}}
+.nowS{margin:0 0 22px}.nowH{display:flex;align-items:baseline;gap:8px;padding:0 16px 10px;font-size:15px}
+.nowH .nowDot{width:8px;height:8px;border-radius:50%;background:#ef4444;align-self:center;animation:pulse 1.6s infinite}.nowSub{color:var(--mut);font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.nowR{display:flex;gap:10px;overflow-x:auto;padding:0 16px 4px;scroll-snap-type:x mandatory;scroll-padding-inline:16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}.nowR::-webkit-scrollbar{display:none}
+.nowI{flex:0 0 150px;scroll-snap-align:start;color:inherit;text-decoration:none;display:flex;flex-direction:column;gap:5px}
+.nowI img{width:150px;height:84px;object-fit:cover;border-radius:10px;background:var(--line)}
+.nowI .nt{font-size:13px;font-weight:600;line-height:1.3;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.nowI .nm{font-size:11px;color:var(--mut)}
+.endnote.caught{padding-bottom:12px}
+.seenT{display:flex;align-items:center;justify-content:center;gap:6px;width:calc(100% - 32px);margin:0 16px 28px;padding:12px;border:1px solid var(--line);border-radius:12px;color:var(--mut);font-size:14px;background:none}
+.seenT .chev{width:16px;height:16px;transition:transform .2s}.seenT.open .chev{transform:rotate(180deg)}.seenT.open{opacity:.6}
+.seenT svg{fill:none;stroke:currentColor;stroke-width:2}
+.nowH .nowDot,.newLine .dot{display:inline-block;flex:none}.nowH .nowDot{width:8px;height:8px}

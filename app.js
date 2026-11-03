@@ -26,12 +26,16 @@ const LS="feed.v1";
 const st=Object.assign({cat:{},tag:{},react:{},seen:{},opened:{},dwell:{},hidden:{},sessions:0,nudgeOff:false},JSON.parse(localStorage.getItem(LS)||"{}"));
 st.hidden=st.hidden||{};
 const save=()=>localStorage.setItem(LS,JSON.stringify(st));
+/* v7 seen-tracking: impression (>=60% visible for 1.5s) or opened. Legacy dwell counts become "seen" once. */
+if(!st.seenAt){st.seenAt={};Object.keys(st.seen||{}).concat(Object.keys(st.opened||{})).forEach(id=>st.seenAt[id]=1);}
+const isSeen=s=>!!(st.seenAt[s.id]||st.opened[s.id]);
+function markSeen(id,how){if(!st.seenAt[id]){st.seenAt[id]=Date.now();save();logEv("seen",id,{how});}}
 st.sessions++;save();
 /* library: full story copies of saved + liked items, so they outlive the 14-day prune */
 const LIBK="feed.library";const LIB=Object.assign({saved:{},liked:{}},JSON.parse(localStorage.getItem(LIBK)||"{}"));
 const saveLib=()=>{try{localStorage.setItem(LIBK,JSON.stringify(LIB))}catch(e){toast("Storage full")}};
 const libCopy=s=>{const c=Object.assign({},s);delete c._sec;return c;};
-let STORIES=[],byId={},tab="all",query="",queue=[],shown=new Set(),round=0;
+let STORIES=[],byId={},tab="all",query="",queue=[],shown=new Set(),round=0,SEENQ=[],NEWN=0,UNSEENN=0;const JUSTIN=new Set(); // stories that arrived via refresh during this session lead the feed
 /* reaction log: only when served by the local Feed server (GitHub Pages is static → no POST, no 405s) */
 const LOCAL=/^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
 const evq=[];
@@ -59,16 +63,23 @@ function rebuild(){
  let pool=STORIES.filter(s=>(tab==="all"||s.cat===tab)&&(!query||(s.title+" "+s.snippet+" "+s.tags.join(" ")+" "+s.bullets.join(" ")+" "+(CATS[s.cat]||"")).toLowerCase().includes(query)));
  pool=pool.filter(s=>!shown.has(s.id)&&!(round>0&&(st.react[s.id]===-1||st.hidden[s.id])));
  pool.sort((a,b)=>score(b)-score(a));
- if(tab==="all"&&!query&&round===0&&STORIES.some(x=>!isEver(x))){
-  const fresh=pool.filter(x=>!isEver(x)),ever=pool.filter(isEver);
-  const td=fresh.filter(isToday).sort((a,b)=>(isNew(b)-isNew(a))||score(b)-score(a)),er=fresh.filter(x=>!isToday(x)).sort((a,b)=>score(b)-score(a)||tPub(b)-tPub(a));
-  const A=mixEver(td,ever),B=mixEver(er,ever.slice(A.used));
-  A.out.forEach(x=>x._sec="today");B.out.forEach((x,i)=>x._sec=i===0?"earlier":"");
-  queue=[...A.out,...B.out,...ever.slice(A.used+B.used)];return;}
+ if(tab==="all"&&!query&&round===0){
+  const un=pool.filter(x=>!isSeen(x)),seen=pool.filter(isSeen);
+  const uf=un.filter(x=>!isEver(x)).sort((a,b)=>fscore(b)-fscore(a)),ue=un.filter(isEver);
+  const A=mixEver(uf,ue);let lead=[...A.out,...ue.slice(A.used)];
+  const ji=lead.filter(x=>JUSTIN.has(x.id));lead=[...ji,...catMix(rotate(lead.filter(x=>!JUSTIN.has(x.id))))];
+  seen.sort((a,b)=>score(b)-score(a));
+  lead.forEach((x,i)=>x._sec=i===0?"hook":"");seen.forEach(x=>x._sec="");
+  if(document.querySelector("#feed .seenT.open")){queue=[...lead,...catMix(seen)];SEENQ=[];return;}
+  queue=lead;SEENQ=catMix(seen);return;}
  pool.forEach(x=>x._sec="");
  if(tab==="all"){const out=[];const rest=pool.slice();let l1=feedLastCat(),l2=null;while(rest.length){let i=(l1&&l1===l2)?rest.findIndex(s=>s.cat!==l1):0;if(i<0)i=0;const s=rest.splice(i,1)[0];out.push(s);l2=l1;l1=s.cat;}pool=out;}
  queue=pool;
 }
+/* fresher + liked first; rotate the top few each open; never two of a category in a row (if avoidable) */
+function fscore(s){return score(s)+(isNew(s)?3:0)+Math.max(0,2-(NEWEST-tAdded(s))/DAY);}
+function rotate(a){const nn=a.findIndex(s=>!isNew(s));const k=Math.min(5,a.length,nn>1?nn:(nn===-1?a.length:5));if(k<2)return a;const r=st.sessions%k;const top=a.slice(0,k);return [...top.slice(r),...top.slice(0,r),...a.slice(k)];}
+function catMix(a){const out=[],rest=a.slice();let last=null;while(rest.length){let i=rest.findIndex(s=>s.cat!==last);if(i<0)i=0;const s=rest.splice(i,1)[0];out.push(s);last=s.cat;}return out;}
 function feedLastCat(){const c=[...$("#feed").querySelectorAll(".card")].pop();return c&&c.dataset.cat;}
 /* ---------- rendering ---------- */
 const fav=d=>`fav/${d}.png`;
@@ -76,10 +87,20 @@ const srcName=d=>d.replace(/^(en|www|news)\./,"").replace(/\.(org|com|edu|gov|ac
 function rel(d){if(!d)return"Evergreen";const days=Math.round((Date.now()-new Date(d+"T12:00:00"))/864e5);if(days<=0)return"Today";if(days===1)return"Yesterday";if(days<7)return days+"d ago";if(days<30)return Math.round(days/7)+"w ago";return new Date(d+"T12:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric"});}
 function relT(s){const t=tPub(s);if(!t)return rel(s.date);const m=(Date.now()-t)/6e4;if(m<60)return Math.max(1,Math.round(m))+"m ago";if(m<1440)return Math.round(m/60)+"h ago";return rel(new Date(t).toISOString().slice(0,10));}
 const ago=t=>{const m=(Date.now()-t)/6e4;return m<1?"just now":m<60?Math.round(m)+" min ago":m<1440?Math.round(m/60)+" h ago":Math.round(m/1440)+" d ago";};
-function todayHead(){const d=new Date();return `<div class="todayH"><b>Today</b> · ${d.toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long"})}</div>`;}
+function todayHead(){const d=new Date();
+ const nl=NEWN?`<b>${NEWN} new</b> since your last visit`:(UNSEENN?`Nothing new since your last visit · <b>${UNSEENN}</b> you haven't seen`:`You're all caught up`);
+ return `<div class="todayH"><b>Today</b> · ${d.toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long"})}</div><div class="newLine"><span class="dot"></span>${nl}</div>`;}
+function counts(){const un=STORIES.filter(x=>!isSeen(x)&&!st.hidden[x.id]&&st.react[x.id]!==-1);UNSEENN=un.length;NEWN=un.filter(x=>!isEver(x)&&(PREV_VISIT?tAdded(x)>PREV_VISIT:isToday(x))).length;}
+/* Right now: publisher headlines (BBC/Guardian/NPR), verified links + photos, refreshed by the pipeline */
+let NOW=null;
+async function getNow(){try{const r=await fetch("data/now.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;NOW=await r.json();}catch(e){try{const m=await caches.match("data/now.json",{ignoreSearch:true});NOW=m?await m.json():null}catch(x){NOW=null}}}
+function nowItems(){if(!NOW||!NOW.items)return[];return NOW.items.filter(x=>Date.now()-Date.parse(x.publishedAt)<36*3600e3).slice(0,10);}
+function nowHTML(){const it=nowItems();if(!it.length)return"";
+ return `<section class="nowS" aria-label="Right now"><div class="nowH"><span class="nowDot"></span><b>Right now</b><span class="nowSub">headlines from ${[...new Set(it.map(x=>x.source))].join(", ")}</span></div><div class="nowR">${it.map(x=>`<a class="nowI" href="${esc(x.url)}" target="_blank" rel="noopener" data-src="${esc(x.domain)}"><img src="${esc(x.image)}" alt="" loading="lazy" decoding="async" width="132" height="74"><span class="nt">${esc(x.title)}</span><span class="nm">${esc(x.source)} · ${ago(Date.parse(x.publishedAt))}</span></a>`).join("")}</div></section>`;}
+function placeNow(){const f=$("#feed");if(f.querySelector(".nowS")||tab!=="all"||query)return;const h=nowHTML();if(!h)return;const hk=f.querySelector(".card.hook");if(hk)hk.insertAdjacentHTML("afterend",h);else{const nl=f.querySelector(".newLine");nl?nl.insertAdjacentHTML("afterend",h):f.insertAdjacentHTML("afterbegin",h);}}
 function cardHTML(s,i){
- const sec=s._sec==="earlier"&&!document.querySelector(".secH.earlier")?`<div class="secH earlier">Earlier</div>`:"";s._sec="";
- return `${sec}<article class="card ${st.react[s.id]===1?"liked":""}" data-id="${s.id}" data-cat="${s.cat}">
+ const hook=s._sec==="hook";s._sec="";
+ return `<article class="card ${hook?"hook ":""}${st.react[s.id]===1?"liked":""}" data-id="${s.id}" data-cat="${s.cat}">${hook?`<div class="hookK"><span class="spark">●</span> ${!isEver(s)&&Date.now()-tPub(s)<12*3600e3?"Just in":isNew(s)?"New for you":"Fresh for you"} · ${isEver(s)?"Top pick":relT(s)}</div>`:""}
  <div class="ph" data-tog><img class="loading" src="${s.image.src}" alt="${esc(s.title)}" ${i>2?'loading="lazy"':''} decoding="async" width="1200" height="675" onload="this.classList.remove('loading')"><span class="credit">${esc(s.image.credit)}</span></div>
  <div class="body"><div class="lbl">${isNew(s)?'<span class="newB">New</span>':""}${CATLBL[s.cat]}</div>
  <h2 data-tog>${esc(s.title)}</h2><p class="snip" data-tog>${esc(s.snippet)} <span class="see">See more</span></p>
@@ -90,6 +111,9 @@ const actsHTML=(id)=>{const r=id?st.react[id]||0:0;return `<button class="ic lis
 let loading=false;
 function loadMore(n=5){
  if(loading)return;loading=true;
+ if(!queue.length&&SEENQ.length&&tab==="all"&&!query&&round===0){
+   if(!$("#feed .seenT")){const n=SEENQ.length;$("#feed").insertAdjacentHTML("beforeend",`${$("#feed .card")?`<div class="endnote caught">You're all caught up on new stories ✨</div>`:`<div class="endnote caught">You've seen everything here. Fresh stories land a few times a day.</div>`}<button class="seenT" aria-expanded="false">${IC.chev}<span>Seen · ${n} ${n===1?"story":"stories"} you've scrolled past</span></button>`);}
+   loading=false;return;}
  if(!queue.length){
    const pool=STORIES.filter(s=>(tab==="all"||s.cat===tab)&&!query);
    if(!pool.length||query){endNote(query?"No more matches.":"");loading=false;return;}
@@ -104,10 +128,12 @@ function loadMore(n=5){
  loading=false;
 }
 function endNote(t){if(t&&!$(".endnote.q"))$("#feed").insertAdjacentHTML("beforeend",`<div class="endnote q">${t}</div>`);}
-function resetFeed(){stopSpeak();$("#feed").innerHTML=(tab==="all"&&!query)?todayHead():"";shown.clear();rebuild();loadMore(6);scrollTo(0,0);}
+function openSeen(btn){btn.setAttribute("aria-expanded","true");btn.classList.add("open");btn.disabled=true;btn.insertAdjacentHTML("afterend",`<div class="secH seenH">Seen</div>`);queue=SEENQ;SEENQ=[];logEv("seenOpen",null);loadMore(6);}
+document.addEventListener("click",e=>{const b=e.target.closest(".seenT");if(b&&!b.disabled)openSeen(b);});
+function resetFeed(){stopSpeak();SEENQ=[];counts();$("#feed").innerHTML=(tab==="all"&&!query)?todayHead():"";shown.clear();rebuild();loadMore(6);placeNow();scrollTo(0,0);}
 /* dwell tracking */
-const vis={};
-const io=new IntersectionObserver(es=>{es.forEach(e=>{const id=e.target.dataset.id;if(e.target.classList.contains("open"))return;if(e.intersectionRatio>=.6){vis[id]=performance.now()}else if(vis[id]){commitDwell(id,performance.now()-vis[id]);delete vis[id]}})},{threshold:[0,.6]});
+const vis={},imp={};
+const io=new IntersectionObserver(es=>{es.forEach(e=>{const id=e.target.dataset.id;if(e.target.classList.contains("open"))return;if(e.intersectionRatio>=.6){vis[id]=performance.now();clearTimeout(imp[id]);imp[id]=setTimeout(()=>{if(vis[id])markSeen(id,"view")},1500)}else if(vis[id]){clearTimeout(imp[id]);commitDwell(id,performance.now()-vis[id]);delete vis[id]}})},{threshold:[0,.6]});
 function observeCard(id){document.querySelectorAll(`.card[data-id="${id}"]`).forEach(el=>io.observe(el));}
 function commitDwell(id,ms){const s=byId[id];if(!s)return;st.seen[id]=(st.seen[id]||0)+1;
  if(ms>2500){const w=Math.min(ms/1000,12)/12*0.6;learn(s,w,"dwell "+Math.round(ms/1000)+"s")}else if(ms<900){learn(s,-0.05,"skip")}else save();}
@@ -296,7 +322,7 @@ function expand(card,s){
  document.querySelectorAll(".card.open").forEach(c=>{if(c!==card){const above=c.getBoundingClientRect().top<card.getBoundingClientRect().top;const h0=c.offsetHeight;collapse(c,false,true);if(above)scrollBy(0,c.offsetHeight-h0);}});
  const w=card.querySelector(".xwrap");if(!w.firstChild)w.innerHTML=expHTML(s);
  card.classList.add("open");w.setAttribute("aria-hidden","false");openAt.set(card,performance.now());
- animH(w,"auto");st.opened[s.id]=(st.opened[s.id]||0)+1;learn(s,.5,"expand");logEv("open",s.id);
+ animH(w,"auto");st.opened[s.id]=(st.opened[s.id]||0)+1;markSeen(s.id,"open");learn(s,.5,"expand");logEv("open",s.id);
  history.replaceState(null,"","#"+s.id);
 }
 function collapse(card,keepInView,instant){
@@ -431,8 +457,8 @@ async function getStories(fresh){let r;
  return r.json();}
 let refreshing=false;
 async function refresh(manual){if(refreshing)return;refreshing=true;$("#refreshBtn").classList.add("spin");
- try{const before=new Set(STORIES.map(x=>x.id));const list=await getStories(true);setData(list);
-  const added=STORIES.filter(x=>!before.has(x.id)).length;round=0;resetFeed();
+ try{const before=new Set(STORIES.map(x=>x.id));const [list]=await Promise.all([getStories(true),getNow()]);setData(list);
+  const addL=STORIES.filter(x=>!before.has(x.id));addL.forEach(x=>JUSTIN.add(x.id));const added=addL.length;round=0;resetFeed();
   if(manual)toast(added?`${added} new ${added===1?"story":"stories"}`:"You're up to date");logEv("refresh",null,{added});}
  catch(e){if(manual)toast("Couldn't refresh. Check your connection");}
  finally{refreshing=false;$("#refreshBtn").classList.remove("spin");}}
@@ -446,12 +472,13 @@ let hiddenAt=0;document.addEventListener("visibilitychange",()=>{if(document.hid
 /* ---------- boot ---------- */
 (async()=>{
  $("#feed").innerHTML='<div class="skel"></div><div class="skel"></div>';
- setData(await getStories(false));
+ const nowP=getNow();setData(await getStories(false));
  localStorage.setItem(VKEY,String(Date.now()));
+ await nowP;counts();
  renderTabs();$("#feed").innerHTML=todayHead();rebuild();
  const hid=location.hash.slice(1).split("/")[0];
  if(byId[hid]){queue=[byId[hid],...queue.filter(x=>x.id!==hid)];}
- loadMore(6);
+ loadMore(6);placeNow();
  if(byId[hid]){const c=$(`.card[data-id="${hid}"]`);if(c)expand(c,byId[hid]);}
  if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 })();
