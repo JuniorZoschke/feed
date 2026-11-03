@@ -1,5 +1,849 @@
 [
  {
+  "id": "apple-watch-beta-tests-new-ai-audio-intelligence",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "apple",
+   "adhd",
+   "focus",
+   "business"
+  ],
+  "title": "Apple Watch Beta Tests New AI Audio Intelligence and Conversation Recaps",
+  "snippet": "Apple is rolling out new AI audio features for the Apple Watch in beta testing. The tools include Live Rewind for quick text snippets and Siri Recaps for meeting summaries.",
+  "bullets": [
+   "Apple is beta testing new Audio Intelligence features for the Apple Watch, starting with developers in the iOS 27.3 update [1].",
+   "Live Rewind lets users double-press the digital crown to view a text snippet of the last 15 seconds of speech [1].",
+   "Siri Recaps summarizes conversations with a short sentence and key bullet points while omitting sensitive information [1]."
+  ],
+  "report": [
+   {
+    "h": "Audio Intelligence Beta",
+    "t": "Apple is introducing a set of opt-in AI features for the Apple Watch that allow users to detect sounds, identify songs, catch up on conversations, and take notes [1]. The technology is currently rolling out to developers in the iOS 27.3 update [1]."
+   },
+   {
+    "h": "Live Rewind and Snippets",
+    "t": "Users can double-press the watch digital crown to view what was said in the last 15 seconds as a text snippet [1]. Unsaved snippets are deleted automatically after 30 seconds to protect privacy [1]."
+   },
+   {
+    "h": "Siri Recaps and Privacy",
+    "t": "Siri Recaps creates high-level summaries of conversations without saving raw audio or identifying speakers [1]. The system uses on-device processing and a secure enclave to keep data private [1]."
+   }
+  ],
+  "why": "If you struggle with working memory or staying focused during fast-paced meetings, ambient AI note-taking tools can help you capture key details without missing the conversation.",
+  "tryit": "Open your Apple device settings to check for beta software updates if you are a developer, or review your current accessibility and privacy settings for audio tools.",
+  "qa": [
+   [
+    "What is Live Rewind?",
+    "Live Rewind lets you double-press the digital crown on your Apple Watch to see what someone said in the last 15 seconds as a text snippet [1]."
+   ],
+   [
+    "Are raw audio recordings saved?",
+    "No, Apple says it is not identifying speakers, saving raw audio, or providing word-for-word transcriptions [1]."
+   ],
+   [
+    "How long do unsaved snippets last?",
+    "Unsaved snippets are deleted automatically after 30 seconds [1]."
+   ],
+   [
+    "What chips power these features?",
+    "The features rely on the S11 chip, built-in microphone, Apple Intelligence models on the iPhone, and Private Cloud Compute [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "status": 200,
+    "title": "Apple Watch's AI features for rewinding and recapping conversations begin beta testing | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-03",
+  "publishedAt": "2026-11-03T07:20:00Z",
+  "addedAt": "2026-11-03T11:11:00Z",
+  "audio": "audio/apple-watch-beta-tests-new-ai-audio-intelligence.mp3",
+  "image": {
+   "src": "img/apple-watch-beta-tests-new-ai-audio-intelligence.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669"
+  }
+ },
+ {
+  "id": "how-to-find-genuine-black-friday-bargains-under",
+  "cat": "money",
+  "tags": [
+   "money",
+   "negotiation",
+   "shopping",
+   "business"
+  ],
+  "title": "How to find genuine Black Friday bargains under thirty pounds",
+  "snippet": "Black Friday sales often feature misleading price claims, but some budget items consistently offer real value. Experts track market prices over six months to identify genuine deals on household essentials under thirty pounds.",
+  "bullets": [
+   "Black Friday 2026 runs from the start of November until Cyber Monday on 30 November [1].",
+   "Experts track market prices for six months to verify if a deal is genuinely good [1].",
+   "Several household items, including power banks and kitchen tools, have tested well while remaining under thirty pounds [1]."
+  ],
+  "report": [
+   {
+    "h": "Verifying real deals",
+    "t": "Retailers sometimes use misleading price claims to make offers seem better than they are [1]. To avoid this, experts track market prices over six months to identify the true lowest and average costs [1]."
+   },
+   {
+    "h": "Budget household finds",
+    "t": "Several useful items have passed performance tests while staying under thirty pounds [1]. Examples include the INIU power bank, Kuhn Rikon tin opener, and Ecozone carpet shampoo [1]."
+   },
+   {
+    "h": "Timing your shopping",
+    "t": "Black Friday 2026 officially lands on 27 November, but deals begin appearing from the start of the month [1]. The sales period continues until Cyber Monday on 30 November [1]."
+   }
+  ],
+  "why": "This helps you avoid impulsive spending on 'deals' that are not actually discounted, allowing you to focus your budget on items you genuinely need.",
+  "tryit": "Check the price history of an item you want to buy by looking at its average and lowest prices over the last six months before purchasing.",
+  "qa": [
+   [
+    "When does the Black Friday sale period end?",
+    "It runs until Cyber Monday on 30 November [1]."
+   ],
+   [
+    "How do experts check if a deal is good?",
+    "They track market prices over six months and evaluate products against strict performance benchmarks [1]."
+   ],
+   [
+    "Are all retailers included in price checks?",
+    "No, not all retailers are included in the checks [1]."
+   ],
+   [
+    "Why might someone consider multivitamins?",
+    "They could be helpful for those missing nutrients due to an inconsistent diet, allergies, or irregular work patterns [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/black-friday-bargains-for-less-than-30-that-passed-our-tests-aonzM0R2no9M",
+    "status": 200,
+    "title": "Black Friday bargains for less than £30 that passed our tests - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-02",
+  "publishedAt": "2026-11-02T16:35:43Z",
+  "addedAt": "2026-11-03T11:11:00Z",
+  "audio": "audio/how-to-find-genuine-black-friday-bargains-under.mp3",
+  "image": {
+   "src": "img/how-to-find-genuine-black-friday-bargains-under.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/black-friday-bargains-for-less-than-30-that-passed-our-tests-aonzM0R2no9M",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/3a060484f266-power-bank.jpg"
+  }
+ },
+ {
+  "id": "rethinking-weight-loss-why-struggle-is-not-a-req",
+  "cat": "health",
+  "tags": [
+   "health",
+   "weightloss",
+   "psychology",
+   "selfcompassion",
+   "fitness"
+  ],
+  "title": "Rethinking Weight Loss: Why Struggle Is Not A Requirement For Success",
+  "snippet": "Modern weight-loss medications like GLP-1 agonists offer a new way to manage health by reducing cravings. This shift challenges our cultural belief that success must involve suffering to be valid.",
+  "bullets": [
+   "GLP-1 medications like semaglutide and tirzepatide can lead to motivational quieting, where food cravings become less intense [1].",
+   "Society often equates personal discipline with moral worth, leading to bias against those who use medical interventions for weight loss [1].",
+   "True personal agency can involve choosing tools that make health goals easier to manage, rather than relying solely on willpower [1]."
+  ],
+  "report": [
+   {
+    "h": "The Myth Of Struggle",
+    "t": "We are culturally conditioned to admire weight loss achieved through grit and sacrifice [1]. This pro-effort bias suggests that if a journey is easy, the result is somehow less meaningful [1]."
+   },
+   {
+    "h": "Motivational Quieting",
+    "t": "Research shows that GLP-1 treatments can reduce the frequency and intensity of food cravings [1]. This state, known as motivational quieting, changes the psychological experience of eating without requiring constant resistance [1]."
+   },
+   {
+    "h": "Redefining Control",
+    "t": "Control does not always mean suppressing desires through sheer willpower [1]. It can also mean selecting effective interventions that make your goals more achievable and sustainable [1]."
+   }
+  ],
+  "why": "This matters because it helps you reframe your own health journey, removing the guilt that often comes with using medical tools to support your well-being.",
+  "tryit": "Reflect on your current health goals and ask yourself if you are judging your progress based on how hard it feels; if you are considering medical support, discuss your specific health profile and options with a GP or registered pharmacist.",
+  "qa": [
+   [
+    "What is motivational quieting?",
+    "It is a reduction in how frequently or intensely a desire, such as food cravings, captures your attention [1]."
+   ],
+   [
+    "Why do people judge weight loss medication users?",
+    "Such judgments often reflect cultural expectations that equate discipline and suffering with personal worth [1]."
+   ],
+   [
+    "Is it wrong to choose not to use medication?",
+    "No, people have valid reasons to decline treatment, including side effects, medical circumstances, and personal preferences [1]."
+   ],
+   [
+    "Does using medication mean you lack self-control?",
+    "Not necessarily; control can also involve choosing interventions that make desires easier to manage [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psychologytoday.com/us/blog/the-architecture-of-desire/202608/is-weight-loss-less-valid-without-struggle",
+    "status": 200,
+    "title": "Is Weight Loss Less Valid Without Struggle?",
+    "domain": "psychologytoday.com"
+   }
+  ],
+  "date": "2026-11-02",
+  "publishedAt": "2026-11-02T16:34:55Z",
+  "addedAt": "2026-11-03T11:11:00Z",
+  "audio": "audio/rethinking-weight-loss-why-struggle-is-not-a-req.mp3",
+  "image": {
+   "src": "img/rethinking-weight-loss-why-struggle-is-not-a-req.jpg",
+   "credit": "Psychology Today",
+   "license": "© Psychology Today, shown with credit",
+   "page": "https://www.psychologytoday.com/us/blog/the-architecture-of-desire/202608/is-weight-loss-less-valid-without-struggle",
+   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/pexels-mikhail-nilov-8670187.jpg?itok=VXb2V2TD"
+  }
+ },
+ {
+  "id": "using-meditation-to-create-space-and-reduce-unpr",
+  "cat": "mind",
+  "tags": [
+   "mind",
+   "psychology",
+   "adhd",
+   "self-compassion"
+  ],
+  "title": "Using Meditation to Create Space and Reduce Unproductive Shame Spirals",
+  "snippet": "Meditation helps create distance between yourself and intrusive thoughts, offering a way to stop shame spirals. By treating thoughts like passersby on a sidewalk, you can learn to observe them without elaborating or reacting.",
+  "bullets": [
+   "Meditation creates distance from default thoughts, allowing you to choose how you feel about your experiences [1].",
+   "A recommended starting practice is ten to fifteen minutes a day, three days a week, though even a few minutes can help [1].",
+   "The goal is to notice shame as a passing thought without adding commentary or reacting to it [1]."
+  ],
+  "report": [
+   {
+    "h": "Creating mental space",
+    "t": "Meditation is a tool for building distance between yourself and the onslaught of daily thoughts [1]. It does not change your personality or IQ, but it can make your mind less frantic and less prone to doom loops [1]."
+   },
+   {
+    "h": "The sidewalk analogy",
+    "t": "Think of your thoughts like people walking on a busy city sidewalk [1]. You cannot control who appears, but you can choose not to follow them or build stories around them [1]."
+   },
+   {
+    "h": "Interrupting the spiral",
+    "t": "Shame often stems from the story we tell about a desire, rather than the desire itself [1]. By simply noticing a shame thought and returning your attention to your breath, you can eventually strip that thought of its emotional power [1]."
+   }
+  ],
+  "why": "This matters because it offers a practical, non-judgmental way to manage intrusive thoughts and shame, helping you stay grounded without needing to change who you are.",
+  "tryit": "Next time you feel a negative thought or shame spiral starting, pause, label the thought as just a thought, and gently return your focus to your breath for one minute.",
+  "qa": [
+   [
+    "How much should I meditate?",
+    "The author recommends starting with ten to fifteen minutes a day, three days a week, though even a couple of minutes can make a difference [1]."
+   ],
+   [
+    "Will meditation change my personality?",
+    "No, your personality and IQ will remain unchanged by meditation [1]."
+   ],
+   [
+    "How do I handle shame thoughts?",
+    "Notice the thought as it arises, do not add commentary or react to it, and gently return your attention to your breath [1]."
+   ],
+   [
+    "Is the goal to avoid unpleasant thoughts?",
+    "No, the goal is simply to recognise them without elaborating on them [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psychologytoday.com/us/blog/the-psychology-of-fetish-and-desire/202611/how-to-meditate-to-help-reduce-shame",
+    "status": 200,
+    "title": "How to Meditate to Help Reduce Shame",
+    "domain": "psychologytoday.com"
+   }
+  ],
+  "date": "2026-11-02",
+  "publishedAt": "2026-11-02T20:29:18Z",
+  "addedAt": "2026-11-03T11:11:00Z",
+  "audio": "audio/using-meditation-to-create-space-and-reduce-unpr.mp3",
+  "image": {
+   "src": "img/using-meditation-to-create-space-and-reduce-unpr.jpg",
+   "credit": "Psychology Today",
+   "license": "© Psychology Today, shown with credit",
+   "page": "https://www.psychologytoday.com/us/blog/the-psychology-of-fetish-and-desire/202611/how-to-meditate-to-help-reduce-shame",
+   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/pexels-ivan-s-6648546.jpg?itok=ueTzT0Gg"
+  }
+ },
+ {
+  "id": "positive-news-launches-video-podcast-exploring-g",
+  "cat": "news",
+  "tags": [
+   "news",
+   "science",
+   "psychology"
+  ],
+  "title": "Positive News launches video podcast exploring global progress and solutions",
+  "snippet": "The What Went Right series is expanding to YouTube and Spotify, bringing weekly stories of scientific breakthroughs and community initiatives to new audiences [1].",
+  "bullets": [
+   "The new weekly programme explores progress from scientific breakthroughs to climate solutions [1].",
+   "It is presented by broadcaster Lucy Watson and editor Tom Pattinson [1].",
+   "The show follows the success of The Purpose Pioneers podcast [1]."
+  ],
+  "report": [
+   {
+    "h": "Expanding to New Platforms",
+    "t": "The flagship What Went Right series is expanding to YouTube, Spotify and other podcast platforms [1]. Released every Saturday, the programme explores three significant stories of progress each week [1]."
+   },
+   {
+    "h": "Experienced Co-Hosts",
+    "t": "The show is presented by broadcaster Lucy Watson and Positive News chief digital editor Tom Pattinson [1]. Both hosts bring decades of international reporting experience to the programme [1]."
+   },
+   {
+    "h": "Tackling News Avoidance",
+    "t": "Chief executive Sean Wood notes that news avoidance is a major challenge due to a relentless focus on what is broken [1]. The new podcast offers trustworthy journalism about progress and solutions [1]."
+   }
+  ],
+  "why": "It shows how media creators are building constructive formats to combat news fatigue and offer balanced perspectives on global progress [1].",
+  "tryit": "Search for the What Went Right podcast on Spotify or YouTube to listen to the latest weekly episode [1].",
+  "qa": [
+   [
+    "Where can you watch or listen to the new show?",
+    "It is expanding to YouTube, Spotify and other podcast platforms [1]."
+   ],
+   [
+    "When is the programme released?",
+    "It is released every Saturday [1]."
+   ],
+   [
+    "Who presents the podcast?",
+    "It is presented by Lucy Watson and Tom Pattinson [1]."
+   ],
+   [
+    "What previous series won an award in July 2026?",
+    "The Purpose Pioneers limited series won Best Culture and Lifestyle Podcast [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
+    "status": 200,
+    "title": "Positive News launches new video podcast exploring what’s going right in the world - Positive News",
+    "domain": "positive.news"
+   }
+  ],
+  "date": "2026-10-28",
+  "publishedAt": "2026-10-28T09:43:33Z",
+  "addedAt": "2026-11-03T11:11:00Z",
+  "audio": "audio/positive-news-launches-video-podcast-exploring-g.mp3",
+  "image": {
+   "src": "img/positive-news-launches-video-podcast-exploring-g.jpg",
+   "credit": "Positive News",
+   "license": "© Positive News, shown with credit",
+   "page": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
+   "from_url": "https://www.positive.news/wp-content/uploads/2026/10/WWR_hosts_3x2.jpg"
+  }
+ },
+ {
+  "id": "new-jersey-students-collect-quarter-million-poun",
+  "cat": "calm",
+  "tags": [
+   "community",
+   "leadership",
+   "volunteering",
+   "organisation",
+   "business"
+  ],
+  "title": "New Jersey Students Collect Quarter Million Pounds of Food for Local Banks",
+  "snippet": "Hundreds of students in New Jersey successfully collected over a quarter million pounds of food to support local families. The massive donation effort covered a high school football field and supplied 30 different food banks across the state [1].",
+  "bullets": [
+   "Students collected over a quarter million pounds of food during the second annual 100-Yard Food Drive Challenge [1].",
+   "The donations were distributed to 30 food banks to assist families across New Jersey [1].",
+   "The project helped students develop leadership skills while coordinating volunteers and community efforts [1]."
+  ],
+  "report": [
+   {
+    "h": "The Massive Food Drive",
+    "t": "Hundreds of students at Howell High School participated in the second annual 100-Yard Food Drive Challenge [1]. They successfully collected over a quarter million pounds of food, which completely covered the school's football field from end zone to end zone [1]."
+   },
+   {
+    "h": "Supporting Local Banks",
+    "t": "This initiative was organised by the nonprofit Dermer Dreams, which was started in 2019 [1]. The collected items were transported to 30 food bank partners, including Lunch Break, Fulfill, Howell Food Bank, and Open Door in Freehold [1]."
+   },
+   {
+    "h": "Developing Leadership Skills",
+    "t": "Beyond the immediate aid, the project provided a platform for students to develop leadership skills by recruiting volunteers and organising their peers [1]. This event builds on the inaugural 2025 challenge held at Rumson-Fair Haven Regional High School, continuing a mission to inspire young people to take action [1]."
+   }
+  ],
+  "why": "This story highlights how structured, community-focused projects can effectively scale up to solve large problems, offering a positive model for leadership and organisation that you can apply to your own business or community ventures.",
+  "tryit": "Look for a local community project or charity in your area that needs help with logistics or organisation, and offer to apply your business skills to help them streamline their operations or recruitment.",
+  "qa": [
+   [
+    "How much food was collected?",
+    "Students collected over a quarter million pounds of food [1]."
+   ],
+   [
+    "How many food banks received the donations?",
+    "The food was distributed to 30 food banks across the state [1]."
+   ],
+   [
+    "Who organised the event?",
+    "The event was organised by the nonprofit Dermer Dreams [1]."
+   ],
+   [
+    "When did the nonprofit start?",
+    "The nonprofit was started in 2019 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/",
+    "status": 200,
+    "title": "High School Fills Entire Football Field With Groceries to Replenish New Jersey Food Banks",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-01",
+  "publishedAt": "2026-11-01T15:34:01Z",
+  "addedAt": "2026-11-03T11:11:00Z",
+  "audio": "audio/new-jersey-students-collect-quarter-million-poun.mp3",
+  "image": {
+   "src": "img/new-jersey-students-collect-quarter-million-poun.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Football-field-full-of-food-bank-donations-in-NY-Credit-Tommy-Pantaleo-for-Dermer-Dreams-submitted.jpg"
+  }
+ },
+ {
+  "id": "a-look-back-at-the-bizarre-reality-tv-trends-of",
+  "cat": "laugh",
+  "tags": [
+   "laugh",
+   "television",
+   "history",
+   "culture"
+  ],
+  "title": "A Look Back at the Bizarre Reality TV Trends of the 2000s",
+  "snippet": "Reality television in the 2000s often pushed boundaries with extreme concepts, from redecorating homes in 48 hours to bizarre celebrity challenges. Looking back at these shows offers a humorous perspective on how much television production and cultural norms have shifted since then [1].",
+  "bullets": [
+   "The British show Changing Rooms gave neighbours a small budget and 48 hours to redecorate a room in each other's houses [1].",
+   "In the 2002–03 show Home on Their Own, children were given full control over redecorating their parents' home while the adults were away [1].",
+   "The 2004 Discovery Channel show Big! featured experts building gigantic, fully functioning versions of everyday objects like vacuum cleaners and treadmills [1]."
+  ],
+  "report": [
+   {
+    "h": "The DIY Chaos",
+    "t": "Shows like Changing Rooms and Home on Their Own thrived on the tension of amateur renovations [1]. Whether it was a collapsed shelf smashing a £6,000 teapot collection or kids installing robotic toilets, the results were often unpredictable [1]."
+   },
+   {
+    "h": "Extreme Concepts",
+    "t": "Television schedules were filled with provocative ideas, such as celebrities training as police officers in Armed & Famous or contestants having their attractiveness judged by experts in Are You Hot? [1]. These shows often relied on high-pressure environments and unusual challenges to generate drama [1]."
+   },
+   {
+    "h": "A Changing Landscape",
+    "t": "Many of these programmes, including The Swan and 10 Years Younger, focused on intense makeovers or public scrutiny [1]. Today, these formats are often viewed with a critical eye, highlighting how much our approach to entertainment and personal presentation has evolved [1]."
+   }
+  ],
+  "why": "It is a good reminder that extreme approaches are not always better, whether in home renovation, business, or personal branding. Sometimes the simplest, most authentic approach is the most sustainable one.",
+  "tryit": "Take a short break from your current project and watch a clip of an old, absurd reality show from the 2000s to reset your focus and have a laugh.",
+  "qa": [
+   [
+    "How long did the show America's Next Top Model run?",
+    "It ran for a full 15 years, from 2003 to 2018 [1]."
+   ],
+   [
+    "What was the premise of Room Raiders?",
+    "Three contestants had their dorm rooms inspected by a singleton who then chose a date based on the room [1]."
+   ],
+   [
+    "Did the show Big! feature real gadgets?",
+    "Yes, teams of experts built gigantic, yet fully functioning, versions of everyday objects like cuckoo clocks and electric guitars [1]."
+   ],
+   [
+    "What happened in the British episode of Changing Rooms in 2000?",
+    "A contestant's prized £6,000 teapot collection was smashed when avant-garde suspended shelving collapsed [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.mentalfloss.com/entertainment/tv/forgotten-reality-shows-2000s",
+    "status": 200,
+    "title": "20 Forgotten Reality TV Shows From the 2000s That Are Unbelievable Today",
+    "domain": "mentalfloss.com"
+   }
+  ],
+  "date": "2026-11-01",
+  "publishedAt": "2026-11-01T19:00:04Z",
+  "addedAt": "2026-11-03T11:11:00Z",
+  "audio": "audio/a-look-back-at-the-bizarre-reality-tv-trends-of.mp3",
+  "image": {
+   "src": "img/a-look-back-at-the-bizarre-reality-tv-trends-of.jpg",
+   "credit": "Mental Floss",
+   "license": "© Mental Floss, shown with credit",
+   "page": "https://www.mentalfloss.com/entertainment/tv/forgotten-reality-shows-2000s",
+   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_26,w_3746,h_2107/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m64na8xw8wvm89t255.jpg"
+  }
+ },
+ {
+  "id": "how-famous-actors-negotiated-and-lost-iconic-fil",
+  "cat": "english",
+  "tags": [
+   "negotiation",
+   "career",
+   "business",
+   "decision-making"
+  ],
+  "title": "How Famous Actors Negotiated and Lost Iconic Film Roles",
+  "snippet": "Iconic movie roles often hinged on simple conversations, salary demands, or creative disagreements. These stories show how actors navigated career-defining choices and the consequences of saying no.",
+  "bullets": [
+   "Stacy Keach lost his role in The Exorcist after his agent requested more money [1].",
+   "Sylvester Stallone held out for the lead in Rocky despite offers of $275,000 [1].",
+   "Tim Roth turned down the role of Snape in Harry Potter to avoid being typecast [1]."
+  ],
+  "report": [
+   {
+    "h": "The Cost of Negotiation",
+    "t": "In the film industry, a simple salary request can change the course of a career. Stacy Keach lost his role in The Exorcist when his agent asked for more money, while Sylvester Stallone secured his legacy by refusing to sell the Rocky script unless he played the lead, even with $275,000 on the table [1]."
+   },
+   {
+    "h": "Creative Disagreements",
+    "t": "Sometimes, creative input can derail a project. Dustin Hoffman lost the lead in Blade Runner because he would not stop suggesting changes, such as introducing cryogenics, while John Candy lost his part in Ghostbusters because he wanted to add a German accent that the director felt was confusing [1]."
+   },
+   {
+    "h": "The Fear of Typecasting",
+    "t": "Actors often make decisions based on how they want to be perceived. Henry Winkler turned down the lead in Grease fearing he would be typecast, and Tim Roth passed on the role of Snape in Harry Potter because he did not want to be known only for the associated merchandise [1]."
+   }
+  ],
+  "why": "Understanding how these professionals navigated high-stakes decisions offers a practical look at the power of negotiation and the importance of staying true to your creative vision.",
+  "tryit": "Reflect on a recent decision where you felt hesitant. Ask yourself if you were clear about your non-negotiables, like Stallone, or if you were letting external fears, like typecasting, influence your choice.",
+  "qa": [
+   [
+    "Why did Stacy Keach lose his role in The Exorcist?",
+    "He lost the role because his agent asked for more money, leading the director to move on to another actor [1]."
+   ],
+   [
+    "Why did Sylvester Stallone refuse to sell the Rocky script?",
+    "He refused to sell it unless he was allowed to play the lead role himself [1]."
+   ],
+   [
+    "What was the reason Tim Roth turned down the role of Snape?",
+    "He turned it down because he did not want to be known only for the merchandise associated with the film [1]."
+   ],
+   [
+    "Why did Dustin Hoffman lose the lead in Blade Runner?",
+    "The producer felt Hoffman would not stop wanting to make changes to the script, which made the process boring [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.mentalfloss.com/entertainment/movies/iconic-roles-almost-went-different-actors",
+    "status": 200,
+    "title": "25 Iconic Movie Roles That Almost Went to Different Actors",
+    "domain": "mentalfloss.com"
+   }
+  ],
+  "date": "2026-11-02",
+  "publishedAt": "2026-11-02T15:00:02Z",
+  "addedAt": "2026-11-03T11:11:00Z",
+  "audio": "audio/how-famous-actors-negotiated-and-lost-iconic-fil.mp3",
+  "image": {
+   "src": "img/how-famous-actors-negotiated-and-lost-iconic-fil.jpg",
+   "credit": "Mental Floss",
+   "license": "© Mental Floss, shown with credit",
+   "page": "https://www.mentalfloss.com/entertainment/movies/iconic-roles-almost-went-different-actors",
+   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_393,y_115,w_4520,h_2542/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m671d25r8n4ne2s6rs.jpg"
+  }
+ },
+ {
+  "id": "new-le-audio-bluetooth-features-improve-your-hea",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "tech",
+   "headphones",
+   "battery",
+   "audio"
+  ],
+  "title": "New LE Audio Bluetooth features improve your headphone battery and call quality",
+  "snippet": "Bluetooth is shifting from Classic to LE Audio, bringing better call quality and battery life to your devices. This update helps fix common issues like uneven battery drain and poor audio during video calls.",
+  "bullets": [
+   "LE Audio uses the LC3 codec to handle audio streams and voice calls simultaneously for better quality [1].",
+   "The new protocol enables independent audio streams, which prevents the asymmetrical battery drain common in older Bluetooth setups [1].",
+   "Manufacturers like JBL, Sony, and Bose are rolling out LE Audio support through firmware updates or new product releases [1]."
+  ],
+  "report": [
+   {
+    "h": "Better Audio Quality",
+    "t": "Bluetooth Classic relies on separate profiles for media and voice, which often results in poor audio during calls or gaming [1]. LE Audio consolidates these into a single profile, creating higher-quality, bidirectional audio streams [1]."
+   },
+   {
+    "h": "Fixing Battery Drain",
+    "t": "In older Bluetooth setups, one earbud often drains faster because it retransmits audio to the other [1]. LE Audio enables independent audio streams, eliminating this issue and balancing battery usage across earbuds [1]."
+   },
+   {
+    "h": "Wider Compatibility",
+    "t": "Companies like JBL, Sony, and Bose are updating their flagship headphones to support this technology [1]. While ecosystem fragmentation remains a challenge, LE Audio helps reduce reliance on specific proprietary codecs for better performance [1]."
+   }
+  ],
+  "why": "This matters because better audio quality and battery life reduce tech-related friction, helping you stay focused during calls and meetings without constant charging interruptions [1].",
+  "tryit": "Check your headphones' companion app on your phone to see if there is an available firmware update that enables LE Audio support [1].",
+  "qa": [
+   [
+    "What is the main benefit of LE Audio for voice calls?",
+    "It consolidates audio profiles to provide higher-quality, bidirectional audio streams [1]."
+   ],
+   [
+    "Why do my earbuds often have different battery levels?",
+    "In Bluetooth Classic, one earbud often retransmits audio to the other, causing asymmetrical battery drain [1]."
+   ],
+   [
+    "Can I get LE Audio on my current headphones?",
+    "Some manufacturers, like Bose and JBL, are rolling out LE Audio support through over-the-air firmware updates [1]."
+   ],
+   [
+    "Does LE Audio help with gaming?",
+    "Yes, it removes ecosystem barriers to low-latency mobile gaming [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
+    "status": 200,
+    "title": "Your headphones have hidden LE Audio features you'll want to know about - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-10-29",
+  "publishedAt": "2026-10-29T17:45:05Z",
+  "addedAt": "2026-11-03T11:11:00Z",
+  "audio": "audio/new-le-audio-bluetooth-features-improve-your-hea.mp3",
+  "image": {
+   "src": "img/new-le-audio-bluetooth-features-improve-your-hea.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/9e735a6c-10a9-41cb-b9a1-8764ebcc13a3.jpg"
+  }
+ },
+ {
+  "id": "scaling-a-startup-to-global-reach-without-moving",
+  "cat": "money",
+  "tags": [
+   "money",
+   "business",
+   "negotiation"
+  ],
+  "title": "Scaling a startup to global reach without moving to traditional hubs",
+  "snippet": "Discover how founders build massive companies outside traditional hubs like Silicon Valley. Learn practical scaling insights from local success stories.",
+  "bullets": [
+   "The TechCrunch Founder Summit takes place in Boston at SoWa Power Station on November 4 [1].",
+   "Toast President and Co-founder Steve Fredette shares insights on finding customers and scaling a company [1].",
+   "HqO CEO Chase Garbarino discusses building an international business from Boston without relocating [1]."
+  ],
+  "report": [
+   {
+    "h": "Building Beyond Traditional Hubs",
+    "t": "Founders can build companies with national and global reach without moving to a traditional West Coast startup hub [1]. Toast President Steve Fredette shares lessons on product-market fit and scaling a local company into a major success [1]."
+   },
+   {
+    "h": "Practical Scaling Insights",
+    "t": "HqO CEO Chase Garbarino explores the realities, advantages, and disadvantages of building a business where the standard playbook was not necessarily written [1]. Leaders can examine scaling topics across dedicated breakout and roundtable sessions [1]."
+   },
+   {
+    "h": "Community and Networking",
+    "t": "Events connect local founders, investors, and startup leaders to share challenges and build relationships [1]. Braindate networking and roundtable discussions help founders tackle specific problems with venture capitalists [1]."
+   }
+  ],
+  "why": "It shows practical ways to scale a business and find valuable networks outside standard geographic constraints.",
+  "tryit": "Review the full TechCrunch Founder Summit agenda online to find breakout sessions on scaling topics.",
+  "qa": [
+   [
+    "When is the TechCrunch Founder Summit?",
+    "It takes place on November 4 at SoWa Power Station [1]."
+   ],
+   [
+    "Who is speaking from Toast?",
+    "Steve Fredette, President, Co-founder, and Director of Toast, is speaking [1]."
+   ],
+   [
+    "What does Chase Garbarino discuss?",
+    "He tackles the geography question and the realities of building an international business from Boston [1]."
+   ],
+   [
+    "What networking formats are available?",
+    "The event features Braindate networking, interactive roundtables, and official side events [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+    "status": 200,
+    "title": "2 days till Founder Summit in Boston | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-02",
+  "publishedAt": "2026-11-02T14:00:00Z",
+  "addedAt": "2026-11-03T11:11:00Z",
+  "audio": "audio/scaling-a-startup-to-global-reach-without-moving.mp3",
+  "image": {
+   "src": "img/scaling-a-startup-to-global-reach-without-moving.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800"
+  }
+ },
+ {
+  "id": "discover-the-darent-valley-a-quiet-kent-escape-l",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "uk",
+   "nature",
+   "history",
+   "weekend"
+  ],
+  "title": "Discover the Darent Valley: A Quiet Kent Escape Less Than One Hour Away",
+  "snippet": "Just an hour from London, the Darent Valley offers a peaceful retreat filled with history, scenic walks, and local food. This hidden gem is perfect for a quick weekend break to recharge. [1]",
+  "bullets": [
+   "The Darent Valley is accessible by a twice-hourly train from London Blackfriars, taking about an hour [1].",
+   "Visitors can explore the 21-mile Darent Valley Path, which connects villages like Shoreham and Eynsford through woodlands and hills [1].",
+   "Local attractions include Castle Farm, one of the UK’s largest lavender growers, and historic sites like Lullingstone Roman villa [1]."
+  ],
+  "report": [
+   {
+    "h": "Easy travel access",
+    "t": "Reaching the Darent Valley is straightforward for those based in London. Trains run twice-hourly from London Blackfriars, taking approximately one hour to reach the area [1]. Once there, you can easily hop between villages like Shoreham, Otford, and Eynsford by train or the Line 2 bus [1]."
+   },
+   {
+    "h": "History and nature",
+    "t": "The area is rich in history, featuring the 16th-century palace ruins in Otford and the well-preserved Lullingstone Roman villa [1]. For nature lovers, the 21-mile Darent Valley Path offers a gentle route through rolling hills and empty woodlands [1]. You can also visit Castle Farm, which is one of the UK’s largest lavender growers, to enjoy local honey and lavender products [1]."
+   },
+   {
+    "h": "Local accommodation options",
+    "t": "For a quiet stay, White Hill Woods is located just five minutes from Shoreham station [1]. They offer a log cabin for families starting from £150 a night, and a shepherd’s hut for couples or solo travellers from £100 a night [1]. Both options require a two-night minimum stay, so booking ahead is recommended [1]."
+   }
+  ],
+  "why": "This provides a low-stress, accessible travel option that allows you to disconnect from city life and recharge your focus in nature without extensive planning. [1]",
+  "tryit": "Check the train schedule from London Blackfriars to Shoreham (Kent) on a travel app to see if a weekend trip fits your calendar. [1]",
+  "qa": [
+   [
+    "How long does it take to get there?",
+    "It takes about an hour by train from London Blackfriars [1]."
+   ],
+   [
+    "Is it easy to get around once I arrive?",
+    "Yes, you can use the train to hop between villages in minutes or take the Line 2 bus [1]."
+   ],
+   [
+    "What is there to see in Eynsford?",
+    "Eynsford features the Lullingstone Roman villa, Lullingstone Castle, and a historic ford [1]."
+   ],
+   [
+    "Are there places to eat in Shoreham?",
+    "Yes, you can visit The Crown for pub classics or The Samuel Palmer for a seasonal discovery menu [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/travel/2026/nov/03/perfect-weekend-darent-valley-kent-demi-paradise-great-pubs",
+    "status": 200,
+    "title": "A perfect weekend in the Darent valley, Kent: a ‘demi-paradise’ of art, lavender fields and great pubs",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-03",
+  "publishedAt": "2026-11-03T07:00:41Z",
+  "addedAt": "2026-11-03T11:11:00Z",
+  "audio": "audio/discover-the-darent-valley-a-quiet-kent-escape-l.mp3",
+  "image": {
+   "src": "img/discover-the-darent-valley-a-quiet-kent-escape-l.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/travel/2026/nov/03/perfect-weekend-darent-valley-kent-demi-paradise-great-pubs",
+   "from_url": "https://i.guim.co.uk/img/media/6da46a7b621e32a986b9cc07784eaff03a1e3b7f/1152_0_6557_5246/master/6557.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d26e77da465801f0eebedea9727e9bb4"
+  }
+ },
+ {
+  "id": "a-design-lover-s-guide-to-exploring-creative-spa",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "design",
+   "new york",
+   "art",
+   "architecture"
+  ],
+  "title": "A Design Lover's Guide To Exploring Creative Spaces In New York City",
+  "snippet": "Discover inspiring design spots across New York City, from hidden museum gardens and vintage stores to custom listening bars and architectural landmarks.",
+  "bullets": [
+   "The Cooper Hewitt museum features historical design objects and a free garden located on Andrew Carnegie's former estate [1].",
+   "The New York Transit Museum in Brooklyn showcases vintage train cars and exhibits dedicated to designer Massimo Vignelli [1].",
+   "Pioneer Works in Red Hook occupies an 1866 red-brick warehouse and hosts arts and science programming [1]."
+  ],
+  "report": [
+   {
+    "h": "Uptown Art And Architecture",
+    "t": "Museum Mile offers rich design inspiration beyond the standard galleries. The Cooper Hewitt displays centuries of design objects alongside a lovely garden, while the Neue Galerie features early twentieth-century German and Austrian art [1]."
+   },
+   {
+    "h": "Downtown Independent Shops",
+    "t": "The Lower East Side and SoHo invite slow browsing of independent clothing boutiques and multidisciplinary spaces. Visitors can explore minimalist art installations at the Judd Foundation or shop for vintage pieces along Orchard Street [1]."
+   },
+   {
+    "h": "Creative Spaces In Brooklyn And Queens",
+    "t": "Brooklyn and Queens offer unique cultural hubs like the Noguchi Museum in Astoria and Pioneer Works in Red Hook. Industrial neighborhoods also house specialty stationery stores, furniture galleries, and custom sound design venues [1]."
+   }
+  ],
+  "why": "Exploring inspiring interior spaces and creative neighborhood guides offers a refreshing way to spark new ideas for your own projects and travels.",
+  "tryit": "Search for upcoming open house dates at the Paul Rudolph Institute duplex in Midtown East to plan your next architectural visit [1].",
+  "qa": [
+   [
+    "What can visitors see at the Cooper Hewitt museum?",
+    "It showcases design objects spanning centuries, including Egyptian ceramics and Swedish midcentury-modern lamps [1]."
+   ],
+   [
+    "Where is the Noguchi Museum located?",
+    "It is located in Astoria, Queens, featuring biomorphic sculptures and a sculpture garden [1]."
+   ],
+   [
+    "What is featured at the New York Transit Museum?",
+    "Visitors can tour over twenty different vintage train cars and view exhibits dedicated to designer Massimo Vignelli [1]."
+   ],
+   [
+    "What kind of venue is Pioneer Works?",
+    "It is an arts and science programming space born out of a former 1866 red-brick warehouse in Red Hook [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/a-new-york-city-weekend-guide-for-design-lovers",
+    "status": 200,
+    "title": "A New York City Weekend Guide for Design Lovers",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-10-30",
+  "publishedAt": "2026-10-30T14:00:00Z",
+  "addedAt": "2026-11-03T11:11:00Z",
+  "audio": "audio/a-design-lover-s-guide-to-exploring-creative-spa.mp3",
+  "image": {
+   "src": "img/a-design-lover-s-guide-to-exploring-creative-spa.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/a-new-york-city-weekend-guide-for-design-lovers",
+   "from_url": "https://media.cntraveler.com/photos/6ae38656f2041b5a5e97968c/16:9/w_1280,c_limit/A%20New%20York%20City%20Weekend%20Guide%20for%20Design%20Lovers-lede.png"
+  }
+ },
+ {
   "id": "uk-weather-update-10-days-of-calm-and-dry-condit",
   "cat": "news",
   "tags": [
