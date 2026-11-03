@@ -67,19 +67,28 @@ function rebuild(){
   const un=pool.filter(x=>!isSeen(x)),seen=pool.filter(isSeen);
   const uf=un.filter(x=>!isEver(x)).sort((a,b)=>fscore(b)-fscore(a)),ue=un.filter(isEver);
   const A=mixEver(uf,ue);let lead=[...A.out,...ue.slice(A.used)];
-  const ji=lead.filter(x=>JUSTIN.has(x.id));lead=[...ji,...catMix(rotate(lead.filter(x=>!JUSTIN.has(x.id))))];
+  const ji=lead.filter(x=>JUSTIN.has(x.id));lead=diversify([...ji,...catMix(rotate(lead.filter(x=>!JUSTIN.has(x.id))))]);
   seen.sort((a,b)=>score(b)-score(a));
   lead.forEach((x,i)=>x._sec=i===0?"hook":"");seen.forEach(x=>x._sec="");
-  if(document.querySelector("#feed .seenT.open")){queue=[...lead,...catMix(seen)];SEENQ=[];return;}
-  queue=lead;SEENQ=catMix(seen);return;}
+  if(document.querySelector("#feed .seenT.open")){queue=diversify([...lead,...catMix(seen)]);SEENQ=[];return;}
+  queue=lead;SEENQ=diversify(catMix(seen));return;}
  pool.forEach(x=>x._sec="");
  if(tab==="all"){const out=[];const rest=pool.slice();let l1=feedLastCat(),l2=null;while(rest.length){let i=(l1&&l1===l2)?rest.findIndex(s=>s.cat!==l1):0;if(i<0)i=0;const s=rest.splice(i,1)[0];out.push(s);l2=l1;l1=s.cat;}pool=out;}
- queue=pool;
+ queue=tab==="all"&&!query?diversify(pool,feedRun()):pool;
 }
 /* fresher + liked first; rotate the top few each open; never two of a category in a row (if avoidable) */
 function fscore(s){return score(s)+(isNew(s)?3:0)+Math.max(0,2-(NEWEST-tAdded(s))/DAY);}
 function rotate(a){const nn=a.findIndex(s=>!isNew(s));const k=Math.min(5,a.length,nn>1?nn:(nn===-1?a.length:5));if(k<2)return a;const r=st.sessions%k;const top=a.slice(0,k);return [...top.slice(r),...top.slice(0,r),...a.slice(k)];}
 function catMix(a){const out=[],rest=a.slice();let last=null;while(rest.length){let i=rest.findIndex(s=>s.cat!==last);if(i<0)i=0;const s=rest.splice(i,1)[0];out.push(s);last=s.cat;}return out;}
+/* anti-bubble: at least 1 in every 4 cards is from a category he hasn't liked, or a 'whoa' story, whatever the like weighting */
+const LIKEDCAT=c=>(st.cat[c]||0)>0.5;
+const isExplore=s=>s.cat==="whoa"||!LIKEDCAT(s.cat);
+function diversify(a,run0=0){const out=[],rest=a.slice();let run=run0;
+ while(rest.length){let i=0;
+  if(run>=3&&!isExplore(rest[0])){const last=out.length?out[out.length-1].cat:null;let j=rest.findIndex(x=>isExplore(x)&&x.cat!==last);if(j<0)j=rest.findIndex(isExplore);if(j>=0)i=j;}
+  const x=rest.splice(i,1)[0];out.push(x);run=isExplore(x)?0:run+1;}
+ return out;}
+function feedRun(){const cs=[...$("#feed").querySelectorAll(".card")];let r=0;for(let k=cs.length-1;k>=0;k--){const s=byId[cs[k].dataset.id];if(!s||isExplore(s))break;r++;}return r;}
 function feedLastCat(){const c=[...$("#feed").querySelectorAll(".card")].pop();return c&&c.dataset.cat;}
 /* ---------- rendering ---------- */
 const fav=d=>`fav/${d}.png`;
@@ -96,14 +105,23 @@ let NOW=null;
 async function getNow(){try{const r=await fetch("data/now.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;NOW=await r.json();}catch(e){try{const m=await caches.match("data/now.json",{ignoreSearch:true});NOW=m?await m.json():null}catch(x){NOW=null}}}
 function nowItems(){if(!NOW||!NOW.items)return[];return NOW.items.filter(x=>Date.now()-Date.parse(x.publishedAt)<36*3600e3).slice(0,10);}
 function nowHTML(){const it=nowItems();if(!it.length)return"";
- return `<section class="nowS" aria-label="Right now"><div class="nowH"><span class="nowDot"></span><b>Right now</b><span class="nowSub">headlines from ${[...new Set(it.map(x=>x.source))].join(", ")}</span></div><div class="nowR">${it.map(x=>`<a class="nowI" href="${esc(x.url)}" target="_blank" rel="noopener" data-src="${esc(x.domain)}"><img src="${esc(x.image)}" alt="" loading="lazy" decoding="async" width="132" height="74"><span class="nt">${esc(x.title)}</span><span class="nm">${esc(x.source)} · ${ago(Date.parse(x.publishedAt))}</span></a>`).join("")}</div></section>`;}
+ return `<section class="nowS" aria-label="Right now"><div class="nowH"><span class="nowDot"></span><b>Right now</b><span class="nowSub">${new Set(it.map(x=>x.source)).size} outlets · left, centre & right</span></div><div class="nowR">${it.map((x,i)=>`<div class="nowI"><a href="${esc(x.url)}" target="_blank" rel="noopener" data-src="${esc(x.domain)}"><img src="${esc(x.image)}" alt="" loading="lazy" decoding="async" width="132" height="74"><span class="nt">${esc(x.title)}</span><span class="nm">${esc(x.source)} · ${ago(Date.parse(x.publishedAt))}</span></a>${sidesBtn(x,"now:"+i)}</div>`).join("")}</div></section>`;}
+/* See other sides: 2-4 real articles on the same event from outlets across the spectrum (built + link-checked by pipeline/sides.py) */
+const SCALE='<svg viewBox="0 0 24 24"><path d="M12 3v18M5 21h14M4 8h16M4 8l-3 6a3 3 0 0 0 6 0zM20 8l-3 6a3 3 0 0 0 6 0z"/></svg>';
+const hasSides=x=>Array.isArray(x.sides)&&x.sides.length>=2;
+const sidesBtn=(x,key)=>hasSides(x)?`<button class="sidesB" data-sides="${esc(key)}" aria-label="See other sides">${SCALE}<span>See other sides · ${x.sides.length}</span></button>`:"";
+function openSides(x){const ls={L:"Left-leaning",C:"Centre",R:"Right-leaning"};const el=$("#sides");
+ el.innerHTML=`<div class="scrim"></div><div class="panel" role="dialog" aria-label="Other sides"><div class="grab"></div><div class="sheetHead"><b>Other sides</b><button class="ic close" aria-label="Close">${IC.x}</button></div><p class="sdIntro">Same story, other outlets: <i>${esc(x.title)}</i></p><ul class="sdList">${x.sides.map(o=>`<li><a href="${esc(o.url)}" target="_blank" rel="noopener"><span class="sdO"><b>${esc(o.outlet)}</b><span class="lean ${o.lean}">${ls[o.lean]||""}</span><span class="sdT">${ago(Date.parse(o.publishedAt))}</span></span><span class="sdH">${esc(o.title)}</span></a></li>`).join("")}</ul><p class="sdNote">Headlines as each outlet published them. Lean labels follow common media-bias ratings.</p></div>`;
+ el.hidden=false;document.body.classList.add("lock");el.querySelector(".scrim").onclick=closeSides;el.querySelector(".close").onclick=closeSides;logEv("sides",x.id||null);}
+function closeSides(){$("#sides").hidden=true;if($("#sheet").hidden&&$("#lib").hidden)document.body.classList.remove("lock");}
+document.addEventListener("click",e=>{const b=e.target.closest(".sidesB");if(!b)return;e.preventDefault();e.stopPropagation();const k=b.dataset.sides;const x=k.startsWith("now:")?nowItems()[+k.slice(4)]:byId[k];if(x)openSides(x);},true);
 function placeNow(){const f=$("#feed");if(f.querySelector(".nowS")||tab!=="all"||query)return;const h=nowHTML();if(!h)return;const hk=f.querySelector(".card.hook");if(hk)hk.insertAdjacentHTML("afterend",h);else{const nl=f.querySelector(".newLine");nl?nl.insertAdjacentHTML("afterend",h):f.insertAdjacentHTML("afterbegin",h);}}
 function cardHTML(s,i){
  const hook=s._sec==="hook";s._sec="";
  return `<article class="card ${hook?"hook ":""}${st.react[s.id]===1?"liked":""}" data-id="${s.id}" data-cat="${s.cat}">${hook?`<div class="hookK"><span class="spark">●</span> ${!isEver(s)&&Date.now()-tPub(s)<12*3600e3?"Just in":isNew(s)?"New for you":"Fresh for you"} · ${isEver(s)?"Top pick":relT(s)}</div>`:""}
  <div class="ph" data-tog><img class="loading" src="${s.image.src}" alt="${esc(s.title)}" ${i>2?'loading="lazy"':''} decoding="async" width="1200" height="675" onload="this.classList.remove('loading')"><span class="credit">${esc(s.image.credit)}</span></div>
  <div class="body"><div class="lbl">${isNew(s)?'<span class="newB">New</span>':""}${CATLBL[s.cat]}</div>
- <h2 data-tog>${esc(s.title)}</h2><p class="snip" data-tog>${esc(s.snippet)} <span class="see">See more</span></p>
+ <h2 data-tog>${esc(s.title)}</h2><p class="snip" data-tog>${esc(s.snippet)} <span class="see">See more</span></p>${sidesBtn(s,s.id)}
  <div class="meta"><div class="time"><span>${isEver(s)?"Evergreen":relT(s)}</span><span class="likeMark">· Liked</span></div>
  <div class="acts">${actsHTML(s.id)}</div></div></div>
  <div class="xwrap" aria-hidden="true"></div></article>`;}
@@ -139,7 +157,7 @@ function commitDwell(id,ms){const s=byId[id];if(!s)return;st.seen[id]=(st.seen[i
  if(ms>2500){const w=Math.min(ms/1000,12)/12*0.6;learn(s,w,"dwell "+Math.round(ms/1000)+"s")}else if(ms<900){learn(s,-0.05,"skip")}else save();}
 new IntersectionObserver(es=>{if(es[0].isIntersecting)loadMore(5)},{rootMargin:"1400px 0px"}).observe($("#sentinel"));
 let st8=0;addEventListener("scroll",()=>{if(st8)return;st8=setTimeout(()=>{st8=0;if(scrollY+innerHeight>document.documentElement.scrollHeight-1600)loadMore(5)},120)},{passive:true});
-addEventListener("keydown",e=>{if(e.key==="Escape"){if(!$("#lib").hidden){closeLib();return;}if(!$("#menu").hidden)closeMenu();else if(!$("#sheet").hidden)closeSheet();}});
+addEventListener("keydown",e=>{if(e.key==="Escape"){if(!$("#sides").hidden){closeSides();return;}if(!$("#lib").hidden){closeLib();return;}if(!$("#menu").hidden)closeMenu();else if(!$("#sheet").hidden)closeSheet();}});
 /* ---------- tabs & search ---------- */
 function renderTabs(){$("#tabs").innerHTML=Object.entries(CATS).map(([k,v])=>`<button class="tab" role="tab" data-k="${k}" aria-selected="${k===tab}">${v}</button>`).join("");}
 $("#tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(!b)return;tab=b.dataset.k;renderTabs();$(`.tab[data-k="${tab}"]`).scrollIntoView({inline:"center",block:"nearest",behavior:"smooth"});resetFeed();logEv("tab",null,{tab});});
