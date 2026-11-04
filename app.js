@@ -66,7 +66,7 @@ function rebuild(){
  if(!query&&round===0){
   const un=pool.filter(x=>!isSeen(x)),seen=pool.filter(isSeen);
   const uf=un.filter(x=>!isEver(x)).sort((a,b)=>fscore(b)-fscore(a)),ue=un.filter(isEver).sort((a,b)=>score(b)-score(a));
-  const ji=uf.filter(x=>JUSTIN.has(x.id));let lead=[...ji,...catMix(rotate(uf.filter(x=>!JUSTIN.has(x.id))))];
+  const ji=uf.filter(x=>JUSTIN.has(x.id));const t24=Date.now()-DAY;const f24=uf.filter(x=>!JUSTIN.has(x.id)&&tAdded(x)>t24);const rot=catMix(rotate(uf.filter(x=>!JUSTIN.has(x.id)&&!(tAdded(x)>t24))));let lead=tab==="all"?[...ji,...catMix(rotate([...f24]))].concat(rot):[...ji,...f24,...rot];
   if(tab==="all")lead=diversify(lead);
   // Bonus picks: short + finite. His best unseen evergreen; if fewer than 3, top up with the evergreen he saw longest ago.
   const BN=tab==="all"?5:3;let leadRun=0;for(const x of lead)leadRun=isExplore(x)?0:leadRun+1;let bonus=(tab==="all"?diversify(ue,leadRun):ue).slice(0,BN);
@@ -129,7 +129,7 @@ function cardHTML(s,i){
  <div class="meta"><div class="time"><span>${isEver(s)?"Evergreen":relT(s)}</span><span class="likeMark">· Liked</span></div>
  <div class="acts">${actsHTML(s.id)}</div></div></div>
  <div class="xwrap" aria-hidden="true"></div></article>`;}
-const actsHTML=(id)=>{const r=id?st.react[id]||0:0;return `<button class="ic listen" aria-label="Listen">${IC.listen}</button><button class="ic likeB${r===1?" on":""}" aria-label="Like" aria-pressed="${r===1}">${r===1?IC.upF:IC.up}</button><button class="ic lessB" aria-label="Less like this" aria-pressed="false">${IC.down}</button><button class="ic saveB${id&&LIB.saved[id]?" on":""}" aria-label="Save" aria-pressed="${!!(id&&LIB.saved[id])}">${id&&LIB.saved[id]?IC.saveF:IC.save}</button><button class="ic shareB" aria-label="Share">${IC.share}</button><button class="ic more" aria-label="More">${IC.more}</button>`;};
+const actsHTML=(id)=>{const r=id?st.react[id]||0:0;return `<button class="ic listen" aria-label="Listen">${IC.listen}</button><button class="ic likeB${r===1?" on":""}" aria-label="Like" aria-pressed="${r===1}">${r===1?IC.upF:IC.up}</button><button class="ic lessB${r===-1?" on":""}" aria-label="Less like this" aria-pressed="${r===-1}">${IC.down}</button><button class="ic saveB${id&&LIB.saved[id]?" on":""}" aria-label="Save" aria-pressed="${!!(id&&LIB.saved[id])}">${id&&LIB.saved[id]?IC.saveF:IC.save}</button><button class="ic shareB" aria-label="Share">${IC.share}</button><button class="ic more" aria-label="More">${IC.more}</button>`;};
 let loading=false;
 function loadMore(n=5){
  if(loading)return;loading=true;
@@ -189,14 +189,13 @@ $("#feed").addEventListener("click",e=>{
 });
 function toast(t){const el=$("#toast");el.textContent=t;el.hidden=false;clearTimeout(toast.t);toast.t=setTimeout(()=>el.hidden=true,2400);}
 function react(s,v){
- const prev=st.react[s.id]||0; if(prev===v){st.react[s.id]=0;learn(s,v===1?-1.5:2,"undo");toast("Removed");}
+ const prev=st.react[s.id]||0; if(prev===v){st.react[s.id]=0;learn(s,v===1?-1.5:2,"undo");toast(v===1?"Like removed":"Less-like-this undone");}
  else{st.react[s.id]=v;learn(s,v===1?2.5+(prev?2:0):-2-(prev?1.5:0),v===1?"like":"dislike");
-  toast(v===1?`More ${CATLBL[s.cat].toLowerCase()} stories coming up`:`Got it, fewer like this`);}
+  toast(v===1?`More ${CATLBL[s.cat].toLowerCase()} stories coming up`:`Less like this noted · tap again to undo`);}
  if(st.react[s.id]===1)LIB.liked[s.id]={s:libCopy(s),t:Date.now()};else delete LIB.liked[s.id];saveLib();
  save();document.querySelectorAll(`.card[data-id="${s.id}"]`).forEach(c=>{c.classList.toggle("liked",st.react[s.id]===1);
   const lb=c.querySelector(".likeB");if(lb){const on=st.react[s.id]===1;lb.classList.toggle("on",on);lb.setAttribute("aria-pressed",on);lb.innerHTML=on?IC.upF:IC.up;lb.classList.remove("pop");void lb.offsetWidth;lb.classList.add("pop");}
-  if(st.react[s.id]===-1){const lb2=c.querySelector(".lessB");if(lb2){lb2.classList.add("on");lb2.setAttribute("aria-pressed","true")}setTimeout(()=>removeCard(c),260)}});
- rebuild();
+  const lb2=c.querySelector(".lessB");if(lb2){const on=st.react[s.id]===-1;lb2.classList.toggle("on",on);lb2.setAttribute("aria-pressed",on);}});
 }
 function toggleSave(s,silent){const on=!LIB.saved[s.id];if(on)LIB.saved[s.id]={s:libCopy(s),t:Date.now()};else delete LIB.saved[s.id];saveLib();
  if(on)learn(s,1,"save");logEv(on?"save":"unsave",s.id);if(!silent)toast(on?"Saved to Library":"Removed from Saved");
