@@ -66,7 +66,7 @@ function rebuild(){
  if(!query&&round===0){
   const un=pool.filter(x=>!isSeen(x)),seen=pool.filter(isSeen);
   const uf=un.filter(x=>!isEver(x)).sort((a,b)=>fscore(b)-fscore(a)),ue=un.filter(isEver).sort((a,b)=>score(b)-score(a));
-  const ji=uf.filter(x=>JUSTIN.has(x.id));const t24=Date.now()-DAY;const f24=uf.filter(x=>!JUSTIN.has(x.id)&&tAdded(x)>t24);const rot=catMix(rotate(uf.filter(x=>!JUSTIN.has(x.id)&&!(tAdded(x)>t24))));let lead=tab==="all"?[...ji,...catMix(rotate([...f24]))].concat(rot):[...ji,...f24,...rot];
+  const ji=uf.filter(x=>JUSTIN.has(x.id));const t24=Date.now()-DAY;const f24=uf.filter(x=>!JUSTIN.has(x.id)&&tAdded(x)>t24);const rot=catMix(rotate(uf.filter(x=>!JUSTIN.has(x.id)&&!(tAdded(x)>t24))));let lead=tab==="all"?catMix([...ji,...catMix(rotate([...f24])),...rot]):[...ji,...f24,...rot];
   if(tab==="all")lead=diversify(lead);
   // Bonus picks: short + finite. His best unseen evergreen; if fewer than 3, top up with the evergreen he saw longest ago.
   const BN=tab==="all"?5:3;let leadRun=0;for(const x of lead)leadRun=isExplore(x)?0:leadRun+1;let bonus=(tab==="all"?diversify(ue,leadRun):ue).slice(0,BN);
