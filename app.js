@@ -492,6 +492,28 @@ let hiddenAt=0;document.addEventListener("visibilitychange",()=>{if(document.hid
  addEventListener("touchstart",e=>{y0=(scrollY<=0&&$("#sheet").hidden&&e.touches.length===1)?e.touches[0].clientY:null;dy=0;},{passive:true});
  addEventListener("touchmove",e=>{if(y0==null)return;dy=e.touches[0].clientY-y0;if(dy>0&&scrollY<=0){pt.style.height=Math.min(dy*.5,70)+"px";pt.classList.toggle("ready",dy>120);}},{passive:true});
  addEventListener("touchend",()=>{if(y0==null)return;const go=dy>120;y0=null;pt.style.height="";pt.classList.remove("ready");if(go)refresh(true);},{passive:true});})();
+
+/* ---------- offline pack: cache story images + audio after one online open ---------- */
+async function prefetchOffline(){
+  if(!navigator.onLine||!("caches" in window))return;
+  const imgs=STORIES.map(s=>s.image&&s.image.src).filter(Boolean);
+  const auds=STORIES.map(s=>s.audio).filter(Boolean);
+  const core=await caches.open("feed-v12");
+  const ac=await caches.open("feed-audio-v3");
+  let done=0,fail=0;const total=imgs.length+auds.length;
+  const bump=()=>{done++; if(done===total||done%25===0){const el=$("#upd"); if(el&&total) el.dataset.off=Math.round(done/total*100);}};
+  // images into app cache (concurrency 6)
+  const q=[...imgs];
+  async function oneImg(){while(q.length){const u=q.shift();try{if(await core.match(u)) {bump();continue;} const r=await fetch(u,{cache:"force-cache"}); if(r.ok) await core.put(u,r); else fail++;}catch(e){fail++;} bump();}}
+  await Promise.all(Array.from({length:6},()=>oneImg()));
+  // audio into dedicated audio cache (concurrency 3; larger files)
+  const qa=[...auds];
+  async function oneAu(){while(qa.length){const u=qa.shift();try{const url=new URL(u,location.href).href; if(await ac.match(url)){bump();continue;} const r=await fetch(u); if(r.ok&&r.status===200) await ac.put(url,r); else fail++;}catch(e){fail++;} bump();}}
+  await Promise.all(Array.from({length:3},()=>oneAu()));
+  if(fail<total*0.15) toast(`Offline ready · ${STORIES.length} stories`);
+  else toast(`Mostly cached · ${total-fail}/${total} files`);
+  logEv("offline_pack",null,{total,fail,stories:STORIES.length});
+}
 /* ---------- boot ---------- */
 (async()=>{
  $("#feed").innerHTML='<div class="skel"></div><div class="skel"></div>';
@@ -503,5 +525,6 @@ let hiddenAt=0;document.addEventListener("visibilitychange",()=>{if(document.hid
  if(byId[hid]){queue=[byId[hid],...queue.filter(x=>x.id!==hid)];}
  loadMore(6);
  if(byId[hid]){const c=$(`.card[data-id="${hid}"]`);if(c)expand(c,byId[hid]);}
- if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
+ if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").then(()=>setTimeout(prefetchOffline,800)).catch(()=>setTimeout(prefetchOffline,800));
+ else setTimeout(prefetchOffline,800);
 })();
