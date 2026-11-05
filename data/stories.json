@@ -1,5 +1,76 @@
 [
  {
+  "id": "using-storytelling-to-better-understand-and-mana",
+  "cat": "mind",
+  "tags": [
+   "mind",
+   "psychology",
+   "self-compassion",
+   "adhd",
+   "emotions"
+  ],
+  "title": "Using Storytelling to Better Understand and Manage Your Own Big Emotions",
+  "snippet": "Author Sandra V. Feder explains how naming our feelings helps us manage them. Her Emotions and Me series shows that reading stories about big emotions can build empathy and self-regulation skills for both children and adults [1].",
+  "bullets": [
+   "Naming a feeling is a key step in learning how to tame it [1].",
+   "Sharing your own feelings with others can be a powerful way to model how to regulate strong emotions [1].",
+   "Strategies like taking deep breaths or reaching out to friends can help restore a sense of peace when emotions feel overwhelming [1]."
+  ],
+  "report": [
+   {
+    "h": "Name Your Feelings",
+    "t": "Author Sandra V. Feder suggests that the ability to name a feeling is the first step toward managing it [1]. By putting words to our internal experiences, we gain agency over them rather than being controlled by them [1]."
+   },
+   {
+    "h": "Model Emotional Regulation",
+    "t": "Adults can teach emotional regulation by being open about their own experiences [1]. When we explain how we handle our own big feelings, such as taking deep breaths when angry or reaching out to friends when lonely, we provide a practical example for others to follow [1]."
+   },
+   {
+    "h": "Find Your Solutions",
+    "t": "Whether dealing with anger, shyness, or loneliness, the goal is to find actionable solutions [1]. This might include asking for attention when feeling ignored, or simply acknowledging that a difficult feeling is just one part of who we are, rather than a permanent state [1]."
+   }
+  ],
+  "why": "For someone with ADHD, emotional regulation can be a daily challenge; these simple, proven strategies for naming and managing feelings can help you stay grounded when things feel overwhelming.",
+  "tryit": "Next time you feel a strong emotion, pause and name it out loud—such as I am feeling frustrated—and then identify one small, physical action you can take to soothe that specific feeling, like taking three deep breaths.",
+  "qa": [
+   [
+    "Why is naming feelings important?",
+    "Naming a feeling is the first step to taming it, helping you manage and explain your emotional life [1]."
+   ],
+   [
+    "How can you regulate anger?",
+    "You can try taking deep breaths or remembering things that make you happy to return to a peaceful state [1]."
+   ],
+   [
+    "What should you do if you feel lonely?",
+    "Strategies include asking for attention or reaching out to friends to make meaningful connections [1]."
+   ],
+   [
+    "Is it okay to share your feelings with others?",
+    "Yes, sharing how you handle your own big feelings is a powerful way to lead by example and teach regulation [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psychologytoday.com/us/blog/well-read/202611/how-books-can-boost-emotional-intelligence",
+    "status": 200,
+    "title": "How Books Can Boost Emotional Intelligence",
+    "domain": "psychologytoday.com"
+   }
+  ],
+  "date": "2026-11-05",
+  "publishedAt": "2026-11-05T17:17:13Z",
+  "addedAt": "2026-11-05T17:33:28Z",
+  "audio": "audio/using-storytelling-to-better-understand-and-mana.mp3",
+  "image": {
+   "src": "img/using-storytelling-to-better-understand-and-mana.jpg",
+   "credit": "Psychology Today",
+   "license": "© Psychology Today, shown with credit",
+   "page": "https://www.psychologytoday.com/us/blog/well-read/202611/how-books-can-boost-emotional-intelligence",
+   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/pexels-mizunokozuki-12788609.jpg?itok=DjPKu2B-"
+  }
+ },
+ {
   "id": "seabird-colony-makes-remarkable-recovery-on-engl",
   "cat": "news",
   "tags": [
