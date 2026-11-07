@@ -1,5 +1,146 @@
 [
  {
+  "id": "practical-ways-couples-can-learn-heal-and-deepen",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "relationships",
+   "mind",
+   "self-compassion"
+  ],
+  "title": "Practical Ways Couples Can Learn, Heal, and Deepen Love Together",
+  "snippet": "Growing together in a relationship can feel vague, but focusing on healing, love, and service offers concrete ways to deepen connection. Couples can learn about each other through shared activities and self-examination [1].",
+  "bullets": [
+   "Shared hobbies add joy, but deep growth happens when couples focus on healing, love, and service [1].",
+   "Remaining compassionate and curious during self-examination helps make the relationship a container for personal growth [1].",
+   "An apprenticeship of love means learning how to be more relational and emotionally intimate over time [1]."
+  ],
+  "report": [
+   {
+    "h": "Focus On Areas",
+    "t": "While shared hobbies like playing tennis or painting the deck bring couples together, deep growth mostly happens when learning focuses on healing, love, and service [1]."
+   },
+   {
+    "h": "Prioritise Healing",
+    "t": "When each person's healing becomes a learning priority, the relationship can become an active container for personal growth [1]. Remaining compassionate and curious without obsessing is key to this process [1]."
+   },
+   {
+    "h": "Apprenticeship Of Love",
+    "t": "Taking on an apprenticeship of love means learning how to be more relational and emotionally intimate [1]. It involves accepting that no one arrives able to give and receive love perfectly [1]."
+   }
+  ],
+  "why": "This helps you see relationships as active spaces for personal growth and emotional intimacy through practical self-examination [1].",
+  "tryit": "Reflect on one area of personal healing or love you can explore with curiosity and compassion this week [1].",
+  "qa": [
+   [
+    "What are the three main areas where deep learning happens for couples?",
+    "Healing, Love, and Service [1]."
+   ],
+   [
+    "What does an apprenticeship of love mean?",
+    "It means learning how to be more relational and emotionally intimate [1]."
+   ],
+   [
+    "What is the ancient Greek definition of psychology mentioned in the article?",
+    "Care of the soul [1]."
+   ],
+   [
+    "What key traits are important when learning more about healing?",
+    "Remaining compassionate as you self-examine and staying curious without obsessing [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202611/when-couples-grow-together",
+    "status": 200,
+    "title": "When Couples Grow Together",
+    "domain": "psychologytoday.com"
+   }
+  ],
+  "date": "2026-11-06",
+  "publishedAt": "2026-11-06T22:37:00Z",
+  "addedAt": "2026-11-07T17:31:41Z",
+  "audio": "audio/practical-ways-couples-can-learn-heal-and-deepen.mp3",
+  "image": {
+   "src": "img/practical-ways-couples-can-learn-heal-and-deepen.jpg",
+   "credit": "Psychology Today",
+   "license": "© Psychology Today, shown with credit",
+   "page": "https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202611/when-couples-grow-together",
+   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/junior-reis-ygxrpe7wvka-unsplash.jpg?h=86b99bcc&itok=KqUmPN85"
+  }
+ },
+ {
+  "id": "can-smart-thermostats-and-ai-really-cut-your-hou",
+  "cat": "money",
+  "tags": [
+   "money",
+   "ai",
+   "business",
+   "negotiation",
+   "economics"
+  ],
+  "title": "Can smart thermostats and AI really cut your household heating bills?",
+  "snippet": "A two-year test reveals how an AI-governed heating system reduced gas usage by 18 percent while keeping a home warmer and more comfortable.",
+  "bullets": [
+   "The author spent two years comparing manual heating control to an AI-governed smart system in a 1930s solid-brick house [1].",
+   "The full Tado X hardware setup tested cost about 930 pounds, with an additional 80 pounds for professional boiler wiring labour [1].",
+   "The AI-controlled setup used 11,735.7 kWh of energy, saving 2,581 kWh and about 205.70 pounds compared to manual control [1]."
+  ],
+  "report": [
+   {
+    "h": "Testing manual control",
+    "t": "In the winter of 2024, a basic manual schedule and standard radiator valves consumed 14,316.7 kilowatt hours of gas across 213 days [1]. This miserly approach kept bills low, but required constant adjustments and caused friction at home [1]."
+   },
+   {
+    "h": "Upgrading to smart tech",
+    "t": "In the summer of 2025, the author installed a Tado X system featuring 13 smart radiator thermostats and wireless room sensors [1]. An optional AI subscription costing 3.99 pounds a month automates room temperatures, window detection, and geofencing [1]."
+   },
+   {
+    "h": "Surprising energy savings",
+    "t": "Despite keeping the house generally warmer and more comfortable, the AI-governed system used 18 percent less gas than the manual approach [1]. This reduction equaled a saving of 205.70 pounds based on the energy price cap ending on 31 December [1]."
+   }
+  ],
+  "why": "Exploring home efficiency upgrades offers practical ways to trim recurring household costs and leverage automation for daily savings.",
+  "tryit": "Check your current boiler documentation or contact the manufacturer to see if your system supports the OpenTherm protocol [1].",
+  "qa": [
+   [
+    "How much did the tested hardware cost?",
+    "The full setup tested cost about 930 pounds, plus roughly 80 pounds in labour for wiring by a heating engineer [1]."
+   ],
+   [
+    "How much does the AI subscription cost?",
+    "The subscription costs 3.99 pounds a month or 29.99 a year, and can be paused when you are not using the heating [1]."
+   ],
+   [
+    "How much gas was saved using the AI system?",
+    "It used 2,581 kWh less energy than manual control, equating to a saving of 205.70 pounds at the current energy price cap [1]."
+   ],
+   [
+    "What extra data do the sensors measure?",
+    "Each temperature sensor and smart thermostat also measures humidity to help spot when rooms need ventilation [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
+    "status": 200,
+    "title": "Can AI really save you money on your heating bill? I spent two years testing to find out",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-07",
+  "publishedAt": "2026-11-07T07:00:07Z",
+  "addedAt": "2026-11-07T17:31:41Z",
+  "audio": "audio/can-smart-thermostats-and-ai-really-cut-your-hou.mp3",
+  "image": {
+   "src": "img/can-smart-thermostats-and-ai-really-cut-your-hou.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
+   "from_url": "https://i.guim.co.uk/img/media/a602f8453b41164785519bbae64ff4051677f8c0/857_0_4341_3471/master/4341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb8c764f4d9a3015bc3f65adaff02b4e"
+  }
+ },
+ {
   "id": "drinking-two-to-three-cups-of-coffee-linked-to-l",
   "cat": "health",
   "tags": [
