@@ -1,5 +1,353 @@
 [
  {
+  "id": "google-takes-over-unfinished-wyoming-data-center",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "economics"
+  ],
+  "title": "Google Takes Over Unfinished Wyoming Data Center Project From Crusoe",
+  "snippet": "Crusoe sold its unfinished Wyoming data center project to Google after construction and cost hurdles. Google now plans to invest $17 billion into developing the campus.",
+  "bullets": [
+   "Crusoe confirmed it sold an unfinished data center project in southeastern Wyoming to Google [1].",
+   "Google plans to invest $17 billion to develop the data center campus [1].",
+   "Crusoe continues to develop other major data center projects for companies like Microsoft, Oracle, and OpenAI [1]."
+  ],
+  "report": [
+   {
+    "h": "Wyoming Project Sale",
+    "t": "Crusoe sold an unfinished data center project in southeastern Wyoming to Google [1]. Google took over the development after raising concerns about construction timelines and costs [1]."
+   },
+   {
+    "h": "Massive Investment",
+    "t": "Google announced plans to invest $17 billion to develop the data center campus [1]. Despite this setback, Crusoe recently raised a $3.9 billion funding round [1]."
+   },
+   {
+    "h": "Ongoing AI Growth",
+    "t": "Crusoe makes money by leasing data center space, renting GPUs, and selling compute power for AI inference [1]. Its other projects include large campuses built for Microsoft, Oracle, and OpenAI [1]."
+   }
+  ],
+  "why": "It shows how major tech players navigate massive infrastructure hurdles and capital demands in the booming AI sector.",
+  "tryit": "Review how infrastructure bottlenecks affect scaling timelines when planning your own technology projects or investments.",
+  "qa": [
+   [
+    "Who bought the Wyoming data center project?",
+    "Google took over the development from Crusoe [1]."
+   ],
+   [
+    "How much does Google plan to invest in the campus?",
+    "Google announced plans to invest $17 billion [1]."
+   ],
+   [
+    "What is Crusoe's valuation?",
+    "Crusoe was recently valued at $30.9 billion [1]."
+   ],
+   [
+    "Who founded Crusoe?",
+    "It was founded by Chase Lochmiller and Cully Cavness [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "status": 200,
+    "title": "Crusoe sells troubled Wyoming data center project to Google | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-07",
+  "publishedAt": "2026-11-07T01:40:28Z",
+  "addedAt": "2026-11-08T17:31:37Z",
+  "audio": "audio/google-takes-over-unfinished-wyoming-data-center.mp3",
+  "image": {
+   "src": "img/google-takes-over-unfinished-wyoming-data-center.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800"
+  }
+ },
+ {
+  "id": "scientists-discover-a-potential-blood-biomarker",
+  "cat": "health",
+  "tags": [
+   "health",
+   "science",
+   "research"
+  ],
+  "title": "Scientists Discover a Potential Blood Biomarker for Tinnitus",
+  "snippet": "Researchers have identified a blood protein called prestin that is linked to persistent ringing in the ears. This discovery offers a promising first step toward future diagnostic blood tests and treatments.",
+  "bullets": [
+   "Scientists studied 82 adults, half of whom experienced tinnitus, and found a link to a blood protein named prestin [1].",
+   "Participants with tinnitus showed blood concentrations of prestin that were about 50 percent higher than those without the condition [1].",
+   "Prestin is a motor protein found in the membranes of outer hair cells in the cochlea that helps amplify sounds [1]."
+  ],
+  "report": [
+   {
+    "h": "New Biological Clue",
+    "t": "Scientists have found what could be the strongest evidence yet of a biomarker candidate for tinnitus in the blood [1]. The study looked at 82 adults to see how an ear protein relates to persistent ringing sounds [1]."
+   },
+   {
+    "h": "The Prestin Protein",
+    "t": "People with tinnitus had blood concentrations of prestin that were about 50 percent higher than participants without the condition [1]. Prestin is a motor protein in outer hair cells that helps amplify sounds and is crucial for sensitive hearing [1]."
+   },
+   {
+    "h": "Future Treatments",
+    "t": "While the biomarker cannot yet be used reliably for a clinical diagnosis, researchers hope this is a first step toward developing drugs to manage tinnitus [1]. Future research will help clear up how other factors might also contribute to the condition [1]."
+   }
+  ],
+  "why": "This research highlights how emerging scientific discoveries in blood biomarkers could soon transform subjective health complaints into measurable conditions.",
+  "tryit": "Speak with a GP or a qualified health professional if you experience persistent ringing in your ears to discuss management strategies.",
+  "qa": [
+   [
+    "What protein was linked to tinnitus in the study?",
+    "A protein called prestin was found to be linked to the condition [1]."
+   ],
+   [
+    "How much higher were prestin levels in people with tinnitus?",
+    "Blood concentrations of prestin were about 50 percent higher in participants with tinnitus [1]."
+   ],
+   [
+    "How many adults took part in the experiment?",
+    "The experiment involved 82 adults, half of whom experienced tinnitus [1]."
+   ],
+   [
+    "Can prestin currently be used as a reliable diagnostic tool?",
+    "A separate diagnostic accuracy analysis suggested the biomarker cannot yet reliably be used as a tool to diagnose tinnitus [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/scientists-identified-a-biological-signature-of-tinnitus-and-its-in-your-blood",
+    "status": 200,
+    "title": "Scientists Identified a Biological Signature of Tinnitus, And It's in Your Blood",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-08",
+  "publishedAt": "2026-11-08T11:00:00Z",
+  "addedAt": "2026-11-08T17:31:37Z",
+  "audio": "audio/scientists-discover-a-potential-blood-biomarker.mp3",
+  "image": {
+   "src": "img/scientists-discover-a-potential-blood-biomarker.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/scientists-identified-a-biological-signature-of-tinnitus-and-its-in-your-blood",
+   "from_url": "https://www.sciencealert.com/images/2026/11/tinnitus-ear.jpg"
+  }
+ },
+ {
+  "id": "why-ai-spending-is-stalling-even-as-token-volume",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "negotiation"
+  ],
+  "title": "Why AI Spending Is Stalling Even As Token Volumes Rise",
+  "snippet": "New data from Ramp shows that corporate AI spending flatlined over late summer despite rising token volumes. Intense price competition and savvier customers are creating a clear buyer's market for AI tools.",
+  "bullets": [
+   "Token spend grew only 1.5% across August and September according to Ramp data [1].",
+   "OpenAI and Anthropic have both cut API prices significantly in an ongoing price war [1].",
+   "Companies are getting thriftier by using routers and budgets to route tasks to cheaper models [1]."
+  ],
+  "report": [
+   {
+    "h": "Spending Flatlines",
+    "t": "A new report from Ramp shows AI spending flatlined over late summer even as token volumes rose [1]. Token spend only grew 1.5% across August and September compared to a 42% jump in July [1]."
+   },
+   {
+    "h": "Price Wars And Thrifty Users",
+    "t": "The slowdown is driven by intense price cuts from major model providers and smarter customers [1]. Companies are learning to use routers and budgets to offload tasks to cheaper light models [1]."
+   },
+   {
+    "h": "A Buyer's Market",
+    "t": "With cheap open-source models and lightweight routing tools like Jev entering the market, it has become a buyer's market [1]. Businesses can now accomplish workloads at a much lower cost [1]."
+   }
+  ],
+  "why": "This matters because falling API costs and intense competition mean you can build or run AI agents and business automation for a fraction of last year's budget.",
+  "tryit": "Review your current software stack and test open-source models or budget-friendly routing tools to cut your monthly AI API costs.",
+  "qa": [
+   [
+    "Why is AI spending stalling?",
+    "Spending is stalling due to fierce price competition, provider discounts, and companies getting better at using cheaper models [1]."
+   ],
+   [
+    "How much do median firms spend on AI per employee?",
+    "Median firms spend $12-$15 per employee per month [1]."
+   ],
+   [
+    "What is Jev?",
+    "Jev is a new lightweight tool for choosing between predetermined outputs that is increasingly among top performers on Ramp [1]."
+   ],
+   [
+    "Did spending recover in October?",
+    "Yes, October data saw token spend up 8.9% from September 23 to October 23 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "status": 200,
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-06",
+  "publishedAt": "2026-11-06T15:54:47Z",
+  "addedAt": "2026-11-08T17:31:37Z",
+  "audio": "audio/why-ai-spending-is-stalling-even-as-token-volume.mp3",
+  "image": {
+   "src": "img/why-ai-spending-is-stalling-even-as-token-volume.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779"
+  }
+ },
+ {
+  "id": "new-report-reveals-ai-accelerating-its-own-devel",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "science"
+  ],
+  "title": "New Report Reveals AI Accelerating Its Own Development Inside Anthropic",
+  "snippet": "A new report from safety organization METR shows Anthropic using AI to speed up its own research, with models improving twice as fast as a year ago. Employees reported being around 12 times more productive when using the company's advanced internal models.",
+  "bullets": [
+   "Anthropic models are improving roughly twice as quickly as they were a year ago, with benchmark scores showing two years of historical progress in one year [1].",
+   "Employees using the most capable internal model reported being around 12 times as productive at their work compared to working without AI assistance [1].",
+   "Over the past six months, Anthropic finished training three unreleased models codenamed Model 2, Model 3, and Model 4 [1]."
+  ],
+  "report": [
+   {
+    "h": "Rapid AI Acceleration",
+    "t": "Independent research organization METR published a report detailing how AI is speeding up research inside Anthropic [1]. The findings show that most of the acceleration is driven by AI itself rather than just more computing power [1]."
+   },
+   {
+    "h": "Massive Productivity Boosts",
+    "t": "Internal polls and interviews show staff using advanced AI models feel they are about 12 times as productive as they would be without help [1]. This increase is roughly double what employees reported a few months prior [1]."
+   },
+   {
+    "h": "Secretive Models and Redactions",
+    "t": "Anthropic has finished training three new unreleased models over the past six months named Model 2, Model 3, and Model 4 [1]. The company heavily redacted the final public report to protect commercial interests and avoid handing out a development roadmap [1]."
+   }
+  ],
+  "why": "Understanding how fast frontier labs use AI to boost productivity helps you spot emerging workflow tools and business automation opportunities early.",
+  "tryit": "Review your weekly workflow and identify one repetitive research or drafting task to test with a frontier AI model today.",
+  "qa": [
+   [
+    "How much faster are Anthropic models improving?",
+    "They are improving roughly twice as quickly as they were a year ago [1]."
+   ],
+   [
+    "What productivity gains did employees report?",
+    "Staff reported being around 12 times as productive at their work when using the most capable internal model [1]."
+   ],
+   [
+    "Who published the report?",
+    "The report was published by the AI safety research organization METR following an 11-week investigation [1]."
+   ],
+   [
+    "What unreleased models were identified?",
+    "METR identified three unreleased models codenamed Model 2, Model 3, and Model 4, plus an older 2022 model [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "status": 200,
+    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "domain": "theverge.com"
+   }
+  ],
+  "date": "2026-11-07",
+  "publishedAt": "2026-11-07T12:30:00Z",
+  "addedAt": "2026-11-08T17:31:37Z",
+  "audio": "audio/new-report-reveals-ai-accelerating-its-own-devel.mp3",
+  "image": {
+   "src": "img/new-report-reveals-ai-accelerating-its-own-devel.jpg",
+   "credit": "The Verge",
+   "license": "© The Verge, shown with credit",
+   "page": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
+  }
+ },
+ {
+  "id": "why-companies-hire-externally-for-ai-jobs-despit",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money"
+  ],
+  "title": "Why companies hire externally for AI jobs despite trusting internal staff",
+  "snippet": "New research shows 92% of HR leaders believe current staff can be trained for AI roles, yet half of companies still hire outside.",
+  "bullets": [
+   "A study by Careerminds reveals that 92% of HR professionals believe existing employees can be reskilled for artificial intelligence roles [1].",
+   "Despite this confidence, 51% of HR professionals and 47% of managers report hiring externally for new AI positions [1].",
+   "External hiring can cost three to five times more than filling comparable roles internally and takes up to 20 days longer [1]."
+  ],
+  "report": [
+   {
+    "h": "The AI Redeployment Gap",
+    "t": "Research published by Careerminds shows a clear disconnect between belief and action in corporate AI hiring [1]. While 88% of people managers agree that internal staff can adapt, many organizations still look outward for new talent [1]."
+   },
+   {
+    "h": "Barriers To Reskilling",
+    "t": "Tracking internal skills proves difficult for many companies, with 43% of HR professionals citing limited visibility as a barrier [1]. This lack of clear skill tracking stops leaders from moving current workers into new roles [1]."
+   },
+   {
+    "h": "Industry Differences",
+    "t": "Response to AI workforce needs varies, with technology and telecom hiring externally 15% more often than redeploying [1]. Meanwhile, media and entertainment focuses more on internal moves, with 56% of HR pros reporting staff redeployment [1]."
+   }
+  ],
+  "why": "Understanding how companies approach AI staffing highlights opportunities to pitch internal automation projects or position your own AI skill set for higher-value internal roles.",
+  "tryit": "Review your current workplace skills and identify one repetitive task you could automate with an AI tool this week, then pitch the efficiency gain to your manager.",
+  "qa": [
+   [
+    "What percentage of HR professionals believe employees can be reskilled for AI roles?",
+    "92% of HR professionals believe employees within their organizations could be reskilled for AI-related roles [1]."
+   ],
+   [
+    "What percentage of HR professionals report that their organizations hire externally for AI positions?",
+    "51% of HR professionals report that their organizations are hiring externally for new AI-related positions [1]."
+   ],
+   [
+    "How many people managers and HR professionals were surveyed in the research?",
+    "The research surveyed 595 US HR professionals and 547 US people managers [1]."
+   ],
+   [
+    "How much more expensive can external hiring be compared to internal filling?",
+    "External hiring can cost three to five times more than filling comparable roles internally [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
+    "status": 200,
+    "title": "92% of HR say staff can train for AI jobs - but half of companies still hire outside - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-06",
+  "publishedAt": "2026-11-06T15:41:05Z",
+  "addedAt": "2026-11-08T17:31:37Z",
+  "audio": "audio/why-companies-hire-externally-for-ai-jobs-despit.mp3",
+  "image": {
+   "src": "img/why-companies-hire-externally-for-ai-jobs-despit.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1443552841_1ccb6d.jpg"
+  }
+ },
+ {
   "id": "historical-milestones-from-murano-glass-to-the-b",
   "cat": "news",
   "tags": [
