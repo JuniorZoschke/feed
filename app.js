@@ -1,8 +1,8 @@
 "use strict";
 // Do not let an obsolete page continue an offline pack after navigation (notably WebKit).
-let activePage=true,offlineAbort=new AbortController();
-addEventListener("pagehide",()=>{activePage=false;offlineAbort.abort();});
-addEventListener("pageshow",e=>{if(e.persisted){activePage=true;offlineAbort=new AbortController();refresh(false);}});
+let activePage=true;
+addEventListener("pagehide",()=>{activePage=false;});
+addEventListener("pageshow",e=>{if(e.persisted){activePage=true;refresh(false);}});
 const CATS={all:"For You",news:"News",money:"Money & Deals",health:"Health",adhd:"ADHD Edge",mind:"Mind",ai:"AI",travel:"Travel & Borders",english:"English",whoa:"Whoa",laugh:"Laugh",calm:"Calm"};
 const CATLBL={news:"News",money:"Money & Deals",health:"Health",adhd:"ADHD Edge",mind:"Mind",ai:"AI",travel:"Travel & Borders",english:"English",whoa:"Whoa fact",laugh:"Laugh",calm:"Calm"};
 const $=s=>document.querySelector(s), esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -501,32 +501,28 @@ let hiddenAt=0;document.addEventListener("visibilitychange",()=>{if(document.hid
  addEventListener("touchend",()=>{if(y0==null)return;const go=dy>120;y0=null;pt.style.height="";pt.classList.remove("ready");if(go)refresh(true);},{passive:true});})();
 
 /* ---------- offline pack: cache story images + audio after one online open ---------- */
-async function prefetchOffline(){try{
-  if(!activePage||!navigator.onLine||!("caches" in window))return;
-  const imgs=STORIES.map(s=>s.image&&s.image.src).filter(Boolean);
-  const auds=STORIES.map(s=>s.audio).filter(Boolean);
-  const core=await caches.open("feed-v13");
-  const ac=await caches.open("feed-audio-v3");
-  if(!activePage)return;
+async function prefetchOffline(){
+ // Keep the download in an extendable worker event, not a page that may be closed/reloaded.
+ // Without a worker the shell cannot promise offline reopening, so do not launch an asset-only pack.
+ if(!activePage||!navigator.onLine||!("serviceWorker" in navigator))return;
+ try{
+  const reg=await navigator.serviceWorker.ready;if(!activePage)return;
+  const worker=navigator.serviceWorker.controller||reg.active;if(!worker)return;
+  const images=STORIES.map(s=>s.image&&s.image.src).filter(Boolean),audio=STORIES.map(s=>s.audio).filter(Boolean);
   const signature=JSON.stringify(STORIES.map(s=>[s.id,s.image&&s.image.src,s.audio]).sort((a,b)=>a[0].localeCompare(b[0])));
-  const manifest=await core.match("offline-pack-v13.json");
-  if(manifest&&await manifest.text()===signature){if(activePage)toast(`Offline ready · ${STORIES.length} stories`);return;}
-
-  let done=0,fail=0;const total=imgs.length+auds.length;
-  const bump=()=>{if(!activePage)return;done++; if(done===total||done%25===0){const el=$("#upd"); if(el&&total) el.dataset.off=Math.round(done/total*100);}};
-  // images into app cache (concurrency 6)
-  const q=[...imgs];
-  async function oneImg(){while(q.length&&activePage){const u=q.shift();try{if(await core.match(u)) {bump();continue;} const r=await fetch(u,{cache:"force-cache",signal:offlineAbort.signal}); if(r.ok) await core.put(u,r); else fail++;}catch(e){fail++;} bump();}}
-  await Promise.all(Array.from({length:6},()=>oneImg()));
-  // audio into dedicated audio cache (concurrency 3; larger files)
-  const qa=[...auds];
-  async function oneAu(){while(qa.length&&activePage){const u=qa.shift();try{const url=new URL(u,location.href).href; if(await ac.match(url)){bump();continue;} const r=await fetch(u,{signal:offlineAbort.signal}); if(r.ok&&r.status===200) await ac.put(url,r); else fail++;}catch(e){fail++;} bump();}}
-  await Promise.all(Array.from({length:3},()=>oneAu()));
-  if(!activePage)return;
-  if(!fail){await core.put("offline-pack-v13.json",new Response(signature));if(activePage)toast(`Offline ready · ${STORIES.length} stories`);}
-  else toast(`Mostly cached · ${total-fail}/${total} files`);
-  logEv("offline_pack",null,{total,fail,stories:STORIES.length});
-}catch(e){logEv("offline_pack_failed",null);if(activePage&&!document.hidden)toast("Offline pack incomplete · reopen online to retry");}}
+  const ch=new MessageChannel();
+  ch.port1.onmessage=e=>{const d=e.data||{};if(!activePage){ch.port1.close();return;}
+   if(d.type==="offline_progress"){const el=$("#upd");if(el&&d.total)el.dataset.off=Math.round(d.done/d.total*100);}
+   if(d.type==="offline_done"){
+    if(!d.fail)toast(`Offline ready · ${STORIES.length} stories`);
+    else toast(`Mostly cached · ${d.total-d.fail}/${d.total} files`);
+    logEv("offline_pack",null,{total:d.total,fail:d.fail,stories:STORIES.length});ch.port1.close();
+   }
+   if(d.type==="offline_error"){toast("Offline pack incomplete · reopen online to retry");ch.port1.close();}
+  };
+  worker.postMessage({type:"FEED_OFFLINE_PACK",images,audio,signature},[ch.port2]);
+ }catch(e){if(activePage)logEv("offline_pack_failed",null);}
+}
 /* ---------- boot ---------- */
 (async()=>{
  $("#feed").innerHTML='<div class="skel"></div><div class="skel"></div>';
@@ -539,6 +535,6 @@ async function prefetchOffline(){try{
  loadMore(6);
  if(byId[hid]){const c=$(`.card[data-id="${hid}"]`);if(c)expand(c,byId[hid]);}
  const schedule=()=>{if(activePage)setTimeout(()=>{if(activePage)prefetchOffline();},800);};
- if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").then(schedule).catch(schedule);
+ if("serviceWorker" in navigator){navigator.serviceWorker.addEventListener("controllerchange",()=>{if(activePage)prefetchOffline();});navigator.serviceWorker.register("sw.js").then(schedule).catch(schedule);}
  else schedule();
 })().catch(e=>{if(activePage){console.error(e);toast("Couldn't load Feed · reopen to retry");}});

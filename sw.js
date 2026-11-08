@@ -1,4 +1,4 @@
-const V="feed-v13";const CORE=["./","index.html","app.css?v=13","app.js?v=13","manifest.webmanifest","data/stories.json","icons/icon-192.png"];
+const V="feed-v13.1";const CORE=["./","index.html","app.css?v=13","app.js?v=13.1","manifest.webmanifest","data/stories.json","icons/icon-192.png"];
 const AUDIO="feed-audio-v3"; // listened stories are cached lazily for offline replay (kept across app updates)
 self.addEventListener("install",e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==V&&k!==AUDIO).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
@@ -17,3 +17,38 @@ self.addEventListener("fetch",e=>{const u=new URL(e.request.url);if(e.request.me
  if(u.pathname.endsWith("/")||u.pathname.endsWith(".html")){ // network first
   e.respondWith(fetch(e.request).then(r=>{const c=r.clone();remember(e,e.request,c);return r}).catch(()=>caches.match(e.request,{ignoreSearch:true})));return;}
  e.respondWith(caches.match(e.request).then(m=>m||fetch(e.request).then(r=>{if(r.ok){const c=r.clone();remember(e,e.request,c)}return r})));});
+
+// Offline packs survive page navigation. Each caller joins the same in-flight asset manifest.
+const packs=new Map();
+function packURLs(items,folder){
+ const scope=new URL(self.registration.scope);
+ return [...new Set((Array.isArray(items)?items:[]).slice(0,2000).map(x=>{
+  try{const u=new URL(x,scope);return u.origin===scope.origin&&u.pathname.startsWith(scope.pathname+folder+"/")?u.href:null;}catch(e){return null;}
+ }).filter(Boolean))];
+}
+async function packAssets(data,progress){
+ const imgs=packURLs(data.images,"img"),auds=packURLs(data.audio,"audio");
+ const core=await caches.open(V),ac=await caches.open(AUDIO),total=imgs.length+auds.length;
+ const manifest=new URL("offline-pack-v13.json",self.registration.scope).href;
+ const signature=String(data.signature||"");const previous=await core.match(manifest);
+ if(previous&&await previous.text()===signature)return {total,fail:0};
+ let done=0,fail=0;
+ async function drain(items,cache){
+  while(items.length){const u=items.shift();try{
+   if(!await cache.match(u)){const r=await fetch(u);if(r.ok&&r.status===200)await cache.put(u,r);else fail++;}
+  }catch(e){fail++;}
+  done++;if(done===total||done%25===0)progress({type:"offline_progress",done,total});
+  }
+ }
+ const iq=imgs.slice(),aq=auds.slice();
+ await Promise.all([...Array.from({length:6},()=>drain(iq,core)),...Array.from({length:3},()=>drain(aq,ac))]);
+ if(!fail)await core.put(manifest,new Response(signature));
+ return {total,fail};
+}
+self.addEventListener("message",e=>{
+ const data=e.data||{};if(data.type!=="FEED_OFFLINE_PACK")return;
+ const port=e.ports&&e.ports[0];const send=x=>{try{if(port)port.postMessage(x);}catch(err){}};
+ const key=String(data.signature||"");let job=packs.get(key);
+ if(!job){job=packAssets(data,send);packs.set(key,job);job.then(()=>packs.delete(key),()=>packs.delete(key));}
+ e.waitUntil(job.then(result=>send({type:"offline_done",...result})).catch(()=>send({type:"offline_error"})));
+});
