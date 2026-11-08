@@ -217,3 +217,6 @@ ul.bul li::marker{color:var(--mut)}
 .bonusH{color:#f5b301}
 .endCard{margin:8px 16px 18px;padding:22px 18px;border-radius:16px;background:linear-gradient(135deg,#1e293b,#111827);text-align:center;display:flex;flex-direction:column;gap:6px}
 .endCard b{font-size:18px}.endCard span{color:var(--mut);font-size:14px;line-height:1.4}
+
+/* v13: quiet, explicit unseen count in every tab. */
+.unseenCount{font-size:.72em;font-variant-numeric:tabular-nums;opacity:.65;margin-left:.3em}

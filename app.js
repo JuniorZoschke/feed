@@ -1,4 +1,8 @@
 "use strict";
+// Do not let an obsolete page continue an offline pack after navigation (notably WebKit).
+let activePage=true,offlineAbort=new AbortController();
+addEventListener("pagehide",()=>{activePage=false;offlineAbort.abort();});
+addEventListener("pageshow",e=>{if(e.persisted){activePage=true;offlineAbort=new AbortController();refresh(false);}});
 const CATS={all:"For You",news:"News",money:"Money & Deals",health:"Health",adhd:"ADHD Edge",mind:"Mind",ai:"AI",travel:"Travel & Borders",english:"English",whoa:"Whoa",laugh:"Laugh",calm:"Calm"};
 const CATLBL={news:"News",money:"Money & Deals",health:"Health",adhd:"ADHD Edge",mind:"Mind",ai:"AI",travel:"Travel & Borders",english:"English",whoa:"Whoa fact",laugh:"Laugh",calm:"Calm"};
 const $=s=>document.querySelector(s), esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -28,8 +32,17 @@ st.hidden=st.hidden||{};
 const save=()=>localStorage.setItem(LS,JSON.stringify(st));
 /* v7 seen-tracking: impression (>=60% visible for 1.5s) or opened. Legacy dwell counts become "seen" once. */
 if(!st.seenAt){st.seenAt={};Object.keys(st.seen||{}).concat(Object.keys(st.opened||{})).forEach(id=>st.seenAt[id]=1);}
+st.seenKeys=st.seenKeys||{};
+let sessionSeen=new Set(),sessionKeys=new Set();
+const titleKey=s=>s.title.normalize("NFKD").toLowerCase().replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9]+/g," ").trim();
+const eventKey=s=>s.eventId||s.eventKey||titleKey(s);
 const isSeen=s=>!!(st.seenAt[s.id]||st.opened[s.id]);
-function markSeen(id,how){if(!st.seenAt[id]){st.seenAt[id]=Date.now();save();logEv("seen",id,{how});}}
+function markSeen(id,how){if(!st.seenAt[id]){st.seenAt[id]=Date.now();const s=byId[id];if(s)st.seenKeys[eventKey(s)]=Date.now();save();logEv("seen",id,{how});}}
+function snapshotSeen(){sessionSeen=new Set(Object.keys(st.seenAt).concat(Object.keys(st.opened)));sessionKeys=new Set(Object.keys(st.seenKeys));}
+snapshotSeen();
+const feedSeen=s=>sessionSeen.has(s.id)||sessionKeys.has(eventKey(s));
+/* Conservative title overlap + shared canonical source/event; do not merge merely related topics. */
+function dedupe(list){const out=[];for(const s of list){const words=new Set(titleKey(s).split(" "));const duplicate=out.find(x=>titleKey(x)===titleKey(s)||eventKey(x)===eventKey(s)||x.sources?.some(a=>s.sources?.some(b=>a.url.split(/[?#]/)[0]===b.url.split(/[?#]/)[0]))||(()=>{const w=new Set(titleKey(x).split(" "));const overlap=[...words].filter(t=>w.has(t)).length;return Math.min(w.size,words.size)>=6&&overlap/(w.size+words.size-overlap)>=.85;})());if(duplicate){if(isSeen(s)){sessionSeen.add(duplicate.id);st.seenKeys[eventKey(duplicate)]=Date.now();save();}}else out.push(s);}return out;}
 st.sessions++;save();
 /* library: full story copies of saved + liked items, so they outlive the 14-day prune */
 const LIBK="feed.library";const LIB=Object.assign({saved:{},liked:{}},JSON.parse(localStorage.getItem(LIBK)||"{}"));
@@ -61,17 +74,18 @@ function prune(list){const now=Date.now();return list.filter(s=>isEver(s)||now-t
 function mixEver(fresh,ever){const out=[];let e=0;fresh.forEach((s,i)=>{out.push(s);if((i+1)%3===0&&e<ever.length)out.push(ever[e++]);});return {out,used:e};}
 function rebuild(){
  let pool=STORIES.filter(s=>(tab==="all"||s.cat===tab)&&(!query||(s.title+" "+s.snippet+" "+s.tags.join(" ")+" "+s.bullets.join(" ")+" "+(CATS[s.cat]||"")).toLowerCase().includes(query)));
- pool=pool.filter(s=>!shown.has(s.id)&&!(round>0&&(st.react[s.id]===-1||st.hidden[s.id])));
+ pool=pool.filter(s=>!shown.has(s.id)&&!st.hidden[s.id]);
+ SEENQ=pool.filter(feedSeen);pool=pool.filter(s=>!feedSeen(s));
  pool.sort((a,b)=>score(b)-score(a));
  if(!query&&round===0){
-  const un=pool.filter(x=>!isSeen(x)),seen=pool.filter(isSeen);
+  const un=pool,seen=SEENQ;
   const uf=un.filter(x=>!isEver(x)).sort((a,b)=>fscore(b)-fscore(a)),ue=un.filter(isEver).sort((a,b)=>score(b)-score(a));
   const ji=uf.filter(x=>JUSTIN.has(x.id));const t24=Date.now()-DAY;const f24=uf.filter(x=>!JUSTIN.has(x.id)&&tAdded(x)>t24);const rot=catMix(rotate(uf.filter(x=>!JUSTIN.has(x.id)&&!(tAdded(x)>t24))));let lead=tab==="all"?catMix([...ji,...catMix(rotate([...f24])),...rot]):[...ji,...f24,...rot];
   if(tab==="all")lead=diversify(lead);
-  // Bonus picks: short + finite. His best unseen evergreen; if fewer than 3, top up with the evergreen he saw longest ago.
-  const BN=tab==="all"?5:3;let leadRun=0;for(const x of lead)leadRun=isExplore(x)?0:leadRun+1;let bonus=(tab==="all"?diversify(ue,leadRun):ue).slice(0,BN);
-  if(bonus.length<3){const old=seen.filter(isEver).sort((a,b)=>(st.seenAt[a.id]||0)-(st.seenAt[b.id]||0)).slice(0,3-bonus.length);bonus=bonus.concat(old);}
-  const bset=new Set(bonus.map(x=>x.id));const rest=seen.filter(x=>!bset.has(x.id)).sort((a,b)=>score(b)-score(a));
+  // Every unseen evergreen remains available; no seen top-ups and no automatic recycling.
+  let leadRun=0;for(const x of lead)leadRun=isExplore(x)?0:leadRun+1;
+  let bonus=tab==="all"?diversify(ue,leadRun):ue;
+  const rest=seen.sort((a,b)=>score(b)-score(a));
   lead.forEach((x,i)=>x._sec=i===0&&tab==="all"?"hook":"");bonus.forEach((x,i)=>x._sec=i===0?"bonus":"");rest.forEach(x=>x._sec="");
   BONUSN=bonus.length;
   if(document.querySelector("#feed .seenT.open")){queue=[...lead,...bonus,...catMix(rest)];SEENQ=[];return;}
@@ -108,9 +122,9 @@ const ago=t=>{const m=(Date.now()-t)/6e4;return m<1?"just now":m<60?Math.round(m
 function nextBatch(){const d=new Date(),m=d.getHours()*60+d.getMinutes();const slots=[[6,0],[12,30],[18,30]];const nx=slots.find(([h,mi])=>h*60+mi>m)||slots[0];
  const t=new Date(d);t.setHours(nx[0],nx[1],0,0);return (nx===slots[0]&&m>=18*60+30?"tomorrow ":"")+t.toLocaleTimeString("en-GB",{hour:"numeric",minute:"2-digit"});}
 function todayHead(){const d=new Date();const nm=tab==="all"?"":` in ${CATS[tab]}`;
- const nl=NEWN?`<b>${NEWN} new</b> since your last visit${UNSEENN>NEWN?` · ${UNSEENN} unread`:""}`:(UNSEENN?`<b>${UNSEENN} unread</b>${nm} for you`:`Nothing new${nm} yet · bonus picks below · next batch ${nextBatch()}`);
+ const nl=NEWN?`<b>${NEWN} new</b> since your last visit${UNSEENN>NEWN?` · ${UNSEENN} unread`:""}`:(UNSEENN?`<b>${UNSEENN} unread</b>${nm} for you`:`Nothing new${nm} yet · you're caught up`);
  return (tab==="all"?`<div class="todayH"><b>Today</b> · ${d.toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long"})}</div>`:"")+`<div class="newLine"><span class="dot"></span>${nl}</div>`;}
-function counts(){const un=STORIES.filter(x=>(tab==="all"||x.cat===tab)&&!isEver(x)&&!isSeen(x)&&!st.hidden[x.id]&&st.react[x.id]!==-1);UNSEENN=un.length;NEWN=un.filter(x=>PREV_VISIT?tAdded(x)>PREV_VISIT:isToday(x)).length;}
+function counts(){const un=STORIES.filter(x=>(tab==="all"||x.cat===tab)&&!feedSeen(x)&&!st.hidden[x.id]);UNSEENN=un.length;NEWN=un.filter(x=>PREV_VISIT?tAdded(x)>PREV_VISIT:isToday(x)).length;}
 /* See other sides: 2-4 real articles on the same event from outlets across the spectrum (built + link-checked by pipeline/sides.py) */
 const SCALE='<svg viewBox="0 0 24 24"><path d="M12 3v18M5 21h14M4 8h16M4 8l-3 6a3 3 0 0 0 6 0zM20 8l-3 6a3 3 0 0 0 6 0z"/></svg>';
 const hasSides=x=>Array.isArray(x.sides)&&x.sides.length>=2;
@@ -133,29 +147,22 @@ const actsHTML=(id)=>{const r=id?st.react[id]||0:0;return `<button class="ic lis
 let loading=false;
 function loadMore(n=5){
  if(loading)return;loading=true;
- if(!queue.length&&!query&&round===0&&!$("#feed .seenT.open")){endCard();loading=false;return;}
- if(!queue.length){
-   const pool=STORIES.filter(s=>(tab==="all"||s.cat===tab)&&!query);
-   if(!pool.length||query){endNote(query?"No more matches.":"");loading=false;return;}
-   round++;shown.clear();rebuild();
-   if(!queue.length){loading=false;return;}
-   if($("#feed .card")) $("#feed").insertAdjacentHTML("beforeend",`<div class="endnote">That's everything in Seen. Here are some worth another look.</div>`);
- }
+ if(!queue.length){if(!$("#feed .seenT.open"))endCard();loading=false;return;}
  const f=$("#feed");const start=f.querySelectorAll(".card").length;
  const batch=queue.splice(0,n);
  f.insertAdjacentHTML("beforeend",batch.map((s,k)=>cardHTML(s,start+k)).join(""));
  batch.forEach(s=>{shown.add(s.id);observeCard(s.id)});
- if(!queue.length&&!query&&round===0&&!$("#feed .seenT.open"))endCard();
+ if(!queue.length&&!$("#feed .seenT.open"))endCard();
  loading=false;
 }
-function endCard(){if($("#feed .endCard"))return;const n=SEENQ.length;$("#feed").insertAdjacentHTML("beforeend",`<div class="endCard" role="status"><b>You're done for now ✓</b><span>Next fresh batch around ${nextBatch()}. Pull down any time to reshuffle.</span></div>${n?`<button class="seenT" aria-expanded="false">${IC.chev}<span>Seen · ${n} ${n===1?"story":"stories"} you've scrolled past</span></button>`:""}`);}
+function endCard(){if($("#feed .endCard"))return;const n=SEENQ.length;$("#feed").insertAdjacentHTML("beforeend",`<div class="endCard" role="status"><b>You're caught up ✓</b><span>No more unseen stories${query?" matching your search":""}. Refresh to check for new stories.</span></div>${n?`<button class="seenT" aria-expanded="false">${IC.chev}<span>Show stories I've seen · ${n}</span></button>`:""}`);}
 function endNote(t){if(t&&!$(".endnote.q"))$("#feed").insertAdjacentHTML("beforeend",`<div class="endnote q">${t}</div>`);}
 function openSeen(btn){btn.setAttribute("aria-expanded","true");btn.classList.add("open");btn.disabled=true;btn.insertAdjacentHTML("afterend",`<div class="secH seenH">Seen</div>`);queue=SEENQ;SEENQ=[];logEv("seenOpen",null);loadMore(6);}
 document.addEventListener("click",e=>{const b=e.target.closest(".seenT");if(b&&!b.disabled)openSeen(b);});
-function resetFeed(){stopSpeak();SEENQ=[];counts();$("#feed").innerHTML=!query?todayHead():"";shown.clear();rebuild();loadMore(6);scrollTo(0,0);}
+function resetFeed(){stopSpeak();io.disconnect();Object.keys(imp).forEach(id=>clearTimeout(imp[id]));Object.keys(vis).forEach(id=>delete vis[id]);round=0;SEENQ=[];counts();renderTabs();$("#feed").innerHTML=!query?todayHead():"";shown.clear();rebuild();loadMore(6);scrollTo(0,0);}
 /* dwell tracking */
 const vis={},imp={};
-const io=new IntersectionObserver(es=>{es.forEach(e=>{const id=e.target.dataset.id;if(e.target.classList.contains("open"))return;if(e.intersectionRatio>=.6){vis[id]=performance.now();clearTimeout(imp[id]);imp[id]=setTimeout(()=>{if(vis[id])markSeen(id,"view")},1500)}else if(vis[id]){clearTimeout(imp[id]);commitDwell(id,performance.now()-vis[id]);delete vis[id]}})},{threshold:[0,.6]});
+const io=new IntersectionObserver(es=>{es.forEach(e=>{const id=e.target.dataset.id;if(e.target.classList.contains("open"))return;if(e.intersectionRatio>=.6){vis[id]=performance.now();clearTimeout(imp[id]);imp[id]=setTimeout(()=>{if(vis[id]&&!document.hidden)markSeen(id,"view")},1500)}else if(vis[id]){clearTimeout(imp[id]);commitDwell(id,performance.now()-vis[id]);delete vis[id]}})},{threshold:[0,.6]});
 function observeCard(id){document.querySelectorAll(`.card[data-id="${id}"]`).forEach(el=>io.observe(el));}
 function commitDwell(id,ms){const s=byId[id];if(!s)return;st.seen[id]=(st.seen[id]||0)+1;
  if(ms>2500){const w=Math.min(ms/1000,12)/12*0.6;learn(s,w,"dwell "+Math.round(ms/1000)+"s")}else if(ms<900){learn(s,-0.05,"skip")}else save();}
@@ -163,7 +170,7 @@ new IntersectionObserver(es=>{if(es[0].isIntersecting)loadMore(5)},{rootMargin:"
 let st8=0;addEventListener("scroll",()=>{if(st8)return;st8=setTimeout(()=>{st8=0;if(scrollY+innerHeight>document.documentElement.scrollHeight-1600)loadMore(5)},120)},{passive:true});
 addEventListener("keydown",e=>{if(e.key==="Escape"){if(!$("#sides").hidden){closeSides();return;}if(!$("#lib").hidden){closeLib();return;}if(!$("#menu").hidden)closeMenu();else if(!$("#sheet").hidden)closeSheet();}});
 /* ---------- tabs & search ---------- */
-function renderTabs(){$("#tabs").innerHTML=Object.entries(CATS).map(([k,v])=>`<button class="tab" role="tab" data-k="${k}" aria-selected="${k===tab}">${v}</button>`).join("");}
+function renderTabs(){$("#tabs").innerHTML=Object.entries(CATS).map(([k,v])=>`<button class="tab" role="tab" data-k="${k}" aria-selected="${k===tab}">${v} <span class="unseenCount" aria-label="unseen">${STORIES.filter(s=>(k==="all"||s.cat===k)&&!feedSeen(s)&&!st.hidden[s.id]).length}</span></button>`).join("");}
 $("#tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(!b)return;tab=b.dataset.k;renderTabs();$(`.tab[data-k="${tab}"]`).scrollIntoView({inline:"center",block:"nearest",behavior:"smooth"});resetFeed();logEv("tab",null,{tab});});
 $("#searchBtn").onclick=()=>{$("#searchRow").hidden=false;$("#q").focus();};
 $("#searchClose").onclick=()=>{$("#searchRow").hidden=true;$("#q").value="";query="";resetFeed();};
@@ -245,7 +252,7 @@ const AU=new Audio();AU.preload="none";AU.setAttribute("playsinline","");AU.setA
 const CAN_MP3=(()=>{try{return AU.canPlayType("audio/mpeg")!==""}catch(e){return false}})();
 const TTS={q:[],gen:0,voice:null,started:false,warned:false};
 const HAS_TTS=!!(window.speechSynthesis&&window.SpeechSynthesisUtterance);
-function pickVoice(){if(!HAS_TTS)return;const vs=speechSynthesis.getVoices()||[];
+function pickVoice(){if(!HAS_TTS)return;let vs;try{vs=speechSynthesis.getVoices()||[];}catch(e){return;}
  TTS.voice=vs.find(v=>/^en[-_](GB|US)/i.test(v.lang)&&/Premium|Enhanced|Neural|Natural|Siri|Ava|Samantha|Google UK English Female|Google US English/i.test(v.name))||vs.find(v=>/^en[-_]GB/i.test(v.lang))||vs.find(v=>/^en/i.test(v.lang))||null;}
 if(HAS_TTS){pickVoice();try{speechSynthesis.addEventListener("voiceschanged",pickVoice)}catch(e){speechSynthesis.onvoiceschanged=pickVoice}}
 const plain=t=>t.replace(/\[\d+\]/g,"").replace(/\s+/g," ").trim();
@@ -469,7 +476,7 @@ function showNudge(){const n=$("#nudge");n.innerHTML=`<div class="box"><div clas
  n.hidden=false;$("#nKeep").onclick=()=>{n.hidden=true;active=0;nudged=false};$("#nDone").onclick=()=>{n.hidden=true;active=0;nudged=false;toast("Nice. See you later 👋")};$("#nOff").onclick=()=>{st.nudgeOff=true;save();n.hidden=true};logEv("nudge",null);}
 window.__feed={lib:LIB,refresh,isNew:id=>isNew(byId[id]),prevVisit:PREV_VISIT,handoffPrompt:(id,q)=>handoffPrompt(byId[id],q),stories:()=>STORIES,st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,audio:AU,speaking:()=>speaking,chunkText,speechText:id=>speechText(byId[id])};
 /* ---------- boot ---------- */
-function setData(list){list.forEach(x=>{if(st.react[x.id]===1&&!LIB.liked[x.id])LIB.liked[x.id]={s:libCopy(x),t:Date.now()}});saveLib();STORIES=prune(list);byId={};STORIES.forEach(x=>byId[x.id]=x);DF=null;NEWEST=Math.max(0,...STORIES.map(tAdded));updStamp();}
+function setData(list){list.filter(isSeen).forEach(x=>{st.seenKeys[eventKey(x)]=st.seenAt[x.id]||Date.now();sessionKeys.add(eventKey(x));});save();list.forEach(x=>{if(st.react[x.id]===1&&!LIB.liked[x.id])LIB.liked[x.id]={s:libCopy(x),t:Date.now()}});saveLib();STORIES=dedupe(prune(list));byId={};STORIES.forEach(x=>byId[x.id]=x);DF=null;NEWEST=Math.max(0,...STORIES.map(tAdded));updStamp();}
 function updStamp(){const el=$("#upd");if(el)el.textContent=NEWEST?"Updated "+ago(NEWEST):"";}
 setInterval(updStamp,60000);
 async function getStories(fresh){let r;
@@ -481,12 +488,12 @@ async function refresh(manual){if(refreshing)return;refreshing=true;$("#refreshB
  try{const before=new Set(STORIES.map(x=>x.id));const list=await getStories(true);setData(list);
   const addL=STORIES.filter(x=>!before.has(x.id));addL.forEach(x=>JUSTIN.add(x.id));const added=addL.length;
   st.sessions++;save(); // reshuffle: new rotation + jitter seed
-  round=0;resetFeed();
+  snapshotSeen();STORIES=dedupe(STORIES);round=0;resetFeed();
   if(manual)toast(added?`${added} new ${added===1?"story":"stories"} at the top`:(UNSEENN?`Reshuffled · ${UNSEENN} unread`:`Reshuffled · next batch ${nextBatch()}`));logEv("refresh",null,{added});}
  catch(e){if(manual)toast("Couldn't refresh. Check your connection");}
  finally{refreshing=false;$("#refreshBtn").classList.remove("spin");}}
 $("#refreshBtn").onclick=()=>refresh(true);
-let hiddenAt=0;document.addEventListener("visibilitychange",()=>{if(document.hidden)hiddenAt=Date.now();else if(hiddenAt&&Date.now()-hiddenAt>30*6e4&&$("#sheet").hidden)refresh(false);});
+let hiddenAt=0;document.addEventListener("visibilitychange",()=>{if(document.hidden)hiddenAt=Date.now();else if(hiddenAt&&$("#sheet").hidden&&!speaking){hiddenAt=0;refresh(false);}});
 /* pull to refresh */
 (()=>{let y0=null,dy=0;const pt=$("#ptr");
  addEventListener("touchstart",e=>{y0=(scrollY<=0&&$("#sheet").hidden&&e.touches.length===1)?e.touches[0].clientY:null;dy=0;},{passive:true});
@@ -494,30 +501,36 @@ let hiddenAt=0;document.addEventListener("visibilitychange",()=>{if(document.hid
  addEventListener("touchend",()=>{if(y0==null)return;const go=dy>120;y0=null;pt.style.height="";pt.classList.remove("ready");if(go)refresh(true);},{passive:true});})();
 
 /* ---------- offline pack: cache story images + audio after one online open ---------- */
-async function prefetchOffline(){
-  if(!navigator.onLine||!("caches" in window))return;
+async function prefetchOffline(){try{
+  if(!activePage||!navigator.onLine||!("caches" in window))return;
   const imgs=STORIES.map(s=>s.image&&s.image.src).filter(Boolean);
   const auds=STORIES.map(s=>s.audio).filter(Boolean);
-  const core=await caches.open("feed-v12");
+  const core=await caches.open("feed-v13");
   const ac=await caches.open("feed-audio-v3");
+  if(!activePage)return;
+  const signature=JSON.stringify(STORIES.map(s=>[s.id,s.image&&s.image.src,s.audio]).sort((a,b)=>a[0].localeCompare(b[0])));
+  const manifest=await core.match("offline-pack-v13.json");
+  if(manifest&&await manifest.text()===signature){if(activePage)toast(`Offline ready · ${STORIES.length} stories`);return;}
+
   let done=0,fail=0;const total=imgs.length+auds.length;
-  const bump=()=>{done++; if(done===total||done%25===0){const el=$("#upd"); if(el&&total) el.dataset.off=Math.round(done/total*100);}};
+  const bump=()=>{if(!activePage)return;done++; if(done===total||done%25===0){const el=$("#upd"); if(el&&total) el.dataset.off=Math.round(done/total*100);}};
   // images into app cache (concurrency 6)
   const q=[...imgs];
-  async function oneImg(){while(q.length){const u=q.shift();try{if(await core.match(u)) {bump();continue;} const r=await fetch(u,{cache:"force-cache"}); if(r.ok) await core.put(u,r); else fail++;}catch(e){fail++;} bump();}}
+  async function oneImg(){while(q.length&&activePage){const u=q.shift();try{if(await core.match(u)) {bump();continue;} const r=await fetch(u,{cache:"force-cache",signal:offlineAbort.signal}); if(r.ok) await core.put(u,r); else fail++;}catch(e){fail++;} bump();}}
   await Promise.all(Array.from({length:6},()=>oneImg()));
   // audio into dedicated audio cache (concurrency 3; larger files)
   const qa=[...auds];
-  async function oneAu(){while(qa.length){const u=qa.shift();try{const url=new URL(u,location.href).href; if(await ac.match(url)){bump();continue;} const r=await fetch(u); if(r.ok&&r.status===200) await ac.put(url,r); else fail++;}catch(e){fail++;} bump();}}
+  async function oneAu(){while(qa.length&&activePage){const u=qa.shift();try{const url=new URL(u,location.href).href; if(await ac.match(url)){bump();continue;} const r=await fetch(u,{signal:offlineAbort.signal}); if(r.ok&&r.status===200) await ac.put(url,r); else fail++;}catch(e){fail++;} bump();}}
   await Promise.all(Array.from({length:3},()=>oneAu()));
-  if(fail<total*0.15) toast(`Offline ready · ${STORIES.length} stories`);
+  if(!activePage)return;
+  if(!fail){await core.put("offline-pack-v13.json",new Response(signature));if(activePage)toast(`Offline ready · ${STORIES.length} stories`);}
   else toast(`Mostly cached · ${total-fail}/${total} files`);
   logEv("offline_pack",null,{total,fail,stories:STORIES.length});
-}
+}catch(e){logEv("offline_pack_failed",null);if(activePage&&!document.hidden)toast("Offline pack incomplete · reopen online to retry");}}
 /* ---------- boot ---------- */
 (async()=>{
  $("#feed").innerHTML='<div class="skel"></div><div class="skel"></div>';
- setData(await getStories(false));
+ const initial=await getStories(false);if(!activePage)return;setData(initial);
  localStorage.setItem(VKEY,String(Date.now()));
  counts();
  renderTabs();$("#feed").innerHTML=todayHead();rebuild();
@@ -525,6 +538,7 @@ async function prefetchOffline(){
  if(byId[hid]){queue=[byId[hid],...queue.filter(x=>x.id!==hid)];}
  loadMore(6);
  if(byId[hid]){const c=$(`.card[data-id="${hid}"]`);if(c)expand(c,byId[hid]);}
- if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").then(()=>setTimeout(prefetchOffline,800)).catch(()=>setTimeout(prefetchOffline,800));
- else setTimeout(prefetchOffline,800);
-})();
+ const schedule=()=>{if(activePage)setTimeout(()=>{if(activePage)prefetchOffline();},800);};
+ if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").then(schedule).catch(schedule);
+ else schedule();
+})().catch(e=>{if(activePage){console.error(e);toast("Couldn't load Feed · reopen to retry");}});
