@@ -1,5 +1,356 @@
 [
  {
+  "id": "two-new-brain-technologies-could-transform-futur",
+  "cat": "adhd",
+  "tags": [
+   "adhd",
+   "science",
+   "focus",
+   "psychology"
+  ],
+  "title": "Two New Brain Technologies Could Transform Future Psychiatric Treatments",
+  "snippet": "Recent articles explore focused ultrasound neuromodulation and precision functional mapping. These emerging techniques aim to target deep brain circuits and individual brain variations without invasive surgery.",
+  "bullets": [
+   "Focused ultrasound neuromodulation can reach deep brain regions without the need for invasive procedures [1].",
+   "Current stimulation techniques like transcranial magnetic stimulation have less influence on deep brain matter [1].",
+   "Longitudinal precision functional mapping identifies exact circuit locations in single individuals over time [1]."
+  ],
+  "report": [
+   {
+    "h": "Reaching Deep Brain Circuits",
+    "t": "Many brain circuits associated with psychiatric symptoms involve structures deep inside the brain [1]. Focused ultrasound stimulation is a form of neuromodulation that can reach these regions without invasive surgery [1]."
+   },
+   {
+    "h": "Individual Brain Mapping",
+    "t": "The exact locations of brain regions involved in specific circuits vary in each person [1]. Longitudinal precision functional mapping uses repeated functional magnetic resonance imaging to identify exact circuit locations in single individuals [1]."
+   },
+   {
+    "h": "Future Therapeutic Options",
+    "t": "By combining precision mapping with targeted stimulation techniques, researchers hope to better understand and treat specific brain regions [1]. More research is required to demonstrate safety and efficacy as work rapidly proceeds [1]."
+   }
+  ],
+  "why": "Understanding cutting-edge developments in brain science helps you stay informed on how future treatments for attention and cognitive functions might evolve.",
+  "tryit": "Talk to a qualified medical professional or psychiatrist if you want to discuss current evidence-based approaches for managing focus and cognitive symptoms.",
+  "qa": [
+   [
+    "What is focused ultrasound neuromodulation?",
+    "It is a form of neuromodulation that can reach deep brain regions without invasive procedures [1]."
+   ],
+   [
+    "Why are deep brain regions difficult to reach?",
+    "Currently used techniques like transcranial magnetic stimulation have less influence on deep brain matter than areas near the skull [1]."
+   ],
+   [
+    "What does longitudinal precision functional mapping do?",
+    "It identifies the precise locations of brain circuits in single individuals over time using functional magnetic resonance imaging [1]."
+   ],
+   [
+    "Is focused ultrasound neuromodulation approved for human use yet?",
+    "More research is required to demonstrate safety and efficacy, and information will be forthcoming over the next several years [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psychologytoday.com/us/blog/demystifying-psychiatry/202611/two-technologies-that-may-advance-psychiatric-knowledge",
+    "status": 200,
+    "title": "Two Technologies That May Advance Psychiatric Knowledge",
+    "domain": "psychologytoday.com"
+   }
+  ],
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T16:51:04Z",
+  "addedAt": "2026-11-09T17:39:25Z",
+  "audio": "audio/two-new-brain-technologies-could-transform-futur.mp3",
+  "image": {
+   "src": "img/two-new-brain-technologies-could-transform-futur.jpg",
+   "credit": "Psychology Today",
+   "license": "© Psychology Today, shown with credit",
+   "page": "https://www.psychologytoday.com/us/blog/demystifying-psychiatry/202611/two-technologies-that-may-advance-psychiatric-knowledge",
+   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/jellyfish.jpg?itok=gSDvoWhC"
+  }
+ },
+ {
+  "id": "teen-builds-free-machine-learning-app-to-help-fa",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business"
+  ],
+  "title": "Teen Builds Free Machine Learning App to Help Families Read Autistic Cues",
+  "snippet": "Watching adults struggle to understand his autistic cousin, a 15-year-old taught himself machine learning to build a free app called Kora. The tool now has hundreds of users across multiple countries and recently won a major congressional award.",
+  "bullets": [
+   "A New Jersey high schooler named Shashank Madala built a free app called Kora to help caregivers read the emotional cues of autistic children [1].",
+   "The app now has more than 700 users in 12 countries and works with autism therapy centers [1].",
+   "Madala won first place in the Congressional App Challenge for New Jersey's 10th Congressional District and was lauded by the New Jersey Senate [1]."
+  ],
+  "report": [
+   {
+    "h": "Building for a Need",
+    "t": "After watching adults misunderstand his young cousin at family gatherings, a 15-year-old student decided to learn machine learning from scratch [1]. He wanted to create technology that could bridge the communication gap without making snap judgments [1]."
+   },
+   {
+    "h": "Thoughtful AI Design",
+    "t": "Early versions gave a single confident answer, but Madala redesigned the app to offer multiple possible emotional readings and highlight uncertainty [1]. This encourages caregivers to look closer rather than rely blindly on a single output [1]."
+   },
+   {
+    "h": "Recognition and Growth",
+    "t": "The app won first place in the Congressional App Challenge featuring about 4,600 participants and was displayed in the US Capitol [1]. Madala now leads a team of 3 colleagues to bring the tool to more schools and families [1]."
+   }
+  ],
+  "why": "It shows how practical AI applications can be built to solve real-world communication problems when you focus on a genuine human need.",
+  "tryit": "Look around your own home or daily work for a small, frustrating communication bottleneck that a simple AI tool or script could help clarify.",
+  "qa": [
+   [
+    "What is the name of the app?",
+    "The app is called Kora [1]."
+   ],
+   [
+    "How many users does the app have?",
+    "It has more than 700 users in 12 countries [1]."
+   ],
+   [
+    "What award did the creator win?",
+    "He won first place in the Congressional App Challenge for New Jersey's 10th Congressional District [1]."
+   ],
+   [
+    "How many participants were in the congressional challenge?",
+    "There were some 4,600 participants [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/",
+    "status": 200,
+    "title": "Interpreting Autistic Cues Is Difficult, a Teen Built an App That’s Helping Hundreds of Families",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T16:30:23Z",
+  "addedAt": "2026-11-09T17:39:25Z",
+  "audio": "audio/teen-builds-free-machine-learning-app-to-help-fa.mp3",
+  "image": {
+   "src": "img/teen-builds-free-machine-learning-app-to-help-fa.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Shashank-Madala-stands-with-his-Congressional-recognition-credit-courtesy-of-Shashank-Madala.jpg"
+  }
+ },
+ {
+  "id": "artificial-intelligence-and-digital-tools-are-tr",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "science",
+   "nature",
+   "technology",
+   "money"
+  ],
+  "title": "Artificial intelligence and digital tools are transforming global plant and fungi conservation",
+  "snippet": "A new report from Kew Gardens reveals that artificial intelligence and digital advances are speeding up species identification and data-sharing at an unprecedented scale.",
+  "bullets": [
+   "The State of the World Plants and Fungi 2026 report draws on expertise from more than 400 scientists across 40 countries [1].",
+   "Kew Gardens has successfully digitised 7.4m plant and fungi specimens in its collection [1].",
+   "Laid end-to-end, the digitised specimens would stretch almost 3,000km [1]."
+  ],
+  "report": [
+   {
+    "h": "Accelerating discovery with AI",
+    "t": "Advanced technology and artificial intelligence are helping scientists identify challenging plants and pinpoint species new to science [1]. Digital advances are speeding up data-sharing and allowing specimens to be analysed at an unprecedented scale [1]."
+   },
+   {
+    "h": "Massive digitisation efforts",
+    "t": "Kew Gardens has digitised 7.4m plant and fungi specimens in its collection [1]. Laid end-to-end, these digital records would stretch almost 3,000km [1]."
+   },
+   {
+    "h": "Limitations and environmental costs",
+    "t": "AI-generated identifications still require proper scientific validation and expert judgement [1]. Furthermore, the technology relies on energy-intensive infrastructure and data centres that consume electricity and water [1]."
+   }
+  ],
+  "why": "This shows practical ways artificial intelligence tools are scaling complex data analysis and operational workflows.",
+  "tryit": "Explore how automated data pipelines or AI agents can speed up cataloguing tasks in your own digital projects.",
+  "qa": [
+   [
+    "What organisation published the report?",
+    "Kew Gardens published The State of the World Plants and Fungi 2026 report [1]."
+   ],
+   [
+    "How many scientists contributed to the report?",
+    "More than 400 scientists from 40 countries contributed to the findings [1]."
+   ],
+   [
+    "How many specimens has Kew digitised?",
+    "Kew has digitised 7.4m plant and fungi specimens [1]."
+   ],
+   [
+    "What are the limitations of using AI for conservation?",
+    "AI identifications require scientific validation, and the technology relies on energy-intensive infrastructure [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.positive.news/environment/digital-advances-are-reshaping-nature-conservation-say-experts/",
+    "status": 200,
+    "title": "‘Digital advances are reshaping nature conservation’ say experts - Positive News",
+    "domain": "positive.news"
+   }
+  ],
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T13:44:06Z",
+  "addedAt": "2026-11-09T17:39:25Z",
+  "audio": "audio/artificial-intelligence-and-digital-tools-are-tr.mp3",
+  "image": {
+   "src": "img/artificial-intelligence-and-digital-tools-are-tr.jpg",
+   "credit": "Positive News",
+   "license": "© Positive News, shown with credit",
+   "page": "https://www.positive.news/environment/digital-advances-are-reshaping-nature-conservation-say-experts/",
+   "from_url": "https://www.positive.news/wp-content/uploads/2026/11/imresizer-compress-05-1-scaled.jpg"
+  }
+ },
+ {
+  "id": "rural-colleges-get-creative-to-support-students",
+  "cat": "news",
+  "tags": [
+   "education",
+   "community",
+   "students",
+   "parents",
+   "rural"
+  ],
+  "title": "Rural Colleges Get Creative to Support Students With Children",
+  "snippet": "Rural colleges are finding low-cost ways to support student parents through busy boxes, family-friendly study rooms, and community partnerships.",
+  "bullets": [
+   "About a quarter of students attending rural-serving institutions are parents [1].",
+   "New River introduced busy boxes with toys and a dedicated family study room in the library [1].",
+   "Roane State Community College is partnering with Achieving the Dream to collect better data on parenting students [1]."
+  ],
+  "report": [
+   {
+    "h": "Supporting Student Parents",
+    "t": "Rural colleges are finding creative ways to help student parents despite having less on-campus childcare [1]. Staff at New River noticed high usage of simple busy boxes filled with toys near advising offices [1]."
+   },
+   {
+    "h": "Building Local Partnerships",
+    "t": "Schools are collaborating with local churches, women shelters, and groups like United Way to connect parents with resources [1]. Roane State Community College is partnering with Achieving the Dream to improve data collection on student parents [1]."
+   },
+   {
+    "h": "Fostering Cultural Shifts",
+    "t": "Many student parents look for a cultural shift to feel seen by professors and advisers rather than just one-off programs [1]. New River now hosts events, dinners, and a family study room with child-sized furniture [1]."
+   }
+  ],
+  "why": "This shows how resourceful institutions solve complex community needs through clever, low-cost partnerships and empathy.",
+  "tryit": "Ask your local educational institution or community centre what low-cost family or adult learner networks they currently offer.",
+  "qa": [
+   [
+    "What percentage of students at rural-serving institutions are parents?",
+    "About a quarter of students attending rural-serving institutions are parents [1]."
+   ],
+   [
+    "What is one simple tool New River uses for parenting students?",
+    "They use busy boxes stuffed with toys to entertain children while parents fill out forms or visit advisers [1]."
+   ],
+   [
+    "Which college is partnering with Achieving the Dream?",
+    "Roane State Community College in eastern Tennessee is partnering with Achieving the Dream [1]."
+   ],
+   [
+    "How did New River adjust its grant funding?",
+    "They started an application process and granted seventeen students five hundred dollars each [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reasonstobecheerful.world/rural-colleges-student-parents-support/",
+    "status": 200,
+    "title": "Colleges Are Getting Creative to Help Students With Kids",
+    "domain": "reasonstobecheerful.world"
+   }
+  ],
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T16:39:10Z",
+  "addedAt": "2026-11-09T17:39:25Z",
+  "audio": "audio/rural-colleges-get-creative-to-support-students.mp3",
+  "image": {
+   "src": "img/rural-colleges-get-creative-to-support-students.jpg",
+   "credit": "Reasons to be Cheerful",
+   "license": "© Reasons to be Cheerful, shown with credit",
+   "page": "https://reasonstobecheerful.world/rural-colleges-student-parents-support/",
+   "from_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/IMG_9218-1200x964-1-e1794235774453.jpeg"
+  }
+ },
+ {
+  "id": "popular-weight-loss-drug-semaglutide-shows-new-b",
+  "cat": "health",
+  "tags": [
+   "health",
+   "peptides",
+   "longevity",
+   "science"
+  ],
+  "title": "Popular weight loss drug semaglutide shows new benefits for kidney health",
+  "snippet": "Researchers find that semaglutide repairs faulty kidney blood vessels, reduces inflammation, and restores waste disposal systems in patients.",
+  "bullets": [
+   "Semaglutide repairs and restores blood vessels that power the body waste disposal systems [1].",
+   "A study of 106 participants showed semaglutide led to increased blood flow, reduced scarring, and reduced vessel stiffness [1].",
+   "Researchers reported that genes relating to metabolic stress and inflammation were turned off during treatment [1]."
+  ],
+  "report": [
+   {
+    "h": "Fixing faulty filters",
+    "t": "Researchers report that semaglutide repairs and restores blood vessels that power waste disposal systems in the kidneys [1]. The ingredient can now add treating chronic kidney disease to its list of health benefits [1]."
+   },
+   {
+    "h": "Visible tissue changes",
+    "t": "A subset of 106 participants had kidney tissue samples compared before and after taking semaglutide or a placebo [1]. Semaglutide use led to striking visible changes including increased blood flow, reduced scarring, and reduced blood vessel stiffness [1]."
+   },
+   {
+    "h": "Genetic clues to healing",
+    "t": "Within the tiny blood vessels responsible for filtering, genes relating to metabolic stress and inflammation were turned off [1]. Meanwhile, repair genes were switched on and immune cells stopped sending harmful inflammatory signals [1]."
+   }
+  ],
+  "why": "This research highlights how modern peptide therapies and GLP-1 drugs provide broad metabolic and organ-protective benefits beyond basic weight management.",
+  "tryit": "Talk to a GP or pharmacist if you want to understand more about metabolic health treatments, kidney function markers, or GLP-1 options available to you.",
+  "qa": [
+   [
+    "What is semaglutide?",
+    "Semaglutide is the key ingredient in well-known weight loss and diabetes drugs like Ozempic [1]."
+   ],
+   [
+    "How many people were looked at in the new study?",
+    "Researchers looked at a subset of 106 participants to find out how the drug worked [1]."
+   ],
+   [
+    "What happened to urine protein levels in patients taking the drug?",
+    "Levels of a protein called albumin dropped in patients taking semaglutide, which is a sign that the filters were not quite as leaky [1]."
+   ],
+   [
+    "How does chronic kidney disease affect the body?",
+    "As the disease progresses, the kidneys slowly lose their ability to filter out waste from blood and excrete it as urine [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease",
+    "status": 200,
+    "title": "Drugs like Ozempic may help reverse chronic kidney disease",
+    "domain": "sciencenews.org"
+   }
+  ],
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T16:00:00Z",
+  "addedAt": "2026-11-09T17:39:25Z",
+  "audio": "audio/popular-weight-loss-drug-semaglutide-shows-new-b.mp3",
+  "image": {
+   "src": "img/popular-weight-loss-drug-semaglutide-shows-new-b.jpg",
+   "credit": "Science News",
+   "license": "© Science News, shown with credit",
+   "page": "https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease",
+   "from_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_RF_GLP1-kidneydisease_main.jpg"
+  }
+ },
+ {
   "id": "surprising-study-links-animal-protein-intake-to",
   "cat": "health",
   "tags": [
