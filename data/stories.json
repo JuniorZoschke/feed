@@ -1,5 +1,355 @@
 [
  {
+  "id": "a-high-fiber-diet-may-help-clear-plastic-from-th",
+  "cat": "health",
+  "tags": [
+   "health",
+   "science",
+   "nutrition",
+   "gut"
+  ],
+  "title": "A high-fiber diet may help clear plastic from the gut",
+  "snippet": "New research shows that eating plenty of fiber can help sweep tiny plastic particles out of the digestive tract in mice. While human studies are still needed, adding more fiber to your meals brings well-known health perks.",
+  "bullets": [
+   "Researchers reported on October 15 in Nature Communications that a high-fiber diet may help sweep plastic particles from the gut [1].",
+   "In laboratory tests, fiber formed a complex network that physically wrapped around and stuck to plastic particles [1].",
+   "Mice on medium- and high-fiber diets cleared more plastic particles from their bodies over 24 hours than mice on low-fiber diets [1]."
+  ],
+  "report": [
+   {
+    "h": "Fiber traps plastic",
+    "t": "Dietary fiber forms a complex network of polymers that can trap ingested plastics like a spider web [1]. Laboratory tests show that fiber physically wraps around and sticks to these tiny particles [1]."
+   },
+   {
+    "h": "Tests in mice",
+    "t": "Researchers fed mice plastic particles while keeping them on low, medium, or high-fiber diets [1]. Over the next 24 hours, the medium and high-fiber groups cleared more particles from their bodies than the low-fiber group [1]."
+   },
+   {
+    "h": "Next steps for research",
+    "t": "The study was performed in mice, and researchers note it is too soon to say if fiber does the exact same thing in humans [1]. However, experts point out that adding a little more fiber to daily meals has many known health benefits [1]."
+   }
+  ],
+  "why": "This research connects everyday nutrition choices to modern environmental health concerns, offering another reason to keep an eye on your daily intake.",
+  "tryit": "Add an extra portion of beans or greens to one of your meals today to boost your daily fiber intake.",
+  "qa": [
+   [
+    "When was the study reported?",
+    "The study was reported on October 15 in Nature Communications [1]."
+   ],
+   [
+    "How did fiber interact with the plastic particles?",
+    "Fiber formed a complex network of polymers that trapped the plastics like flies in a spider web [1]."
+   ],
+   [
+    "Did the low-fiber group experience gut damage?",
+    "Yes, after a week of daily plastic feedings, gut tissue damage was seen in the low-fiber group [1]."
+   ],
+   [
+    "Has this effect been proven in humans yet?",
+    "It is too soon to say if dietary fiber does the same thing in humans, as the study was performed in mice [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health",
+    "status": 200,
+    "title": "A high-fiber diet may clear away plastic in the gut",
+    "domain": "sciencenews.org"
+   }
+  ],
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T14:00:00Z",
+  "addedAt": "2026-11-09T23:41:23Z",
+  "audio": "audio/a-high-fiber-diet-may-help-clear-plastic-from-th.mp3",
+  "image": {
+   "src": "img/a-high-fiber-diet-may-help-clear-plastic-from-th.jpg",
+   "credit": "Science News",
+   "license": "© Science News, shown with credit",
+   "page": "https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health",
+   "from_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110226_MR_fiber_main.jpg"
+  }
+ },
+ {
+  "id": "new-study-reveals-that-skin-regenerates-differen",
+  "cat": "health",
+  "tags": [
+   "health",
+   "skin",
+   "science",
+   "longevity",
+   "biology"
+  ],
+  "title": "New study reveals that skin regenerates differently in males and females",
+  "snippet": "Researchers discovered striking differences in how male and female skin stem cells renew themselves. Female skin showed a synchronized pattern that helps accelerate wound healing, while male cells acted more independently [1].",
+  "bullets": [
+   "Every 6 to 7 weeks, we get an entirely new outer layer of skin due to constant cell renewal [1].",
+   "Female mouse cells showed a synchronized pattern of cell division that aids accelerated wound healing [1].",
+   "Hormones like testosterone and estrogen were shown to directly influence these differences in cell behavior [1]."
+  ],
+  "report": [
+   {
+    "h": "Skin renewal study",
+    "t": "An international team of researchers followed skin stem cells across five months using advanced microscopy [1]. They discovered that female skin cells renew in a synchronized, coordinated way like rowers matching their strokes [1]."
+   },
+   {
+    "h": "Hormone impact",
+    "t": "When researchers manipulated hormones, they found that testosterone speeds up how fast new skin cells leave the bottom layer [1]. Removing estrogen in female mice removed most of their coordinated cell actions [1]."
+   },
+   {
+    "h": "Future treatments",
+    "t": "While this was only shown in mice so far, initial lab tests on human cells suggest the same mechanisms are at play [1]. This discovery could eventually lead to sex-tailored treatments for burns, wounds, and skin cancers [1]."
+   }
+  ],
+  "why": "Understanding how skin regenerates differently based on sex helps inform better approaches to personal health, skin aesthetics, and healing [1].",
+  "tryit": "Ask a pharmacist or dermatologist about current evidence-based skincare routines tailored to your skin type.",
+  "qa": [
+   [
+    "How often does skin renew itself?",
+    "Every 6 to 7 weeks, depending on age and body part [1]."
+   ],
+   [
+    "Which institutions led the study?",
+    "Experts from the Université libre de Bruxelles in Belgium and the University of Cambridge in the UK [1]."
+   ],
+   [
+    "What did testosterone do to skin cells?",
+    "Testosterone sped up the rate at which new skin cells left the bottom layer [1]."
+   ],
+   [
+    "Where was the study published?",
+    "The research was published in Nature [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/skin-regenerates-differently-in-males-and-females-study-in-mice-reveals",
+    "status": 200,
+    "title": "Skin Regenerates Differently in Males And Females, Study in Mice Reveals",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T23:00:00Z",
+  "addedAt": "2026-11-09T23:41:23Z",
+  "audio": "audio/new-study-reveals-that-skin-regenerates-differen.mp3",
+  "image": {
+   "src": "img/new-study-reveals-that-skin-regenerates-differen.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/skin-regenerates-differently-in-males-and-females-study-in-mice-reveals",
+   "from_url": "https://www.sciencealert.com/images/2026/10/WomanShoulder-1200x675.jpg"
+  }
+ },
+ {
+  "id": "beat-the-sales-hype-with-expert-tips-for-smarter",
+  "cat": "money",
+  "tags": [
+   "money",
+   "business",
+   "negotiation",
+   "economics"
+  ],
+  "title": "Beat the sales hype with expert tips for smarter shopping",
+  "snippet": "Discover how consumer experts spot genuine bargains and avoid marketing tricks during major sales events. Use proven price tracking tools and preparation lists to save money.",
+  "bullets": [
+   "Expert researchers test products independently instead of accepting freebies from manufacturers [1].",
+   "Checking price history using tools like CamelCamelCamel reveals if an item was cheaper previously [1].",
+   "Making a list in advance helps you avoid being swayed by urgent marketing messages [1]."
+  ],
+  "report": [
+   {
+    "h": "Check Price History",
+    "t": "Retailers use tactics to make purchases seem urgent, but research shows items are often cheaper at other times [1]. Use price tracking tools like CamelCamelCamel or Price Spy to verify true discounts [1]."
+   },
+   {
+    "h": "Prepare Your List",
+    "t": "Make a list of desired products and bookmark them before sales start [1]. This preparation stops you from getting distracted by hundreds of other offers and helps you stick to what you need [1]."
+   },
+   {
+    "h": "Use Cashback Sites",
+    "t": "Maximise savings by using cashback sites for your online purchases [1]. Small amounts earned on each buy add up over time to give you extra funds [1]."
+   }
+  ],
+  "why": "Smart negotiation and price tracking skills help you secure the best value for money on essential purchases without falling for marketing traps.",
+  "tryit": "Bookmark a price tracking tool like CamelCamelCamel in your browser today to check historical prices before buying anything.",
+  "qa": [
+   [
+    "Why should I check price history?",
+    "Retailers use tactics to make purchases seem urgent, but research shows products are often cheaper at other times of the year [1]."
+   ],
+   [
+    "What tool can I use for Amazon products?",
+    "If you are buying on Amazon, you can use CamelCamelCamel to check the price history [1]."
+   ],
+   [
+    "How can I avoid panic buying?",
+    "Make a list of products you want and bookmark them in advance so you can quickly check price drops without getting distracted [1]."
+   ],
+   [
+    "Are freebies accepted for product reviews?",
+    "No, experts buy the products they test rather than accepting freebies from manufacturers to keep recommendations independent [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/which-deals-experts-meet-the-team-aVEeK6r6vbIk",
+    "status": 200,
+    "title": "Which? Deals experts: meet the team bringing you Black Friday bargains - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T12:15:00Z",
+  "addedAt": "2026-11-09T23:41:23Z",
+  "audio": "audio/beat-the-sales-hype-with-expert-tips-for-smarter.mp3",
+  "image": {
+   "src": "img/beat-the-sales-hype-with-expert-tips-for-smarter.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/which-deals-experts-meet-the-team-aVEeK6r6vbIk",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/3fce08f9e642-tablets-testing0002power-consumption-3.jpg"
+  }
+ },
+ {
+  "id": "jonathan-bailey-and-bill-nighy-to-star-in-insomn",
+  "cat": "news",
+  "tags": [
+   "film",
+   "culture",
+   "books",
+   "new york"
+  ],
+  "title": "Jonathan Bailey and Bill Nighy to star in Insomniac City",
+  "snippet": "Jonathan Bailey and Bill Nighy will star as real-life couple Bill Hayes and Oliver Sacks in the film adaptation of Insomniac City.",
+  "bullets": [
+   "Jonathan Bailey and Bill Nighy are set to star in Dominic Cooke’s love story film Insomniac City [1].",
+   "The film is adapted from Bill Hayes’s 2017 memoir of the same name [1].",
+   "Oliver Sacks was known as the poet laureate of contemporary medicine and wrote books including Awakenings [1]."
+  ],
+  "report": [
+   {
+    "h": "Star-Studded Cast",
+    "t": "Jonathan Bailey will play writer and photographer Bill Hayes, starring opposite Bill Nighy as celebrated neurologist Oliver Sacks [1]. The project is introduced to buyers at the American Film Market by Altitude [1]."
+   },
+   {
+    "h": "Adapted Memoir",
+    "t": "The project is adapted from Hayes’s 2017 memoir of the same name, with a screenplay co-written by Hayes and Cooke [1]. Producers include Troy Lum and Andrew Mason for Brouhaha Entertainment [1]."
+   },
+   {
+    "h": "Story of New York",
+    "t": "The film follows Hayes arriving in New York City from San Francisco and falling unexpectedly in love with both the city and Sacks [1]. Filmmakers describe it as an uplifting portrait of grief, hope, and community [1]."
+   }
+  ],
+  "why": "This uplifting real-life story celebrates community, second chances, and unexpected connections in a vibrant urban setting.",
+  "tryit": "Read the 2017 memoir Insomniac City by Bill Hayes to explore the story before the film release.",
+  "qa": [
+   [
+    "Who is directing Insomniac City?",
+    "Dominic Cooke is directing the film [1]."
+   ],
+   [
+    "Who wrote the memoir?",
+    "The memoir was written by Bill Hayes [1]."
+   ],
+   [
+    "What books did Oliver Sacks write?",
+    "He wrote books including The Man Who Mistook His Wife For A Hat and Awakenings [1]."
+   ],
+   [
+    "Who is handling worldwide sales?",
+    "Altitude is handling worldwide sales and introducing the film to buyers at the American Film Market [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.thepinknews.com/2026/11/09/insomniac-city-film-2026/",
+    "status": 200,
+    "title": "Jonathan Bailey & Bill Nighy Star as Lovers in 'Insomniac City'",
+    "domain": "thepinknews.com"
+   }
+  ],
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T17:03:14Z",
+  "addedAt": "2026-11-09T23:41:23Z",
+  "audio": "audio/jonathan-bailey-and-bill-nighy-to-star-in-insomn.mp3",
+  "image": {
+   "src": "img/jonathan-bailey-and-bill-nighy-to-star-in-insomn.jpg",
+   "credit": "PinkNews",
+   "license": "© PinkNews, shown with credit",
+   "page": "https://www.thepinknews.com/2026/11/09/insomniac-city-film-2026/",
+   "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/jonathan-bailey-bill-nighy-insomniac-city.jpg"
+  }
+ },
+ {
+  "id": "microsoft-updates-windows-11-search-to-change-se",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "science"
+  ],
+  "title": "Microsoft updates Windows 11 search to change settings directly",
+  "snippet": "Microsoft is rolling out a new Windows 11 search experience in the Beta channel that lets you change settings directly. Inline actions let you turn on dark mode, adjust brightness, or toggle Bluetooth straight from the search box.",
+  "bullets": [
+   "A new Windows Search experience built on WinUI 3 is rolling out in the Beta channel of the Windows 11 Insiders Preview [1].",
+   "Inline actions let you complete tasks directly such as turning on dark mode, adjusting screen brightness, or muting your device [1].",
+   "Search now better understands misspellings so typing drak instead of dark will still match you with the correct results [1]."
+  ],
+  "report": [
+   {
+    "h": "New search features",
+    "t": "Microsoft is sprucing up Windows 11 search to make it simpler, cleaner, and friendlier [1]. The latest Beta channel preview gives users access to specific Windows settings and commands directly from the search field [1]."
+   },
+   {
+    "h": "Inline actions",
+    "t": "You can now type features like Dark mode, Bluetooth, or screen brightness into the search field and select an open button to go straight there [1]. Inline actions let you quickly complete tasks without needing to know where settings are located [1]."
+   },
+   {
+    "h": "More updates",
+    "t": "The update also helps search understand misspellings so typos still match correct results [1]. Additionally, a new option helps Windows Hello brighten your screen in dark areas during facial recognition [1]."
+   }
+  ],
+  "why": "Streamlining everyday software tasks saves mental energy and reduces friction when working on your computer.",
+  "tryit": "Check your Windows 11 Insider Preview settings to see if your device is enrolled in the Beta channel to test these new search features.",
+  "qa": [
+   [
+    "What is the new Windows search built on?",
+    "It is built on WinUI 3 and is faster and more efficient [1]."
+   ],
+   [
+    "What are inline actions?",
+    "They are new skills that let you quickly complete tasks like turning on dark mode or Bluetooth directly from search [1]."
+   ],
+   [
+    "How does search handle typos now?",
+    "It better understands what you actually mean, such as matching drak to dark mode [1]."
+   ],
+   [
+    "How can you fix Windows Hello in the dark?",
+    "You can enable an option to automatically adjust screen brightness during face recognition in your sign-in options [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/",
+    "status": 200,
+    "title": "You can change Windows settings directly from a search now - how to try it - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T19:33:24Z",
+  "addedAt": "2026-11-09T23:41:23Z",
+  "audio": "audio/microsoft-updates-windows-11-search-to-change-se.mp3",
+  "image": {
+   "src": "img/microsoft-updates-windows-11-search-to-change-se.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Search-inline-action.jpg"
+  }
+ },
+ {
   "id": "two-new-brain-technologies-could-transform-futur",
   "cat": "adhd",
   "tags": [
