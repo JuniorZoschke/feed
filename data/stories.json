@@ -1,5 +1,355 @@
 [
  {
+  "id": "anthropic-targets-valuation-of-up-to-1-4tn-in-st",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "economics"
+  ],
+  "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+  "snippet": "Claude chatbot developer Anthropic is seeking a valuation of up to $1.4tn in its imminent Wall Street stock market flotation, aiming to raise up to $64.4bn.",
+  "bullets": [
+   "Anthropic is seeking a valuation of up to $1.4tn in its upcoming stock market flotation [1].",
+   "The company is aiming to raise up to $64.4bn by selling 825m shares priced up to $78 a share [1].",
+   "Anthropic also plans to raise $26bn through a private placement with cornerstone investors like Alphabet and Nvidia [1]."
+  ],
+  "report": [
+   {
+    "h": "Flotation Details",
+    "t": "Anthropic is aiming for a valuation of up to $1.4tn in its imminent stock market flotation [1]. The company plans to raise up to $64.4bn by selling 825m shares priced up to $78 each [1]."
+   },
+   {
+    "h": "Private Placement",
+    "t": "The California-based firm will raise an extra $26bn through a private placement deal with cornerstone investors including Alphabet and Nvidia [1]. Trading in these shares could begin as soon as next week [1]."
+   },
+   {
+    "h": "Market Context",
+    "t": "The target valuation is lower than the previously expected $2tn due to investor questions about AI sustainability and recent US midterm election results [1]. Anthropic's annual revenue is running at $81bn as of 31 October [1]."
+   }
+  ],
+  "why": "Understanding major AI market valuations and revenue figures helps you gauge the broader technology landscape and growth trends when running or scaling your business ventures.",
+  "tryit": "Review the regulatory filing details mentioned in the report to understand how large AI entities structure private placements and public offerings.",
+  "qa": [
+   [
+    "What valuation is Anthropic targeting?",
+    "Anthropic is targeting a valuation of up to $1.4tn in its stock market flotation [1]."
+   ],
+   [
+    "How much money does Anthropic aim to raise in the IPO?",
+    "The company aims to raise up to $64.4bn by selling 825m shares priced up to $78 a share [1]."
+   ],
+   [
+    "Who are some of the cornerstone investors in the private placement?",
+    "Cornerstone investors include Google parent Alphabet and chipmaker Nvidia [1]."
+   ],
+   [
+    "What is Anthropic's annual revenue currently running at?",
+    "Anthropic's annual revenue is running at $81bn as of 31 October [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+    "status": 200,
+    "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T16:13:13Z",
+  "addedAt": "2026-11-10T17:36:52Z",
+  "audio": "audio/anthropic-targets-valuation-of-up-to-1-4tn-in-st.mp3",
+  "image": {
+   "src": "img/anthropic-targets-valuation-of-up-to-1-4tn-in-st.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+   "from_url": "https://i.guim.co.uk/img/media/7595bf7c7d68e19dc13e69a53295d21b0cd839cc/394_0_3255_2605/master/3255.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd58bf3429433eaaccc66c8362e24453"
+  }
+ },
+ {
+  "id": "use-emotion-regulation-to-stop-past-relationship",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "relationships",
+   "self-compassion",
+   "mind"
+  ],
+  "title": "Use Emotion Regulation To Stop Past Relationship Arguments From Eating You Alive",
+  "snippet": "New research shows that how you remember past arguments with your partner matters just as much as the fights themselves. Using integrative regulation lets you accept negative emotions and protect your relationship satisfaction.",
+  "bullets": [
+   "University of Quebec researchers studied how couples handle memories of past conflicts [1].",
+   "Couples who used integrative regulation when recalling conflicts reported higher relationship satisfaction [1].",
+   "Unproductive rumination over old arguments can drive partners further apart over time [1]."
+  ],
+  "report": [
+   {
+    "h": "The Power of Memory",
+    "t": "Researchers found that the memory of an unresolved conflict can trigger renewed emotional wounds just like the original event [1]. Ruminating on these memories without emotional control creates exponential negative effects [1]."
+   },
+   {
+    "h": "Integrative Regulation",
+    "t": "Self-Determination Theory suggests using integrative regulation to notice and accept unpleasant emotions rather than reacting with hostility or withdrawal [1]. This approach allows you to learn from the conflict instead of staying stuck in distress [1]."
+   },
+   {
+    "h": "Better Relationship Quality",
+    "t": "When both partners apply integrative regulation to recalled conflicts, overall relationship satisfaction increases [1]. Acknowledging hurt feelings without generalizing them to the whole relationship helps couples move forward [1]."
+   }
+  ],
+  "why": "Understanding how your brain replays past arguments helps you practice self-compassion and stop small misunderstandings from derailing your peace of mind.",
+  "tryit": "Notice the next time an old argument pops into your head, acknowledge the uncomfortable feeling without judgment, and ask yourself what the memory can teach you about your own emotions.",
+  "qa": [
+   [
+    "What is integrative regulation?",
+    "It is a motivational approach where you allow yourself to notice and ultimately accept your emotions, even the unpleasant ones [1]."
+   ],
+   [
+    "Who led the recent study on couple conflicts?",
+    "The research was conducted by Aurélie Thuot-Jolicoeur and colleagues at the University of Quebec [1]."
+   ],
+   [
+    "What were the main themes of conflict brought into the study?",
+    "The conflicts included sexuality and intimacy, needs and values, and practical daily disagreements [1]."
+   ],
+   [
+    "Why is recalling a conflict dangerous?",
+    "Dysregulated recall can cause negative emotions to pop up unexpectedly, creating renewed emotional wounds just like the original event [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202611/dont-let-conflict-erode-your-relationship",
+    "status": 200,
+    "title": "Don't Let Conflict Erode Your Relationship",
+    "domain": "psychologytoday.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T17:06:59Z",
+  "addedAt": "2026-11-10T17:36:52Z",
+  "audio": "audio/use-emotion-regulation-to-stop-past-relationship.mp3",
+  "image": {
+   "src": "img/use-emotion-regulation-to-stop-past-relationship.jpg",
+   "credit": "Psychology Today",
+   "license": "© Psychology Today, shown with credit",
+   "page": "https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202611/dont-let-conflict-erode-your-relationship",
+   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/conflict_pexels-keira-burton-6147236.jpg?itok=Oc58p9UZ"
+  }
+ },
+ {
+  "id": "apple-releases-urgent-security-patches-across-al",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "tech"
+  ],
+  "title": "Apple releases urgent security patches across all major operating systems",
+  "snippet": "Apple has launched important security updates for iOS, iPadOS, MacOS, WatchOS, and VisionOS to fix wireless flaws. These updates address vulnerabilities found in Bluetooth pairing, AirPlay, and Messages.",
+  "bullets": [
+   "Apple released security patches on Tuesday for iOS, iPadOS, MacOS, WatchOS, and VisionOS [1].",
+   "The updates fix wireless security flaws related to Bluetooth pairing, AirPlay, and Messages [1].",
+   "Around half of the vulnerabilities were discovered internally by Apple while researchers found the rest [1]."
+  ],
+  "report": [
+   {
+    "h": "New Security Updates",
+    "t": "Apple issued patches across multiple device categories to address serious wireless security flaws [1]. The vulnerabilities affect Bluetooth pairing, AirPlay, and Messages [1]."
+   },
+   {
+    "h": "Messages and Bluetooth",
+    "t": "Flaws in Messages could let unauthorized users join group chats and read past messages [1]. Another fix stops attackers from establishing unwanted Bluetooth connections without user interaction [1]."
+   },
+   {
+    "h": "AirPlay Rate Limits",
+    "t": "An AirPlay vulnerability allowed attackers to bypass rate limits on pairing code attempts [1]. Apple resolved this logic issue by using improved state management [1]."
+   }
+  ],
+  "why": "Keeping your digital devices secure protects your daily business operations and personal data from unexpected disruptions.",
+  "tryit": "Open the settings menu on your Apple devices today and check for available software updates to apply these security patches.",
+  "qa": [
+   [
+    "Which operating systems received security patches?",
+    "Apple released patches for iOS, iPadOS, MacOS, WatchOS, and VisionOS [1]."
+   ],
+   [
+    "What areas do the vulnerabilities affect?",
+    "The vulnerabilities affect Bluetooth pairing, AirPlay, and Messages [1]."
+   ],
+   [
+    "How were the flaws discovered?",
+    "Around half of the flaws were found internally by Apple, while researchers submitted the others [1]."
+   ],
+   [
+    "What did the Messages patch fix?",
+    "It fixed an authorization issue to prevent attackers from remotely joining group chats and reading messages [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/tech/apple-27-2-1-security-fix-iphone-ipad-mac-watch-patch/",
+    "status": 200,
+    "title": "All your Apple devices need to be patched ASAP - here's why - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T16:54:11Z",
+  "addedAt": "2026-11-10T17:36:52Z",
+  "audio": "audio/apple-releases-urgent-security-patches-across-al.mp3",
+  "image": {
+   "src": "img/apple-releases-urgent-security-patches-across-al.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/tech/apple-27-2-1-security-fix-iphone-ipad-mac-watch-patch/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00893.jpeg"
+  }
+ },
+ {
+  "id": "discover-which-top-schools-shape-the-best-founde",
+  "cat": "money",
+  "tags": [
+   "business",
+   "money",
+   "economics"
+  ],
+  "title": "Discover Which Top Schools Shape the Best Founders and Business Leaders",
+  "snippet": "Entrepreneur collaborated with The Princeton Review for the past 20 years to identify standout undergraduate and graduate entrepreneurship programs that help launch businesses and build networks.",
+  "bullets": [
+   "Entrepreneur has collaborated with The Princeton Review for the past 20 years to identify standout programs [1].",
+   "The evaluation assesses what happens after students graduate, including whether they launch businesses and raise funding [1].",
+   "Last summer, The Princeton Review surveyed more than 250 colleges and universities [1]."
+  ],
+  "report": [
+   {
+    "h": "Finding Top Programs",
+    "t": "Entrepreneur collaborated with The Princeton Review for the past 20 years to identify standout undergraduate and graduate entrepreneurship programs [1]. The goal is to find programs that truly shape people into founders and leaders [1]."
+   },
+   {
+    "h": "Measuring Real Impact",
+    "t": "Assessments look beyond what each program teaches to see what happens after students graduate [1]. This includes checking if they launch businesses, gain powerful networks, and raise funding [1]."
+   },
+   {
+    "h": "Surveying Institutions",
+    "t": "Last summer, The Princeton Review surveyed more than 250 colleges and universities to see which ones best serve future entrepreneurs [1]. Data shows that great schools can help position you to succeed if you bring the right mindset [1]."
+   }
+  ],
+  "why": "This matters if you are exploring formal education networks, investors, and foundational mechanics for buying or launching a business.",
+  "tryit": "Visit princetonreview.com/entrepreneur to explore the methodology and details on each ranking.",
+  "qa": [
+   [
+    "How long has Entrepreneur collaborated with The Princeton Review?",
+    "They have collaborated for the past 20 years [1]."
+   ],
+   [
+    "How many schools were surveyed last summer?",
+    "More than 250 colleges and universities were surveyed [1]."
+   ],
+   [
+    "What do the evaluations look at beyond classroom teaching?",
+    "They assess what happens after students graduate, including launching businesses and raising funding [1]."
+   ],
+   [
+    "Where can you find more information on the methodology?",
+    "You can go to princetonreview.com/entrepreneur [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/business-news/top-schools-for-entrepreneurs-in-2027",
+    "status": 200,
+    "title": "Top Schools for Entrepreneurs in 2027",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T13:59:00Z",
+  "addedAt": "2026-11-10T17:36:52Z",
+  "audio": "audio/discover-which-top-schools-shape-the-best-founde.mp3",
+  "image": {
+   "src": "img/discover-which-top-schools-shape-the-best-founde.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/business-news/top-schools-for-entrepreneurs-in-2027",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Bauer-Scenes-Downtown-1-copy.jpg"
+  }
+ },
+ {
+  "id": "open-source-lab-management-tools-power-new-cross",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "science",
+   "systems"
+  ],
+  "title": "Open Source Lab Management Tools Power New Cross Facility Networks",
+  "snippet": "MIT recently hosted the 2026 NEMO User Meeting to showcase open-source laboratory management systems and new network tools like Hydra. These platforms help facilities connect, share operational software, and make specialized research tools easier to discover.",
+  "bullets": [
+   "The 2026 NEMO User Meeting brought together 65 representatives from 25 laboratories and organizations at MIT.nano [1].",
+   "NEMO is an open-source platform originally released by NIST in 2018 to manage shared research facilities [1].",
+   "MIT.nano presented Hydra, an open-source platform designed to connect multiple NEMO installations and sync data in real time [1]."
+  ],
+  "report": [
+   {
+    "h": "Open Source Systems",
+    "t": "Shared laboratory platforms allow diverse research facilities to coordinate operations, scheduling, billing, and equipment training [1]. By using open source software, individual labs can build upon tools created elsewhere and contribute improvements back to the wider community [1]."
+   },
+   {
+    "h": "The Hydra Platform",
+    "t": "MIT.nano introduced Hydra to connect multiple facility management systems and eliminate static or outdated databases [1]. The tool pulls live data directly from active systems to help researchers discover specialized capabilities across a distributed network [1]."
+   },
+   {
+    "h": "Efficiency at Scale",
+    "t": "At MIT.nano, NEMO supports over 1,600 active researchers using more than 200 tools across roughly 160,000 annual hours of equipment usage [1]. Small workflow improvements across such large systems multiply efficiency for thousands of interactions [1]."
+   }
+  ],
+  "why": "Understanding how distributed networks and open-source modular systems solve complex coordination challenges offers practical blueprints for running scalable operations or digital asset businesses.",
+  "tryit": "Explore open-source community platforms or software repositories like GitHub to find modular tools or templates that automate workflow management and resource scheduling for your own projects.",
+  "qa": [
+   [
+    "What is NEMO?",
+    "NEMO is an open-source platform that provides tools for managing shared research facilities and equipment [1]."
+   ],
+   [
+    "Who originally released NEMO?",
+    "NEMO was originally released as open-source software by the National Institute of Standards and Technology in 2018 [1]."
+   ],
+   [
+    "What does the Hydra platform do?",
+    "Hydra connects multiple NEMO installations and keeps data synchronized across all connected systems in real time [1]."
+   ],
+   [
+    "How many researchers use NEMO at MIT.nano?",
+    "NEMO supports more than 1,600 active researchers at MIT.nano [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
+    "status": 200,
+    "title": "Building connections across the research infrastructure",
+    "domain": "news.mit.edu"
+   }
+  ],
+  "date": "2026-11-03",
+  "publishedAt": "2026-11-03T19:30:00Z",
+  "addedAt": "2026-11-10T17:36:52Z",
+  "audio": "audio/open-source-lab-management-tools-power-new-cross.mp3",
+  "image": {
+   "src": "img/open-source-lab-management-tools-power-new-cross.jpg",
+   "credit": "MIT News",
+   "license": "© MIT News, shown with credit",
+   "page": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
+   "from_url": "https://news.mit.edu/sites/default/files/images/202611/NEMO-meeting-2026_0.jpeg"
+  }
+ },
+ {
   "id": "colleges-shift-to-high-value-career-pathways-and",
   "cat": "adhd",
   "tags": [
