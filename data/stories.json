@@ -1,5 +1,357 @@
 [
  {
+  "id": "actor-returns-to-stage-with-alzheimer-s-using-pr",
+  "cat": "mind",
+  "tags": [
+   "mind",
+   "psychology",
+   "health",
+   "science"
+  ],
+  "title": "Actor returns to stage with Alzheimer's using practical support tools",
+  "snippet": "Actor Peter Marinker returned to the London stage at age 85 following an Alzheimer's diagnosis, using an autocue, earpiece and past recordings to perform a solo play.",
+  "bullets": [
+   "Actor Peter Marinker continued his stage career after an Alzheimer's diagnosis [1].",
+   "He performed the solo role of Krapp at the Cockpit Theatre in London [1].",
+   "The production used an autocue, a prompt earpiece and older recordings to support him [1]."
+  ],
+  "report": [
+   {
+    "h": "Returning to the Stage",
+    "t": "Actor Peter Marinker continued his career after an Alzheimer's diagnosis by taking on a demanding solo role [1]. The production took place at the Cockpit Theatre in London [1]."
+   },
+   {
+    "h": "Practical Support Measures",
+    "t": "The performance was supported using practical tools including an autocue, a prompt earpiece and extra rehearsal time [1]. It also featured audio recordings from Marinker playing the same role in 1983 [1]."
+   },
+   {
+    "h": "Focus on Feeling",
+    "t": "Marinker noted that his brain now relies more on the right side of instinct and feeling rather than calculation [1]. The four-day London run in September raised funds for the Alzheimer's Society [1]."
+   }
+  ],
+  "why": "This story offers a compassionate look at adapting to cognitive changes by using practical tools and leaning into creative strengths.",
+  "tryit": "Explore how creative tasks and sensory aids like voice recorders can support daily focus and memory tasks.",
+  "qa": [
+   [
+    "Who is the actor?",
+    "Peter Marinker, who is 85 years old [1]."
+   ],
+   [
+    "What play did he perform in?",
+    "He performed in Samuel Beckett's Krapp's Last Tape [1]."
+   ],
+   [
+    "Where was the production held?",
+    "It took place at the Cockpit Theatre in London [1]."
+   ],
+   [
+    "What support measures were used?",
+    "The production used an autocue, a prompt earpiece, extra rehearsal time and recordings from 1983 [1]."
+   ],
+   [
+    "Which charity benefited from the run?",
+    "The four-day London run in September raised funds for the Alzheimer's Society [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.positive.news/society/actor-85-takes-to-the-stage-despite-alzheimers-diagnosis/",
+    "status": 200,
+    "title": "Actor, 85, takes to the stage despite Alzheimer’s diagnosis - Positive News",
+    "domain": "positive.news"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T11:34:34Z",
+  "addedAt": "2026-11-10T23:40:16Z",
+  "audio": "audio/actor-returns-to-stage-with-alzheimer-s-using-pr.mp3",
+  "image": {
+   "src": "img/actor-returns-to-stage-with-alzheimer-s-using-pr.jpg",
+   "credit": "Positive News",
+   "license": "© Positive News, shown with credit",
+   "page": "https://www.positive.news/society/actor-85-takes-to-the-stage-despite-alzheimers-diagnosis/",
+   "from_url": "https://www.positive.news/wp-content/uploads/2026/11/Horizontal-resizer-2.png"
+  }
+ },
+ {
+  "id": "brain-computer-interfaces-and-ai-are-rapidly-res",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "science",
+   "health",
+   "tech"
+  ],
+  "title": "Brain computer interfaces and AI are rapidly restoring human speech",
+  "snippet": "New brain implants and AI speech synthesis are helping people with conditions like ALS and PLS communicate again. Clinical trials are testing wireless chips that decode neural signals into natural digital voices.",
+  "bullets": [
+   "Fewer than 10 people are estimated to currently have brain implants that decode attempted speech [1].",
+   "A company called Paradromics developed a dime-sized device that sits on the motor cortex and uses tiny sensors [1].",
+   "Recent tests of brain-to-voice translation reached about 95 percent accuracy for listeners [1]."
+  ],
+  "report": [
+   {
+    "h": "Restoring Communication",
+    "t": "Scientists are racing to restore communication for people who cannot move or talk using AI and brain implants [1]. Clinical trials led by groups like BrainGate and companies like Paradromics are testing this new neurotech [1]."
+   },
+   {
+    "h": "Tiny Brain Sensors",
+    "t": "The Paradromics device is about the size of a dime and features tiny sensors that push close to neurons in the brain [1]. This hardware detects neural patterns when a person tries to say a word [1]."
+   },
+   {
+    "h": "Direct Speech Translation",
+    "t": "Researchers are moving past screens to translate brain signals directly into a speaking digital voice [1]. Latest tests of this process have reached about 95 percent accuracy for listeners [1]."
+   }
+  ],
+  "why": "This breakthrough highlights how rapidly AI and neural interfaces are advancing to solve complex communication hurdles.",
+  "tryit": "Read more about current neuroscience research on preprint platforms like bioRxiv to follow how brain-computer interfaces are evolving.",
+  "qa": [
+   [
+    "How many people currently have speech-decoding brain implants?",
+    "Leigh Hochberg notes that it is almost sure to be less than 10 people so far [1]."
+   ],
+   [
+    "How big is the Paradromics device?",
+    "The device is about the size of a dime and sits on the motor cortex [1]."
+   ],
+   [
+    "What accuracy has the brain-to-voice process reached?",
+    "Recent tests have reached about 95 percent accuracy for listeners [1]."
+   ],
+   [
+    "Who is Casey Harrell?",
+    "Casey Harrell is a man with amyotrophic lateral sclerosis who uses a brain implant to communicate [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencenews.org/article/talk-less-lose-voice-deep-end-podcast",
+    "status": 200,
+    "title": "Science to restore speech is moving fast. Here's what's next",
+    "domain": "sciencenews.org"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T14:00:00Z",
+  "addedAt": "2026-11-10T23:40:16Z",
+  "audio": "audio/brain-computer-interfaces-and-ai-are-rapidly-res.mp3",
+  "image": {
+   "src": "img/brain-computer-interfaces-and-ai-are-rapidly-res.jpg",
+   "credit": "Science News",
+   "license": "© Science News, shown with credit",
+   "page": "https://www.sciencenews.org/article/talk-less-lose-voice-deep-end-podcast",
+   "from_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/110226_LS_TDE_S2E6_main.jpg"
+  }
+ },
+ {
+  "id": "wrist-sensors-reveal-subtle-walking-changes-year",
+  "cat": "health",
+  "tags": [
+   "health",
+   "science",
+   "longevity"
+  ],
+  "title": "Wrist sensors reveal subtle walking changes years before Parkinson's diagnosis",
+  "snippet": "Researchers analyzed wrist recordings from thousands of volunteers and found subtle changes in arm swing up to seven years before a Parkinson's diagnosis [1].",
+  "bullets": [
+   "A team analyzed usable recordings from 73,413 people who wore wrist sensors for a week [1].",
+   "During follow-up, 314 people received a Parkinson's diagnosis [1].",
+   "Differences in arm movement appeared nearly seven years before a diagnosis [1]."
+  ],
+  "report": [
+   {
+    "h": "Wrist Sensor Study",
+    "t": "Researchers at the University of New South Wales used data from the UK Biobank to study movement [1]. More than 100,000 volunteers wore a wrist sensor for a week [1]."
+   },
+   {
+    "h": "Detecting Early Changes",
+    "t": "The team analyzed usable recordings from 73,413 people and tracked medical records for up to a decade [1]. Software estimated step counts, walking speeds, and arm swings [1]."
+   },
+   {
+    "h": "Potential Future Uses",
+    "t": "People who later received a diagnosis tended to spend less time swinging their arms naturally [1]. If findings hold up, such recordings could help identify people for early treatment trials [1]."
+   }
+  ],
+  "why": "It shows how everyday wearable technology can track subtle health metrics over long periods.",
+  "tryit": "Talk to a GP or healthcare professional if you have any specific concerns about your mobility or neurological health.",
+  "qa": [
+   [
+    "How many people took part in the study?",
+    "More than 100,000 volunteers wore a wrist sensor for a week, with 73,413 usable recordings analyzed [1]."
+   ],
+   [
+    "How early were differences spotted?",
+    "Differences in arm movement were visible nearly seven years before diagnosis [1]."
+   ],
+   [
+    "What software was used to analyze the data?",
+    "The team used software called Watch Walk to find stretches of recordings that captured walking [1]."
+   ],
+   [
+    "Can this test tell an individual if they will develop Parkinson's?",
+    "No, the results currently describe differences between groups and cannot tell an individual if they will develop the disease [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/subtle-changes-in-how-you-walk-may-signal-parkinsons-nearly-7-years-early",
+    "status": 200,
+    "title": "Subtle Changes in How You Walk May Signal Parkinson's Nearly 7 Years Early",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T23:00:00Z",
+  "addedAt": "2026-11-10T23:40:16Z",
+  "audio": "audio/wrist-sensors-reveal-subtle-walking-changes-year.mp3",
+  "image": {
+   "src": "img/wrist-sensors-reveal-subtle-walking-changes-year.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/subtle-changes-in-how-you-walk-may-signal-parkinsons-nearly-7-years-early",
+   "from_url": "https://www.sciencealert.com/images/2026/11/ElderWalking-1200x675.png"
+  }
+ },
+ {
+  "id": "lost-handwritten-draft-of-iconic-speech-resurfac",
+  "cat": "news",
+  "tags": [
+   "history",
+   "science",
+   "culture"
+  ],
+  "title": "Lost Handwritten Draft of Iconic Speech Resurfaces After Decades",
+  "snippet": "The original handwritten final draft of Martin Luther King Jr.'s famous speech was found in a desk drawer. The seven yellow pages will be auctioned for charity.",
+  "bullets": [
+   "The manuscript was discovered by civil rights leader Xernona Clayton in a desk drawer belonging to her late husband [1].",
+   "The seven yellow pages are expected to sell for more than $10 million at Christie's [1].",
+   "All proceeds from the sale will support philanthropic efforts including the King Center and the Xernona Clayton Foundation [1]."
+  ],
+  "report": [
+   {
+    "h": "Draft Rediscovered",
+    "t": "The handwritten final draft of Martin Luther King Jr.'s historic address was found tucked in an envelope inside a desk drawer [1]. Xernona Clayton found the pages in the late 1990s and kept them safe before having them identified recently [1]."
+   },
+   {
+    "h": "Exhibition Plans",
+    "t": "The manuscript will be exhibited at the National Center for Civil and Human Rights in Atlanta and in Chicago before going on display in New York [1]. The draft will be sold in a single-lot auction [1]."
+   },
+   {
+    "h": "Charity Proceeds",
+    "t": "All proceeds from the upcoming sale will go toward philanthropic efforts including the King Center in Atlanta [1]. The family hopes the public display will inspire future generations [1]."
+   }
+  ],
+  "why": "Discovering hidden pieces of history offers fascinating insight into creative problem-solving and the writing process.",
+  "tryit": "Check out the public exhibitions of the manuscript if you are in Atlanta, Chicago, or New York this winter [1].",
+  "qa": [
+   [
+    "Where was the manuscript found?",
+    "It was found in a desk drawer belonging to Edward Clayton, one of King's aides and speechwriters [1]."
+   ],
+   [
+    "When will the draft be auctioned?",
+    "The draft will be sold on January 22 in a single-lot sale at Christie's [1]."
+   ],
+   [
+    "How much is the draft expected to sell for?",
+    "The draft is expected to sell for more than $10 million [1]."
+   ],
+   [
+    "Where can the public view the pages before the sale?",
+    "The manuscript will be exhibited in Atlanta, Chicago, and at Christie's New York [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smart-news/the-handwritten-final-draft-of-martin-luther-king-jrs-i-have-a-dream-speech-was-considered-lost-it-turned-out-to-be-sitting-in-a-desk-drawer-for-decades-180989856/",
+    "status": 200,
+    "title": "The Handwritten Final Draft of Martin Luther King Jr.'s 'I Have a Dream' Speech Was Considered Lost. It Turned Out to Be Sitting in a Desk Drawer for Decades",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T21:45:43Z",
+  "addedAt": "2026-11-10T23:40:16Z",
+  "audio": "audio/lost-handwritten-draft-of-iconic-speech-resurfac.mp3",
+  "image": {
+   "src": "img/lost-handwritten-draft-of-iconic-speech-resurfac.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smart-news/the-handwritten-final-draft-of-martin-luther-king-jrs-i-have-a-dream-speech-was-considered-lost-it-turned-out-to-be-sitting-in-a-desk-drawer-for-decades-180989856/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/WSGxf8ph9cwT0WTsAHJ2RPsLwxc=/fit-in/1600x0/filters:focal(1500x1171:1501x1172)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/59/9059df38-a65f-4177-93fc-50747d008f74/art_king_martin_luther01.jpg"
+  }
+ },
+ {
+  "id": "artificial-intelligence-copyright-debates-test-l",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "economics"
+  ],
+  "title": "Artificial Intelligence Copyright Debates Test Leaders Balancing Economic Growth And Creative Industries",
+  "snippet": "Governments face tough choices balancing artificial intelligence datacentre investments with copyright protection for creators. Tech companies pitch renewable datacentres and massive market valuations while artists demand clear rules and fair compensation.",
+  "bullets": [
+   "The AI hyper-scaler Anthropic seeks a market valuation of $1.5tn and pitches basing training models in Australia [1].",
+   "Critics argue AI models are trained on scraped books, recordings, and videos without creator consent [1].",
+   "Rapid capital injections and datacentres are placing pressure on energy, water, and inflation [1]."
+  ],
+  "report": [
+   {
+    "h": "The AI Economic Pitch",
+    "t": "Tech firms propose building renewable datacentres to export data tokens globally, offering a potential post-mining economic plan [1]. Governments weigh positioning their nations as major global hubs for data production [1]."
+   },
+   {
+    "h": "The Copyright Conflict",
+    "t": "Artists and creators warn that relaxing copyright laws creates global liability and amounts to data-washing [1]. Creators demand the right to control their work, clear labelling of human work, and shared benefits from AI models [1]."
+   },
+   {
+    "h": "Broader Societal Concerns",
+    "t": "Educators worry about the erosion of cognitive skills, while psychologists note concerns over chatbot relationships [1]. Furthermore, the scale-out of datacentres adds heavy demands for water and energy resources [1]."
+   }
+  ],
+  "why": "Understanding how governments handle AI policy and copyright helps you navigate shifting tech regulations and market opportunities.",
+  "tryit": "Review your current business reliance on automated AI tools and check emerging copyright guidelines for digital content.",
+  "qa": [
+   [
+    "What valuation is Anthropic seeking?",
+    "Anthropic is seeking a market valuation of $1.5tn [1]."
+   ],
+   [
+    "What are creators demanding from the government?",
+    "They expect the right to control their work, meaningful reparation, clear labelling of human work, and shared benefit [1]."
+   ],
+   [
+    "What additional pressures are datacentres causing?",
+    "They are adding to demands for energy and water, while rapid capital injections pressure inflation [1]."
+   ],
+   [
+    "What do educators worry about regarding AI?",
+    "They worry about the erosion of cognitive skills as machines mark the work of machines [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/11/albaneses-love-affair-with-music-is-on-the-rocks-over-ai-can-he-write-a-different-tune",
+    "status": 200,
+    "title": "Albanese’s love affair with music is on the rocks over AI. Can he write a different tune? | Peter Lewis",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T22:00:20Z",
+  "addedAt": "2026-11-10T23:40:16Z",
+  "audio": "audio/artificial-intelligence-copyright-debates-test-l.mp3",
+  "image": {
+   "src": "img/artificial-intelligence-copyright-debates-test-l.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/commentisfree/2026/nov/11/albaneses-love-affair-with-music-is-on-the-rocks-over-ai-can-he-write-a-different-tune",
+   "from_url": "https://i.guim.co.uk/img/media/1e6a991e75bedff23cf6e2c8520cc53422d92836/30_169_3298_2639/master/3298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=127e91f97b0de5726345349d1bc418b9"
+  }
+ },
+ {
   "id": "anthropic-targets-valuation-of-up-to-1-4tn-in-st",
   "cat": "ai",
   "tags": [
