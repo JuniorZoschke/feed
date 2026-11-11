@@ -1,5 +1,355 @@
 [
  {
+  "id": "this-tiny-new-device-gives-your-older-tech-smart",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "science"
+  ],
+  "title": "This tiny new device gives your older tech smart home superpowers",
+  "snippet": "A new $69 hardware device lets Home Assistant users make their existing electronics smarter instead of replacing them. It connects older stereo systems, amplifiers, and serial-controlled TVs to modern setups.",
+  "bullets": [
+   "The new Home Assistant Connect AUX-2 hardware device is priced at $69 [1].",
+   "It features RS-232 serial ports, Bluetooth, Z-Wave, USB, PoE, and Wi-Fi connectivity [1].",
+   "The device helps users control old AV receivers and older TVs without relying on manufacturer cloud servers [1]."
+  ],
+  "report": [
+   {
+    "h": "Smart Home Upgrade",
+    "t": "The Home Assistant Connect AUX-2 is a multi-purpose device made by Nabu Casa to connect older electronics [1]. It brings together several connectivity options like RS-232 serial for older TVs and equipment [1]."
+   },
+   {
+    "h": "Fighting Obsolescence",
+    "t": "The device aims to keep working electronics out of the trash when manufacturers stop supporting them or shut down cloud services [1]. A single box can control multiple devices depending on physical connections [1]."
+   },
+   {
+    "h": "Flexible Connections",
+    "t": "Users can connect two serial-controlled devices directly through RS-232 ports and use a USB port for expansion adapters [1]. The hardware also supports Bluetooth, Z-Wave, PoE, and Wi-Fi [1]."
+   }
+  ],
+  "why": "This practical hardware offers a clever way to upgrade existing equipment and run an efficient, automated workspace or home setup without unnecessary purchases.",
+  "tryit": "Check the Home Assistant site to explore how the AUX-2 hardware can integrate your existing audio gear and older screens into a unified automation system.",
+  "qa": [
+   [
+    "How much does the AUX-2 cost?",
+    "The device costs $69 [1]."
+   ],
+   [
+    "Who makes the AUX-2?",
+    "It is made by Nabu Casa, the company behind official Home Assistant hardware [1]."
+   ],
+   [
+    "What connectivity options are supported?",
+    "It supports RS-232 serial, Bluetooth, Z-Wave, USB, PoE, and Wi-Fi [1]."
+   ],
+   [
+    "What problem does the device solve?",
+    "It prevents working electronics from becoming obsolete when manufacturers drop support or shut down cloud services [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
+    "status": 200,
+    "title": "This tiny box gives your older tech smart home superpowers - and it's only $69 - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T20:30:08Z",
+  "addedAt": "2026-11-11T23:38:56Z",
+  "audio": "audio/this-tiny-new-device-gives-your-older-tech-smart.mp3",
+  "image": {
+   "src": "img/this-tiny-new-device-gives-your-older-tech-smart.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/image-1.jpeg"
+  }
+ },
+ {
+  "id": "broadway-play-tackles-universal-beauty-standards",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "diversity",
+   "arts",
+   "empathy"
+  ],
+  "title": "Broadway Play Tackles Universal Beauty Standards With Humor And Heart",
+  "snippet": "Jocelyn Bioh's hit play explores teenage life, beauty standards, and colorism at a Ghanaian boarding school. The production concludes its Broadway run this week with online livestream options.",
+  "bullets": [
+   "School Girls; Or, The African Mean Girls Play is written by Tony Award-nominated playwright Jocelyn Bioh [1].",
+   "The story is set at the Aburi Girls Boarding School in Ghana in the year 1986 [1].",
+   "The production is wrapping up its Broadway run this week with livestream broadcasts available online [1]."
+  ],
+  "report": [
+   {
+    "h": "Boarding School Rivalries",
+    "t": "The play follows queen bee Paulina and her classmates as they compete for the title of Miss Ghana 1986 [1]. Their intense rivalry is disrupted by the arrival of a new transfer student named Ericka from Ohio [1]."
+   },
+   {
+    "h": "Tackling Colorism",
+    "t": "Playwright Jocelyn Bioh explores global beauty standards and colorism through humor and humanity [1]. She aims to help audiences examine their own implicit biases and shorten the journey to self-acceptance [1]."
+   },
+   {
+    "h": "Final Week Streaming",
+    "t": "As the Broadway run concludes this week, audiences can watch via livestream on The League of Live Stream Theater's website [1]. The broadcast is free for high school students and available for a fee to others [1]."
+   }
+  ],
+  "why": "This story highlights the importance of self-compassion, empathy, and shifting implicit biases when navigating societal pressures.",
+  "tryit": "Visit The League of Live Stream Theater's website to watch the final week of performances if you want to experience the production online.",
+  "qa": [
+   [
+    "Who wrote the play?",
+    "The play was written by Tony Award-nominated playwright Jocelyn Bioh [1]."
+   ],
+   [
+    "Where and when is it set?",
+    "It is set at a boarding school in Ghana in 1986 [1]."
+   ],
+   [
+    "How can people watch it this week?",
+    "It is available via livestream broadcasts on The League of Live Stream Theater's website [1]."
+   ],
+   [
+    "Is the livestream free for everyone?",
+    "It is free for high schoolers and available for a fee to others [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
+    "status": 200,
+    "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
+    "domain": "npr.org"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T12:28:36Z",
+  "addedAt": "2026-11-11T23:38:56Z",
+  "audio": "audio/broadway-play-tackles-universal-beauty-standards.mp3",
+  "image": {
+   "src": "img/broadway-play-tackles-universal-beauty-standards.jpg",
+   "credit": "NPR",
+   "license": "© NPR, shown with credit",
+   "page": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
+   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1800+0+95/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F09%2F0e863e77427ea1f57eca3fb36a51%2Fgettyimages-2297678210.jpg"
+  }
+ },
+ {
+  "id": "can-apple-airpods-translate-foreign-languages-re",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "travel",
+   "business",
+   "science",
+   "money"
+  ],
+  "title": "Can Apple AirPods Translate Foreign Languages Real Time Accurately?",
+  "snippet": "Which? tested Apple AirPods live translation with bilingual speakers in quiet and noisy rooms. They found translations mostly accurate for simple questions, though complex chats struggle.",
+  "bullets": [
+   "Tests used four bilingual speakers judging French, German, Italian, and Spanish translations [1].",
+   "Minor translation mistakes occurred, such as translating British Airways as Brittany Shareware [1].",
+   "Google also offers a free live translation function supporting more than 70 languages [1]."
+  ],
+  "report": [
+   {
+    "h": "How The Tests Worked",
+    "t": "Which? worked with four bilingual speakers to judge how accurately Apple AirPods translate French, German, Italian, and Spanish [1]. The tests took place in both quiet and noisy rooms to mimic real travel scenarios [1]."
+   },
+   {
+    "h": "Accuracy And Limits",
+    "t": "The translation was mostly spot-on with only minor mistakes, though it struggled with complex conversations and background noise [1]. There was also a noticeable delay during busy or urgent talks [1]."
+   },
+   {
+    "h": "Alternative Options",
+    "t": "Google offers a free live translation function supporting more than 70 languages across both Apple and Android phones [1]. This provides a cheaper alternative to upgrading your phone and headphones just for live translation [1]."
+   }
+  ],
+  "why": "Useful when planning international travel or navigating multilingual business environments where quick translation tools save time.",
+  "tryit": "Check your current phone settings and free translation apps before upgrading your hardware for travel.",
+  "qa": [
+   [
+    "Which languages does Apple support for live translation?",
+    "It currently supports nine languages: English, French, German, Italian, Japanese, Korean, Mandarin, Portuguese, and Spanish [1]."
+   ],
+   [
+    "Does Apple live translation work offline?",
+    "You need to download your chosen languages and have an iPhone 15 Pro or later with Apple Intelligence enabled [1]."
+   ],
+   [
+    "Can you save conversations in the Apple Translate app?",
+    "No, you cannot save conversations because of privacy restrictions [1]."
+   ],
+   [
+    "How many languages does Google's alternative support?",
+    "Google's live translation function supports more than 70 languages [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/can-apple-airpods-really-translate-languages-in-real-time-aZ2y75B0vynw",
+    "status": 200,
+    "title": "Can Apple AirPods really translate languages in real time? - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T07:19:00Z",
+  "addedAt": "2026-11-11T23:38:56Z",
+  "audio": "audio/can-apple-airpods-translate-foreign-languages-re.mp3",
+  "image": {
+   "src": "img/can-apple-airpods-translate-foreign-languages-re.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/can-apple-airpods-really-translate-languages-in-real-time-aZ2y75B0vynw",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/2750105d35ca-podcast-airpods-translate.jpg"
+  }
+ },
+ {
+  "id": "why-major-companies-are-currently-blocking-unaut",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "travel"
+  ],
+  "title": "Why major companies are currently blocking unauthorized AI shopping agents",
+  "snippet": "United Airlines and other major companies are restricting AI agents from transacting on their sites due to privacy and regulatory concerns. Businesses worry about unauthorized assistants exposing sensitive data or bypassing mandatory compliance rules.",
+  "bullets": [
+   "United Airlines announced it will not let personal AI assistants book tickets on the airline [1].",
+   "The company cited concerns that agents could expose customer information or make unintended purchases [1].",
+   "Other platforms like eBay and several major banks have also placed restrictions on AI agents [1]."
+  ],
+  "report": [
+   {
+    "h": "Booking restrictions",
+    "t": "United states that personal AI assistants cannot complete flight transactions on behalf of users [1]. The airline highlighted concerns regarding regulatory compliance, such as ensuring passengers personally attest that their bags do not contain explosives [1]."
+   },
+   {
+    "h": "Industry caution",
+    "t": "United CEO Scott Kirby noted reluctance to introduce another middleman into the process [1]. Other companies, including DoorDash and eBay, are similarly observing or restricting how autonomous agents interact with their platforms [1]."
+   },
+   {
+    "h": "Future potential",
+    "t": "United indicated it might reconsider its stance as third-party AI technology advances [1]. The airline wants to ensure proper customer protections are established before allowing direct account interactions [1]."
+   }
+  ],
+  "why": "Understanding how major platforms restrict autonomous software helps you anticipate technical hurdles when building or deploying your own AI automation tools.",
+  "tryit": "Check your current automated workflows to ensure they rely on official APIs rather than direct web transactions where sites might block them.",
+  "qa": [
+   [
+    "Why is United blocking AI booking agents?",
+    "United cited privacy concerns, unintended purchases, and regulatory rules like bag attestations [1]."
+   ],
+   [
+    "Can AI agents still show United flights?",
+    "Yes, agents can still show users the flights, but they cannot complete the transaction [1]."
+   ],
+   [
+    "What other companies are restricting agents?",
+    "eBay appeared to block agents from browsing, and several major banks have placed restrictions [1]."
+   ],
+   [
+    "Will United ever allow AI booking?",
+    "United suggests it could reconsider its decision based on future advancements and proper protections [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "status": 200,
+    "title": "United won’t let your AI agent book your flight",
+    "domain": "theverge.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T21:54:21Z",
+  "addedAt": "2026-11-11T23:38:56Z",
+  "audio": "audio/why-major-companies-are-currently-blocking-unaut.mp3",
+  "image": {
+   "src": "img/why-major-companies-are-currently-blocking-unaut.jpg",
+   "credit": "The Verge",
+   "license": "© The Verge, shown with credit",
+   "page": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0%2C10.721800295556%2C100%2C78.556399408888&w=1200"
+  }
+ },
+ {
+  "id": "google-fi-introduces-automatic-network-switching",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "travel"
+  ],
+  "title": "Google Fi introduces automatic network switching and free premium Wi-Fi upgrades",
+  "snippet": "Google Fi wireless customers with Pixel phones just got free upgrades that automatically switch between top 5G networks and connect to encrypted public Wi-Fi.",
+  "bullets": [
+   "Google announced a new super network feature that automatically switches between two of the largest 5G cellular networks [1].",
+   "The system uses MEP technology to host multiple SIM profiles on a single eSIM chip [1].",
+   "A second feature called Wi-Fi Auto Connect+ safely links users to faster encrypted Wi-Fi in millions of locations without manual login [1]."
+  ],
+  "report": [
+   {
+    "h": "Automatic 5G Switching",
+    "t": "Google Fi has launched a super network feature that automatically moves your connection if your main network slows down or becomes unstable [1]. This reduces dead zones and ensures you always have the fastest available service [1]."
+   },
+   {
+    "h": "Smart eSIM Technology",
+    "t": "The mobile upgrade relies on Multiple Enabled Profiles technology, allowing a single eSIM chip to run multiple SIM profiles at the same time [1]. Google notes that users must have any non-Fi SIMs disabled for it to work [1]."
+   },
+   {
+    "h": "Encrypted Public Wi-Fi",
+    "t": "The new Wi-Fi Auto Connect+ feature links users to faster public Wi-Fi in millions of places like airports and malls without requiring a manual login [1]. These connections are automatically encrypted to keep your online activity safe [1]."
+   }
+  ],
+  "why": "Reliable mobile data and secure automated connections help keep your business running smoothly while on the move.",
+  "tryit": "Check your phone settings to ensure you are running the latest software updates if you use Google Fi on a compatible Pixel, Samsung, or Motorola device.",
+  "qa": [
+   [
+    "What phones support the new features?",
+    "The features are available on Pixel phones, Samsung phones running One UI 9 or higher, and select modern Motorola phones [1]."
+   ],
+   [
+    "Do these new features cost extra?",
+    "Both features are included on Unlimited Premium and Flexible plans at no extra cost [1]."
+   ],
+   [
+    "How does the Wi-Fi Auto Connect feature work?",
+    "It automatically connects you to faster Wi-Fi in millions of locations like airports and malls without needing a manual login [1]."
+   ],
+   [
+    "What technology powers the mobile network switching?",
+    "It runs on Multiple Enabled Profiles technology, which lets a single eSIM chip host multiple SIM profiles simultaneously [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/home-and-office/google-fi-super-network-pixel/",
+    "status": 200,
+    "title": "Google Fi now switches between the best mobile networks automatically - how it works - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T19:41:41Z",
+  "addedAt": "2026-11-11T23:38:56Z",
+  "audio": "audio/google-fi-introduces-automatic-network-switching.mp3",
+  "image": {
+   "src": "img/google-fi-introduces-automatic-network-switching.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/home-and-office/google-fi-super-network-pixel/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00320.jpg"
+  }
+ },
+ {
   "id": "simple-cellular-signals-reveal-how-hair-follicle",
   "cat": "health",
   "tags": [
@@ -210,77 +560,6 @@
    "license": "© Entrepreneur, shown with credit",
    "page": "https://www.entrepreneur.com/building-a-business/marketing/how-boring-businesses-can-turn-black-friday-into-a-competitive-advantage",
    "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/small-business-black-friday-sales-1126_g530950433.jpg"
-  }
- },
- {
-  "id": "smart-timing-and-route-tips-for-visiting-machu-p",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "visas",
-   "south america",
-   "peru",
-   "planning"
-  ],
-  "title": "Smart timing and route tips for visiting Machu Picchu without crowds",
-  "snippet": "Planning a first trip to Machu Picchu requires matching weather preferences with specific entry routes and advance booking timelines. Learn how to secure permits and time your journey for clear views.",
-  "bullets": [
-   "May and September offer favorable walking weather before and after the main June-to-August rush [1].",
-   "November through March brings significant savings on airfare and accommodations alongside greener, quieter slopes [1].",
-   "The official route maps divide the ancient citadel into three circuits by elevation and access [1]."
-  ],
-  "report": [
-   {
-    "h": "Choose Your Season",
-    "t": "The drier months improve odds for clear panoramic views, but the shoulder months of April, May, and September offer thinner crowds [1]. November through March brings savings and vibrant green terraces, though you must pack for rain [1]."
-   },
-   {
-    "h": "Book Routes Carefully",
-    "t": "You must pick your specific entry route on the Ministry of Culture portal before buying tickets, as gates allow zero changes afterward [1]. Andean suggests booking about six months ahead in high season and three months ahead in low season [1]."
-   },
-   {
-    "h": "Acclimatise in the Valley",
-    "t": "Cusco sits at roughly 11,150 feet, so heading straight to the lower-altitude Sacred Valley provides a gentler start to your trip [1]. Allow four or five nights in the region to explore local towns before taking the train to Aguas Calientes [1]."
-   }
-  ],
-  "why": "This practical travel guide helps you navigate foreign ticketing systems and complex itineraries smoothly, saving time and stress.",
-  "tryit": "Check the official Tu Boleto portal or research Peru route maps to understand circuit options before booking your next adventure.",
-  "qa": [
-   [
-    "When is the best time for a first visit?",
-    "May and September offer generally favorable walking weather before and after the peak June-to-August rush [1]."
-   ],
-   [
-    "How many days should a first-timer spend?",
-    "Experts recommend allowing four or five nights in the region and beginning in the Sacred Valley [1]."
-   ],
-   [
-    "Where should tickets be purchased?",
-    "Buy entry through the Ministry of Culture’s Tu Boleto portal, choosing your route first and your entry hour second [1]."
-   ],
-   [
-    "Can tickets be changed after purchase?",
-    "Current rules allow no changes to the name or date after purchase [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/best-time-to-visit-machu-picchu",
-    "status": 200,
-    "title": "When to Visit Machu Picchu for Clear Views and Fewer Crowds",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2024-12-23",
-  "publishedAt": "2024-12-23T12:00:00Z",
-  "addedAt": "2026-11-11T17:35:33Z",
-  "audio": "audio/smart-timing-and-route-tips-for-visiting-machu-p.mp3",
-  "image": {
-   "src": "img/smart-timing-and-route-tips-for-visiting-machu-p.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/best-time-to-visit-machu-picchu",
-   "from_url": "https://media.cntraveler.com/photos/6af237a0249eeb23041b3ba0/16:9/w_1280,c_limit/matt-madonna-TVSxZfbgALg-unsplash.jpg"
   }
  },
  {
