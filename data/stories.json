@@ -1,5 +1,1335 @@
 [
  {
+  "id": "simple-cellular-signals-reveal-how-hair-follicle",
+  "cat": "health",
+  "tags": [
+   "science",
+   "health",
+   "skin",
+   "biology",
+   "research"
+  ],
+  "title": "Simple cellular signals reveal how hair follicles form orderly patterns",
+  "snippet": "Researchers at the University of Geneva have discovered a simple process of cells responding to chemical signals that explains how hair follicles form intricate patterns in mammals. This mechanism shows that complex biological structures can emerge naturally from basic local interactions.",
+  "bullets": [
+   "Researchers at the University of Geneva studied how cells move in response to chemical signals to understand hair follicle patterns [1].",
+   "The team created a mathematical model showing that placodes emerge spontaneously from local interactions between cells and chemicals [1].",
+   "The same underlying process successfully reproduced the distinct follicle patterns of both laboratory mice and spiny mice [1]."
+  ],
+  "report": [
+   {
+    "h": "Biological Mystery Solved",
+    "t": "Scientists at the University of Geneva have identified a surprisingly simple process that explains how hair follicles form geometric arrangements [1]. Hair, feathers, and scales begin as small structures called placodes during embryonic development [1]."
+   },
+   {
+    "h": "The Power of Chemotaxis",
+    "t": "The team focused on chemotaxis, where cells move in response to chemical concentrations [1]. They built a model tracking mobile cells in the dermis interacting with signals from the epidermis, successfully recreating developmental patterns in laboratory mice [1]."
+   },
+   {
+    "h": "Diverse Species Patterns",
+    "t": "The researchers also adapted their simulations for the spiny mouse, a rodent with an unusually regular follicle pattern [1]. The model proved that variations in cellular interactions can generate remarkably different tissue architectures across species [1]."
+   }
+  ],
+  "why": "This fascinating study on skin biology and self-organizing cellular structures offers a neat look into the elegant mechanics behind mammalian growth and aesthetics.",
+  "tryit": "Read the University of Geneva press release online to explore how simple biological rules govern complex physical traits.",
+  "qa": [
+   [
+    "What process did researchers focus on?",
+    "They focused on chemotaxis, which occurs when cells move in response to differences in chemical concentrations [1]."
+   ],
+   [
+    "Which institution led the research?",
+    "Researchers at the University of Geneva led the study in the Department of Genetics and Evolution [1]."
+   ],
+   [
+    "What animals were studied in the simulations?",
+    "The team studied laboratory mice and spiny mice [1]."
+   ],
+   [
+    "What are early hair structures called?",
+    "They are called placodes that appear during embryonic development [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm",
+    "status": 200,
+    "title": "The mystery of how hair knows where to grow may finally be solved",
+    "domain": "sciencedaily.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T12:48:30Z",
+  "addedAt": "2026-11-11T17:35:33Z",
+  "audio": "audio/simple-cellular-signals-reveal-how-hair-follicle.mp3",
+  "image": {
+   "src": "img/simple-cellular-signals-reveal-how-hair-follicle.jpg",
+   "credit": "ScienceDaily",
+   "license": "© ScienceDaily, shown with credit",
+   "page": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm",
+   "from_url": "https://www.sciencedaily.com/images/1920/human-hair-close-up.webp"
+  }
+ },
+ {
+  "id": "new-obesity-diagnostic-approach-could-prevent-mi",
+  "cat": "health",
+  "tags": [
+   "health",
+   "fitness",
+   "longevity",
+   "weight",
+   "science"
+  ],
+  "title": "New obesity diagnostic approach could prevent millions of misdiagnoses worldwide",
+  "snippet": "Combining body mass index with waist measurements and organ function tests offers a more accurate way to diagnose obesity and guide treatments like weight loss drugs [1].",
+  "bullets": [
+   "Body mass index alone misses obesity in 5-9% of adults while wrongly diagnosing up to 3% [1].",
+   "Researchers tested health records from more than 800,000 people across the UK, US, China, and Spain [1].",
+   "The new method separates clinical obesity from pre-clinical obesity to better target medical interventions [1]."
+  ],
+  "report": [
+   {
+    "h": "The flaws of BMI",
+    "t": "Medical experts view body mass index as a blunt instrument that misses excess body fat in some people while wrongly diagnosing others [1]. BMI alone misses obesity in 5-9% of adults and wrongly diagnoses up to 3% [1]."
+   },
+   {
+    "h": "A combined measurement approach",
+    "t": "The new diagnostic proposal combines BMI with waist measurements, waist-to-height ratios, and organ function tests [1]. Researchers analysed health records from more than 800,000 people in the UK, US, China, and Spain over a period of up to 15 years [1]."
+   },
+   {
+    "h": "Targeting individual treatments",
+    "t": "This detailed breakdown helps doctors distinguish between healthy individuals, those with pre-clinical obesity, and those with clinical obesity requiring active treatment [1]. Such precision optimises interventions like lifestyle advice, GLP-1 weight loss drugs, or surgery [1]."
+   }
+  ],
+  "why": "Understanding smarter health metrics helps you navigate weight management, longevity goals, and conversations around treatments like GLP-1 drugs more effectively.",
+  "tryit": "Talk to a GP or pharmacist about getting a comprehensive health assessment that includes waist measurements alongside your BMI.",
+  "qa": [
+   [
+    "How many people are classified as overweight globally?",
+    "About 1.6 billion people worldwide are classified as overweight with a BMI between 25 and 29.9 [1]."
+   ],
+   [
+    "What proportion of UK adults are overweight or obese based on BMI?",
+    "Two-thirds of adults in the UK are overweight or obese based on BMI alone [1]."
+   ],
+   [
+    "What does a raised waist measurement mean for men?",
+    "In most countries, a raised waist measurement means more than 102cm or 40in for men [1]."
+   ],
+   [
+    "What is pre-clinical obesity?",
+    "Pre-clinical obesity is when extra fat is a health risk but has yet to cause organ problems [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index",
+    "status": 200,
+    "title": "BMI alternative for identifying obesity ‘could prevent misdiagnosis in millions’",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T16:00:53Z",
+  "addedAt": "2026-11-11T17:35:33Z",
+  "audio": "audio/new-obesity-diagnostic-approach-could-prevent-mi.mp3",
+  "image": {
+   "src": "img/new-obesity-diagnostic-approach-could-prevent-mi.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index",
+   "from_url": "https://i.guim.co.uk/img/media/6403ead2c9f076a34f67085fd177febdbd5bc8d4/1482_139_5714_4571/master/5714.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d9844894e0a7c1836395eeaace2ba55"
+  }
+ },
+ {
+  "id": "how-small-businesses-can-turn-black-friday-into",
+  "cat": "money",
+  "tags": [
+   "business",
+   "money",
+   "negotiation",
+   "ai",
+   "economics"
+  ],
+  "title": "How Small Businesses Can Turn Black Friday Into a Competitive Advantage",
+  "snippet": "Black Friday is not just for major retailers. Local service providers can use personal touches, high-intent search strategies, and AI video to win customers.",
+  "bullets": [
+   "Cleaning and home service businesses saw growth ranging from 60% to more than 300% in 2026 [1].",
+   "A record 202.9 million Americans shopped between Thanksgiving and Cyber Monday in 2025 [1].",
+   "Google's AI overlooks approximately 62% of pages ranking in the top 10 traditional search results [1]."
+  ],
+  "report": [
+   {
+    "h": "Personal Outreach",
+    "t": "Handwritten notes stand out during digital promotional seasons because only 11% of consumers recently received one from a brand [1]. One business used handwritten thank-you letters to sell 271 cake credits, generating nearly €16,000 [1]."
+   },
+   {
+    "h": "AI Video Testing",
+    "t": "Short AI video clips can cost between $0.04 and $0.50 per generation, allowing small teams to test humor and concepts affordably [1]. Video helps make ordinary service businesses stand out in paid and organic campaigns [1]."
+   },
+   {
+    "h": "Targeted Search",
+    "t": "Focusing on high-intent search phrases helps capture visitors ready to book or buy rather than relying on general traffic [1]. Automated email reminders can also target shoppers who abandoned carts in the past 30 to 60 days [1]."
+   }
+  ],
+  "why": "This shows practical, low-cost marketing and sales strategies that local service businesses and small enterprise owners can apply immediately.",
+  "tryit": "Choose one specific Black Friday or seasonal service package for your business, write down a clear price and booking condition, and publish it on a dedicated landing page.",
+  "qa": [
+   [
+    "How many Americans shopped between Thanksgiving and Cyber Monday in 2025?",
+    "A record 202.9 million Americans shopped during that period [1]."
+   ],
+   [
+    "What percentage of consumers find handwritten notes annoying?",
+    "Just 4% of consumers find them annoying [1]."
+   ],
+   [
+    "How much can short AI video clips cost per generation?",
+    "They can cost between $0.04 and $0.50 per generation [1]."
+   ],
+   [
+    "What is the average cart abandonment rate cited in the text?",
+    "The average cart abandonment rate is 70.22% [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/building-a-business/marketing/how-boring-businesses-can-turn-black-friday-into-a-competitive-advantage",
+    "status": 200,
+    "title": "How 'Boring' Businesses Can Turn Black Friday Into a Competitive Advantage",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T20:00:00Z",
+  "addedAt": "2026-11-11T17:35:33Z",
+  "audio": "audio/how-small-businesses-can-turn-black-friday-into.mp3",
+  "image": {
+   "src": "img/how-small-businesses-can-turn-black-friday-into.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/building-a-business/marketing/how-boring-businesses-can-turn-black-friday-into-a-competitive-advantage",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/small-business-black-friday-sales-1126_g530950433.jpg"
+  }
+ },
+ {
+  "id": "smart-timing-and-route-tips-for-visiting-machu-p",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "visas",
+   "south america",
+   "peru",
+   "planning"
+  ],
+  "title": "Smart timing and route tips for visiting Machu Picchu without crowds",
+  "snippet": "Planning a first trip to Machu Picchu requires matching weather preferences with specific entry routes and advance booking timelines. Learn how to secure permits and time your journey for clear views.",
+  "bullets": [
+   "May and September offer favorable walking weather before and after the main June-to-August rush [1].",
+   "November through March brings significant savings on airfare and accommodations alongside greener, quieter slopes [1].",
+   "The official route maps divide the ancient citadel into three circuits by elevation and access [1]."
+  ],
+  "report": [
+   {
+    "h": "Choose Your Season",
+    "t": "The drier months improve odds for clear panoramic views, but the shoulder months of April, May, and September offer thinner crowds [1]. November through March brings savings and vibrant green terraces, though you must pack for rain [1]."
+   },
+   {
+    "h": "Book Routes Carefully",
+    "t": "You must pick your specific entry route on the Ministry of Culture portal before buying tickets, as gates allow zero changes afterward [1]. Andean suggests booking about six months ahead in high season and three months ahead in low season [1]."
+   },
+   {
+    "h": "Acclimatise in the Valley",
+    "t": "Cusco sits at roughly 11,150 feet, so heading straight to the lower-altitude Sacred Valley provides a gentler start to your trip [1]. Allow four or five nights in the region to explore local towns before taking the train to Aguas Calientes [1]."
+   }
+  ],
+  "why": "This practical travel guide helps you navigate foreign ticketing systems and complex itineraries smoothly, saving time and stress.",
+  "tryit": "Check the official Tu Boleto portal or research Peru route maps to understand circuit options before booking your next adventure.",
+  "qa": [
+   [
+    "When is the best time for a first visit?",
+    "May and September offer generally favorable walking weather before and after the peak June-to-August rush [1]."
+   ],
+   [
+    "How many days should a first-timer spend?",
+    "Experts recommend allowing four or five nights in the region and beginning in the Sacred Valley [1]."
+   ],
+   [
+    "Where should tickets be purchased?",
+    "Buy entry through the Ministry of Culture’s Tu Boleto portal, choosing your route first and your entry hour second [1]."
+   ],
+   [
+    "Can tickets be changed after purchase?",
+    "Current rules allow no changes to the name or date after purchase [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/best-time-to-visit-machu-picchu",
+    "status": 200,
+    "title": "When to Visit Machu Picchu for Clear Views and Fewer Crowds",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2024-12-23",
+  "publishedAt": "2024-12-23T12:00:00Z",
+  "addedAt": "2026-11-11T17:35:33Z",
+  "audio": "audio/smart-timing-and-route-tips-for-visiting-machu-p.mp3",
+  "image": {
+   "src": "img/smart-timing-and-route-tips-for-visiting-machu-p.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/best-time-to-visit-machu-picchu",
+   "from_url": "https://media.cntraveler.com/photos/6af237a0249eeb23041b3ba0/16:9/w_1280,c_limit/matt-madonna-TVSxZfbgALg-unsplash.jpg"
+  }
+ },
+ {
+  "id": "use-your-air-fryer-for-easier-hands-off-boiled-e",
+  "cat": "news",
+  "tags": [
+   "food",
+   "kitchen",
+   "efficiency"
+  ],
+  "title": "Use Your Air Fryer For Easier Hands-Off Boiled Eggs",
+  "snippet": "Discover how your countertop air fryer makes consistent hard-boiled eggs without boiling water, careful timing, or an ice bath.",
+  "bullets": [
+   "Air fryers make hard-boiled eggs that are consistently easier to peel and completely hands-off [1].",
+   "Cooking eggs in an air fryer reduces the risk of them cracking during cooking [1].",
+   "A higher temperature in the convection environment causes eggs to cook unevenly and creates an eggier smell [1]."
+  ],
+  "report": [
+   {
+    "h": "Skip The Boiling Water",
+    "t": "Cooking eggs in the air fryer removes the need for a multistep stovetop production involving boiling water and careful timing [1]. You get eggs cooked exactly how you want them without any of the babysitting [1]."
+   },
+   {
+    "h": "Simpler Cleanup Routine",
+    "t": "This method yields more consistent results with fewer variables, in less time, and with less cleanup involved [1]. The author simply gave the basket a quick wipe out with a paper towel after the experiment [1]."
+   },
+   {
+    "h": "Avoid High Heat Mistakes",
+    "t": "Do not crank the heat on the air fryer to shave off cooking time because higher temperatures cause uneven cooking and a stronger smell [1]. A lower temperature setting keeps the eggs easy to peel [1]."
+   }
+  ],
+  "why": "It is a practical kitchen shortcut that saves time and cleanup.",
+  "tryit": "Test cooking a small batch of eggs in your air fryer at a lower temperature today instead of boiling water on the stove.",
+  "qa": [
+   [
+    "Do I need to preheat the air fryer?",
+    "No, you do not need to preheat the air fryer [1]."
+   ],
+   [
+    "Do I need to bring eggs to room temperature first?",
+    "No, you do not need to bring eggs to room temperature first [1]."
+   ],
+   [
+    "How many eggs can fit in the air fryer?",
+    "Even the smallest air fryers can manage at least a half-dozen eggs or more [1]."
+   ],
+   [
+    "What happens if the temperature is set too high?",
+    "A higher temperature causes the eggs to cook unevenly and produce an eggier smell [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cnet.com/home/kitchen-and-household/how-to-boil-eggs-in-air-fryer/",
+    "status": 200,
+    "title": "Your Air Fryer Can Make Perfect Hard-Boiled Eggs - CNET",
+    "domain": "cnet.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T14:27:37Z",
+  "addedAt": "2026-11-11T17:35:33Z",
+  "audio": "audio/use-your-air-fryer-for-easier-hands-off-boiled-e.mp3",
+  "image": {
+   "src": "img/use-your-air-fryer-for-easier-hands-off-boiled-e.jpg",
+   "credit": "CNET",
+   "license": "© CNET, shown with credit",
+   "page": "https://www.cnet.com/home/kitchen-and-household/how-to-boil-eggs-in-air-fryer/",
+   "from_url": "https://www.cnet.com/wp-content/uploads/sites/2/354c5cfd-7dd0-4aec-9eae-fe7b5d4f8482.jpg"
+  }
+ },
+ {
+  "id": "new-york-enforces-major-ai-safety-law-for-fronti",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "regulation"
+  ],
+  "title": "New York Enforces Major AI Safety Law for Frontier Developers",
+  "snippet": "New York is launching a new AI registration portal as the RAISE Act takes effect, requiring large developers to publish safety frameworks and report incidents [1]. Penalties for non-compliance can reach millions of dollars, creating a stricter compliance landscape for major labs [1].",
+  "bullets": [
+   "New York opened a registration portal for large frontier AI developers like OpenAI and Anthropic under the RAISE Act [1].",
+   "Developers with more than $500 million in annual revenue must publish safety frameworks and report critical incidents within 72 hours [1].",
+   "Penalties can reach $1 million for a first violation and $3 million for subsequent violations [1]."
+  ],
+  "report": [
+   {
+    "h": "New Registration Portal",
+    "t": "New York opened a registration portal on Tuesday for large frontier AI developers like Anthropic and OpenAI [1]. These companies are required to register by January 1, 2027 [1]."
+   },
+   {
+    "h": "Strict Safety Rules",
+    "t": "The RAISE Act requires companies with more than $500 million in annual revenue to publish safety frameworks and report critical incidents within 72 hours [1]. The newly formed Office of Digital Innovation, Governance, Integrity, and Trust will oversee these labs [1]."
+   },
+   {
+    "h": "Heavy Financial Penalties",
+    "t": "Penalties for breaking the rules can be as high as $1 million for one violation and $3 million for subsequent violations [1]. Other states like California and Illinois have also passed similar AI safety and transparency bills [1]."
+   }
+  ],
+  "why": "Understanding shifting AI regulations helps you stay ahead of compliance trends if you build or run a business utilizing frontier models.",
+  "tryit": "Check out the newly formed Office of Digital Innovation, Governance, Integrity, and Trust online to monitor official updates on state AI compliance guidelines.",
+  "qa": [
+   [
+    "Which companies must register under the new New York law?",
+    "Large frontier AI developers like Anthropic and OpenAI with more than $500 million in annual revenue must register [1]."
+   ],
+   [
+    "What is the deadline for large developers to register?",
+    "Large frontier developers are required to register by January 1, 2027 [1]."
+   ],
+   [
+    "How quickly must critical safety incidents be reported?",
+    "Critical safety incidents must be reported within 72 hours [1]."
+   ],
+   [
+    "What are the penalties for violations?",
+    "Penalties can be as high as $1 million for one violation and $3 million for subsequent violations [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "status": 200,
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T20:52:13Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/new-york-enforces-major-ai-safety-law-for-fronti.mp3",
+  "image": {
+   "src": "img/new-york-enforces-major-ai-safety-law-for-fronti.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024"
+  }
+ },
+ {
+  "id": "apple-introduces-a-one-time-fee-for-extra-ai-app",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business"
+  ],
+  "title": "Apple introduces a one-time fee for extra AI app capacity",
+  "snippet": "Apple is shifting its business model by offering a one-time fifty-dollar purchase option for server-based AI capacity in Creator Studio apps.",
+  "bullets": [
+   "Apple is introducing a one-time fifty-dollar purchase option for server-based AI capacity in Creator Studio apps [1].",
+   "The fee applies to extra usage blocks when you exceed predetermined limits in apps like Logic Pro and Pixelmator Pro [1].",
+   "Intelligence usage packs expire after 12 months, but they roll over each month if left unused [1]."
+  ],
+  "report": [
+   {
+    "h": "New AI Usage Packs",
+    "t": "Apple is shifting its business model by offering a one-time fifty-dollar purchase option to grant server-based AI capacity in Creator Studio apps [1]. The fifty-dollar fee applies to extra usage blocks and kicks in when you exceed predetermined limits [1]."
+   },
+   {
+    "h": "Covered Apple Apps",
+    "t": "Apps affected include Final Cut Pro, Pixelmator Pro, the iWork Suite, and Logic Pro [1]. Users can buy a pack for Logic Pro now, with other apps expected to get it soon [1]."
+   },
+   {
+    "h": "Tracking Your Usage",
+    "t": "You can view your usage status for each applicable app on your iPhone or iPad by tapping on More, then Intelligence Features, and Show Usage Status [1]. On a Mac, it is available by accessing Intelligence Features from the menu bar of the app [1]."
+   }
+  ],
+  "why": "Understanding how major platforms price AI capacity helps you calculate tool costs and budget effectively for creative or business tech stacks.",
+  "tryit": "Check your current usage status on your iPhone or iPad by tapping More, then Intelligence Features, and Show Usage Status [1].",
+  "qa": [
+   [
+    "How much does the Apple AI Usage Pack cost?",
+    "It is a one-time fifty-dollar purchase option [1]."
+   ],
+   [
+    "Which app has the usage pack available now?",
+    "Users can buy a pack for Logic Pro now, and other apps are expected to get it soon [1]."
+   ],
+   [
+    "Do the usage packs expire?",
+    "Intelligence usage packs expire after 12 months, but they roll over each month if left unused [1]."
+   ],
+   [
+    "How can I check my usage status on a Mac?",
+    "You can access Intelligence Features from the menu bar of the app you are using, then click on Show Usage Status [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
+    "status": 200,
+    "title": "Need more AI in Creator Studio? Apple may charge you for it - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T20:38:54Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/apple-introduces-a-one-time-fee-for-extra-ai-app.mp3",
+  "image": {
+   "src": "img/apple-introduces-a-one-time-fee-for-extra-ai-app.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/b8127718-8775-4c05-9d18-89836e0dbde2.jpg"
+  }
+ },
+ {
+  "id": "why-genetic-editing-recreates-traits-but-not-ext",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "science",
+   "biology",
+   "genetics",
+   "technology"
+  ],
+  "title": "Why Genetic Editing Recreates Traits But Not Extinct Species",
+  "snippet": "Recent claims about bringing back the dire wolf rely on genetic edits to grey wolf cells. Researchers argue this is lineage-genome conflation, not true de-extinction.",
+  "bullets": [
+   "Biotech company Colossal Biosciences made genetic edits to grey wolf cells in order to breed animals with dire wolf characteristics in 2025 [1].",
+   "Researchers Andrew Davinack and Charlotte Daniels call this mistake lineage-genome conflation rather than true de-extinction [1].",
+   "Extinction represents the termination of an evolutionary lineage, meaning a reconstructed genome only represents a partial snapshot [1]."
+  ],
+  "report": [
+   {
+    "h": "The De-Extinction Claim",
+    "t": "Biotech company Colossal Biosciences used genetic edits on grey wolf cells to create animals with larger bodies and bigger teeth in 2025 [1]. Scientists argue this is not true de-extinction [1]."
+   },
+   {
+    "h": "Lineage-Genome Conflation",
+    "t": "Researchers call this misuse of terms lineage-genome conflation [1]. A species is an ongoing evolutionary history, not just a set of DNA sequences [1]."
+   },
+   {
+    "h": "Better Preservation Methods",
+    "t": "Using preserved cells or embryos offers a stronger claim to biological continuity, as attempted with the Pyrenean ibex back in 2003 [1]. Precise terminology helps keep technological progress in proper context [1]."
+   }
+  ],
+  "why": "Understanding precise technical definitions helps you evaluate emerging biotech and AI-driven biological tools with a clear, realistic lens.",
+  "tryit": "Read the published paper in Biology Letters to examine how scientists define biological continuity and genetic reconstruction [1].",
+  "qa": [
+   [
+    "What did Colossal Biosciences do?",
+    "They made genetic edits to grey wolf cells to breed animals with characteristics resembling dire wolves [1]."
+   ],
+   [
+    "What term do researchers use for this mistake?",
+    "They call it lineage-genome conflation [1]."
+   ],
+   [
+    "Why is it not a true de-extinction?",
+    "Extinction represents the termination of an evolutionary lineage, and a reconstructed genome is only a partial snapshot [1]."
+   ],
+   [
+    "Where was the study published?",
+    "It was published in Biology Letters [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/heres-why-the-dire-wolf-really-wasnt-brought-back-from-extinction-scientists-argue",
+    "status": 200,
+    "title": "Here's Why The Dire Wolf Really Wasn't Brought Back From Extinction, Scientists Argue",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T01:22:20Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/why-genetic-editing-recreates-traits-but-not-ext.mp3",
+  "image": {
+   "src": "img/why-genetic-editing-recreates-traits-but-not-ext.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/heres-why-the-dire-wolf-really-wasnt-brought-back-from-extinction-scientists-argue",
+   "from_url": "https://www.sciencealert.com/images/2026/11/GreyWolf-1200x675.jpg"
+  }
+ },
+ {
+  "id": "google-deepmind-uses-ai-agents-to-mathematically",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "agents",
+   "money",
+   "business",
+   "science"
+  ],
+  "title": "Google DeepMind uses AI agents to mathematically prove Signal encryption works",
+  "snippet": "Google DeepMind researchers used an agentic AI framework called AlphaProof Code to formally verify portions of Signal's encryption code. This breakthrough cuts down a multi-year manual proof process into just a month.",
+  "bullets": [
+   "Google DeepMind used AI to formally verify portions of Signal's underlying code [1].",
+   "The AlphaProof Code framework combined human expertise with multiple AI agents running Gemini Carbon [1].",
+   "The verification process took a month to complete what might normally take experts years [1]."
+  ],
+  "report": [
+   {
+    "h": "Verifying Code With AI",
+    "t": "Researchers at Google DeepMind used AI to formally verify portions of Signal's underlying code [1]. This mathematical proof shows that parts of the encrypted messaging app do what they say without errors [1]."
+   },
+   {
+    "h": "How The Agents Worked",
+    "t": "DeepMind used AlphaProof Code, an agentic framework that combines human expertise with AI agents [1]. Humans worked with agents to identify proofs, while Gemini Carbon models executed the tasks and audited the results [1]."
+   },
+   {
+    "h": "Massive Time Savings",
+    "t": "The DeepMind team's verification took a month to do what might normally take human experts years [1]. Agents highlighted just 1% of the codebase that needed a second look by a human, saving significant time [1]."
+   }
+  ],
+  "why": "It shows how agentic AI frameworks can handle complex, highly technical tasks like code verification with incredible speed, opening up practical automation opportunities for software and security businesses.",
+  "tryit": "Explore open-source AI agent tools and frameworks for your business operations, and look at how automated verification can speed up your own software development or auditing tasks.",
+  "qa": [
+   [
+    "What AI tool did Google DeepMind use?",
+    "They used AlphaProof Code, an agentic framework combining human expertise with AI agents running Gemini Carbon [1]."
+   ],
+   [
+    "How long did the verification take?",
+    "The verification took a month to do what might normally take experts years [1]."
+   ],
+   [
+    "Did DeepMind verify all of Signal's code?",
+    "DeepMind did not verify all of Signal's code, but tested portions of its core protocol [1]."
+   ],
+   [
+    "What else uses the same encryption as Signal?",
+    "WhatsApp and Google Messages use the same encryption [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/",
+    "status": 200,
+    "title": "Google's new AI tool just proved Signal encryption really works - here's how - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T16:31:47Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/google-deepmind-uses-ai-agents-to-mathematically.mp3",
+  "image": {
+   "src": "img/google-deepmind-uses-ai-agents-to-mathematically.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2206371598.jpg"
+  }
+ },
+ {
+  "id": "science-proves-your-cat-meows-directly-at-you-to",
+  "cat": "whoa",
+  "tags": [
+   "animals",
+   "science",
+   "psychology"
+  ],
+  "title": "Science proves your cat meows directly at you to fix its problems",
+  "snippet": "Animal behaviorists found that pet cats are far more vocal when a human is in the room. They meow to demand we solve problems they cannot manage alone.",
+  "bullets": [
+   "Researchers at the University of São Paulo studied 38 pet cats faced with a problem they could not solve alone [1].",
+   "The odds of a cat meowing were more than 16 times higher when a human was in the room [1].",
+   "Cats recorded a total of 86 meows with a human present compared to just 20 meows when alone [1]."
+  ],
+  "report": [
+   {
+    "h": "The feline fix-it desk",
+    "t": "Scientists introduced a problem for 38 pet cats by placing a favorite food treat inside a small plastic box with holes [1]. The cats could smell the treat but needed opposable thumbs to get it [1]."
+   },
+   {
+    "h": "Shouting for the human",
+    "t": "Researchers observed the cats for one minute with a human present or with no human in the room [1]. The cats were four times more shouty when their favorite lackeys were around [1]."
+   },
+   {
+    "h": "Targeted communication",
+    "t": "Cats directed their gazes toward the human and alternated between their savior and the snack box [1]. This recipient-specific signaling shows meowing is a targeted request rather than random noise [1]."
+   }
+  ],
+  "why": "Understanding how animals direct communication helps us read social cues and signals in our daily environment.",
+  "tryit": "Notice your pets or team members when they bring you a problem, and look for the specific cues they use to ask for your help.",
+  "qa": [
+   [
+    "How many cats took part in the study?",
+    "The researchers recruited 38 pet cats for the experiment [1]."
+   ],
+   [
+    "How many meows happened with a human present?",
+    "The researchers recorded a total of 86 meows when a human was in the room [1]."
+   ],
+   [
+    "How many meows happened when the cat was alone?",
+    "There were a measly 20 meows recorded if the cat was all alone [1]."
+   ],
+   [
+    "Where was the study published?",
+    "The research has been published in Animal Behaviour [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/science-has-finally-shown-that-your-cat-meows-to-demand-that-you-fix-their-world",
+    "status": 200,
+    "title": "Science Has Finally Shown That Your Cat Meows to Demand That You Fix Their World",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T16:00:00Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/science-proves-your-cat-meows-directly-at-you-to.mp3",
+  "image": {
+   "src": "img/science-proves-your-cat-meows-directly-at-you-to.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/science-has-finally-shown-that-your-cat-meows-to-demand-that-you-fix-their-world",
+   "from_url": "https://www.sciencealert.com/images/2026/11/crankpuss-1200x675.png"
+  }
+ },
+ {
+  "id": "reddit-launches-ai-powered-reviews-feature-start",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money"
+  ],
+  "title": "Reddit launches AI-powered Reviews feature starting with 10,000 products",
+  "snippet": "Reddit has announced a new AI-powered Reviews feature that compiles subreddit conversations into in-depth product summaries. The system launches with 10,000 products across electronics, health and beauty, home and garden, and fashion and apparel [1].",
+  "bullets": [
+   "Reddit announced a new feature on Tuesday called Reddit Reviews that creates AI-generated product summaries from user discussions [1].",
+   "The launch starts with 10,000 products across categories like electronics, health and beauty, home and garden, and fashion and apparel [1].",
+   "Companies cannot pay to have product features included, ensuring the summaries are shaped by user opinions [1]."
+  ],
+  "report": [
+   {
+    "h": "New AI Product Summaries",
+    "t": "Reddit announced a new feature called Reddit Reviews that compiles subreddit conversations into AI-generated product summaries [1]. The feature works similarly to Google AI Overviews and provides an easy-to-digest format with a recap of what people are saying [1]."
+   },
+   {
+    "h": "Categories and Launch Details",
+    "t": "The feature starts with around 10,000 products across electronics, health and beauty, home and garden, and fashion and apparel [1]. Users will begin seeing these reviews over the next few weeks in the US on iOS, Android, and browser versions [1]."
+   },
+   {
+    "h": "Combating Bots and Commercial Bias",
+    "t": "Reddit stated that companies cannot pay to have product features, keeping the reviews user-shaped [1]. The platform is also addressing bots by labeling registered API client apps and prompting accounts running automations to verify a human is behind the username [1]."
+   }
+  ],
+  "why": "Understanding how platforms synthesize user sentiment using AI helps you quickly research tools, tech, or business purchases without wading through endless threads [1].",
+  "tryit": "Search for a product you plan to buy using the new Reddit Reviews feature once it rolls out in your region to quickly check user sentiment and common criticisms [1].",
+  "qa": [
+   [
+    "How many products are available to start?",
+    "Around 10,000 products are available to start [1]."
+   ],
+   [
+    "Can companies pay for product features?",
+    "No, companies cannot pay to have product features included [1]."
+   ],
+   [
+    "Where and when will users see the new feature?",
+    "Users will start to see Reddit Reviews over the next few weeks in the US on iOS, Android, and browser versions [1]."
+   ],
+   [
+    "How does Reddit handle automated accounts and bots?",
+    "Reddit labels registered API client apps and prompts accounts detected running automations to verify a human is behind the username [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/innovation/reddit-reviews-feature/",
+    "status": 200,
+    "title": "Reddit launches AI-powered Reviews feature - with 10,000 products to start - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T15:00:00Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/reddit-launches-ai-powered-reviews-feature-start.mp3",
+  "image": {
+   "src": "img/reddit-launches-ai-powered-reviews-feature-start.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/innovation/reddit-reviews-feature/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2232888199.jpg"
+  }
+ },
+ {
+  "id": "how-social-media-and-cultural-norms-shape-views",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "relationships",
+   "culture",
+   "mind"
+  ],
+  "title": "How Social Media and Cultural Norms Shape Views on Modern Dating",
+  "snippet": "A large study of over 22,000 women explores how social media habits and national cultural rules interact to influence attitudes toward transactional relationships.",
+  "bullets": [
+   "A study of over 22,000 women across 22 countries explored how social media habits link to views on transactional dating [1].",
+   "Researchers found that women who used social media more frequently tended to report greater openness to sugar relationships [1].",
+   "This positive link was slightly stronger in countries with looser, more permissive social norms than in tighter cultures [1]."
+  ],
+  "report": [
+   {
+    "h": "Global Dating Study",
+    "t": "A cross-national study analyzed data from over 22,000 adult women to understand attitudes toward transactional dating arrangements [1]. Researchers focused on how openness to these relationships connects to daily digital habits and societal rules [1]."
+   },
+   {
+    "h": "The Social Media Link",
+    "t": "The data showed that women who spent more time on social networking platforms tended to report higher openness to financial and material support in relationships [1]. Younger age also showed a small link to greater receptiveness [1]."
+   },
+   {
+    "h": "Cultural Environment",
+    "t": "National cultural tightness-looseness played a moderating role, meaning the link between social media use and dating openness was slightly stronger in countries with relaxed social rules [1]. The authors note this measures attitudes rather than actual behavior [1]."
+   }
+  ],
+  "why": "Understanding how media habits and cultural environments quietly shape our views on relationships helps build self-awareness around modern social pressures.",
+  "tryit": "Notice how your digital feeds influence your personal expectations today by taking a five-minute screen-free break to reflect on your own values.",
+  "qa": [
+   [
+    "What did the study measure regarding sugar relationships?",
+    "It measured attitudinal openness rather than actual behavior or participation [1]."
+   ],
+   [
+    "How many women were included in the final analysis?",
+    "The final sample included 22,292 adult women across 22 countries [1]."
+   ],
+   [
+    "What is cultural tightness-looseness?",
+    "It refers to how strictly a society defines everyday social norms and penalizes people who step out of line [1]."
+   ],
+   [
+    "Does this study prove cause and effect?",
+    "No, because the survey captured data at a single point in time, it cannot establish whether social media causes these attitudes [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/women-who-use-social-media-more-are-more-open-to-sugar-relationships-especially-in-looser-cultures/",
+    "status": 200,
+    "title": "Women who use social media more are more open to “sugar relationships,” especially in looser cultures",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T14:00:02Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/how-social-media-and-cultural-norms-shape-views.mp3",
+  "image": {
+   "src": "img/how-social-media-and-cultural-norms-shape-views.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/women-who-use-social-media-more-are-more-open-to-sugar-relationships-especially-in-looser-cultures/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/sugar-dating-young-woman-older-wealthy-man.jpg"
+  }
+ },
+ {
+  "id": "new-review-reveals-psychology-s-masculinity-test",
+  "cat": "adhd",
+  "tags": [
+   "psychology",
+   "science",
+   "health",
+   "mind",
+   "research"
+  ],
+  "title": "New review reveals psychology's masculinity tests focus heavily on negative traits",
+  "snippet": "A comprehensive review of 65 psychological questionnaires finds that tools measuring masculinity focus overwhelmingly on negative traits. Most instruments were tested on homogeneous groups and often fail to account for cultural background or social context.",
+  "bullets": [
+   "A systematic review analyzed 65 psychological questionnaires published between 1974 and 2021 [1].",
+   "Researchers found that 78 percent of the reviewed instruments relied on a deficit-based approach focusing on negative outcomes [1].",
+   "Only 9 percent of the questionnaires provided strong evidence of external validity for broader populations [1]."
+  ],
+  "report": [
+   {
+    "h": "Review of 65 scales",
+    "t": "Peter Fisher and his colleagues conducted a systematic scoping review of 65 quantitative masculinity scales [1]. They evaluated each tool across five dimensions including deficit focus, relational context, cultural attunement, sample diversity, and statistical quality [1]."
+   },
+   {
+    "h": "Deficit-based focus",
+    "t": "The review found that 78 percent of the instruments relied on a deficit-based approach framing masculinity around harmful outcomes [1]. Only 22 percent incorporated strengths-based elements like responsibility or emotional openness [1]."
+   },
+   {
+    "h": "Methodology blind spots",
+    "t": "More than half of the scales failed to account for cultural norms, and 66 percent were tested on homogeneous participant samples like white university students [1]. However, external validity and cultural attunement ratings showed improvements in scales published in the 2020s [1]."
+   }
+  ],
+  "why": "Understanding how standard questionnaires shape our view of human behavior helps you spot when broad surveys rely on narrow definitions.",
+  "tryit": "Check out the Open Science Framework to explore pre-registered research methods and see how scientists transparently plan systematic reviews before analysing data.",
+  "qa": [
+   [
+    "How many questionnaires were reviewed in the study?",
+    "The team narrowed the sample to 65 scales, consisting of 59 original questionnaires and 6 revised or shortened versions [1]."
+   ],
+   [
+    "What percentage of the scales relied on a deficit-based approach?",
+    "Across the 65 reviewed instruments, 78 percent relied on a deficit-based approach [1]."
+   ],
+   [
+    "Who led the systematic scoping review?",
+    "Peter Fisher of the Movember Institute of Men’s Health in Santa Monica, California, and his colleagues conducted the review [1]."
+   ],
+   [
+    "What funding did the study receive?",
+    "The work was funded by the Movember Foundation, a men’s health charity [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/psychologys-tools-for-measuring-masculinity-lean-heavily-toward-the-negative-review-finds/",
+    "status": 200,
+    "title": "Psychology's tools for measuring masculinity lean heavily toward the negative, review finds",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T12:00:53Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/new-review-reveals-psychology-s-masculinity-test.mp3",
+  "image": {
+   "src": "img/new-review-reveals-psychology-s-masculinity-test.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/psychologys-tools-for-measuring-masculinity-lean-heavily-toward-the-negative-review-finds/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/thoughtful-man.jpg"
+  }
+ },
+ {
+  "id": "when-grief-changes-family-bonds-why-distance-doe",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "family",
+   "grief",
+   "relationships",
+   "self-compassion"
+  ],
+  "title": "When Grief Changes Family Bonds: Why Distance Does Not Mean Lost Love",
+  "snippet": "Family grief can cause distance, but love remains even when relationships change. Learn how different grieving styles shape family systems and why needing space is completely normal.",
+  "bullets": [
+   "Family systems theory suggests that when one member is lost, the effects ripple through the entire family [1].",
+   "Sibling relationships often move through periods of connection and disengagement due to life circumstances and stress [1].",
+   "The Circuplex Model of family systems identifies cohesion and flexibility as two key dimensions of healthy functioning [1]."
+  ],
+  "report": [
+   {
+    "h": "Grief Changes Family Systems",
+    "t": "The death of a family member changes the relationships among everyone who remains. Family systems theory shows that when something happens to one member, the effects ripple throughout the whole family [1]."
+   },
+   {
+    "h": "Distance And Disengagement",
+    "t": "Sibling relationships move through periods of connection and disengagement. Disengagement is not always a sign of failure, but sometimes reflects a period when members need space to manage their own lives [1]."
+   },
+   {
+    "h": "Sitting In The Pain",
+    "t": "Grief is not a problem that another person can solve with quick fixes. True social support often means listening without offering advice or simply being present in the difficult emotions [1]."
+   }
+  ],
+  "why": "Understanding that family relationships naturally ebb and flow helps replace guilt with self-compassion when dealing with complicated family dynamics.",
+  "tryit": "Reflect on a strained family relationship today and write down one way you can accept its current shape without forcing it to return to the past.",
+  "qa": [
+   [
+    "What is family systems theory?",
+    "It suggests that families are interconnected systems where an event affecting one member ripples through the entire group [1]."
+   ],
+   [
+    "Is disengagement always a bad sign?",
+    "No, it sometimes reflects a period when family members need space to manage their own lives, emotions, or identities [1]."
+   ],
+   [
+    "What are two dimensions of family functioning?",
+    "Cohesion and flexibility, according to the Circumplex Model of Marital and Family Systems [1]."
+   ],
+   [
+    "How should we support someone who is grieving?",
+    "Support often means listening without offering advice, acknowledging difficult emotions, or simply being present [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psychologytoday.com/us/blog/its-all-about-the-dads/202611/when-grief-changes-a-family-does-distance-mean-love-is-lost",
+    "status": 200,
+    "title": "When Grief Changes a Family, Does Distance Mean Love Is Lost?",
+    "domain": "psychologytoday.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T18:07:09Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/when-grief-changes-family-bonds-why-distance-doe.mp3",
+  "image": {
+   "src": "img/when-grief-changes-family-bonds-why-distance-doe.jpg",
+   "credit": "Psychology Today",
+   "license": "© Psychology Today, shown with credit",
+   "page": "https://www.psychologytoday.com/us/blog/its-all-about-the-dads/202611/when-grief-changes-a-family-does-distance-mean-love-is-lost",
+   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/pexels-olly-3786638.jpg?itok=pXNAOLH5"
+  }
+ },
+ {
+  "id": "how-to-handle-doctor-invalidation-and-claim-your",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "health",
+   "mind",
+   "self-compassion"
+  ],
+  "title": "How to Handle Doctor Invalidation and Claim Your Patient Autonomy",
+  "snippet": "Provider dismissiveness can make health anxiety worse. Discover how to reframe your clinical relationships with full autonomy and self-determination.",
+  "bullets": [
+   "Research shows that provider invalidation and dismissiveness can make stressful medical situations even worse for patients [1].",
+   "Patients have full autonomy to change medical providers or seek second opinions if they feel dismissed or disrespected [1].",
+   "Medical records belong to you by law, and you are allowed to request them whenever you need them [1]."
+  ],
+  "report": [
+   {
+    "h": "Recognise Your Autonomy",
+    "t": "Medical appointments are about you, not the doctor. You have complete freedom to ask questions and seek reassurance without worrying about annoying your provider [1]."
+   },
+   {
+    "h": "You Can Change Providers",
+    "t": "You are under no obligation to stay in a clinical relationship if your doctor behaves in an invalidating or dismissive manner [1]. Patients have the freedom to change course and find a better match [1]."
+   },
+   {
+    "h": "Reclaim Your Voice",
+    "t": "Anxiety can make you feel like you need to hold it together, but you deserve empathic and respectful medical care [1]. Reframing your experience through a lens of agency helps restore self-governance [1]."
+   }
+  ],
+  "why": "This matters because navigating medical appointments with self-compassion helps you protect your mental wellbeing and advocate for your health needs without guilt.",
+  "tryit": "Review your current healthcare providers and remember that you have the absolute right to seek a second opinion or switch to a more empathetic doctor if you feel dismissed.",
+  "qa": [
+   [
+    "What should I do if my doctor is dismissive?",
+    "You have the freedom to change providers or seek a second opinion if you feel your concerns are being dismissed [1]."
+   ],
+   [
+    "Do my medical records belong to me?",
+    "Yes, if you want all your medical records, you are allowed to request them and they must be provided by law [1]."
+   ],
+   [
+    "Is provider invalidation common?",
+    "Research supports the idea that provider invalidation, dismissiveness, and lack of empathy are not uncommon [1]."
+   ],
+   [
+    "How can I view the patient-doctor relationship?",
+    "Patients must view the relationship from a place of equal footing and reframe the asymmetric physician-patient relationship [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psychologytoday.com/us/blog/am-i-dying/202611/my-health-anxiety-frustrates-my-doctor-now-what",
+    "status": 200,
+    "title": "My Health Anxiety Frustrates My Doctor; Now What?",
+    "domain": "psychologytoday.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T17:28:38Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/how-to-handle-doctor-invalidation-and-claim-your.mp3",
+  "image": {
+   "src": "img/how-to-handle-doctor-invalidation-and-claim-your.jpg",
+   "credit": "Psychology Today",
+   "license": "© Psychology Today, shown with credit",
+   "page": "https://www.psychologytoday.com/us/blog/am-i-dying/202611/my-health-anxiety-frustrates-my-doctor-now-what",
+   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/online-marketing-higeoqjs_ie-unsplash.jpg?itok=UsZeIEQ7"
+  }
+ },
+ {
+  "id": "low-cost-medical-tools-and-quirky-inventions-sav",
+  "cat": "news",
+  "tags": [
+   "science",
+   "animals",
+   "health"
+  ],
+  "title": "Low-Cost Medical Tools and Quirky Inventions Save Lives Around the World",
+  "snippet": "Discover how a cheap plastic bag is cutting maternal mortality in Africa, and how googly-eyed buoys are protecting seabirds in England.",
+  "bullets": [
+   "An affordable plastic pouch called the maternal drape helps health workers measure blood loss and act quickly [1].",
+   "Combining the maternal drape with necessary treatments cut deaths from postpartum hemorrhage by about two-thirds [1].",
+   "Nets fitted with looming-eye buoys had 59 percent lower odds of catching seabirds off Cornwall, England [1]."
+  ],
+  "report": [
+   {
+    "h": "Simple Medical Solution",
+    "t": "A low-cost plastic pouch known as the maternal drape is saving lives in maternity wards across Africa by measuring blood loss easily [1]. When paired with standard treatments, this simple tool cut postpartum hemorrhage deaths by about two-thirds [1]."
+   },
+   {
+    "h": "Protecting Seabirds",
+    "t": "Googly-eyed buoys and bird-of-prey kites are helping keep seabirds away from dangerous fishing gear [1]. A study in Cornwall found that nets with looming-eye buoys had 59 percent lower odds of catching seabirds [1]."
+   },
+   {
+    "h": "Low-Tech Success",
+    "t": "Experts note that these successful interventions rely on low-tech ingenuity rather than complex technology [1]. Dr. Hadiza Galadanci described the drape as a simple intervention that can solve serious problems [1]."
+   }
+  ],
+  "why": "It is an uplifting look at how clever, simple inventions solve major practical challenges without high-tech complexity.",
+  "tryit": "Read the full article on the Reasons to be Cheerful website to explore more inspiring, low-tech global solutions.",
+  "qa": [
+   [
+    "What is the maternal drape?",
+    "It is a plastic pouch used to easily measure blood loss in maternity wards [1]."
+   ],
+   [
+    "How much did the drape reduce deaths?",
+    "When combined with necessary treatments, it cut deaths by postpartum hemorrhage by about two-thirds [1]."
+   ],
+   [
+    "What do googly-eyed buoys do?",
+    "They scare seabirds away from fishing gear to prevent them from getting caught in nets [1]."
+   ],
+   [
+    "Where was the seabird study conducted?",
+    "The study took place off Cornwall, England [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reasonstobecheerful.world/what-were-reading-an-80-cent-plastic-bag-is-saving-mothers-lives/",
+    "status": 200,
+    "title": "What We’re Reading: An 80-Cent Plastic Bag Is Saving Mothers’ Lives",
+    "domain": "reasonstobecheerful.world"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T08:00:22Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/low-cost-medical-tools-and-quirky-inventions-sav.mp3",
+  "image": {
+   "src": "img/low-cost-medical-tools-and-quirky-inventions-sav.jpg",
+   "credit": "Reasons to be Cheerful",
+   "license": "© Reasons to be Cheerful, shown with credit",
+   "page": "https://reasonstobecheerful.world/what-were-reading-an-80-cent-plastic-bag-is-saving-mothers-lives/",
+   "from_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/shutterstock_2766948045-scaled.jpg"
+  }
+ },
+ {
+  "id": "scientists-discover-exactly-how-octopuses-squeez",
+  "cat": "news",
+  "tags": [
+   "science",
+   "animals",
+   "ai"
+  ],
+  "title": "Scientists Discover Exactly How Octopuses Squeeze Through Tiny Spaces",
+  "snippet": "Researchers have discovered the exact step-by-step strategies octopuses use to contort their soft bodies through tiny holes. This new biological insight could help engineers improve the design of flexible search-and-rescue robots [1].",
+  "bullets": [
+   "A study published November 5 in the Journal of Experimental Biology details how octopuses squeeze through tight gaps [1].",
+   "Common octopuses used a three-step maneuver when the hole was larger than their brain casing [1].",
+   "Engineers hope to use these findings to build soft, octopus-inspired robots for search-and-rescue missions [1]."
+  ],
+  "report": [
+   {
+    "h": "Clever Squeezing Strategies",
+    "t": "Scientists studied common and Mayan octopuses to understand how they fit through openings ranging from about 0.4 to 1.4 inches [1]. When facing a larger hole, common octopuses probed with one arm, snaked more arms through, and used leverage to pull the rest of their body [1]."
+   },
+   {
+    "h": "Adapting to Smaller Gaps",
+    "t": "When the opening was smaller than the distance between their eyes, common octopuses divided the final step into separate stages to pull their head and mantle through [1]. Meanwhile, Mayan octopuses simply ignored smaller holes and did not try to squeeze through them [1]."
+   },
+   {
+    "h": "Inspirations for Soft Robotics",
+    "t": "Engineers want to use these insights to design flexible search-and-rescue robots that can carry sensors and tools into hard-to-reach spaces [1]. Unlike current snake-like robots, octopus-inspired machines could overcome unique environmental limitations [1]."
+   }
+  ],
+  "why": "It is a fascinating look at nature's problem-solving and how biological flexibility inspires practical engineering tools like search-and-rescue robots [1].",
+  "tryit": "Read more about soft robotics research to see how biological discoveries are currently shaping new engineering tools [1].",
+  "qa": [
+   [
+    "When was the study published?",
+    "The study was published November 5 in the Journal of Experimental Biology [1]."
+   ],
+   [
+    "What are the only two stiffer body parts of an octopus?",
+    "They have a cartilaginous shell protecting their brains and a hard beak made of chitin [1]."
+   ],
+   [
+    "What measurements were taken before the experiment?",
+    "The team measured the distance between each animal's eyes to determine the size of their brain casing [1]."
+   ],
+   [
+    "How might engineers use these findings?",
+    "Engineers hope to develop flexible, octopus-like robots to navigate confined spaces during search-and-rescue missions [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846/",
+    "status": 200,
+    "title": "Octopuses Are the Ultimate Escape Artists. Now Scientists Know How the Creatures Contort Themselves to Squeeze Through Tiny Holes",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T21:17:19Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/scientists-discover-exactly-how-octopuses-squeez.mp3",
+  "image": {
+   "src": "img/scientists-discover-exactly-how-octopuses-squeez.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/3S7NxY9iDCsOFI1_El_Ey0KbvK0=/fit-in/1600x0/filters:focal(732x495:733x496)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/37/b6373eab-19e9-437a-9b00-1cc901961726/octopus_vulgaris2.jpg"
+  }
+ },
+ {
+  "id": "the-great-jewelry-transfer-brings-new-opportunit",
+  "cat": "money",
+  "tags": [
+   "money",
+   "business",
+   "economics",
+   "negotiation"
+  ],
+  "title": "The Great Jewelry Transfer Brings New Opportunities For Family Heirlooms",
+  "snippet": "As trillions transfer through generations, millions of families will inherit valuable jewelry alongside traditional portfolios. Understanding these physical assets gives heirs better choices about keeping, insuring or selling them.",
+  "bullets": [
+   "Cerulli Associates estimates that $124 trillion will transfer through 2048, with $105 trillion passing directly to heirs [1].",
+   "The broader U.S. resale market is projected to reach $73 billion by 2028 according to data from Deloitte [1].",
+   "Fashion brands hosting resale platforms on their own sites increased 325% between 2021 and 2025 [1]."
+  ],
+  "report": [
+   {
+    "h": "The Hidden Asset Shift",
+    "t": "Traditional wealth transfer discussions focus on brokerage accounts, but billions are stored in family jewelry boxes [1]. Heirs often face difficult questions about metal purity, stone quality, and whether an item is worth $200 or $20,000 [1]."
+   },
+   {
+    "h": "The Resale Revolution",
+    "t": "Younger generations prefer curated, meaningful possessions over physical clutter and are driving a massive boom in secondhand commerce [1]. The U.S. resale market is projected to reach $73 billion by 2028 [1]."
+   },
+   {
+    "h": "Creating Market Infrastructure",
+    "t": "Modern platforms are providing upfront valuation tools and real-time calculators to help consumers understand asset values before selling [1]. This ensures items can either return to the consumer market or have their metals responsibly recycled [1]."
+   }
+  ],
+  "why": "This insight helps you spot hidden value in physical assets and family estates, offering practical ways to negotiate or evaluate physical items instead of just paper portfolios.",
+  "tryit": "Audit any inherited items or jewelry you currently own, and look up current metal or brand values online before deciding whether to keep, insure, or sell them.",
+  "qa": [
+   [
+    "How much wealth is estimated to transfer through 2048?",
+    "Cerulli Associates estimates that $124 trillion will transfer through 2048 [1]."
+   ],
+   [
+    "What is the projected size of the U.S. resale market by 2028?",
+    "Data from Deloitte projects the U.S. resale market will reach $73 billion by 2028 [1]."
+   ],
+   [
+    "How much did U.S. fashion brands hosting resale platforms increase by?",
+    "They increased 325% between 2021 and 2025 [1]."
+   ],
+   [
+    "What percent of gold ever mined exists today as jewelry?",
+    "It is estimated that half of the gold ever mined in human history exists today as jewelry [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/business-news/the-great-wealth-transfer-is-about-more-than-money-heres-whats-being-overlooked",
+    "status": 200,
+    "title": "The Great Wealth Transfer Is About More Than Money. Here’s What’s Being Overlooked.",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T00:00:00Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/the-great-jewelry-transfer-brings-new-opportunit.mp3",
+  "image": {
+   "src": "img/the-great-jewelry-transfer-brings-new-opportunit.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/business-news/the-great-wealth-transfer-is-about-more-than-money-heres-whats-being-overlooked",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/wealth-transfer-jewelry-1126_g1485992005.jpg"
+  }
+ },
+ {
+  "id": "ancient-dna-reveals-surprising-new-timelines-for",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "history",
+   "travel"
+  ],
+  "title": "Ancient DNA reveals surprising new timelines for Germanic and Celtic languages",
+  "snippet": "New research tracking ancient DNA helps solve the enigma of how Germanic and Celtic languages spread across Europe. Scientists analysed DNA from thousands of prehistoric individuals to test specific theories on linguistic prehistory.",
+  "bullets": [
+   "Two new studies in Nature used ancient DNA from several thousand individuals to track the spread of European languages [1].",
+   "A second group with steppe ancestry appeared in Eastern Scandinavia around 4,000 years ago, suggesting Germanic languages arrived 800 years later than previously assumed [1].",
+   "Genetic analyses show that ancestry associated with the Urnfield culture expanded westward into France and Great Britain between 3,200 and 2,800 years ago [1]."
+  ],
+  "report": [
+   {
+    "h": "Tracing Language Roots",
+    "t": "Scholars have long noticed similarities between European languages like English, Swedish, Irish, Latin, and Greek, which all evolved from Proto-Indo-European [1]. Large groups of people migrated from Eastern European steppes to Europe around 5,000 years ago, supporting the theory that pastoral nomads spread the ancestral language [1]."
+   },
+   {
+    "h": "Rewriting Scandinavian Timelines",
+    "t": "Researchers analysed the DNA of thousands of prehistoric Europeans, including more than 700 newly sequenced individuals [1]. A second group with steppe ancestry appeared in Eastern Scandinavia around 4,000 years ago, suggesting the precursor of Germanic languages arrived some 800 years later than traditionally thought [1]."
+   },
+   {
+    "h": "Uncovering Celtic Origins",
+    "t": "Genetic analyses provide strong support for Celtic languages originating in Central Europe [1]. Between 3,200 and 2,800 years ago, ancestry associated with the Urnfield culture expanded westward into France and Great Britain [1]."
+   }
+  ],
+  "why": "It matters because understanding the complex history of human migration and language evolution offers a fascinating perspective on European prehistory and our shared cultural roots.",
+  "tryit": "Explore the full research papers published in Nature to dive deeper into how ancient DNA is reshaping our understanding of prehistoric human migrations and language dispersals.",
+  "qa": [
+   [
+    "What did the new studies use to track language origins?",
+    "Researchers used ancient DNA from several thousand prehistoric individuals, including more than 700 newly sequenced individuals [1]."
+   ],
+   [
+    "When did large groups migrate from the Eastern European steppes to Europe?",
+    "They migrated around 5,000 years ago [1]."
+   ],
+   [
+    "When did a second group with steppe ancestry appear in Eastern Scandinavia?",
+    "Around 4,000 years ago [1]."
+   ],
+   [
+    "Where did the Urnfield culture ancestry expand to?",
+    "It expanded westward into France and Great Britain, eventually reaching northeastern Spain [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://theconversation.com/we-used-ancient-dna-to-track-the-origins-and-spread-of-the-germanic-and-celtic-languages-new-research-295786",
+    "status": 200,
+    "title": "We used ancient DNA to track the origins and spread of the Germanic and Celtic languages – new research",
+    "domain": "theconversation.com"
+   }
+  ],
+  "date": "2026-11-04",
+  "publishedAt": "2026-11-04T16:12:40Z",
+  "addedAt": "2026-11-11T11:02:24Z",
+  "audio": "audio/ancient-dna-reveals-surprising-new-timelines-for.mp3",
+  "image": {
+   "src": "img/ancient-dna-reveals-surprising-new-timelines-for.jpg",
+   "credit": "The Conversation",
+   "license": "© The Conversation, shown with credit",
+   "page": "https://theconversation.com/we-used-ancient-dna-to-track-the-origins-and-spread-of-the-germanic-and-celtic-languages-new-research-295786",
+   "from_url": "https://images.theconversation.com/files/770040/original/file-20261104-64-rl2b2b.jpg?ixlib=rb-4.1.1&rect=0%2C163%2C6704%2C3352&q=45&auto=format&w=1356&h=668&fit=crop"
+  }
+ },
+ {
   "id": "actor-returns-to-stage-with-alzheimer-s-using-pr",
   "cat": "mind",
   "tags": [
@@ -9119,75 +10449,6 @@
   }
  },
  {
-  "id": "positive-news-launches-video-podcast-exploring-g",
-  "cat": "news",
-  "tags": [
-   "news",
-   "science",
-   "psychology"
-  ],
-  "title": "Positive News launches video podcast exploring global progress and solutions",
-  "snippet": "The What Went Right series is expanding to YouTube and Spotify, bringing weekly stories of scientific breakthroughs and community initiatives to new audiences [1].",
-  "bullets": [
-   "The new weekly programme explores progress from scientific breakthroughs to climate solutions [1].",
-   "It is presented by broadcaster Lucy Watson and editor Tom Pattinson [1].",
-   "The show follows the success of The Purpose Pioneers podcast [1]."
-  ],
-  "report": [
-   {
-    "h": "Expanding to New Platforms",
-    "t": "The flagship What Went Right series is expanding to YouTube, Spotify and other podcast platforms [1]. Released every Saturday, the programme explores three significant stories of progress each week [1]."
-   },
-   {
-    "h": "Experienced Co-Hosts",
-    "t": "The show is presented by broadcaster Lucy Watson and Positive News chief digital editor Tom Pattinson [1]. Both hosts bring decades of international reporting experience to the programme [1]."
-   },
-   {
-    "h": "Tackling News Avoidance",
-    "t": "Chief executive Sean Wood notes that news avoidance is a major challenge due to a relentless focus on what is broken [1]. The new podcast offers trustworthy journalism about progress and solutions [1]."
-   }
-  ],
-  "why": "It shows how media creators are building constructive formats to combat news fatigue and offer balanced perspectives on global progress [1].",
-  "tryit": "Search for the What Went Right podcast on Spotify or YouTube to listen to the latest weekly episode [1].",
-  "qa": [
-   [
-    "Where can you watch or listen to the new show?",
-    "It is expanding to YouTube, Spotify and other podcast platforms [1]."
-   ],
-   [
-    "When is the programme released?",
-    "It is released every Saturday [1]."
-   ],
-   [
-    "Who presents the podcast?",
-    "It is presented by Lucy Watson and Tom Pattinson [1]."
-   ],
-   [
-    "What previous series won an award in July 2026?",
-    "The Purpose Pioneers limited series won Best Culture and Lifestyle Podcast [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
-    "status": 200,
-    "title": "Positive News launches new video podcast exploring what’s going right in the world - Positive News",
-    "domain": "positive.news"
-   }
-  ],
-  "date": "2026-10-28",
-  "publishedAt": "2026-10-28T09:43:33Z",
-  "addedAt": "2026-11-03T11:11:00Z",
-  "audio": "audio/positive-news-launches-video-podcast-exploring-g.mp3",
-  "image": {
-   "src": "img/positive-news-launches-video-podcast-exploring-g.jpg",
-   "credit": "Positive News",
-   "license": "© Positive News, shown with credit",
-   "page": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
-   "from_url": "https://www.positive.news/wp-content/uploads/2026/10/WWR_hosts_3x2.jpg"
-  }
- },
- {
   "id": "new-jersey-students-collect-quarter-million-poun",
   "cat": "calm",
   "tags": [
@@ -11850,76 +13111,6 @@
    "page": "https://www.flickr.com/photos/184594136@N08/52303500397",
    "from_url": "https://live.staticflickr.com/65535/52303500397_27b1c13fb5_b.jpg",
    "note": "Real photo substituted: publisher image was a render/illustration"
-  }
- },
- {
-  "id": "how-flamingo-dancing-could-help-solve-modern-wat",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "nature",
-   "engineering",
-   "innovation"
-  ],
-  "title": "How flamingo dancing could help solve modern water pollution problems",
-  "snippet": "Flamingos stomp their feet while feeding to create vortexes that trap food. This natural biomechanical process could inspire new engineering solutions for removing microplastics and chemicals from water.",
-  "bullets": [
-   "Flamingos stomp their feet to create vortexes that help scoop up algae while feeding [1].",
-   "This movement allows their beaks to filter out food while releasing silt and mud [1].",
-   "The process can filter particles as small as a single cell, which may help remove microplastics and PFAS from water [1]."
-  ],
-  "report": [
-   {
-    "h": "The biomechanics of feeding",
-    "t": "Víctor Ortega Jiménez studied flamingos to understand why they create ripples while eating [1]. He found that by retracting their heads and stomping their feet, the birds create vortexlike traps in the water [1]."
-   },
-   {
-    "h": "From nature to engineering",
-    "t": "The birds use these vortexes to bring food to their beaks, which then filter out small particles [1]. Ortega Jiménez believes this self-cleaning mechanism could inspire new ways to filter water [1]."
-   },
-   {
-    "h": "Solving environmental challenges",
-    "t": "This natural filtering process can remove particles the size of a single cell [1]. It offers a potential model for engineers to remove microplastics and forever chemicals like PFAS from water supplies [1]."
-   }
-  ],
-  "why": "This story highlights how observing nature can lead to innovative engineering solutions for global problems like water pollution.",
-  "tryit": "Observe a common problem in your daily life or business and ask yourself if there is a natural process or animal behaviour that solves a similar challenge.",
-  "qa": [
-   [
-    "Why do flamingos dance while eating?",
-    "They stomp their feet to create vortexes that trap algae and bring it closer to their beaks [1]."
-   ],
-   [
-    "How small can the flamingo filter process go?",
-    "The process can filter out particles as small as a single cell [1]."
-   ],
-   [
-    "What human-made problems could this help solve?",
-    "The mechanism could potentially be applied to remove microplastics and PFAS chemicals from water [1]."
-   ],
-   [
-    "How long did it take to answer this question?",
-    "It took more than four years to understand why the birds were creating these waves [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencenews.org/article/flamingos-dance-eat-scientist",
-    "status": 200,
-    "title": "Why do flamingos dance while they eat? This scientist found out",
-    "domain": "sciencenews.org"
-   }
-  ],
-  "date": "2026-10-28",
-  "publishedAt": "2026-10-28T12:29:30Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/how-flamingo-dancing-could-help-solve-modern-wat.mp3",
-  "image": {
-   "src": "img/how-flamingo-dancing-could-help-solve-modern-wat.jpg",
-   "credit": "Science News",
-   "license": "© Science News, shown with credit",
-   "page": "https://www.sciencenews.org/article/flamingos-dance-eat-scientist",
-   "from_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102826_sn10-jimenez_main.jpg"
   }
  },
  {
