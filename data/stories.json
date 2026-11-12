@@ -1,5 +1,987 @@
 [
  {
+  "id": "what-to-know-about-meta-s-muse-ai-security-and-p",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "privacy",
+   "security",
+   "agents",
+   "business"
+  ],
+  "title": "What to Know About Meta’s Muse AI Security and Privacy Risks",
+  "snippet": "Meta's Muse AI agent builds a profile on users instantly, raising serious questions about data privacy and agentic AI security standards.",
+  "bullets": [
+   "Meta's Muse AI agent can quietly build a profile on you the second you start using it [1].",
+   "An AppleInsider report showed Muse synced roughly 187,000 lines of a user's Apple Messages without consent [1].",
+   "Surfshark found that Meta Muse attempts to collect 31 out of 35 types of data, including sensitive personal information [1]."
+  ],
+  "report": [
+   {
+    "h": "Data Harvesting Risks",
+    "t": "Meta's Muse AI has been shown to harvest private messages and data even when full disk access is turned off [1]. It collects sensitive personal information like location data and sexual orientation at higher rates than competing chatbots [1]."
+   },
+   {
+    "h": "Control and Security Flaws",
+    "t": "Security researchers demonstrated the assistant could be hijacked via an easy zero-day exploit [1]. In another instance, Muse mistakenly shared a tech reviewer's home address with a stranger on Facebook Marketplace [1]."
+   },
+   {
+    "h": "Training Pipeline Defaults",
+    "t": "Meta feeds conversations into its AI training pipeline by default, leaving it up to users to manually opt out in settings [1]. The tool also asks for access to passwords, emails, calendar invites, and WhatsApp chats [1]."
+   }
+  ],
+  "why": "Understanding agentic AI privacy risks helps you protect your business communications, personal messages, and sensitive data when adopting new automation tools.",
+  "tryit": "Check your current AI app permissions and settings to ensure you have manually opted out of data training pipelines and restricted disk access.",
+  "qa": [
+   [
+    "What data does Meta Muse collect?",
+    "It attempts to collect 31 out of 35 types of data, including location data, sexual orientation, genetic information, and biometric data [1]."
+   ],
+   [
+    "Can Muse access data without permission?",
+    "Yes, reports showed Muse synced roughly 187,000 lines of a user's Apple Messages even when full disk access was turned off [1]."
+   ],
+   [
+    "Does Meta use conversations for training?",
+    "Yes, Meta feeds your conversations into its AI training pipeline by default until you manually opt out in the settings [1]."
+   ],
+   [
+    "What happened on Facebook Marketplace?",
+    "Muse mistakenly shared a Toronto tech reviewer's home address with a potential buyer without his explicit consent [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cnet.com/tech/services-and-software/metas-muse-mascot-agentic-ai-privacy-violations-security-data/",
+    "status": 200,
+    "title": "What to Learn About Meta’s Muse AI Before It Learns Too Much About You - CNET",
+    "domain": "cnet.com"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T10:00:24Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/what-to-know-about-meta-s-muse-ai-security-and-p.mp3",
+  "image": {
+   "src": "img/what-to-know-about-meta-s-muse-ai-security-and-p.jpg",
+   "credit": "CNET",
+   "license": "© CNET, shown with credit",
+   "page": "https://www.cnet.com/tech/services-and-software/metas-muse-mascot-agentic-ai-privacy-violations-security-data/",
+   "from_url": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_2185933365_Editorial_Use_Only.jpeg"
+  }
+ },
+ {
+  "id": "nvidia-ceo-jensen-huang-faces-scrutiny-amid-inve",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "economics"
+  ],
+  "title": "Nvidia CEO Jensen Huang Faces Scrutiny Amid Investigations and Stock Drop",
+  "snippet": "Nvidia CEO Jensen Huang has admitted to an affair amid U.S. government investigations into chip security and foreign ties. The unfolding situation has impacted company shares and prompted an independent board investigation.",
+  "bullets": [
+   "Nvidia CEO Jensen Huang admitted to an extramarital affair after reports surfaced linking him to an executive suspected by U.S. officials of being a Chinese spy [1].",
+   "Megaspeed, a Singapore-based AI infrastructure firm and Nvidia customer, purchased $4.8 billion in chips and faced joint U.S. and Singaporean investigations [1].",
+   "Following the news, Nvidia shares fell about 8% in after-hours trading and the board initiated an independent investigation [1]."
+  ],
+  "report": [
+   {
+    "h": "Affair and Security Probes",
+    "t": "Nvidia CEO Jensen Huang admitted to an extramarital affair that intersected with U.S. national security concerns and federal investigations [1]. United States officials believe the individual involved, Megaspeed executive Alice Huang, is a Chinese spy [1]."
+   },
+   {
+    "h": "Chip Sales and Scrutiny",
+    "t": "Megaspeed purchased $4.8 billion in Nvidia chips over two years and faced suspicion regarding the illegal sharing of hardware with China [1]. The U.S. Justice Department took over the federal investigation into the infrastructure firm [1]."
+   },
+   {
+    "h": "Board Response and Shares",
+    "t": "Following reports of a second relationship with an internal executive, Nvidia's board prepared to discuss Huang's future at the company [1]. Nvidia shares fell about 8% in after-hours trading on Wednesday [1]."
+   }
+  ],
+  "why": "This major leadership and geopolitical disruption in the AI chip sector highlights the heavy reliance of the global tech economy on single hardware suppliers.",
+  "tryit": "Review your portfolio exposure or business dependencies on major hardware vendors to ensure you are diversified against sudden market shifts.",
+  "qa": [
+   [
+    "What did Jensen Huang admit to in his letter to employees?",
+    "He admitted that he was unfaithful to his wife and apologized to his family and colleagues [1]."
+   ],
+   [
+    "How much in Nvidia chips did Megaspeed purchase over two years?",
+    "Megaspeed purchased $4.8 billion in Nvidia chips [1]."
+   ],
+   [
+    "What happened to Nvidia's shares following the reports?",
+    "Nvidia's shares fell about 8% in after-hours trading on Wednesday [1]."
+   ],
+   [
+    "Who did the New York Times report Jensen Huang had a second relationship with?",
+    "The report stated he had a relationship with Kimberly Powell, Nvidia's vice president of health care [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "status": 200,
+    "title": "The unfolding Jensen Huang scandal: a timeline | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T23:50:00Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/nvidia-ceo-jensen-huang-faces-scrutiny-amid-inve.mp3",
+  "image": {
+   "src": "img/nvidia-ceo-jensen-huang-faces-scrutiny-amid-inve.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+  }
+ },
+ {
+  "id": "build-a-thriving-side-hustle-by-starting-small-a",
+  "cat": "adhd",
+  "tags": [
+   "adhd",
+   "business",
+   "money",
+   "focus"
+  ],
+  "title": "Build a thriving side hustle by starting small and beating overwhelm",
+  "snippet": "Learn how a solo founder turned a personal focus frustration into a six-figure brand by launching before everything felt perfect.",
+  "bullets": [
+   "Rosie Goldwasser launched her matcha brand in March 2024 after investing twenty-five thousand dollars of her own savings [1].",
+   "The business generated one hundred twenty-five thousand dollars in its first year without spending any money on advertising [1].",
+   "She advises finding the smallest version of an idea to launch instead of waiting for a complex multi-year plan [1]."
+  ],
+  "report": [
+   {
+    "h": "Start Before It Is Perfect",
+    "t": "Starting small helps avoid analysis paralysis and overwhelm when building a new venture [1]. Launching a basic version allows real customers to validate your idea before you spend too much time or money [1]."
+   },
+   {
+    "h": "Protect Your Focus",
+    "t": "Doing everything yourself initially can burn out your time and energy [1]. Outsourcing manual tasks like order fulfillment frees up your schedule to focus on high-impact growth and marketing [1]."
+   },
+   {
+    "h": "Prepare Decisions Early",
+    "t": "Solo founders face constant choices that impact cash flow and product quality [1]. Starting the decision-making and interviewing process months in advance prevents rushed mistakes [1]."
+   }
+  ],
+  "why": "When managing focus challenges, big projects can feel totally paralyzingly huge; breaking them down into small, actionable launches keeps your momentum alive.",
+  "tryit": "Identify the single smallest version of a project or idea you have been putting off, write down just the very first step, and take that action today.",
+  "qa": [
+   [
+    "How much revenue did the business make in year one?",
+    "It generated one hundred twenty-five thousand dollars in revenue [1]."
+   ],
+   [
+    "How much initial capital was invested?",
+    "The founder invested twenty-five thousand dollars of her own savings [1]."
+   ],
+   [
+    "When did the founder quit her corporate job?",
+    "She left her corporate role in March 2026 to focus on the business full-time [1]."
+   ],
+   [
+    "What inspired the business idea?",
+    "A personal frustration with coffee leaving her too jittery or tired, leading her to discover matcha for calm energy [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/building-a-business/this-28-year-old-started-a-caffeinated-side-hustle-it-made-125k-in-year-1",
+    "status": 200,
+    "title": "This 28-Year-Old Started a Caffeinated Side Hustle. It Made $125K in Year 1 — So She Quit Corporate to Work on It Full-Time.",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T20:06:11Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/build-a-thriving-side-hustle-by-starting-small-a.mp3",
+  "image": {
+   "src": "img/build-a-thriving-side-hustle-by-starting-small-a.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/building-a-business/this-28-year-old-started-a-caffeinated-side-hustle-it-made-125k-in-year-1",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/HEADSHOT-1-e1794342233471.png"
+  }
+ },
+ {
+  "id": "mitchell-robertson-to-star-in-new-james-dean-fil",
+  "cat": "mind",
+  "tags": [
+   "mind",
+   "culture",
+   "film"
+  ],
+  "title": "Mitchell Robertson to star in new James Dean film",
+  "snippet": "Mitchell Robertson joins Brandon Flynn in the upcoming biopic One Hand Tied, exploring the relationship between James Dean and screenwriter Bill Bast.",
+  "bullets": [
+   "Mitchell Robertson has been cast as gay screenwriter Bill Bast in the biopic One Hand Tied [1].",
+   "The film is written and directed by Guy Guido and is based on his long-term research [1].",
+   "The project was announced in 2024 and remains in development with no release date confirmed [1]."
+  ],
+  "report": [
+   {
+    "h": "New Biopic Cast",
+    "t": "Mitchell Robertson joins Brandon Flynn in the upcoming film One Hand Tied to portray screenwriter Bill Bast [1]. The movie explores the relationship between Bast and James Dean from their university days until Dean's death [1]."
+   },
+   {
+    "h": "Historical Context",
+    "t": "Dean and Bast met at the University of California, Los Angeles, becoming close friends, roommates, and romantic partners privately [1]. The narrative also traces Bast's journey toward accepting his own sexuality during the 1950s [1]."
+   },
+   {
+    "h": "Creative Vision",
+    "t": "Director Guy Guido aims to present a more layered, vulnerable, and multidimensional portrayal of Dean beyond the traditional Hollywood image [1]. The film is currently in development following its announcement in 2024 [1]."
+   }
+  ],
+  "why": "It highlights cultural storytelling about queer history and personal acceptance, which connects to historical self-compassion.",
+  "tryit": "Search for the BBC drama Half Man online to watch Mitchell Robertson in a previous role exploring sexuality.",
+  "qa": [
+   [
+    "Who is directing the biopic?",
+    "Guy Guido wrote and is directing the screenplay [1]."
+   ],
+   [
+    "Which actors star in the film?",
+    "Mitchell Robertson and Brandon Flynn lead the cast [1]."
+   ],
+   [
+    "Where did Dean and Bast meet?",
+    "They met at the University of California, Los Angeles [1]."
+   ],
+   [
+    "When was the biopic announced?",
+    "The project was announced in 2024 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.attitude.co.uk/culture/mitchell-robertson-james-deans-lover-in-biopic-one-hand-tied-539550/",
+    "status": 200,
+    "title": "Mitchell Robertson cast as James Dean’s alleged lover Bill Bast in upcoming biopic One Hand Tied",
+    "domain": "attitude.co.uk"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T11:14:48Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/mitchell-robertson-to-star-in-new-james-dean-fil.mp3",
+  "image": {
+   "src": "img/mitchell-robertson-to-star-in-new-james-dean-fil.jpg",
+   "credit": "Attitude",
+   "license": "© Attitude, shown with credit",
+   "page": "https://www.attitude.co.uk/culture/mitchell-robertson-james-deans-lover-in-biopic-one-hand-tied-539550/",
+   "from_url": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2026/11/New-Project-3-1-1.webp"
+  }
+ },
+ {
+  "id": "coreweave-shifts-to-upfront-prepayments-and-shor",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "negotiation"
+  ],
+  "title": "CoreWeave Shifts to Upfront Prepayments and Short-Term Deals to Fund AI Infrastructure",
+  "snippet": "CoreWeave is changing how it funds its AI cloud growth by asking clients for prepayments, securing contract-backed loans, and pursuing short-term deals.",
+  "bullets": [
+   "CoreWeave reported $3.66 billion in revenue with a $709 million net loss [1].",
+   "The neocloud expects about $9 billion in customer prepayments and deposits over the next three months [1].",
+   "CoreWeave raised prices across its offerings by about 25% in July and another 10% later in the quarter [1]."
+  ],
+  "report": [
+   {
+    "h": "Upfront Customer Payments",
+    "t": "CoreWeave is asking customers to pay up front and borrowing against specific contracts to finance its growth more efficiently [1]. The company expects about $9 billion in customer prepayments and deposits over the next three months [1]."
+   },
+   {
+    "h": "Short-Term Price Strategy",
+    "t": "The company is allocating more capacity to short-term opportunities that command much higher prices [1]. It is selling capacity at more than $40 million per megawatt annually, compared to $20 million to $25 million for four- and five-year contracts [1]."
+   },
+   {
+    "h": "Financing and Loans",
+    "t": "CoreWeave relies on loans backed by specific customer contracts rather than the unsecured debt market [1]. In August, the firm closed a $2.6 billion loan designed specifically for shorter-term customer contracts [1]."
+   }
+  ],
+  "why": "This shows creative deal-making and cash flow structuring in the AI sector, offering insights into how high-growth tech infrastructure is negotiated.",
+  "tryit": "Review your own contract terms or client agreements to see if you can introduce upfront deposits or milestone prepayments for high-demand services.",
+  "qa": [
+   [
+    "What was CoreWeave's revenue?",
+    "CoreWeave reported $3.66 billion in revenue, up 168% from the year prior [1]."
+   ],
+   [
+    "How much does CoreWeave expect in prepayments?",
+    "The company expects about $9 billion in customer prepayments and deposits over the next three months [1]."
+   ],
+   [
+    "What are short-term contract prices per megawatt?",
+    "Short-term capacity is selling at more than $40 million per megawatt annually [1]."
+   ],
+   [
+    "What was the size of the August loan?",
+    "CoreWeave closed a $2.6 billion loan designed specifically for shorter-term customer contracts [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+    "status": 200,
+    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T19:54:00Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/coreweave-shifts-to-upfront-prepayments-and-shor.mp3",
+  "image": {
+   "src": "img/coreweave-shifts-to-upfront-prepayments-and-shor.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304376406.jpg?w=1024"
+  }
+ },
+ {
+  "id": "british-ai-chip-startup-fractile-secures-massive",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "economics"
+  ],
+  "title": "British AI Chip Startup Fractile Secures Massive Funding Round",
+  "snippet": "British AI chip startup Fractile has raised a $720 million Series C round to help reduce the cost of running demanding AI models. The company plans to ship its first chips and systems next year.",
+  "bullets": [
+   "Fractile raised a $720 million Series C backed by Britain’s Sovereign AI Fund [1].",
+   "The valuation was stated as over £5 billion by the British government [1].",
+   "The startup plans to ship its first chips and systems next year [1]."
+  ],
+  "report": [
+   {
+    "h": "Massive Funding Secured",
+    "t": "British startup Fractile raised a $720 million Series C backed by Britain’s Sovereign AI Fund [1]. The valuation reached over £5 billion according to the British government [1]."
+   },
+   {
+    "h": "Full Stack Approach",
+    "t": "The company combines purpose-built hardware with a machine learning compiler to speed up large language models [1]. Its design focuses on stacked DRAM to bypass memory and capacity trade-offs [1]."
+   },
+   {
+    "h": "Next Steps",
+    "t": "CEO Walter Goodwin stated that the new funding will help the startup ship its first chips and systems next year [1]. This hardware aims to support longer chains of tasks required by agentic AI [1]."
+   }
+  ],
+  "why": "Understanding advancements in AI hardware and market funding helps spot emerging opportunities in the tech ecosystem.",
+  "tryit": "Read the announcement post on LinkedIn by Fractile CEO Walter Goodwin to explore details on their hardware design and upcoming product launches.",
+  "qa": [
+   [
+    "How much did Fractile raise in its latest round?",
+    "Fractile raised a $720 million Series C round [1]."
+   ],
+   [
+    "What is Fractile's valuation?",
+    "The British government reported the valuation was over £5 billion [1]."
+   ],
+   [
+    "When does Fractile plan to ship its first chips?",
+    "The company plans to ship its first chips and systems next year [1]."
+   ],
+   [
+    "Who is the CEO of Fractile?",
+    "Walter Goodwin is the CEO of Fractile [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+    "status": 200,
+    "title": "With $720M round, Britain's Fractile gets a leg up in the race for AI chips | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T19:34:55Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/british-ai-chip-startup-fractile-secures-massive.mp3",
+  "image": {
+   "src": "img/british-ai-chip-startup-fractile-secures-massive.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800"
+  }
+ },
+ {
+  "id": "how-gray-box-stages-and-ai-are-speeding-up-filmm",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "science",
+   "psychology"
+  ],
+  "title": "How Gray Box Stages and AI Are Speeding Up Filmmaking",
+  "snippet": "Entertainment studio Promise Advanced Imagination is using AI and neutral gray boxes on sound stages to render cinematic backgrounds instantly. This new workflow saves hours of setup time and lowers the capital needed to produce pilots.",
+  "bullets": [
+   "Actors perform inside a neutral gray box instead of using traditional green or blue screens [1].",
+   "An almost instant rendering on a screen places the actor into the virtual environment using AI [1].",
+   "Dave Clark states that setting up shots takes less time, saving crews two to three hours per setup change [1]."
+  ],
+  "report": [
+   {
+    "h": "The Gray Box Stage",
+    "t": "Filming in a gray box with neutral-colored walls offers more flexible shots than traditional green screens [1]. Bright green or blue hues can reflect onto objects and skin, whereas gray boxes avoid this issue [1]."
+   },
+   {
+    "h": "Speeding Up Production",
+    "t": "Combining gray boxes with AI-assisted backgrounds speeds up post-production significantly [1]. Dave Clark notes that crews save hours because they do not have to waste time changing lighting or physical setups [1]."
+   },
+   {
+    "h": "Human Artistry First",
+    "t": "Most environments are built by human 3D renderers and visual effects artists using AI as a supporting tool [1]. Disney executives emphasize that technology exists to support creators rather than replace human storytelling [1]."
+   }
+  ],
+  "why": "This shows how creative automation and AI agent workflows can dramatically slash production costs and speed up business execution without sacrificing quality.",
+  "tryit": "Explore the Promise Advanced Imagination or Curious Refuge website to see how generative AI pipelines are currently being taught and applied to digital media workflows.",
+  "qa": [
+   [
+    "What is a gray box stage?",
+    "It is a small, walled-off space on a studio floor with neutral-colored walls used for filming instead of green screens [1]."
+   ],
+   [
+    "How much time does it save?",
+    "It saves crews two to three hours of setup time when changing shots [1]."
+   ],
+   [
+    "Does AI replace human artists completely?",
+    "No, everything goes through the hands of human artists and traditional skill sets amplify the technology [1]."
+   ],
+   [
+    "Who is Promise Advanced Imagination?",
+    "It is an entertainment studio showcasing a filming product that combines gray boxes with AI-assisted backgrounds [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cnet.com/tech/services-and-software/green-screen-gray-box-ai-hollywood-filmmaking/",
+    "status": 200,
+    "title": "From Green Screen to Gray Box: AI Is Stepping Onto the Hollywood Sound Stage - CNET",
+    "domain": "cnet.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T13:50:03Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/how-gray-box-stages-and-ai-are-speeding-up-filmm.mp3",
+  "image": {
+   "src": "img/how-gray-box-stages-and-ai-are-speeding-up-filmm.jpg",
+   "credit": "CNET",
+   "license": "© CNET, shown with credit",
+   "page": "https://www.cnet.com/tech/services-and-software/green-screen-gray-box-ai-hollywood-filmmaking/",
+   "from_url": "https://www.cnet.com/wp-content/uploads/sites/2/20261103_112220.jpeg"
+  }
+ },
+ {
+  "id": "historical-milestones-from-space-probes-to-glowi",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "space",
+   "history",
+   "art",
+   "music"
+  ],
+  "title": "Historical Milestones from Space Probes to Glowing Dutch Cycle Paths",
+  "snippet": "Discover fascinating historical moments from November 12, including Voyager 1 reaching Saturn, the opening of Abbey Road Studios, and a glowing Van Gogh cycle path.",
+  "bullets": [
+   "Voyager 1 arrived at Saturn at a distance of within 77,000 miles of Saturn’s cloud-tops [1].",
+   "Abbey Road Studios officially opened for business 94 years ago at 3 Abbey Road [1].",
+   "A glowing bike path inspired by van Gogh opened in the Netherlands 11 years ago [1]."
+  ],
+  "report": [
+   {
+    "h": "Voyager 1 at Saturn",
+    "t": "Forty-six years ago, NASA's probe arrived at Saturn via a gravitational assist trajectory at Jupiter [1]. It came within 77,000 miles of the cloud-tops and detected complex structures in the rings [1]."
+   },
+   {
+    "h": "Abbey Road Studios",
+    "t": "The famous London studio opened 94 years ago and later received English Heritage Grade II status to protect it from developers [1]. A 24-hour live-streaming web camera was installed in 2011 to watch the crosswalk [1]."
+   },
+   {
+    "h": "Starry Night Bike Path",
+    "t": "A unique cycle path designed to glow like a painting opened in the Netherlands to connect notable locations of the artist's life [1]. Thousands of twinkling pebbles incorporated into the asphalt absorb light during the day [1]."
+   }
+  ],
+  "why": "Uncovering inspiring historical milestones and creative engineering feats provides a refreshing mental break and sparks curiosity.",
+  "tryit": "Search online for the 24-hour live stream of the Abbey Road crosswalk to watch tourists recreate the famous album cover today.",
+  "qa": [
+   [
+    "How close did Voyager 1 come to Saturn's cloud-tops?",
+    "It came within 77,000 miles of Saturn's cloud-tops [1]."
+   ],
+   [
+    "When did Abbey Road Studios open?",
+    "It officially opened for business 94 years ago [1]."
+   ],
+   [
+    "Who designed the van Gogh-inspired cycle path?",
+    "It was designed by Daan Roosegaarde [1]."
+   ],
+   [
+    "When was Auguste Rodin born?",
+    "He was born 185 years ago [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/events061112/",
+    "status": 200,
+    "title": "Good News in History, November 12 - Good News Network",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T08:00:00Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/historical-milestones-from-space-probes-to-glowi.mp3",
+  "image": {
+   "src": "img/historical-milestones-from-space-probes-to-glowi.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/events061112/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/11/Saturn-as-pictured-by-Voyager-1-credit-NASA.jpg"
+  }
+ },
+ {
+  "id": "how-simple-moss-can-cool-urban-heatwaves-and-tra",
+  "cat": "news",
+  "tags": [
+   "science",
+   "architecture",
+   "cities",
+   "nature",
+   "calm"
+  ],
+  "title": "How Simple Moss Can Cool Urban Heatwaves and Transform City Living",
+  "snippet": "Urban designers and artists are turning to moss as living infrastructure. New startups use bioreceptive concrete and automated watering to help buildings filter air and stay cool during heat waves [1].",
+  "bullets": [
+   "A 2026 field study in Seoul showed moss-based green roofs reduced peak roof-surface temperatures by about 19 degrees Celsius during heat waves [1].",
+   "London startup Alive Labs produces moss-covered panels made from bioreceptive concrete with controlled irrigation [1].",
+   "In Spain, leaving moss and microgreens between paving stones lowered stone surface temperatures by up to 25 degrees Celsius [1]."
+  ],
+  "report": [
+   {
+    "h": "Cooling Urban Spaces",
+    "t": "Cities are exploring living moss as a natural way to combat dangerous heat and regulate surface temperatures [1]. Field studies show that hydrated moss provides natural evaporative cooling for roofs and walls [1]."
+   },
+   {
+    "h": "Engineering Living Walls",
+    "t": "Startups like Alive Labs in London and Respyre in the Netherlands are creating bioreceptive concrete panels with integrated irrigation systems [1]. These systems keep moss hydrated so it can filter air, absorb noise, and lower temperatures reliably [1]."
+   },
+   {
+    "h": "Low Cost Microgreens",
+    "t": "Simple observations show that leaving natural patches of moss and vegetation between paving stones can keep stone surfaces significantly cooler than bare paving [1]."
+   }
+  ],
+  "why": "This surprising urban innovation offers practical ways to bring calm, natural air-filtering greenery into workspaces and modern building design [1].",
+  "tryit": "Explore how biophilic design or vertical greenery panels are being used in modern commercial spaces to improve indoor air quality and workspace calm [1].",
+  "qa": [
+   [
+    "How does moss help cool buildings?",
+    "Hydrated moss produces natural evaporative cooling and can insulate underlying surfaces when kept moist [1]."
+   ],
+   [
+    "What do startups use to grow moss on walls?",
+    "Companies use bioreceptive concrete combined with automated, integrated irrigation systems to keep the moss alive [1]."
+   ],
+   [
+    "What are the environmental benefits of moss?",
+    "Moss can convert carbon monoxide and nitrogen dioxide into oxygen, act as a natural air filter, and absorb noise [1]."
+   ],
+   [
+    "Why does moss need automated watering on buildings?",
+    "Dry moss exposed to direct sun can become warmer than bare mortar, so keeping it hydrated is essential for cooling [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reasonstobecheerful.world/moss-as-living-infrastructure/",
+    "status": 200,
+    "title": "Imagining the Mossy Cities of the Future",
+    "domain": "reasonstobecheerful.world"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T08:00:43Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/how-simple-moss-can-cool-urban-heatwaves-and-tra.mp3",
+  "image": {
+   "src": "img/how-simple-moss-can-cool-urban-heatwaves-and-tra.jpg",
+   "credit": "Reasons to be Cheerful",
+   "license": "© Reasons to be Cheerful, shown with credit",
+   "page": "https://reasonstobecheerful.world/moss-as-living-infrastructure/",
+   "from_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/shutterstock_2574042429-scaled.jpg"
+  }
+ },
+ {
+  "id": "a-rare-surviving-letter-from-martha-washington-s",
+  "cat": "news",
+  "tags": [
+   "history",
+   "science",
+   "health"
+  ],
+  "title": "A Rare Surviving Letter From Martha Washington Sheds Light on Epilepsy History",
+  "snippet": "A rare surviving letter written by Martha Washington in 1760 has joined the Library of Congress collection, offering a glimpse into her daughter's health struggles with epilepsy.",
+  "bullets": [
+   "Martha Washington penned the note on September 29, 1760, to give an update on her four-year-old daughter Patsy [1].",
+   "The Library of Congress purchased the historical document for $47,500 in June [1].",
+   "Historians now suspect that Patsy's early symptoms were signs of epilepsy, a neurological disorder [1]."
+  ],
+  "report": [
+   {
+    "h": "Rare Historical Letter",
+    "t": "The Library of Congress acquired a rare letter written in Martha Washington's own handwriting for $47,500 [1]. Most of her personal correspondence was destroyed, making this document a unique historical find [1]."
+   },
+   {
+    "h": "Early Health Struggles",
+    "t": "In the 1760 letter, Martha shared encouraging news that her young daughter Patsy was recovering from fevers and fits [1]. Historians note these symptoms were likely early signs of epilepsy [1]."
+   },
+   {
+    "h": "Expanding Archives",
+    "t": "Alongside the Martha Washington find, the library also acquired a letter written by Mary Todd Lincoln in 1865 [1]. These additions help researchers better understand historical figures and daily life in the past [1]."
+   }
+  ],
+  "why": "This historical look at early medical misunderstandings offers fascinating context on how long humans have studied neurological conditions.",
+  "tryit": "Visit the Library of Congress website to explore their digital collections and view newly acquired historical manuscripts.",
+  "qa": [
+   [
+    "How much did the Library of Congress pay for the letter?",
+    "The library purchased the letter for $47,500 in June [1]."
+   ],
+   [
+    "When was the letter written?",
+    "Martha Washington penned the note on September 29, 1760 [1]."
+   ],
+   [
+    "What condition did Patsy have?",
+    "Historians suspect her fits and fevers were symptoms of epilepsy [1]."
+   ],
+   [
+    "Who else had a newly acquired letter featured by the library?",
+    "First Lady Mary Todd Lincoln also had a letter acquired, written on February 15, 1865 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smart-news/a-rare-surviving-letter-from-martha-washington-sheds-light-on-her-young-daughters-struggle-with-epilepsy-180989858/",
+    "status": 200,
+    "title": "A Rare Surviving Letter From Martha Washington Sheds Light on Her Young Daughter's Struggle With Epilepsy",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T23:03:24Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/a-rare-surviving-letter-from-martha-washington-s.mp3",
+  "image": {
+   "src": "img/a-rare-surviving-letter-from-martha-washington-s.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smart-news/a-rare-surviving-letter-from-martha-washington-sheds-light-on-her-young-daughters-struggle-with-epilepsy-180989858/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/nszu6D-PUzO_nyIJkx78-3yqVxM=/fit-in/1600x0/filters:focal(3000x2014:3001x2015)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/be/c9be560e-8f7c-46d4-b785-e1f955bc43b3/734314.jpg"
+  }
+ },
+ {
+  "id": "new-study-shows-very-low-regret-rates-for-youth",
+  "cat": "health",
+  "tags": [
+   "health",
+   "science",
+   "psychology"
+  ],
+  "title": "New study shows very low regret rates for youth hormone therapy",
+  "snippet": "A peer-reviewed cohort study published in JAMA Pediatrics found that regret among people who began gender-affirming hormone therapy as a minor was rare.",
+  "bullets": [
+   "Only 2.7% of study participants reported some regret after starting hormone therapy as a minor [1].",
+   "The study analysed survey responses collected between 2023 and 2025 from nearly 400 participants [1].",
+   "Researchers found that 1.9% of participants felt harmed by their decision to receive hormone therapy [1]."
+  ],
+  "report": [
+   {
+    "h": "Low Regret Rates",
+    "t": "A peer-reviewed cohort study examined satisfaction, regret and harm among people who began hormone therapy before the age of 18 [1]. Researchers analysed self-reported survey responses collected between 2023 and 2025 from a cohort of nearly 400 participants [1]."
+   },
+   {
+    "h": "Study Findings",
+    "t": "The study found that overall decisional regret was very low, with 96.8% saying it was the right decision [1]. Only 1.9% of participants said they felt harmed by their decision, and 2.7% reported some regret [1]."
+   },
+   {
+    "h": "Expert Context",
+    "t": "The authors noted the results support existing standards of care and caution against making assumptions based on demographics [1]. World Professional Association for Transgender Health board member Scott Leibowitz stated the study adds to evidence that individualised care can be beneficial [1]."
+   }
+  ],
+  "why": "This health research provides clear data on patient satisfaction and regret regarding gender-affirming care, which is relevant to healthcare debates in both the UK and US.",
+  "tryit": "Read the full study details in JAMA Pediatrics to understand the methodology behind the survey responses collected between 2023 and 2025 [1].",
+  "qa": [
+   [
+    "What percentage of participants reported regret?",
+    "Only 2.7% reported some regret, while 96.8% said it was the right decision [1]."
+   ],
+   [
+    "When was the study published?",
+    "The study was published on 9 November [1]."
+   ],
+   [
+    "How many participants were in the cohort?",
+    "The cohort included nearly 400 participants [1]."
+   ],
+   [
+    "What did the authors say about restrictions?",
+    "They wrote that the results do not support efforts to categorically restrict or ban access to hormone therapy for youth [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.thepinknews.com/2026/11/12/youth-hormone-regret-transition-gender-affirming-care/",
+    "status": 200,
+    "title": "Study finds just 2.7% of youth regret hormone treatments",
+    "domain": "thepinknews.com"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T10:47:18Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/new-study-shows-very-low-regret-rates-for-youth.mp3",
+  "image": {
+   "src": "img/new-study-shows-very-low-regret-rates-for-youth.jpg",
+   "credit": "PinkNews",
+   "license": "© PinkNews, shown with credit",
+   "page": "https://www.thepinknews.com/2026/11/12/youth-hormone-regret-transition-gender-affirming-care/",
+   "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/recap-Puberty-Blockers.jpg"
+  }
+ },
+ {
+  "id": "oura-ring-set-to-bring-real-doctors-inside-your",
+  "cat": "health",
+  "tags": [
+   "health",
+   "ai",
+   "sleep",
+   "longevity",
+   "business"
+  ],
+  "title": "Oura Ring set to bring real doctors inside your health app",
+  "snippet": "Oura is buying AI primary care company Counsel Health for $625 million to give users in-app access to physicians and 24/7 medical advice.",
+  "bullets": [
+   "Oura agreed to acquire Counsel Health for $625 million to expand clinical guidance for users [1].",
+   "The deal will connect members with in-house physicians and 24/7 medical AI to address timely health problems [1].",
+   "This is the third acquisition Oura has made this year following purchases of Galen AI and Doublepoint AI [1]."
+  ],
+  "report": [
+   {
+    "h": "A major health acquisition",
+    "t": "Oura has entered an agreement to buy Counsel Health for $625 million. The move aims to turn the fitness tracker into a continuous medical companion with clinical guidance [1]."
+   },
+   {
+    "h": "Connecting data to doctors",
+    "t": "The acquisition will combine biometric monitoring with Counsel Health's medical AI and in-house physicians. Users could get help for episodic conditions, chronic issues, and prescriptions [1]."
+   },
+   {
+    "h": "Part of a broader buying spree",
+    "t": "This follows Oura's earlier purchases of Galen AI and Doublepoint AI this year. Tech companies are increasingly buying health startups to bridge symptom tracking and direct care [1]."
+   }
+  ],
+  "why": "This matters if you track your daily health metrics and want a faster way to understand what your biometric data actually means for your body.",
+  "tryit": "Check your current health app settings or device dashboard to see what biometric baselines it currently tracks for your sleep and resting heart rate [1].",
+  "qa": [
+   [
+    "How much is Oura paying for Counsel Health?",
+    "Oura is acquiring Counsel Health for $625 million [1]."
+   ],
+   [
+    "When is the deal expected to close?",
+    "The Counsel Health deal is expected to close by the end of the year [1]."
+   ],
+   [
+    "What other companies has Oura acquired this year?",
+    "Oura previously acquired Galen AI and Doublepoint AI earlier this year [1]."
+   ],
+   [
+    "Will the new medical features be included in the subscription?",
+    "It is currently unknown whether access to the physicians or 24/7 medical AI will be included in an Oura app subscription [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
+    "status": 200,
+    "title": "Oura Ring users may get in-app access to real doctors soon - what we know - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T17:45:55Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/oura-ring-set-to-bring-real-doctors-inside-your.mp3",
+  "image": {
+   "src": "img/oura-ring-set-to-bring-real-doctors-inside-your.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png"
+  }
+ },
+ {
+  "id": "singapore-airlines-unveils-massive-new-double-be",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "aviation",
+   "luxury",
+   "design",
+   "sleep"
+  ],
+  "title": "Singapore Airlines Unveils Massive New Double Beds in the Sky",
+  "snippet": "Singapore Airlines has revealed a massive redesign featuring the largest double bed in commercial aviation. The upgrade is part of a massive revamp set for release in the second half of 2027.",
+  "bullets": [
+   "Singapore Airlines announced a redesign on Friday, November 6 [1].",
+   "The first class double bed measures 80 inches long and 60 inches wide [1].",
+   "The upgrades will be introduced across new Boeing 777-9 aircraft and retrofitted Airbus A350-900 aircraft [1]."
+  ],
+  "report": [
+   {
+    "h": "Major Cabin Revamp",
+    "t": "Singapore Airlines announced a $1.6 billion redesign on Friday, November 6, with the first aircraft entering service in the second half of 2027 [1]. The project introduces new cabins across Boeing 777-9 and retrofitted Airbus A350-900 aircraft [1]."
+   },
+   {
+    "h": "Queen Beds in First Class",
+    "t": "First class passengers can transform two adjoining seats into a double bed measuring 80 inches long and 60 inches wide [1]. The luxurious suites also feature Italian Poltrona Frau leather upholstery and 32-inch 4K entertainment screens [1]."
+   },
+   {
+    "h": "Upgrades Across All Cabins",
+    "t": "Business class gets sliding privacy doors and fully flat beds, while premium economy and economy receive extra space and storage [1]. Ultra-long-range Airbus aircraft will also receive first class cabins for the very first time [1]."
+   }
+  ],
+  "why": "It is a fascinating look at long-haul comfort innovations and travel design that can make future flights much more restful.",
+  "tryit": "Check the Singapore Airlines website to review upcoming long-haul route updates and cabin rollout schedules.",
+  "qa": [
+   [
+    "How much is the redesign costing?",
+    "The redesign is part of a $1.6 billion investment [1]."
+   ],
+   [
+    "When will the first aircraft enter service?",
+    "The first aircraft is expected to enter service in the second half of 2027 [1]."
+   ],
+   [
+    "What are the dimensions of the first class double bed?",
+    "The bed measures 80 inches long and 60 inches wide [1]."
+   ],
+   [
+    "Which aircraft will feature the upgrades?",
+    "The upgrades will be introduced across new Boeing 777-9 aircraft and 41 retrofitted Airbus A350-900 aircraft [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/singapore-airlines-unveils-the-largest-double-bed-in-the-sky-as-part-of-a-dollar16-billion-redesign",
+    "status": 200,
+    "title": "Singapore Airlines Unveils the ‘Largest Double Bed in the Sky’ As Part of a $1.6 Billion Redesign",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T19:32:34Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/singapore-airlines-unveils-massive-new-double-be.mp3",
+  "image": {
+   "src": "img/singapore-airlines-unveils-massive-new-double-be.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/singapore-airlines-unveils-the-largest-double-bed-in-the-sky-as-part-of-a-dollar16-billion-redesign",
+   "from_url": "https://media.cntraveler.com/photos/6af4a185196ff7a1b8e9557e/16:9/w_1280,c_limit/Singapore-Nov26-globalPR-First%20Class%20Double%20Bed.png"
+  }
+ },
+ {
+  "id": "deep-sea-metal-nodules-are-actually-home-to-dive",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "animals",
+   "whoa"
+  ],
+  "title": "Deep sea metal nodules are actually home to diverse ocean life",
+  "snippet": "New research shows that metal-rich deep-sea nodules are teeming with microscopic animals. This surprising discovery adds a new layer to debates over deep-sea mining.",
+  "bullets": [
+   "Softball-size polymetallic nodules are a source of crucial metals like manganese and copper [1].",
+   "Researchers found thousands of microscopic animals living among the rock crevices of these nodules [1].",
+   "A single nodule contained an average of 17 animals and sometimes hundreds of creatures [1]."
+  ],
+  "report": [
+   {
+    "h": "Surprising Ocean Life",
+    "t": "Researchers found thousands of microscopic animals living inside rock crevices of deep-sea nodules [1]. These softball-size formations sit in a desirable mining area of the Pacific Ocean [1]."
+   },
+   {
+    "h": "Distinct Habitats",
+    "t": "Organisms collected 1,000 kilometers apart were more similar to each other than to nearby sediment communities [1]. This suggests the nodules provide a distinct habitat necessary for certain species to survive [1]."
+   },
+   {
+    "h": "Mining Implications",
+    "t": "The diversity of life hiding within the nodules should factor into future plans to mine the seafloor [1]. Commercial mining could result in an irreversible loss of this unique biodiversity [1]."
+   }
+  ],
+  "why": "It is a fascinating scientific discovery about deep-sea ecosystems that highlights how much remains unknown about our planet's hidden biology.",
+  "tryit": "Read the full Scientific Reports study online to learn more about how microscopic organisms survive in extreme deep-sea environments.",
+  "qa": [
+   [
+    "What are polymetallic nodules?",
+    "They are softball-size clumps of rock and metal in the deep ocean that take millions of years to form [1]."
+   ],
+   [
+    "Where were the nodules studied?",
+    "They were collected from the Clarion-Clipperton Zone in the Pacific Ocean [1]."
+   ],
+   [
+    "What kind of creatures were found inside?",
+    "Researchers found roundworms, tiny crustaceans, and a common single-celled protist called Thurammina sp. 1 [1]."
+   ],
+   [
+    "Why does this discovery matter?",
+    "It shows that commercial deep-sea mining may result in an irreversible loss of unique biodiversity associated with the nodules [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.scientificamerican.com/article/metal-rich-deep-sea-nodules-also-harbor-diverse-ocean-life/",
+    "status": 200,
+    "title": "These deep-sea ‘nodules’ are rich in critical minerals—and in ocean life",
+    "domain": "scientificamerican.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T20:30:00Z",
+  "addedAt": "2026-11-12T10:55:56Z",
+  "audio": "audio/deep-sea-metal-nodules-are-actually-home-to-dive.mp3",
+  "image": {
+   "src": "img/deep-sea-metal-nodules-are-actually-home-to-dive.jpg",
+   "credit": "Scientific American",
+   "license": "© Scientific American, shown with credit",
+   "page": "https://www.scientificamerican.com/article/metal-rich-deep-sea-nodules-also-harbor-diverse-ocean-life/",
+   "from_url": "https://static.scientificamerican.com/dam/asset/e109f758-a5f0-4d13-b6ba-c063c8337e01/nodules.png?m=1794430560.773&w=1200"
+  }
+ },
+ {
   "id": "this-tiny-new-device-gives-your-older-tech-smart",
   "cat": "ai",
   "tags": [
@@ -13742,76 +14724,6 @@
    "license": "© Good News Network, shown with credit",
    "page": "https://www.goodnewsnetwork.org/islands-near-portugal-turn-off-lights-to-protect-seabird-fledglings-every-oct/",
    "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Corys-shearwater-on-Wikipedia-by-Hobbyfotowiki-CC0.jpeg"
-  }
- },
- {
-  "id": "namibian-rangers-use-smartphones-and-ancient-ski",
-  "cat": "news",
-  "tags": [
-   "science",
-   "animals",
-   "technology",
-   "travel"
-  ],
-  "title": "Namibian rangers use smartphones and ancient skills to protect desert lions",
-  "snippet": "Community rangers in north-west Namibia are pairing traditional tracking skills with real-time smartphone tools and GPS collars to protect livestock and support a recovering desert lion population.",
-  "bullets": [
-   "North-west Namibia's desert lion population rebounded from around 20 adults in 1997 to around 180 by 2015 [1].",
-   "Since 2021, rangers have carried smartphones loaded with SMART software to log observations in real time [1].",
-   "In one 18-month period, rangers covered almost 280,000km, of which 88,000km were on foot [1]."
-  ],
-  "report": [
-   {
-    "h": "Combining Tech And Tradition",
-    "t": "Community rangers across north-west Namibia are blending centuries-old tracking skills with modern digital tools [1]. They use smartphones, camera traps and GPS collars to monitor wildlife movements across a vast landscape [1]."
-   },
-   {
-    "h": "Real-Time Conservation Data",
-    "t": "Since 2021, rangers have used the SMART software suite to log observations and share data instantly [1]. This digital trail helps coordinators pinpoint monitoring weak spots, pre-empt conflict, and mobilise rapid response teams [1]."
-   },
-   {
-    "h": "Growing Local Tolerance",
-    "t": "Despite challenges from changing weather and falling wild prey numbers, illegal lion killings have been eliminated in six conservancies [1]. The desert lion population now stands at a stable 60 individuals [1]."
-   }
-  ],
-  "why": "This story highlights how combining modern digital tracking tools with grassroots local knowledge can solve complex, fast-moving logistical challenges.",
-  "tryit": "Explore how open-source conservation software like SMART operates by visiting their official project site to understand field data mapping tools.",
-  "qa": [
-   [
-    "How many adult lions were left in north-west Namibia in 1997?",
-    "Around 20 adults [1]."
-   ],
-   [
-    "What software do the rangers use on their smartphones?",
-    "They use the Spatial Monitoring and Reporting Tool, known as SMART [1]."
-   ],
-   [
-    "How large is the area monitored by the rangers?",
-    "They track lions across a 40,000 sq km range [1]."
-   ],
-   [
-    "What is the current stable population of desert lions in the region?",
-    "The population stands at 60 individuals [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.positive.news/society/smartphones-ancient-tracking-skills-and-a-future-for-desert-lions/",
-    "status": 200,
-    "title": "Smartphones, ancient tracking skills and a future for desert lions - Positive News",
-    "domain": "positive.news"
-   }
-  ],
-  "date": "2026-10-29",
-  "publishedAt": "2026-10-29T07:00:10Z",
-  "addedAt": "2026-11-03T02:36:02Z",
-  "audio": "audio/namibian-rangers-use-smartphones-and-ancient-ski.mp3",
-  "image": {
-   "src": "img/namibian-rangers-use-smartphones-and-ancient-ski.jpg",
-   "credit": "Positive News",
-   "license": "© Positive News, shown with credit",
-   "page": "https://www.positive.news/society/smartphones-ancient-tracking-skills-and-a-future-for-desert-lions/",
-   "from_url": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/PN_SharedLand_Story04_WebHeader_1800x1080.jpg"
   }
  },
  {
