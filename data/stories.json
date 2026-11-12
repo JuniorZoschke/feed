@@ -1,5 +1,355 @@
 [
  {
+  "id": "why-nvidia-s-leadership-shakeup-proves-strong-go",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "economics"
+  ],
+  "title": "Why Nvidia's Leadership Shakeup Proves Strong Governance Beats Key Person Risk",
+  "snippet": "Jensen Huang's sudden departure from Nvidia shows why a business must move beyond relying on a single leader. Good governance and strong interim leadership can steady a giant tech firm through political storms.",
+  "bullets": [
+   "Nvidia co-founder Jensen Huang resigned following an extramarital affair and concerns over potential conflicts of interest [1].",
+   "The company's share price initially dropped 13% before narrowing to a 5% fall as investors reassessed the business [1].",
+   "Chief financial officer Colette Kress stepped in as chief executive while Harvey Jones took over as independent chair [1]."
+  ],
+  "report": [
+   {
+    "h": "The Cost of Recklessness",
+    "t": "Jensen Huang stepped down after revelations regarding an affair with a Singapore-based executive linked to chip smuggling concerns [1]. This created severe national security risks and political liabilities in Washington [1]."
+   },
+   {
+    "h": "Market Resilience",
+    "t": "While initial kneejerk reactions caused a 13% drop in the share price, the loss quickly narrowed to 5% [1]. Investors recognised that Nvidia still produces the world's most in-demand graphics processing units [1]."
+   },
+   {
+    "h": "New Governance Structure",
+    "t": "Chief financial officer Colette Kress stepped in as chief executive, and Harvey Jones took the role of independent chair [1]. This shift addresses long-standing criticisms regarding over-reliance on a single individual [1]."
+   }
+  ],
+  "why": "Understanding how major tech giants handle leadership crises and governance transitions helps you spot resilience in large business ecosystems.",
+  "tryit": "Review your own business or portfolio operations to ensure you have clear backups and checks in place so no single person creates a critical point of failure.",
+  "qa": [
+   [
+    "Who replaced Jensen Huang as chief executive?",
+    "Colette Kress, the chief financial officer, stepped in as chief executive [1]."
+   ],
+   [
+    "Who became the new independent chair at Nvidia?",
+    "Harvey Jones, a former chief executive at Synopsys and board member, got the gig [1]."
+   ],
+   [
+    "How much did Nvidia's share price drop initially?",
+    "The kneejerk reaction resulted in a 13% drop in the share price [1]."
+   ],
+   [
+    "To what level did the share price fall narrow?",
+    "The fall in the share price narrowed to 5% within a couple of hours [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
+    "status": 200,
+    "title": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T18:46:48Z",
+  "addedAt": "2026-11-12T23:36:17Z",
+  "audio": "audio/why-nvidia-s-leadership-shakeup-proves-strong-go.mp3",
+  "image": {
+   "src": "img/why-nvidia-s-leadership-shakeup-proves-strong-go.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
+   "from_url": "https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/125_0_4666_3734/master/4666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=5c5275cd0e88ecae5e5f6eb6f124ab77"
+  }
+ },
+ {
+  "id": "three-mit-lincoln-laboratory-innovations-win-202",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "science",
+   "business",
+   "technology",
+   "security"
+  ],
+  "title": "Three MIT Lincoln Laboratory Innovations Win 2026 R&D 100 Awards",
+  "snippet": "Three MIT Lincoln Laboratory technologies have won 2026 R&D 100 Awards for major advances in cybersecurity, quantum computing, and 5G communications. These innovations include an ultra-secure operating system, a wafer-scale quantum microsystems platform, and a 5G interference-removal algorithm.",
+  "bullets": [
+   "Three technologies developed by MIT Lincoln Laboratory received 2026 R&D 100 Awards [1].",
+   "An operating system named Magnetite uses formal verification and Rust to protect embedded systems from cyberattacks [1].",
+   "A new algorithm successfully removes 5G cellular interference to recover radar signals [1]."
+  ],
+  "report": [
+   {
+    "h": "Award-Winning Innovations",
+    "t": "Three technologies developed by MIT Lincoln Laboratory received 2026 R&D 100 Awards, which recognize significant innovations made available for license [1]."
+   },
+   {
+    "h": "Cybersecurity and Quantum",
+    "t": "Magnetite is a secure operating system built on a formally verified microkernel using the Rust programming language, while a new quantum microsystems platform integrates hundreds of chips using AI routing [1]."
+   },
+   {
+    "h": "Clearing 5G Interference",
+    "t": "Researchers developed an algorithm that reconstructs and subtracts interfering 5G signals from nearby antennas, successfully restoring radar detection ranges [1]."
+   }
+  ],
+  "why": "This breakthrough showcases advanced AI routing, robust systems architecture, and secure software design principles like Rust that underpin modern high-performance engineering.",
+  "tryit": "Explore the principles of memory-safe programming languages like Rust for your next software project or business automation tool.",
+  "qa": [
+   [
+    "What are the three award-winning technologies?",
+    "They are the Magnetite operating system, the Quantum Microsystems platform, and a 5G interference-removal algorithm [1]."
+   ],
+   [
+    "How does the Magnetite operating system ensure security?",
+    "It is built on a formally verified microkernel and uses the Rust programming language to prevent memory-corruption bugs [1]."
+   ],
+   [
+    "What does the Quantum Microsystems platform do?",
+    "It integrates hundreds of superconductor and semiconductor chips into a single wafer-scale system using AI routing [1]."
+   ],
+   [
+    "How does the 5G interference algorithm work?",
+    "It decodes base station transmissions to reconstruct and subtract the interfering signal from incoming antenna data [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
+    "status": 200,
+    "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
+    "domain": "news.mit.edu"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T21:15:00Z",
+  "addedAt": "2026-11-12T23:36:17Z",
+  "audio": "audio/three-mit-lincoln-laboratory-innovations-win-202.mp3",
+  "image": {
+   "src": "img/three-mit-lincoln-laboratory-innovations-win-202.jpg",
+   "credit": "MIT News",
+   "license": "© MIT News, shown with credit",
+   "page": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
+   "from_url": "https://news.mit.edu/sites/default/files/images/202610/mit-lincoln-awards.jpg"
+  }
+ },
+ {
+  "id": "examining-the-real-costs-of-modern-middle-class",
+  "cat": "money",
+  "tags": [
+   "money",
+   "business",
+   "economics",
+   "tax"
+  ],
+  "title": "Examining the Real Costs of Modern Middle-Class Life and Housing",
+  "snippet": "While podcasters claim young people need massive incomes to live comfortably, median household earnings remain far lower. Housing supply constraints and high childcare costs drive the feeling that traditional milestones are out of reach.",
+  "bullets": [
+   "In Michigan, the median household income is around $65,000, which serves as a standard benchmark for middle-class life [1].",
+   "A person earning $65,000 can typically afford a house priced between $200,000 and $300,000 [1].",
+   "Government regulations and zoning rules artificially constrain housing supply and drive up childcare expenses [1]."
+  ],
+  "report": [
+   {
+    "h": "The Income Reality",
+    "t": "Viral claims suggest people need $1 million annually to enjoy a middle-class lifestyle, but median household earnings sit much lower at around $65,000 [1]. This income allows individuals to buy homes in the $200,000 to $300,000 range, depending on the state [1]."
+   },
+   {
+    "h": "Urban Cost Pressures",
+    "t": "Young professionals chasing higher-paying jobs in major cities face astronomical housing prices and severe regulatory constraints [1]. Childcare and education expenses are heavily inflated due to government rules and mandates that limit supply [1]."
+   },
+   {
+    "h": "Economic Policy Focus",
+    "t": "Pro-family economic reforms should focus on free market solutions like reducing property taxes for younger homeowners and easing zoning laws [1]. Freeing up regulatory burdens lets workers keep more cash to spend efficiently on family needs [1]."
+   }
+  ],
+  "why": "Understanding how housing and regulatory costs impact household formation helps you evaluate where to live and how to manage your capital effectively.",
+  "tryit": "Review your current housing and living expenses against national median costs to identify potential areas for long-term savings or relocation opportunities.",
+  "qa": [
+   [
+    "What is the median household income in Michigan?",
+    "The median household income in Michigan is around $65,000 [1]."
+   ],
+   [
+    "What is the average price range for a house a person making $65,000 can buy?",
+    "A person making $65,000 a year should be able to buy a house that costs between $200,000 and $300,000 [1]."
+   ],
+   [
+    "Why are childcare and education so expensive?",
+    "These services are highly regulated and subjected to various governmental constraints that drive up the price and lower the available supply [1]."
+   ],
+   [
+    "What policy reforms could help young families?",
+    "Free market reforms include income and property tax reductions, regulatory reform, zoning reform, and school choice [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reason.com/2026/11/12/do-young-men-need-1-million-to-live-a-middle-class-lifestyle/",
+    "status": 200,
+    "title": "Do young men need $1 million to live a middle-class lifestyle?",
+    "domain": "reason.com"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T22:15:25Z",
+  "addedAt": "2026-11-12T23:36:17Z",
+  "audio": "audio/examining-the-real-costs-of-modern-middle-class.mp3",
+  "image": {
+   "src": "img/examining-the-real-costs-of-modern-middle-class.jpg",
+   "credit": "Reason",
+   "license": "© Reason, shown with credit",
+   "page": "https://reason.com/2026/11/12/do-young-men-need-1-million-to-live-a-middle-class-lifestyle/",
+   "from_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/Dave-Smith.jpg"
+  }
+ },
+ {
+  "id": "scientists-invent-plant-based-coating-to-replace",
+  "cat": "news",
+  "tags": [
+   "science",
+   "business",
+   "innovation",
+   "materials"
+  ],
+  "title": "Scientists Invent Plant-Based Coating To Replace Coffee Cup Plastic Linings",
+  "snippet": "Researchers at the University of Waterloo have created a plant-based alternative to plastic cup linings. The all-cellulose coating resists boiling water and oil, offering a sustainable path for manufacturing food containers.",
+  "bullets": [
+   "Material scientists from the University of Waterloo developed a plant-based alternative to conventional plastics [1].",
+   "The new coating is made from cellulose acetate and cellulose nanocrystals [1].",
+   "This bio-based coating remains largely intact under abrasion tests and resists boiling water and food oils [1]."
+  ],
+  "report": [
+   {
+    "h": "Plant-Based Cup Coating",
+    "t": "Researchers created a new bio-based coating to replace polyethylene linings in beverage containers [1]. The material is made from cellulose acetate and cellulose nanocrystals [1]."
+   },
+   {
+    "h": "Tough And Durable",
+    "t": "The coating forms strong hydrogen bonds with paper without needing chemical adhesives [1]. It successfully withstood intensive immersion tests against various solvents and boiling water [1]."
+   },
+   {
+    "h": "Commercial Potential",
+    "t": "This technology uses cellulose from various biomass resources to support a renewable economy [1]. However, food-safety tests and regulatory evaluations must still be completed before commercial use [1]."
+   }
+  ],
+  "why": "Understanding material innovations helps spot emerging green manufacturing trends and commercial opportunities in sustainable packaging.",
+  "tryit": "Read the published paper in ACS Sustainable Chemistry & Engineering to explore the technical specifications of cellulose nanocrystals.",
+  "qa": [
+   [
+    "What is the new coating made of?",
+    "It is made from cellulose acetate and cellulose nanocrystals [1]."
+   ],
+   [
+    "Where did the researchers come from?",
+    "They are from the University of Waterloo in Canada [1]."
+   ],
+   [
+    "Does the coating require chemical adhesives?",
+    "No, the cellulose components form hydrogen bonds directly with the paper [1]."
+   ],
+   [
+    "Is the coating ready for commercial use?",
+    "Not yet, as food-safety tests and regulatory evaluations still need to be completed [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/scientists-developed-a-plant-based-alternative-to-the-plastic-inside-your-coffee-cup",
+    "status": 200,
+    "title": "Scientists Developed a Plant-Based Alternative to The Plastic Inside Your Coffee Cup",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T16:00:00Z",
+  "addedAt": "2026-11-12T23:36:17Z",
+  "audio": "audio/scientists-invent-plant-based-coating-to-replace.mp3",
+  "image": {
+   "src": "img/scientists-invent-plant-based-coating-to-replace.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/scientists-developed-a-plant-based-alternative-to-the-plastic-inside-your-coffee-cup",
+   "from_url": "https://www.sciencealert.com/images/2026/11/BaristaPouringMilkIntoCoffeeInPaperCup-1200x675.png"
+  }
+ },
+ {
+  "id": "nvidia-ceo-jensen-huang-resigns-after-security-a",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "news"
+  ],
+  "title": "Nvidia CEO Jensen Huang resigns after security and personal conduct controversies",
+  "snippet": "Nvidia co-founder Jensen Huang has resigned as CEO following revelations regarding personal affairs and national security concerns tied to chip export investigations. Colette Kress takes over as interim CEO while the board searches for a permanent successor.",
+  "bullets": [
+   "Nvidia co-founder Jensen Huang admitted to extramarital affairs and resigned from his role as CEO [1].",
+   "U.S. officials investigated Megaspeed executive Alice Huang over suspicions of sharing chip intelligence with Beijing [1].",
+   "Chief Financial Officer Colette Kress was appointed as interim CEO while the board conducts a leadership search [1]."
+  ],
+  "report": [
+   {
+    "h": "Leadership changes at Nvidia",
+    "t": "Following reports of multiple affairs and scrutiny over chip export controls, Jensen Huang resigned after leading the company for 33 years [1]. Chief Financial Officer Colette Kress has stepped in as interim CEO while Harvey C. Jones became the first chair of the board of directors [1]."
+   },
+   {
+    "h": "National security investigations",
+    "t": "U.S. and Singapore authorities previously investigated Megaspeed over allegations that the firm illegally routed advanced hardware to China [1]. Jensen Huang agreed to testify before Congress in a closed-door briefing before Thanksgiving [1]."
+   },
+   {
+    "h": "Market and stock impact",
+    "t": "Nvidia shares experienced declines in after-hours trading following the board meetings and news of the leadership transition [1]. The company continues to cooperate with independent board investigations into the matter [1]."
+   }
+  ],
+  "why": "This major industry shift highlights how corporate governance, geopolitical export controls, and executive stability intersect at the highest levels of the AI hardware market.",
+  "tryit": "Review your portfolio exposure or business dependencies on major AI infrastructure suppliers to stay informed on sudden market shifts.",
+  "qa": [
+   [
+    "Who replaced Jensen Huang as CEO?",
+    "CFO Colette Kress was named interim CEO [1]."
+   ],
+   [
+    "When is Huang expected to testify?",
+    "Huang agreed to testify before Congress before Thanksgiving on November 26 [1]."
+   ],
+   [
+    "What company was investigated alongside these events?",
+    "Singapore-based AI infrastructure firm Megaspeed was investigated over chip export rules [1]."
+   ],
+   [
+    "Who was appointed as the first-ever chair of the board?",
+    "Harvey C. Jones was appointed as the first-ever chair of the board of directors [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "status": 200,
+    "title": "The unfolding Jensen Huang scandal: a timeline | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T21:35:00Z",
+  "addedAt": "2026-11-12T23:36:17Z",
+  "audio": "audio/nvidia-ceo-jensen-huang-resigns-after-security-a.mp3",
+  "image": {
+   "src": "img/nvidia-ceo-jensen-huang-resigns-after-security-a.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+  }
+ },
+ {
   "id": "what-to-know-about-meta-s-muse-ai-security-and-p",
   "cat": "ai",
   "tags": [
@@ -11918,77 +12268,6 @@
    "license": "© Mental Floss, shown with credit",
    "page": "https://www.mentalfloss.com/entertainment/movies/iconic-roles-almost-went-different-actors",
    "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_393,y_115,w_4520,h_2542/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m671d25r8n4ne2s6rs.jpg"
-  }
- },
- {
-  "id": "new-le-audio-bluetooth-features-improve-your-hea",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "tech",
-   "headphones",
-   "battery",
-   "audio"
-  ],
-  "title": "New LE Audio Bluetooth features improve your headphone battery and call quality",
-  "snippet": "Bluetooth is shifting from Classic to LE Audio, bringing better call quality and battery life to your devices. This update helps fix common issues like uneven battery drain and poor audio during video calls.",
-  "bullets": [
-   "LE Audio uses the LC3 codec to handle audio streams and voice calls simultaneously for better quality [1].",
-   "The new protocol enables independent audio streams, which prevents the asymmetrical battery drain common in older Bluetooth setups [1].",
-   "Manufacturers like JBL, Sony, and Bose are rolling out LE Audio support through firmware updates or new product releases [1]."
-  ],
-  "report": [
-   {
-    "h": "Better Audio Quality",
-    "t": "Bluetooth Classic relies on separate profiles for media and voice, which often results in poor audio during calls or gaming [1]. LE Audio consolidates these into a single profile, creating higher-quality, bidirectional audio streams [1]."
-   },
-   {
-    "h": "Fixing Battery Drain",
-    "t": "In older Bluetooth setups, one earbud often drains faster because it retransmits audio to the other [1]. LE Audio enables independent audio streams, eliminating this issue and balancing battery usage across earbuds [1]."
-   },
-   {
-    "h": "Wider Compatibility",
-    "t": "Companies like JBL, Sony, and Bose are updating their flagship headphones to support this technology [1]. While ecosystem fragmentation remains a challenge, LE Audio helps reduce reliance on specific proprietary codecs for better performance [1]."
-   }
-  ],
-  "why": "This matters because better audio quality and battery life reduce tech-related friction, helping you stay focused during calls and meetings without constant charging interruptions [1].",
-  "tryit": "Check your headphones' companion app on your phone to see if there is an available firmware update that enables LE Audio support [1].",
-  "qa": [
-   [
-    "What is the main benefit of LE Audio for voice calls?",
-    "It consolidates audio profiles to provide higher-quality, bidirectional audio streams [1]."
-   ],
-   [
-    "Why do my earbuds often have different battery levels?",
-    "In Bluetooth Classic, one earbud often retransmits audio to the other, causing asymmetrical battery drain [1]."
-   ],
-   [
-    "Can I get LE Audio on my current headphones?",
-    "Some manufacturers, like Bose and JBL, are rolling out LE Audio support through over-the-air firmware updates [1]."
-   ],
-   [
-    "Does LE Audio help with gaming?",
-    "Yes, it removes ecosystem barriers to low-latency mobile gaming [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
-    "status": 200,
-    "title": "Your headphones have hidden LE Audio features you'll want to know about - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-10-29",
-  "publishedAt": "2026-10-29T17:45:05Z",
-  "addedAt": "2026-11-03T11:11:00Z",
-  "audio": "audio/new-le-audio-bluetooth-features-improve-your-hea.mp3",
-  "image": {
-   "src": "img/new-le-audio-bluetooth-features-improve-your-hea.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/9e735a6c-10a9-41cb-b9a1-8764ebcc13a3.jpg"
   }
  },
  {
