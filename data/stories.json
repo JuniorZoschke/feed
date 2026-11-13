@@ -1,5 +1,352 @@
 [
  {
+  "id": "new-study-examines-safety-of-stopping-statins-af",
+  "cat": "health",
+  "tags": [
+   "health",
+   "longevity",
+   "men",
+   "science"
+  ],
+  "title": "New Study Examines Safety of Stopping Statins After Age 70",
+  "snippet": "A new study explores whether adults aged 70 and older without a history of heart disease can safely stop taking statins.",
+  "bullets": [
+   "Researchers tracked 1,880 adults aged 70 and older who were taking statins to prevent a first cardiovascular event [1].",
+   "After about two years, participants who stopped statins showed no significant increase in heart attacks, strokes, or deaths [1].",
+   "Over a longer follow-up of up to four years, 12.7% of those who stopped statins experienced a serious cardiovascular event or death, compared to 9.2% who kept taking them [1]."
+  ],
+  "report": [
+   {
+    "h": "The Two-Year Outlook",
+    "t": "A study presented at the American Heart Association's Scientific Sessions examined nearly 1,900 adults aged 70 and older taking statins for primary prevention [1]. After approximately two years, participants who stopped taking statins did not experience a statistically significant rise in heart attacks, strokes, or deaths compared to those who continued [1]."
+   },
+   {
+    "h": "Longer-Term Risks",
+    "t": "When researchers extended tracking up to four years, a different pattern emerged [1]. About 12.7% of participants who stopped statins experienced a heart attack, stroke, or death, compared with 9.2% of those who kept taking the medications [1]."
+   },
+   {
+    "h": "Individualised Healthcare Choices",
+    "t": "Study authors note that the findings complicate simple recommendations about stopping cholesterol treatment in later life [1]. They advise shared decision-making between patients and healthcare professionals to determine the right approach for each individual [1]."
+   }
+  ],
+  "why": "This research highlights how long-term health management plans can evolve and need careful, personalised reviews as we age.",
+  "tryit": "Talk to your GP or pharmacist to review your current medication plan if you have questions about long-term preventive treatments.",
+  "qa": [
+   [
+    "Who participated in the study?",
+    "Nearly 1,900 adults aged 70 and older taking statins to prevent a first cardiovascular event, all with at least two chronic medical conditions [1]."
+   ],
+   [
+    "What happened after two years of stopping statins?",
+    "There was no statistically significant increase in heart attacks, strokes, or deaths compared to the group continuing statins [1]."
+   ],
+   [
+    "What did longer follow-up show?",
+    "Over up to four years, 12.7% of those who stopped statins experienced a heart attack, stroke, or death, versus 9.2% of those who continued [1]."
+   ],
+   [
+    "What do the researchers recommend?",
+    "They recommend shared decision-making between patients and healthcare professionals rather than a general rule for stopping statins [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencedaily.com/releases/2026/11/261112025534.htm",
+    "status": 200,
+    "title": "Stopping statins after 70 may be safer than expected, but there's a catch",
+    "domain": "sciencedaily.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T12:14:39Z",
+  "addedAt": "2026-11-13T23:36:09Z",
+  "audio": "audio/new-study-examines-safety-of-stopping-statins-af.mp3",
+  "image": {
+   "src": "img/new-study-examines-safety-of-stopping-statins-af.jpg",
+   "credit": "ScienceDaily",
+   "license": "© ScienceDaily, shown with credit",
+   "page": "https://www.sciencedaily.com/releases/2026/11/261112025534.htm",
+   "from_url": "https://www.sciencedaily.com/images/1920/statin-capsule-close.webp"
+  }
+ },
+ {
+  "id": "ryanair-changes-bag-drop-rules-so-you-must-check",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "visas"
+  ],
+  "title": "Ryanair changes bag drop rules so you must check bags earlier",
+  "snippet": "Ryanair bag drop desks now close 60 minutes before departure instead of 40. This rule change gives you less time to drop your luggage.",
+  "bullets": [
+   "Ryanair bag drop desks now close 60 minutes before departure, rather than 40 [1].",
+   "The airline has not announced that bag drop desks will open any earlier to account for the new deadline [1].",
+   "From 2027, the EU will introduce new laws allowing passengers to have an underseat and a cabin bag with no extra fees [1]."
+  ],
+  "report": [
+   {
+    "h": "New Bag Drop Deadline",
+    "t": "As of 10 November, Ryanair bag drop desks close 60 minutes before departure instead of the previous 40 [1]. If you have a 9am flight, your luggage check-in desk closes at 8am [1]."
+   },
+   {
+    "h": "Shrunk Time Window",
+    "t": "The airline has not announced that its bag drop desks will open any earlier to travellers [1]. If desks still open two hours before departure, the time window to drop bags shrinks by a quarter [1]."
+   },
+   {
+    "h": "Future EU Rules",
+    "t": "From 2027, new EU laws will permit passengers to have both an underseat and a cabin bag on standard tickets without extra fees on EU airlines [1]."
+   }
+  ],
+  "why": "When traveling with checked bags, knowing exact airline deadlines helps you avoid missed check-ins and travel stress.",
+  "tryit": "Check your ticket departure time and plan to arrive at the airport two hours early if you are using a bag drop.",
+  "qa": [
+   [
+    "When did the Ryanair bag drop rule change happen?",
+    "The rule change took effect as of 10 November [1]."
+   ],
+   [
+    "What is the new bag drop deadline?",
+    "Desks now close 60 minutes before departure instead of 40 [1]."
+   ],
+   [
+    "How early does Ryanair recommend arriving?",
+    "Ryanair recommends arriving at the airport two hours before your scheduled departure [1]."
+   ],
+   [
+    "What will change in 2027 for hand luggage?",
+    "The EU will introduce new laws permitting passengers to have an underseat and a cabin bag with no extra fees on EU airlines [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/ryanair-bag-drop-a0noV7l0LvAX",
+    "status": 200,
+    "title": "Ryanair rolls out a bag drop rule change — here’s what you need to know - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T15:54:50Z",
+  "addedAt": "2026-11-13T23:36:09Z",
+  "audio": "audio/ryanair-changes-bag-drop-rules-so-you-must-check.mp3",
+  "image": {
+   "src": "img/ryanair-changes-bag-drop-rules-so-you-must-check.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/ryanair-bag-drop-a0noV7l0LvAX",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/57f3ac7b189f-img2989.jpg"
+  }
+ },
+ {
+  "id": "nvidia-startup-funding-shifts-as-interim-ceo-tak",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "negotiation"
+  ],
+  "title": "Nvidia startup funding shifts as interim CEO takes over dealmaking",
+  "snippet": "Jensen Huang's departure from Nvidia leaves a major funding gap for AI startups. Interim CEO Colette Kress is expected to take a more conservative approach to early-stage investments.",
+  "bullets": [
+   "Nvidia participated in 105 rounds this year alone, often acting as the largest investor [1].",
+   "Interim CEO Colette Kress is expected to be much more conservative with startup funding [1].",
+   "Google announced two new chips amid the Nvidia fallout to compete in the market [1]."
+  ],
+  "report": [
+   {
+    "h": "Funding Landscape Shifts",
+    "t": "Nvidia's active role in backing early-stage AI startups and neoclouds faces uncertainty following leadership changes [1]. Investors note that interim CEO Colette Kress is likely to scale back massive pre-revenue infrastructure checks [1]."
+   },
+   {
+    "h": "Open Source Impact",
+    "t": "Jensen Huang was a major champion for open source and global AI development, particularly in Europe [1]. A slowdown in funding could leave regional and open source ecosystems searching for new backers [1]."
+   },
+   {
+    "h": "Rivals Step Up",
+    "t": "Competitors like Google are launching new chips and alternative cloud providers may attempt to fill the void [1]. Traditional venture capitalists are expected to evaluate startup valuations more cautiously without Nvidia on the cap table [1]."
+   }
+  ],
+  "why": "Changes in major tech funding rounds affect how AI agents and infrastructure startups secure early capital and negotiate valuations.",
+  "tryit": "Review your AI startup funding strategy and identify alternative cloud or chip providers beyond Nvidia for your tech stack.",
+  "qa": [
+   [
+    "Who replaced Jensen Huang as interim CEO?",
+    "Colette Kress is the interim CEO of Nvidia [1]."
+   ],
+   [
+    "How many rounds did Nvidia participate in this year?",
+    "Nvidia participated in 105 rounds this year alone [1]."
+   ],
+   [
+    "What acquisition did Nvidia make for approximately $7 billion?",
+    "Nvidia acquired Mellanox Technologies for approximately $7 billion in 2020 [1]."
+   ],
+   [
+    "Which company bought Hugging Face for $13 billion?",
+    "Nvidia bought Hugging Face this year for $13 billion [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "status": 200,
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T22:43:00Z",
+  "addedAt": "2026-11-13T23:36:09Z",
+  "audio": "audio/nvidia-startup-funding-shifts-as-interim-ceo-tak.mp3",
+  "image": {
+   "src": "img/nvidia-startup-funding-shifts-as-interim-ceo-tak.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
+  }
+ },
+ {
+  "id": "why-small-acts-of-kindness-create-measurable-rip",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "mind",
+   "calm"
+  ],
+  "title": "Why Small Acts of Kindness Create Measurable Ripples of Generosity",
+  "snippet": "World Kindness Day reminds us that simple gestures do more than lift moods. Studies show kindness spreads through social networks, making people more likely to help others [1].",
+  "bullets": [
+   "Studies illustrate how kindness spreads through social networks in measurable ways [1].",
+   "When we are kind, recipients become 25% more likely to help others [1].",
+   "A single coffee shop chain reaction in Winnipeg led 226 customers to pass on acts of kindness [1]."
+  ],
+  "report": [
+   {
+    "h": "The Ripple Effect",
+    "t": "Research shows that an act of kindness is like dropping a stone in water, creating expanding ripples [1]. People who receive help become 25% more likely to help others in turn [1]."
+   },
+   {
+    "h": "The Giving Paradox",
+    "t": "A recent study highlights that people sometimes prefer to give nothing rather than donate an amount they fear is too small [1]. Givers often overestimate the minimum amount that recipients would consider acceptable [1]."
+   },
+   {
+    "h": "Contagious Generosity",
+    "t": "In one famous instance at a coffeehouse in Winnipeg, 226 customers consecutively paid for the order of the person behind them [1]. Generosity towards strangers proves to be socially contagious [1]."
+   }
+  ],
+  "why": "Understanding the science of altruism helps reframe everyday interactions, showing how micro-actions boost our own well-being and shift social dynamics around us.",
+  "tryit": "Pay for a stranger's coffee or leave a small encouraging note for a colleague today to set off a positive chain reaction.",
+  "qa": [
+   [
+    "When was World Kindness Day announced?",
+    "It was announced on November 13, 1998 [1]."
+   ],
+   [
+    "How much more likely are people to help others after receiving kindness?",
+    "They become 25% more likely to help others [1]."
+   ],
+   [
+    "What did the study Give Enough or Not at all reveal?",
+    "It revealed that people may prefer to give nothing rather than donate an amount they consider too small [1]."
+   ],
+   [
+    "How many customers passed on the kindness in the Winnipeg coffee shop example?",
+    "In the end, 226 customers passed on this act of kindness [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+    "status": 200,
+    "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+    "domain": "npr.org"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T12:06:28Z",
+  "addedAt": "2026-11-13T23:36:09Z",
+  "audio": "audio/why-small-acts-of-kindness-create-measurable-rip.mp3",
+  "image": {
+   "src": "img/why-small-acts-of-kindness-create-measurable-rip.jpg",
+   "credit": "NPR",
+   "license": "© NPR, shown with credit",
+   "page": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+182/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F65%2F514674db4b93b8f60b71b8a5ea99%2Fkindness-7.jpg"
+  }
+ },
+ {
+  "id": "why-flashy-courtship-traits-evolve-twice-as-fast",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "animals",
+   "evolution",
+   "nature"
+  ],
+  "title": "Why flashy courtship traits evolve twice as fast as combat weapons",
+  "snippet": "New research shows that decorative traits used to attract mates evolve roughly twice as fast as physical weapons used to fight rivals. Shifting mating preferences across generations create a moving evolutionary target for ornaments, while physical combat keeps weapons steadier.",
+  "bullets": [
+   "Decorative mating ornaments evolve faster overall than physical combat weapons across animal species [1].",
+   "A new mathematical model and data from 531 species in 10 animal groups show ornaments evolve at roughly twice the pace of weapons [1].",
+   "Shifting mating preferences across generations create a moving evolutionary target that accelerates ornament evolution [1]."
+  ],
+  "report": [
+   {
+    "h": "Two paths of evolution",
+    "t": "Sexual selection operates through direct competition and mate choice, favoring physical weapons or flashy ornaments [1]. Researchers combined a mathematical model with data from 531 species to compare how fast these traits evolve [1]."
+   },
+   {
+    "h": "The moving target",
+    "t": "The mathematical model showed that ornaments fluctuate widely because mating preferences in the opposite sex drift unpredictably across generations [1]. This shifting preference acts as a moving evolutionary target that pushes ornaments to change faster [1]."
+   },
+   {
+    "h": "Weapons stay steadier",
+    "t": "Combat weapons face physical demands and rival competitions that keep them anchored to a steadier evolutionary pace [1]. When adjusted for body size, ornaments evolved at a standardized rate of 0.129 compared with 0.064 for weapons [1]."
+   }
+  ],
+  "why": "It is a fascinating look at how nature solves the problem of attraction versus combat, reminding us how unpredictable preferences drive rapid change.",
+  "tryit": "Read the full study published in Proceedings of the Royal Society B to explore how researchers built their mathematical models.",
+  "qa": [
+   [
+    "What evolves faster, ornaments or weapons?",
+    "Ornaments evolve faster overall, changing at roughly twice the pace of weapons when adjusted for body size [1]."
+   ],
+   [
+    "Why do ornaments evolve more quickly?",
+    "Random genetic changes drift female mating preferences across generations, creating a moving evolutionary target for male ornaments [1]."
+   ],
+   [
+    "How many species were included in the study?",
+    "The final sample spanned 531 unique species across 10 datasets [1]."
+   ],
+   [
+    "Who led the research team?",
+    "The study was conducted by Mohammadali Dashtbali, Jonathan M. Henshaw, William L. Allen, and their colleagues [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/flashy-courtship-traits-tend-to-evolve-faster-than-combat-weapons-study-finds/",
+    "status": 200,
+    "title": "Flashy courtship traits tend to evolve faster than combat weapons, study finds",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T23:00:26Z",
+  "addedAt": "2026-11-13T23:36:09Z",
+  "audio": "audio/why-flashy-courtship-traits-evolve-twice-as-fast.mp3",
+  "image": {
+   "src": "img/why-flashy-courtship-traits-evolve-twice-as-fast.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/flashy-courtship-traits-tend-to-evolve-faster-than-combat-weapons-study-finds/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/peacokc.jpg"
+  }
+ },
+ {
   "id": "new-pregnancy-study-separates-weight-loss-drugs",
   "cat": "health",
   "tags": [
@@ -15207,76 +15554,6 @@
   }
  },
  {
-  "id": "navigating-rapa-nui-a-practical-guide-to-the-rem",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "culture",
-   "history",
-   "pacific"
-  ],
-  "title": "Navigating Rapa Nui: A Practical Guide to the Remote Pacific Island",
-  "snippet": "Rapa Nui, located 2,200 miles from continental Chile, offers a unique mix of ancient history and vibrant Polynesian culture. This guide covers essential logistics, from navigating the island's archaeological sites to finding the best local seafood in Hanga Roa.",
-  "bullets": [
-   "Rapa Nui is 2,200 miles from continental Chile and 1,292 miles from Pitcairn Island [1].",
-   "The Ma'u Henua Indigenous Community administers the national park and requires visitors to use certified guides for archaeological sites [1].",
-   "Entrance fees for the national park are currently CH$95,000, or about $100 USD [1]."
-  ],
-  "report": [
-   {
-    "h": "Getting there and staying",
-    "t": "Getting there involves a 5.5-hour flight from Santiago via LATAM, the only carrier serving the island [1]. Once there, visitors typically stay in Hanga Roa, the island's sole town [1]."
-   },
-   {
-    "h": "New park regulations",
-    "t": "The Ma'u Henua Indigenous Community manages the national park and requires a certified guide for all archaeological sites outside Hanga Roa [1]. This change aims to protect the moai and encourage deeper cultural connections [1]."
-   },
-   {
-    "h": "Culture and dining",
-    "t": "Beyond the moai, the island features a vibrant sea and local food culture, with fresh tuna and sweet potatoes as highlights [1]. Visitors can explore the island's history at sites like the Rano Kau volcano or enjoy local music and dance in Hanga Roa [1]."
-   }
-  ],
-  "why": "This offers a structured, remote travel option for someone looking to disconnect and experience unique cultural heritage, requiring careful logistical planning.",
-  "tryit": "If you are planning a trip, check the current flight schedules from Santiago and research the latest requirements for certified guides through the Ma'u Henua Indigenous Community website.",
-  "qa": [
-   [
-    "How do I get to Rapa Nui?",
-    "You can fly via LATAM, which is the only carrier serving the island with at least one daily flight from Santiago [1]."
-   ],
-   [
-    "Do I need a guide to see the archaeological sites?",
-    "Yes, the Ma'u Henua Indigenous Community requires visitors to visit all archaeological sites beyond Hanga Roa with a certified guide [1]."
-   ],
-   [
-    "What is the cost of the national park entrance fee?",
-    "The entrance fee is currently CH$95,000, or about $100 USD [1]."
-   ],
-   [
-    "What is the population of Rapa Nui?",
-    "The island has a population of 7,750 people [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/where-to-eat-stay-and-play-on-rapa-nui-the-wild-remote-island-in-the-pacific",
-    "status": 200,
-    "title": "Where to Eat, Stay, and Play on Rapa Nui, the Setting of ‘Wild Horse Nine’",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2026-10-30",
-  "publishedAt": "2026-10-30T22:09:52Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/navigating-rapa-nui-a-practical-guide-to-the-rem.mp3",
-  "image": {
-   "src": "img/navigating-rapa-nui-a-practical-guide-to-the-rem.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/where-to-eat-stay-and-play-on-rapa-nui-the-wild-remote-island-in-the-pacific",
-   "from_url": "https://media.cntraveler.com/photos/6ae39b23b3afa1f15f831935/16:9/w_1280,c_limit/ESP%20Rapa%20Nui-lede-2.png"
-  }
- },
- {
   "id": "scientists-detect-ghost-particles-with-massive-e",
   "cat": "whoa",
   "tags": [
@@ -17583,75 +17860,6 @@
    "license": "© BBC News, shown with credit",
    "page": "https://www.bbc.co.uk/news/articles/c9146yve236lo",
    "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edb8/live/e1b11720-d616-11f1-90fb-b3468681b3ba.png"
-  }
- },
- {
-  "id": "new-ai-tool-and-planning-rules-aim-to-cut-delays",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "property",
-   "uk"
-  ],
-  "title": "New AI Tool and Planning Rules Aim to Cut Delays for UK Homeowners",
-  "snippet": "The UK government is introducing new rules and an AI tool called PlanAssist to speed up planning decisions for homeowners and small businesses [1]. Early tests reduced time spent on key planning tasks by 58%, halving routine processing times from eight weeks to four [1].",
-  "bullets": [
-   "The new National Scheme of Delegation lets expert planning officers decide straightforward applications rather than waiting for committee slots [1].",
-   "An AI tool called PlanAssist reduced task time by 58% in initial trials and is expanding to 15 local councils [1].",
-   "The government has recruited 420 planners so far, with a goal of adding 1,400 across the system by the end of this Parliament [1]."
-  ],
-  "report": [
-   {
-    "h": "Cutting planning admin",
-    "t": "Under the new National Scheme of Delegation, straightforward planning decisions for house extensions or loft conversions will be made directly by expert officers rather than waiting for planning committees [1]. This change helps families and small business owners get quicker answers while allowing councillors to focus on major projects [1]."
-   },
-   {
-    "h": "Putting AI to work",
-    "t": "The government created an AI system called PlanAssist alongside Google DeepMind, Google Cloud, and Faculty [1]. The tool pulls together planning applications, local policies, and site constraints into one location, cutting routine application processing times from eight weeks to four [1]."
-   },
-   {
-    "h": "Trial expansion",
-    "t": "Initial testing in Camden, Barnet, and Dorset cut time spent on key planning tasks by 58% [1]. The trial is expanding to 15 councils for 12 months, with plans to make the system available across England by the end of 2027 [1]."
-   }
-  ],
-  "why": "If you plan to convert a loft, build an extension, or upgrade small business premises, these rules and tools aim to bring faster decisions and less admin delay [1].",
-  "tryit": "Check your local council website to see if your area is one of the 15 councils testing the new AI tool [1].",
-  "qa": [
-   [
-    "What is PlanAssist?",
-    "It is an AI tool developed with Google DeepMind, Google Cloud, and Faculty to consolidate planning applications, policies, and site constraints for officers [1]."
-   ],
-   [
-    "How much time does the AI save?",
-    "Early testing reduced time spent on key planning tasks by 58% and halved routine processing times from eight weeks to four [1]."
-   ],
-   [
-    "Which councils are currently testing it?",
-    "Initial testing in Camden, Barnet, and Dorset is expanding to 12 more councils, including Lambeth, Bristol, and Westminster [1]."
-   ],
-   [
-    "Will AI make the final planning decisions?",
-    "No, planning officers remain fully responsible for reviewing applications and making decisions [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.gov.uk/government/news/faster-planning-decisions-as-new-rules-and-ai-tackle-delays",
-    "status": 200,
-    "title": "Faster planning decisions as new rules and AI tackle delays",
-    "domain": "gov.uk"
-   }
-  ],
-  "date": "2026-10-30",
-  "publishedAt": "2026-10-30T22:30:01Z",
-  "addedAt": "2026-11-01T22:08:32Z",
-  "audio": "audio/new-ai-tool-and-planning-rules-aim-to-cut-delays.mp3",
-  "image": {
-   "src": "img/new-ai-tool-and-planning-rules-aim-to-cut-delays.jpg",
-   "credit": "GOV.UK",
-   "license": "© GOV.UK, shown with credit",
-   "page": "https://www.gov.uk/government/news/faster-planning-decisions-as-new-rules-and-ai-tackle-delays",
-   "from_url": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
   }
  },
  {
