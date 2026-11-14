@@ -1,5 +1,1337 @@
 [
  {
+  "id": "stanford-scientists-use-brain-scans-to-predict-a",
+  "cat": "ai",
+  "tags": [
+   "science",
+   "health",
+   "brain",
+   "longevity"
+  ],
+  "title": "Stanford Scientists Use Brain Scans to Predict Alzheimer's Risk Years Early",
+  "snippet": "Stanford researchers developed a new scoring method using resting brain scans to predict future memory decline and Alzheimer's risk years before symptoms appear [1].",
+  "bullets": [
+   "Researchers studied brain scans from 110 people with Alzheimer's and 180 older adults with exceptional memory called SuperAgers [1].",
+   "The team created the Alzheimer's Resilience-Vulnerability Connectome, or ARC, to summarize brain connectivity patterns [1].",
+   "Adults with more Alzheimer's-like scans declined faster on memory tests and developed impairment more often over time [1]."
+  ],
+  "report": [
+   {
+    "h": "Brain Connectivity Clues",
+    "t": "Stanford researchers examined functional MRI scans to see how brain regions work together at rest [1]. They found distinct connectivity patterns in the front of the brain for SuperAgers and deep inside the brain for people with Alzheimer's [1]."
+   },
+   {
+    "h": "The ARC Score",
+    "t": "The team combined these patterns into a tool called the Alzheimer's Resilience-Vulnerability Connectome, or ARC [1]. Lower scores resemble SuperAgers, while higher scores resemble individuals with Alzheimer's disease [1]."
+   },
+   {
+    "h": "Predicting Future Decline",
+    "t": "When applied to 1,315 adults with no initial impairment, higher ARC scores predicted faster decline in memory and daily functioning over several years [1]."
+   }
+  ],
+  "why": "Understanding cutting-edge health analytics and early brain biomarkers helps you stay informed on longevity and proactive wellness science.",
+  "tryit": "Read the full study published in Science Advances to learn more about how computational neuroscience evaluates resting brain networks [1].",
+  "qa": [
+   [
+    "What is a SuperAger?",
+    "SuperAgers are adults aged at least 75 who score better on memory tests than is typical for middle-aged adults [1]."
+   ],
+   [
+    "What does the ARC score measure?",
+    "The ARC score summarizes whether an individual's brain connectivity resembles that of SuperAgers or individuals with Alzheimer's disease [1]."
+   ],
+   [
+    "How was brain activity tracked?",
+    "Researchers used functional MRI scans to track changes in blood oxygen as an indirect measure of brain activity [1]."
+   ],
+   [
+    "Did protein buildup differ between groups?",
+    "Amyloid beta accumulated faster in people with more Alzheimer's-like scans, but researchers found no clear difference in the buildup of tau [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/stanford-scientists-discover-resting-brain-activity-may-predict-alzheimers-years-before-memory-decline",
+    "status": 200,
+    "title": "Stanford Scientists Discover Resting Brain Activity May Predict Alzheimer's Years Before Memory Decline",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T10:00:00Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/stanford-scientists-use-brain-scans-to-predict-a.mp3",
+  "image": {
+   "src": "img/stanford-scientists-use-brain-scans-to-predict-a.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/stanford-scientists-discover-resting-brain-activity-may-predict-alzheimers-years-before-memory-decline",
+   "from_url": "https://www.sciencealert.com/images/2026/11/MRIscanner-1200x675.png"
+  }
+ },
+ {
+  "id": "export-banned-nvidia-chips-fuel-china-s-leading",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "economics"
+  ],
+  "title": "Export-Banned Nvidia Chips Fuel China's Leading AI Models Amid Scandal",
+  "snippet": "New research shows that China's top open-weight AI models bear the fingerprints of training on Nvidia chips restricted by the U.S. government. Meanwhile, Nvidia CEO Jensen Huang has left the company following an affair with an executive of a firm implicated in smuggling chips.",
+  "bullets": [
+   "Leading open-weight models from Chinese companies like DeepSeek and Moonshot were trained on restricted Nvidia chips [1].",
+   "Nvidia CEO Jensen Huang left the company after admitting to an affair with Alice Huang, executive of chip-smuggling firm Megaspeed [1].",
+   "Epoch AI estimates that about two million advanced chips entered China in 2024 and 2025 through schemes hiding their destination [1]."
+  ],
+  "report": [
+   {
+    "h": "Restricted Chips Found",
+    "t": "Research analyzing the unique structures of large language models from Chinese labs found evidence of training on Blackwell GPUs [1]. U.S. export controls are designed to protect American leadership in AI capabilities by restricting these chips [1]."
+   },
+   {
+    "h": "Executive Departure",
+    "t": "Nvidia CEO Jensen Huang left the company after admitting to his affair with Alice Huang, an executive of Megaspeed [1]. Megaspeed has been implicated in smuggling Nvidia chips into China and is linked to Chinese intelligence [1]."
+   },
+   {
+    "h": "Global Supply Routes",
+    "t": "Data estimates that hundreds of thousands of AI accelerators were imported to Malaysia or stockpiled in Hong Kong [1]. Offshore data centers have served as a popular method for Chinese firms to access compute power [1]."
+   }
+  ],
+  "why": "Understanding how global tech hardware and AI capabilities shift across borders helps you spot emerging trends in computing power and market opportunities.",
+  "tryit": "Review your AI infrastructure strategy today to see how open-weight models might fit into your current business or automation workflows.",
+  "qa": [
+   [
+    "Which chips were used to train Chinese AI models?",
+    "Research found evidence of training on restricted Nvidia Blackwell chips [1]."
+   ],
+   [
+    "Why did Jensen Huang leave Nvidia?",
+    "He left the company after admitting to an affair with Alice Huang, an executive of a firm implicated in chip smuggling [1]."
+   ],
+   [
+    "How many advanced chips entered China in 2024 and 2025?",
+    "Epoch AI estimates that about two million advanced chips entered China during those years [1]."
+   ],
+   [
+    "What role does Malaysia play in the supply chain?",
+    "Epoch data estimates that 275,000 Nvidia AI accelerators were imported to Malaysia in 2024 and 2025 to access compute power [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "status": 200,
+    "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen! | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T18:40:30Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/export-banned-nvidia-chips-fuel-china-s-leading.mp3",
+  "image": {
+   "src": "img/export-banned-nvidia-chips-fuel-china-s-leading.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795"
+  }
+ },
+ {
+  "id": "testing-anthropic-s-claude-duet-ai-agent-for-wor",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "agents",
+   "productivity",
+   "business",
+   "work"
+  ],
+  "title": "Testing Anthropic's Claude Duet AI Agent For Work Tasks",
+  "snippet": "Claude Duet is Anthropic's consumer AI agent designed to help non-coders manage productivity apps, emails, calendars, and schedules. It acts as an eager personal assistant, connecting data across different tools to surface helpful reminders and schedule clashes.",
+  "bullets": [
+   "Claude Duet is Anthropic's consumer-focused AI agent that integrates with productivity tools and chat services [1].",
+   "The app uses a minimalist design where users can swipe left or right on suggestion cards, similar to a to-do list Tinder [1].",
+   "It connects data across email, calendars, Google Docs, and Slack to spot scheduling conflicts and draft messages [1]."
+  ],
+  "report": [
+   {
+    "h": "Consumer Agent Design",
+    "t": "Duet features a cheery, minimalist app design supporting the iPhone Duo and offers suggestions via swipeable cards [1]. Users can connect their work email, calendar, Google Docs, and Slack to feed the assistant context [1]."
+   },
+   {
+    "h": "Proactive Yet Jumpy",
+    "t": "The agent greets you each morning with highlights and reminders, such as packing items for a video shoot [1]. However, it can sometimes lack nuance, occasionally panicking over deadlines across different time zones [1]."
+   },
+   {
+    "h": "Connecting The Dots",
+    "t": "Duet shines by bridging gaps between fragmented communication channels like email threads, meeting notes, and direct messages [1]. It successfully spots overlooked scheduling discrepancies and proposes practical solutions to keep projects on track [1]."
+   }
+  ],
+  "why": "It shows how consumer AI agents can act as an organizational backstop for managing complex work schedules and communications.",
+  "tryit": "Connect your productivity tools to an AI agent app to test proactive daily summaries and flag calendar clashes.",
+  "qa": [
+   [
+    "What apps can Claude Duet connect to?",
+    "It connects to work email, calendars, Google Docs, and Slack [1]."
+   ],
+   [
+    "How does the Duet app present suggestions?",
+    "It suggests to-dos and cards that you can swipe left or right to hide or accept [1]."
+   ],
+   [
+    "What is Duet particularly good at doing?",
+    "It is good at finding overlooked discrepancies between emails, DMs, meetings, and shared docs [1]."
+   ],
+   [
+    "Does Duet handle creative writing well?",
+    "The reviewer preferred not to use it for starting drafts or creative work, wanting to find their own way into a topic [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+    "status": 200,
+    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+    "domain": "theverge.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T14:00:00Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/testing-anthropic-s-claude-duet-ai-agent-for-wor.mp3",
+  "image": {
+   "src": "img/testing-anthropic-s-claude-duet-ai-agent-for-wor.jpg",
+   "credit": "The Verge",
+   "license": "© The Verge, shown with credit",
+   "page": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+  }
+ },
+ {
+  "id": "scientists-discover-a-98-million-year-old-leaf-m",
+  "cat": "news",
+  "tags": [
+   "science",
+   "evolution",
+   "animals",
+   "history"
+  ],
+  "title": "Scientists Discover A 98-Million-Year-Old Leaf-Mimicking Mantis In Amber",
+  "snippet": "A prehistoric praying mantis trapped in amber reveals the earliest clear fossil evidence of an insect mimicking plant leaves. Named Folimantis hyalinala, the ancient creature mirrors the extinct plant Selaginella grimaldii.",
+  "bullets": [
+   "A tropical rainforest in what is now Myanmar entombed a praying mantis in tree resin 98 million years ago [1].",
+   "Scientists named the new insect species Folimantis hyalinala in a paper published in the journal New Phytologist [1].",
+   "The prehistoric specimen shows leaves only on its abdomen, suggesting plant mimicry began first at the rear [1]."
+  ],
+  "report": [
+   {
+    "h": "Ancient Leaf Mimicry",
+    "t": "A rare praying mantis fossil trapped in amber provides the earliest clear evidence of insects mimicking plant leaves [1]. The specimen dates back 98 million years to the mid-Cretaceous period in what is now Myanmar [1]."
+   },
+   {
+    "h": "Unique Body Design",
+    "t": "Researchers named the insect Folimantis hyalinala, with the species name referring to its glass-like transparent wings [1]. Its abdomen bears an uncanny resemblance to an extinct plant known as Selaginella grimaldii [1]."
+   },
+   {
+    "h": "Evolutionary Toolkit",
+    "t": "Modern plant-mimicking mantises often display foliar features across their entire bodies, but this ancient insect features leaves only on its abdomen [1]. This points to plant mimicry starting at the rear, with other modifications developing later [1]."
+   }
+  ],
+  "why": "Fascinating natural history discoveries offer a brilliant, grounding mental break to spark curiosity and wonder during a busy day.",
+  "tryit": "Search online for high-resolution images of the orchid mantis or Folimantis hyalinala to explore how prehistoric and modern insects evolved complex camouflage.",
+  "qa": [
+   [
+    "How old is the fossil mantis?",
+    "The fossil mantis is 98 million years old [1]."
+   ],
+   [
+    "What is the name of the newly discovered mantis?",
+    "It is named Folimantis hyalinala [1]."
+   ],
+   [
+    "What plant does the ancient mantis resemble?",
+    "Its abdomen resembles the extinct plant Selaginella grimaldii [1]."
+   ],
+   [
+    "Where was the amber specimen acquired?",
+    "It was acquired in 2015 by a collector named Fangyuan Xia [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/scientists-discover-a-98-million-year-old-mantis-with-leaves-on-its-abdomen-trapped-in-amber",
+    "status": 200,
+    "title": "Scientists Discover a 98-Million-Year-Old Mantis With 'Leaves' on Its Abdomen, Trapped in Amber",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T02:00:00Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/scientists-discover-a-98-million-year-old-leaf-m.mp3",
+  "image": {
+   "src": "img/scientists-discover-a-98-million-year-old-leaf-m.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/scientists-discover-a-98-million-year-old-mantis-with-leaves-on-its-abdomen-trapped-in-amber",
+   "from_url": "https://www.sciencealert.com/images/2026/11/Copy-of-Template-for-CMS-Cover-Image-2560-x-1440-2560x1440-1.jpg"
+  }
+ },
+ {
+  "id": "nvidia-ceo-jensen-huang-resigns-amid-security-pr",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money"
+  ],
+  "title": "Nvidia CEO Jensen Huang resigns amid security probe and investigations",
+  "snippet": "Nvidia co-founder Jensen Huang resigned following reports of extramarital affairs and security concerns involving a suspected foreign intelligence operative. The company appointed CFO Colette Kress as interim CEO while Congress launches formal investigations.",
+  "bullets": [
+   "Jensen Huang admitted to infidelity and surrendered his role as CEO of Nvidia after 33 years [1].",
+   "U.S. officials investigated Megaspeed executive Alice Huang over suspicions of sharing chip intelligence with Beijing [1].",
+   "Nvidia CFO Colette Kress took over as interim CEO while the board searches for a permanent successor [1]."
+  ],
+  "report": [
+   {
+    "h": "Leadership Shocker at Nvidia",
+    "t": "Nvidia co-founder Jensen Huang stepped down from his role after admitting to affairs and facing intense government scrutiny [1]. The sudden departure leaves the chip giant navigating high-stakes political and corporate pressures [1]."
+   },
+   {
+    "h": "National Security and Chips",
+    "t": "Federal investigators probed Singapore-based firm Megaspeed over allegations of illegally routing advanced tech to China [1]. Congressional committees have summoned key leaders to testify regarding export controls and national security risks [1]."
+   },
+   {
+    "h": "Transition to New Leadership",
+    "t": "Nvidia appointed current CFO Colette Kress as interim CEO to steer operations during the leadership crisis [1]. Former Synopsys CEO Harvey C. Jones stepped in as the company's first-ever chair of the board [1]."
+   }
+  ],
+  "why": "Understanding major shifts in tech infrastructure giants helps you keep a pulse on the hardware market driving the artificial intelligence boom.",
+  "tryit": "Review your portfolio or business software dependencies to stay informed on how major hardware shifts impact cloud infrastructure costs.",
+  "qa": [
+   [
+    "Who took over as interim CEO of Nvidia?",
+    "Current CFO Colette Kress took over as interim CEO while Nvidia conducts a larger search for a permanent successor [1]."
+   ],
+   [
+    "When did Jensen Huang resign?",
+    "Huang resigned on Wednesday, November 12, 2026 [1]."
+   ],
+   [
+    "Who was appointed as the board chair?",
+    "Harvey C. Jones was appointed as the company's first-ever chair of the board of directors [1]."
+   ],
+   [
+    "What company was investigated over export concerns?",
+    "Singapore-based AI infrastructure company Megaspeed was investigated over suspicions of sharing chips with China [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "status": 200,
+    "title": "The unfolding Jensen Huang scandal: a timeline | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T15:58:00Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/nvidia-ceo-jensen-huang-resigns-amid-security-pr.mp3",
+  "image": {
+   "src": "img/nvidia-ceo-jensen-huang-resigns-amid-security-pr.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+  }
+ },
+ {
+  "id": "build-and-market-an-app-solo-using-ai-tools-and",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "marketing",
+   "agents"
+  ],
+  "title": "Build and market an app solo using AI tools and chatbots",
+  "snippet": "A former growth director shares how he replaced a large developer team with AI tools to launch a new product. He used a chatbot to run analysis, generate ad ideas, and scale his startup efficiently.",
+  "bullets": [
+   "The creator spent about $1,700 on Meta ads in the first month for his app RunInk [1].",
+   "An ad set needs about 50 optimization events a week to exit its learning phase [1].",
+   "Out of 16 survey respondents, 11 stated that the free digital file was sufficient for them [1]."
+  ],
+  "report": [
+   {
+    "h": "AI replaces large teams",
+    "t": "Tasks that once required dozens of developers and a large marketing team can now be managed solo using AI chatbots [1]. Complex data analyses and SQL queries are replaced by simple chatbot prompts [1]."
+   },
+   {
+    "h": "Breaking down funnels",
+    "t": "Starting from zero means ad platforms lack the data needed for machine learning [1]. Breaking the sales funnel into smaller steps like account creation or exports helps assign monetary values and tune the ad spend [1]."
+   },
+   {
+    "h": "Listening to early users",
+    "t": "Getting the first 100 users allows founders to survey customers and discover what they actually want to buy [1]. Customer feedback revealed that a digital product offering quickly became the top seller [1]."
+   }
+  ],
+  "why": "Why it matters to you: You can leverage AI agents and tools to handle heavy technical marketing and business tasks solo, saving you money and scaling your reach.",
+  "tryit": "Try this today: Use an AI chatbot to generate multiple visual variants and ad creative ideas for a project you are testing, treating the AI like an intern by double-checking its logic.",
+  "qa": [
+   [
+    "What is RunInk?",
+    "RunInk is an app that turns your running routes into posters [1]."
+   ],
+   [
+    "How much was spent on Meta ads in the first month?",
+    "About $1,700 was spent on Meta ads in the first month [1]."
+   ],
+   [
+    "How many optimization events does an ad set need a week?",
+    "An ad set needs about 50 optimization events a week to get out of its learning phase [1]."
+   ],
+   [
+    "What product change boosted sales?",
+    "Offering a digital product became the best seller after surveying customers [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/building-a-business/what-i-learned-spending-thousands-on-meta-ads-to-launch-a-new-product",
+    "status": 200,
+    "title": "What I Learned Spending Thousands on Meta Ads to Launch a New Product",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T18:00:00Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/build-and-market-an-app-solo-using-ai-tools-and.mp3",
+  "image": {
+   "src": "img/build-and-market-an-app-solo-using-ai-tools-and.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/building-a-business/what-i-learned-spending-thousands-on-meta-ads-to-launch-a-new-product",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/meta-ads-ai-1126_g2288601122.jpg"
+  }
+ },
+ {
+  "id": "how-warmer-summer-bedroom-temperatures-quietly-d",
+  "cat": "adhd",
+  "tags": [
+   "adhd",
+   "focus",
+   "health",
+   "science",
+   "psychology"
+  ],
+  "title": "How warmer summer bedroom temperatures quietly drain your next-day focus",
+  "snippet": "New research tracked adults at home and found that nights warmer than a person's usual bedroom average are linked to poorer sleep quality and slight dips in daytime focus.",
+  "bullets": [
+   "Researchers combined bedroom air monitors, wearable sleep rings, and smartwatch check-ins over several weeks [1].",
+   "When a bedroom was warmer than a person's usual average, objective sleep scores dropped by about half a point per degree Celsius [1].",
+   "Warmer bedroom nights also predicted slightly lower self-reported focus and productivity the next day [1]."
+  ],
+  "report": [
+   {
+    "h": "Tracking Sleep and Heat",
+    "t": "Scientists tracked adults in Austria during the summer using bed-height air monitors, sleep rings, and smartwatch prompts to measure daily focus [1]."
+   },
+   {
+    "h": "The Cost of Warm Nights",
+    "t": "Nights that were warmer than an individual's personal average corresponded with more restless sleep periods and shorter REM sleep [1]."
+   },
+   {
+    "h": "Small Dips in Focus",
+    "t": "Sleeping in a warmer room predicted slightly lower self-reported focus and productivity on the following day [1]."
+   }
+  ],
+  "why": "Managing focus and cognitive energy is vital when living with ADHD, and minor environmental tweaks like cooling your room can support better daily mental stamina.",
+  "tryit": "Check your bedroom environment tonight and try setting up a fan or adjusting your window ventilation to keep your sleeping space closer to your personal comfort baseline.",
+  "qa": [
+   [
+    "What equipment did the researchers use to track participants?",
+    "They used air monitors, wearable sleep rings, and smartwatches [1]."
+   ],
+   [
+    "How much did sleep scores drop per degree of extra heat?",
+    "Objective sleep scores showed a small drop of about half a point on the 100-point scale per additional degree Celsius [1]."
+   ],
+   [
+    "What specific sleep stages were affected by warmer nights?",
+    "Warmer bedroom nights corresponded with more restless periods and shorter REM sleep [1]."
+   ],
+   [
+    "Did humidity affect sleep quality in this study?",
+    "Day-to-day shifts in bedroom humidity were not statistically significant for sleep quality or next-day productivity [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/bedroom-temperature-may-be-a-hidden-drag-on-productivity-study-suggests/",
+    "status": 200,
+    "title": "Bedroom temperature may be a hidden drag on productivity, study suggests",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T01:00:35Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/how-warmer-summer-bedroom-temperatures-quietly-d.mp3",
+  "image": {
+   "src": "img/how-warmer-summer-bedroom-temperatures-quietly-d.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/bedroom-temperature-may-be-a-hidden-drag-on-productivity-study-suggests/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/woman-in-hot-bedroom.jpg"
+  }
+ },
+ {
+  "id": "first-dates-star-william-laven-finds-happiness-a",
+  "cat": "mind",
+  "tags": [
+   "mind",
+   "psychology",
+   "relationships",
+   "self-compassion"
+  ],
+  "title": "First Dates star William Laven finds happiness after embracing his true self",
+  "snippet": "William Laven reflects on his journey of coming out as gay, returning to television for love, and letting go of self-criticism.",
+  "bullets": [
+   "William Laven returned to the Channel 4 show First Dates after coming out as gay to search for a husband [1].",
+   "Although his date with Jamie did not lead to romance, the pair stayed in touch and remain friends [1].",
+   "Laven realized that people do not view him the same way he judges himself, helping him stop worrying about what others think [1]."
+  ],
+  "report": [
+   {
+    "h": "A Second Chance",
+    "t": "William Laven first appeared on the show in 2024 to find a wife, but returned on 11 November for a second shot at love after coming out as gay [1]. He was paired with Jamie, and despite a fun conversation, the romantic spark was not quite there [1]."
+   },
+   {
+    "h": "Remaining Friends",
+    "t": "Laven noted that while the match did not turn into a relationship, they have stayed in touch and are still friends [1]. He explained that meeting someone lovely does not mean a date was bad just because you are not right for each other [1]."
+   },
+   {
+    "h": "Changing Outlook",
+    "t": "The experience helped Laven stop worrying about his stammer and how he spoke, realizing he used to pre-judge how things would go [1]. He is now much happier and no longer feels the need to compare himself to everyone else [1]."
+   }
+  ],
+  "why": "This shows how letting go of harsh self-judgment and timelines can bring peace and make dating much more enjoyable.",
+  "tryit": "Reflect on one personal expectation or timeline you have for yourself, and write down a kind alternative that honors your own unique pace.",
+  "qa": [
+   [
+    "When did William Laven first appear on First Dates?",
+    "He first appeared on the show in 2024 to find a wife [1]."
+   ],
+   [
+    "Who was William paired with in the November episode?",
+    "He was paired with Jamie [1]."
+   ],
+   [
+    "Did William and Jamie stay in touch?",
+    "Yes, they have stayed in touch and are still friends [1]."
+   ],
+   [
+    "What major realization did Laven have about how others view him?",
+    "He realized that people do not see him in the same way he sees himself [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.thepinknews.com/2026/11/12/channel-4-first-dates-william-jamie-coming-out-gay/",
+    "status": 200,
+    "title": "Gay First Dates star William didn't find love – but is 'much happier'",
+    "domain": "thepinknews.com"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T14:52:33Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/first-dates-star-william-laven-finds-happiness-a.mp3",
+  "image": {
+   "src": "img/first-dates-star-william-laven-finds-happiness-a.jpg",
+   "credit": "PinkNews",
+   "license": "© PinkNews, shown with credit",
+   "page": "https://www.thepinknews.com/2026/11/12/channel-4-first-dates-william-jamie-coming-out-gay/",
+   "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/first-dates-william-2026.jpg"
+  }
+ },
+ {
+  "id": "lost-handwritten-draft-of-dr-king-s-famous-speec",
+  "cat": "news",
+  "tags": [
+   "history",
+   "news"
+  ],
+  "title": "Lost Handwritten Draft of Dr. King's Famous Speech Resurfaces After Decades",
+  "snippet": "A handwritten draft of the famous speech by Martin Luther King Jr. has resurfaced in a desk drawer after six decades. The historic manuscript features heavy revisions and will go on public display before being auctioned for charity.",
+  "bullets": [
+   "A handwritten draft of the famous speech by Martin Luther King Jr. was found in a desk drawer [1].",
+   "Xernona Clayton discovered the seven yellow pages in her husband's desk drawer in the 1990s [1].",
+   "The manuscript will be put up for auction at Christie's for the benefit of several charities [1]."
+  ],
+  "report": [
+   {
+    "h": "Lost Manuscript Found",
+    "t": "A handwritten draft of the famous speech by Martin Luther King Jr. has resurfaced after six decades [1]. Xernona Clayton found the document in her deceased husband's desk drawer in the 1990s inside an envelope marked Speech [1]."
+   },
+   {
+    "h": "Heavy Revisions",
+    "t": "The relic consists of seven yellow pages covered in blue ink with frequent crossings out and replacements [1]. This rare look into his writing process captures the immense pressure he faced while preparing the address [1]."
+   },
+   {
+    "h": "Public Display and Sale",
+    "t": "Christie's will handle the sale of the document on January 22nd, 2027 [1]. Before the auction, the manuscript will go on public view in Atlanta, Chicago, and New York City [1]."
+   }
+  ],
+  "why": "It is a fascinating historical discovery that offers a rare glimpse into the creative process behind one of the most important speeches in modern history.",
+  "tryit": "Visit the National Center for Civil and Human Rights in Atlanta on Monday to see the historic draft on public display.",
+  "qa": [
+   [
+    "Where was the draft found?",
+    "It was found in a desk drawer by Xernona Clayton in the 1990s [1]."
+   ],
+   [
+    "How many pages is the manuscript?",
+    "The relic consists of seven yellow pages covered in blue ink [1]."
+   ],
+   [
+    "When is the auction scheduled?",
+    "Christie's will handle the sale of the document on January 22nd, 2027 [1]."
+   ],
+   [
+    "Which charities benefit from the sale?",
+    "Proceeds will benefit several charities, including the King Center in Atlanta [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/",
+    "status": 200,
+    "title": "Dr. King’s Lost Draft of ‘I Have a Dream’ Emerges from a Desk Drawer",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T19:30:02Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/lost-handwritten-draft-of-dr-king-s-famous-speec.mp3",
+  "image": {
+   "src": "img/lost-handwritten-draft-of-dr-king-s-famous-speec.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Christies-released-1.jpg"
+  }
+ },
+ {
+  "id": "new-documentary-highlights-global-efforts-to-pro",
+  "cat": "news",
+  "tags": [
+   "science",
+   "animals",
+   "news"
+  ],
+  "title": "New Documentary Highlights Global Efforts to Protect Our Oceans",
+  "snippet": "A new National Geographic documentary explores how scientists and local communities are racing to document and protect marine habitats around the globe [1].",
+  "bullets": [
+   "The documentary Expedition: Saving Our Seas premieres November 13 on the National Geographic Channel and streams on Disney+ and Hulu [1].",
+   "Researchers discovered the world's southernmost hydrothermal vent in the Southern Ocean, surrounded by swarms of pregnant female krill [1].",
+   "Organizations like the Ocean Discovery League are developing inexpensive technologies like the DORIS camera system to democratize deep sea access [1]."
+  ],
+  "report": [
+   {
+    "h": "Global Ocean Systems",
+    "t": "The film explores five oceans linked by a global system of currents known as the Great Ocean Conveyor Belt [1]. This giant connected ocean ignores political boundaries and names [1]."
+   },
+   {
+    "h": "Southern Ocean Vent",
+    "t": "Using a remotely-operated vehicle called SuBastian, researchers found a large black smoker hydrothermal vent [1]. This discovery helps support the case for creating a marine protected area [1]."
+   },
+   {
+    "h": "Local Communities Lead",
+    "t": "Projects highlight how local communities are defining research questions and taking ownership of studies in their own waters [1]. Groups like the GREAT Institute recruit young local scientists to help conduct research [1]."
+   }
+  ],
+  "why": "It shows how innovative, low-cost tools and community-led science are creating practical solutions for global challenges.",
+  "tryit": "Watch Expedition: Saving Our Seas when it premieres on November 13 on the National Geographic Channel or stream it on Disney+ and Hulu.",
+  "qa": [
+   [
+    "When does Expedition: Saving Our Seas premiere?",
+    "It premieres November 13 on the National Geographic Channel at 9pm EST and streams the next day on Disney+ and Hulu [1]."
+   ],
+   [
+    "What did Andrew Thurber and his colleagues discover?",
+    "They discovered a large black smoker, which is the southernmost hydrothermal vent ever found [1]."
+   ],
+   [
+    "What is DORIS?",
+    "DORIS is a hardy little camera and sensor system developed by the Ocean Discovery League that can descend to 6,000 meters and costs less than $10,000 [1]."
+   ],
+   [
+    "Who founded the GREAT Institute?",
+    "Marine ecologist Maiyai Taal Hocheimy founded the GREAT Institute in 2017 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencenews.org/article/nat-geo-saving-our-seas-documentary",
+    "status": 200,
+    "title": "In National Geographic’s Expedition: Saving Our Seas, it’s all hands on deck",
+    "domain": "sciencenews.org"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T19:00:00Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/new-documentary-highlights-global-efforts-to-pro.mp3",
+  "image": {
+   "src": "img/new-documentary-highlights-global-efforts-to-pro.jpg",
+   "credit": "Science News",
+   "license": "© Science News, shown with credit",
+   "page": "https://www.sciencenews.org/article/nat-geo-saving-our-seas-documentary",
+   "from_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/ExpeditionSavingOurSeas_MM10514_260216_01298.jpg"
+  }
+ },
+ {
+  "id": "author-barbara-kingsolver-on-self-reliance-readi",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "mind",
+   "reading",
+   "habits"
+  ],
+  "title": "Author Barbara Kingsolver on self-reliance, reading early, and coping with long meetings",
+  "snippet": "Award-winning author Barbara Kingsolver shares insights on her early reading habits, dealing with tedious meetings through knitting, and her perspective on love.",
+  "bullets": [
+   "Barbara Kingsolver taught herself to read at age three by sounding out letters from her father's newspaper [1].",
+   "She uses knitting during long-winded meetings as a practical way to manage grumbling impatience and waste of time [1].",
+   "She founded the Higher Ground Women's Recovery Residence in Lee County, Virginia [1]."
+  ],
+  "report": [
+   {
+    "h": "Early Self-Reliance",
+    "t": "Barbara Kingsolver taught herself to read at age three by staring with fierce intention at her father's newspaper until the first word broke into her brain [1]. Her earliest memory highlights a lifelong drive for curiosity and independent learning [1]."
+   },
+   {
+    "h": "Managing Impatience",
+    "t": "To cope with grumbling impatience during long-winded meetings, she holds her tongue and knits furiously to produce a pair of socks [1]. This transforms a frustrating use of time into a productive, tangible activity [1]."
+   },
+   {
+    "h": "Creative Journey",
+    "t": "Born in Maryland, she won a music scholarship and worked as a journalist before publishing her first novel in 1988 [1]. Her acclaimed work includes Demon Copperhead, which won the Pulitzer prize [1]."
+   }
+  ],
+  "why": "It is a fascinating look into the mind of a celebrated writer who channels her impatience into creative craft and values personal accountability.",
+  "tryit": "Pick up a hands-on craft like knitting or sketching to keep your hands busy during long calls or meetings where your attention tends to wander.",
+  "qa": [
+   [
+    "When did Barbara Kingsolver teach herself to read?",
+    "She taught herself to read at age three by sounding out letters from her father's newspaper [1]."
+   ],
+   [
+    "What does she do during long meetings?",
+    "She knits furiously so she can leave the meeting with a pair of socks [1]."
+   ],
+   [
+    "Which of her novels won the Pulitzer?",
+    "Demon Copperhead won the Pulitzer, the James Tait Black prize and the Women's prize for fiction [1]."
+   ],
+   [
+    "Where was the Higher Ground Women's Recovery Residence founded?",
+    "It was founded in Lee County, Virginia [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/lifeandstyle/2026/nov/14/barbara-kingsolver-author-demon-copperhead-partita",
+    "status": 200,
+    "title": "Barbara Kingsolver: ‘What does love feel like? At 16, breaking the speed limit. Years later, a warm bath’",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T10:00:42Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/author-barbara-kingsolver-on-self-reliance-readi.mp3",
+  "image": {
+   "src": "img/author-barbara-kingsolver-on-self-reliance-readi.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/lifeandstyle/2026/nov/14/barbara-kingsolver-author-demon-copperhead-partita",
+   "from_url": "https://i.guim.co.uk/img/media/81cb6b56d0a1bf88c0b115336080e55c589e5210/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99ee69df8128caeb60ebd5963e87384b"
+  }
+ },
+ {
+  "id": "how-to-track-flight-statuses-fast-after-nationwi",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "ai",
+   "business"
+  ],
+  "title": "How to Track Flight Statuses Fast After Nationwide Ground Stops",
+  "snippet": "Discover the best tools to track flight statuses after the Federal Aviation Administration ended a nationwide ground stop for all airports.",
+  "bullets": [
+   "The Federal Aviation Administration announced it has ended the nationwide ground stop for all U.S. airports [1].",
+   "If you have the flight number, searching on Google or using your iPhone Spotlight search provides a live tracker [1].",
+   "You can also use dedicated sites like FlightAware to search flights if you know the origin and the destination [1]."
+  ],
+  "report": [
+   {
+    "h": "Ending the Ground Stop",
+    "t": "The Federal Aviation Administration announced it has ended the ground stop for all airports [1]. The nationwide ground stop was ordered following communication issues impacting multiple Air Route Traffic Control Centers [1]."
+   },
+   {
+    "h": "Tracking With Flight Numbers",
+    "t": "If you have the flight number, the fastest method is to Google it for a live tracker [1]. You can also enter your flight number into iPhone Spotlight search or text it to a contact to view a tracker [1]."
+   },
+   {
+    "h": "Using Airline and Third-Party Sites",
+    "t": "You can head to the airline's official website to use their flight tracker tool [1]. Alternatively, you can use FlightAware to search flights if you know the origin and the destination [1]."
+   }
+  ],
+  "why": "This matters if you are tracking international travel connections or planning US trips for business or leisure.",
+  "tryit": "Search your flight number directly in Google or use iPhone Spotlight search to check live status updates today.",
+  "qa": [
+   [
+    "What did the FAA announce?",
+    "The Federal Aviation Administration announced it has ended the ground stop [1]."
+   ],
+   [
+    "What is the fastest way to track a flight with a number?",
+    "The fastest method is to Google it, which displays a live tracker of your flight at the top of the results page [1]."
+   ],
+   [
+    "How can you use an iPhone to track a flight?",
+    "You can enter your flight number into Spotlight search or text a contact your flight number and tap the link [1]."
+   ],
+   [
+    "What third-party site can you use?",
+    "FlightAware has a flight tracker that lets you search flights if you know the origin and the destination [1]."
+   ],
+   [
+    "Why was the ground stop ordered?",
+    "The FAA issued it following communication issues impacting multiple Air Route Traffic Control Centers [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://lifehacker.com/tech/how-to-check-your-flight-status-faa-ground-stop",
+    "status": 200,
+    "title": "How to Check Your Flight Status After the FAA Canceled the Ground Stop for All Airports",
+    "domain": "lifehacker.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T01:41:52Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/how-to-track-flight-statuses-fast-after-nationwi.mp3",
+  "image": {
+   "src": "img/how-to-track-flight-statuses-fast-after-nationwi.jpg",
+   "credit": "Lifehacker",
+   "license": "© Lifehacker, shown with credit",
+   "page": "https://lifehacker.com/tech/how-to-check-your-flight-status-faa-ground-stop",
+   "from_url": "https://lifehacker.com/imagery/articles/01M7BE8Q8NVPPMAYDSMTTXET1T/hero-image.fill.size_1200x675.jpg"
+  }
+ },
+ {
+  "id": "new-psychology-study-reveals-how-social-media-sh",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "relationships",
+   "self-compassion",
+   "mind"
+  ],
+  "title": "New psychology study reveals how social media shapes our romantic expectations",
+  "snippet": "A recent study of young women explores how traditional and social media shape romantic beliefs like soulmates and ideal partners. Participants noted that curated online portrayals can trigger self-doubt, even when recognized as unrealistic [1].",
+  "bullets": [
+   "A qualitative study examined romantic beliefs among twenty undergraduate women in Turkey [1].",
+   "The belief in a single destined soulmate received the strongest endorsement among participants [1].",
+   "Participants reported that seeing curated couple posts online often led to self-comparison and questioning [1]."
+  ],
+  "report": [
+   {
+    "h": "Exploring romantic beliefs",
+    "t": "Researchers conducted in-depth interviews with twenty female university students to understand their views on romance [1]. The study focused on four common beliefs including soulmates, idealization, love conquering all, and love at first sight [1]."
+   },
+   {
+    "h": "Media influence and doubt",
+    "t": "Participants viewed social media and television as constant sources of idealized romantic narratives [1]. Even when individuals recognized these online portrayals as artificial, many still experienced moments of self-doubt [1]."
+   },
+   {
+    "h": "Study limitations",
+    "t": "The author noted that the small sample size means results cannot be generalized to everyone [1]. Future research with larger and more diverse groups is needed to better understand these patterns [1]."
+   }
+  ],
+  "why": "Understanding how media subtly influences our relationship expectations helps us practice self-compassion when comparing our lives to curated online feeds [1].",
+  "tryit": "Notice when social media content triggers thoughts of inadequacy and take a mindful pause to separate your real-life relationships from online highlights [1].",
+  "qa": [
+   [
+    "How many participants were in the study?",
+    "The qualitative study involved 20 undergraduate women at a university in Turkey [1]."
+   ],
+   [
+    "Which romantic belief was most endorsed?",
+    "The \"one and only\" belief regarding a destined soulmate received the strongest endorsement [1]."
+   ],
+   [
+    "Did participants think social media was realistic?",
+    "Most participants viewed relationships portrayed on social media as artificial and unrealistic [1]."
+   ],
+   [
+    "Who authored the study?",
+    "The paper was authored by Gökçe Sancak Aydın of Yozgat Bozok University [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/young-women-widely-believe-that-each-person-has-a-single-ideal-romantic-partner-destined-for-them-turkish-study-finds/",
+    "status": 200,
+    "title": "Young women widely believe that each person has a single ideal romantic partner destined for them, Turkish study finds",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T01:00:27Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/new-psychology-study-reveals-how-social-media-sh.mp3",
+  "image": {
+   "src": "img/new-psychology-study-reveals-how-social-media-sh.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/young-women-widely-believe-that-each-person-has-a-single-ideal-romantic-partner-destined-for-them-turkish-study-finds/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/09/young-woman-brunette.jpg"
+  }
+ },
+ {
+  "id": "discover-which-us-states-rank-as-the-most-and-le",
+  "cat": "news",
+  "tags": [
+   "science",
+   "travel"
+  ],
+  "title": "Discover which US states rank as the most and least superstitious",
+  "snippet": "Duel.com analysed online searches to rank US states by how superstitious they are, revealing surprising regional trends from New England to the West.",
+  "bullets": [
+   "Rhode Island topped the list as the most superstitious state with over 9,000 superstitious searches per 100,000 residents [1].",
+   "New York secured second place by leading the country in searches for psychics [1].",
+   "Idaho ranked as the least superstitious state in the country with the fewest horoscope searches [1]."
+  ],
+  "report": [
+   {
+    "h": "New England Leads",
+    "t": "New England takes up four of the top six most superstitious states in the ranking [1]. Rhode Island took first place, driven largely by high volumes of horoscope searches [1]."
+   },
+   {
+    "h": "Astrology and Psychics",
+    "t": "Rhode Island residents look up horoscopes at a rate of about 1 in every 14 people [1]. Meanwhile, New York recorded almost 600 searches per 100,000 residents for psychics [1]."
+   },
+   {
+    "h": "Western States Rank Low",
+    "t": "Idaho ranked as the least superstitious state, featuring fewer than 3,000 searches per 100,000 residents [1]. North Dakota and Arkansas followed closely behind as some of the least superstitious areas [1]."
+   }
+  ],
+  "why": "It is a fascinating look at regional cultural habits and digital curiosity across different parts of the United States.",
+  "tryit": "Search online for Duel.com to read the full methodology and explore where other states landed on the superstitious index.",
+  "qa": [
+   [
+    "Which state is the most superstitious?",
+    "Rhode Island is ranked as the most superstitious state [1]."
+   ],
+   [
+    "Which state is the least superstitious?",
+    "Idaho is ranked as the least superstitious state [1]."
+   ],
+   [
+    "How many horoscope searches did Rhode Island have?",
+    "Rhode Island had more than 7,200 residents looking up their horoscopes [1]."
+   ],
+   [
+    "Which state searched for psychics the most?",
+    "New York looked up psychics more than any other state with almost 600 searches per 100,000 residents [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.mentalfloss.com/geography/states/most-least-superstitious-states-ranked",
+    "status": 200,
+    "title": "The MostâAnd LeastâSuperstitious States in America, Ranked",
+    "domain": "mentalfloss.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T21:00:00Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/discover-which-us-states-rank-as-the-most-and-le.mp3",
+  "image": {
+   "src": "img/discover-which-us-states-rank-as-the-most-and-le.jpg",
+   "credit": "Mental Floss",
+   "license": "© Mental Floss, shown with credit",
+   "page": "https://www.mentalfloss.com/geography/states/most-least-superstitious-states-ranked",
+   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_217,w_4288,h_2412/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m78n0zg7f33xj03yvb.jpg"
+  }
+ },
+ {
+  "id": "why-forced-smiling-makes-you-miserable-and-how-c",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "mind",
+   "negotiation",
+   "self-compassion"
+  ],
+  "title": "Why Forced Smiling Makes You Miserable And How Contentment Helps",
+  "snippet": "New research shows that forcing yourself to smile repeatedly under pressure or financial stakes can actually decrease happiness and cause irritation. Instead of manufacturing positivity, simply accepting contentment might offer better emotional well-being.",
+  "bullets": [
+   "A brief, intentional smile can provide a small emotional lift, but repeatedly putting on a smile under pressure can undermine happiness [1].",
+   "Researchers found that when participants had to smile repeatedly or felt financial pressure, their happiness ratings fell below normal levels [1].",
+   "Forced smiling under pressure was also associated with increased irritation and anger during tasks [1]."
+  ],
+  "report": [
+   {
+    "h": "The Smiling Experiment",
+    "t": "Researchers studied 1,174 people who were asked to smile while viewing images under different conditions [1]. Some participants faced financial penalties if they failed to follow smiling instructions [1]."
+   },
+   {
+    "h": "When Smiles Backfire",
+    "t": "A single deliberate smile gave moods a modest boost, but repeating the action 10 times under pressure erased the positive effect [1]. When viewing pleasant pictures, forced repeated smiling actually lowered happiness and increased irritation [1]."
+   },
+   {
+    "h": "The Value of Contentment",
+    "t": "Psychologist Nicholas Coles suggests that society places too much emphasis on manufacturing happiness [1]. He notes people might be better off placing greater value on simply being content [1]."
+   }
+  ],
+  "why": "Understanding how emotional labour and pressure impact your mood helps you practice self-compassion when work or negotiations drain your energy.",
+  "tryit": "Notice when you are masking or forcing positivity at work today, and allow yourself a quiet moment of neutral contentment instead.",
+  "qa": [
+   [
+    "Does smiling ever make you happier?",
+    "Yes, a brief and intentional smile can provide a small emotional lift [1]."
+   ],
+   [
+    "What happens when you smile repeatedly under pressure?",
+    "Repeated smiling combined with pressure or financial penalties can undermine happiness and increase irritation and anger [1]."
+   ],
+   [
+    "Who led the study?",
+    "The research was led by psychologist Nicholas Coles along with colleagues Annabel Dang and Joao Francisco Goes Braga Takayanagi [1]."
+   ],
+   [
+    "Where was the study published?",
+    "The findings were published on October 1 in the Journal of Experimental Social Psychology [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencedaily.com/releases/2026/11/261112025536.htm",
+    "status": 200,
+    "title": "Forcing yourself to smile can actually make you miserable",
+    "domain": "sciencedaily.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T01:50:58Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/why-forced-smiling-makes-you-miserable-and-how-c.mp3",
+  "image": {
+   "src": "img/why-forced-smiling-makes-you-miserable-and-how-c.jpg",
+   "credit": "ScienceDaily",
+   "license": "© ScienceDaily, shown with credit",
+   "page": "https://www.sciencedaily.com/releases/2026/11/261112025536.htm",
+   "from_url": "https://www.sciencedaily.com/images/1920/woman-with-fake-forced-smile.webp"
+  }
+ },
+ {
+  "id": "ticket-tout-lists-1m-of-u2-seats-on-stubhub-expo",
+  "cat": "money",
+  "tags": [
+   "money",
+   "business",
+   "negotiation",
+   "economics"
+  ],
+  "title": "Ticket tout lists £1m of U2 seats on StubHub, exposing loopholes",
+  "snippet": "A single trader has listed over 1,800 tickets for U2's upcoming London tour on StubHub, sparking industry calls to outlaw resale for profit. The massive mark-ups highlight ongoing debates over software bots and enforcement in the secondary ticket market.",
+  "bullets": [
+   "A single tout advertised more than 1,800 tickets for one U2 night alone on StubHub [1].",
+   "The listings could yield more than £1m if sold at the current marked-up prices [1].",
+   "Artists and industry groups are pushing the culture secretary to outlaw resale for profit [1]."
+  ],
+  "report": [
+   {
+    "h": "Massive Resale Volume",
+    "t": "Listings on StubHub show thousands of U2 tickets offered by professional traders rather than everyday fans [1]. Only 562 tickets came from private sellers who could no longer attend [1]."
+   },
+   {
+    "h": "Calls for New Laws",
+    "t": "Music industry figures and campaigns are urging the culture secretary to advance plans to shut down ticket touting [1]. A ticket tout ban bill is scheduled during the current parliamentary session [1]."
+   },
+   {
+    "h": "The Bot Debate",
+    "t": "Industry experts highlight that such high volumes point towards potential illegal bot use or speculative selling [1]. Resale platforms and primary ticket sellers disagree on who bears responsibility for policing automated software [1]."
+   }
+  ],
+  "why": "Understanding market dynamics and platform rules helps when evaluating digital marketplaces and online business models.",
+  "tryit": "Review secondary market platform terms if you ever buy or sell event tickets to ensure compliance with current rules.",
+  "qa": [
+   [
+    "How many U2 tickets were listed by Vladyslav Skrypka for a single night?",
+    "He advertised more than 1,800 tickets for one of the nights alone [1]."
+   ],
+   [
+    "What is speculative selling?",
+    "It is an illegal practice where touts agree a sale first and then hope to procure tickets later [1]."
+   ],
+   [
+    "What did Ticketmaster say about bot prevention?",
+    "Ticketmaster stated that it blocked 20bn bots a month and spent millions on doing so [1]."
+   ],
+   [
+    "Who owns StubHub International?",
+    "StubHub International is owned by the US investment group Digital Fuel Capital [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
+    "status": 200,
+    "title": "Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T08:00:39Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/ticket-tout-lists-1m-of-u2-seats-on-stubhub-expo.mp3",
+  "image": {
+   "src": "img/ticket-tout-lists-1m-of-u2-seats-on-stubhub-expo.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
+   "from_url": "https://i.guim.co.uk/img/media/a182e02a61d36d2f4b7a9077a8ddba0bf09d9fe6/1291_0_6678_5341/master/6678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46068e73d6645f64b355eae9fd4e24fe"
+  }
+ },
+ {
+  "id": "netflix-unveils-new-documentary-trailer-explorin",
+  "cat": "news",
+  "tags": [
+   "culture",
+   "art",
+   "history",
+   "documentary"
+  ],
+  "title": "Netflix Unveils New Documentary Trailer Exploring Artist Jean-Michel Basquiat",
+  "snippet": "Netflix has released the official trailer and key art for a new documentary about iconic artist Jean-Michel Basquiat, arriving on 11 December [1].",
+  "bullets": [
+   "The documentary arrives on Netflix on 11 December [1].",
+   "It features previously untold memories shared by his family and never-before-seen artworks [1].",
+   "The film recently won Best Editing in a Documentary Feature at the 2026 Tribeca Festival [1]."
+  ],
+  "report": [
+   {
+    "h": "Fresh perspective",
+    "t": "The film aims to look beyond celebrated artistic achievements to uncover the man behind the work [1]. It features rare archival imagery and family memories [1]."
+   },
+   {
+    "h": "Award winning",
+    "t": "Directed by Quinn Whitney Wilson and Viridiana Lieberman, the feature recently won Best Editing in a Documentary Feature at the 2026 Tribeca Festival [1]."
+   },
+   {
+    "h": "Cultural impact",
+    "t": "Basquiat rose to prominence in New York's art scene during the late 1970s and early 1980s, exploring themes including race, identity, and social inequality [1]."
+   }
+  ],
+  "why": "It offers a deep, personal look into the life of one of history's most influential and culturally significant artists [1].",
+  "tryit": "Watch the documentary on Netflix when it arrives on 11 December to explore the artist's untold story [1].",
+  "qa": [
+   [
+    "When does the documentary arrive on Netflix?",
+    "It arrives on 11 December [1]."
+   ],
+   [
+    "Who directed the film?",
+    "It is directed by Quinn Whitney Wilson and Viridiana Lieberman [1]."
+   ],
+   [
+    "What award did the film recently win?",
+    "It won Best Editing in a Documentary Feature at the 2026 Tribeca Festival [1]."
+   ],
+   [
+    "When did Basquiat rise to prominence?",
+    "He rose to prominence in New York's art scene during the late 1970s and early 1980s [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.attitude.co.uk/culture/netflix-unveils-trailer-jean-michel-basquiat-documentary-539726/",
+    "status": 200,
+    "title": "Netflix unveils trailer and key art for Jean-Michel Basquiat documentary",
+    "domain": "attitude.co.uk"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T13:50:21Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/netflix-unveils-new-documentary-trailer-explorin.mp3",
+  "image": {
+   "src": "img/netflix-unveils-new-documentary-trailer-explorin.jpg",
+   "credit": "Attitude",
+   "license": "© Attitude, shown with credit",
+   "page": "https://www.attitude.co.uk/culture/netflix-unveils-trailer-jean-michel-basquiat-documentary-539726/",
+   "from_url": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2026/11/Untitled-13-November-2026-at-13.44.54.webp"
+  }
+ },
+ {
+  "id": "top-international-dining-destinations-that-leadi",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "food",
+   "culture",
+   "heritage",
+   "restaurants"
+  ],
+  "title": "Top International Dining Destinations That Leading Chefs Are Planning to Visit",
+  "snippet": "Renowned chefs share the specific global dining experiences, dishes, and culinary regions they are most eager to visit and taste.",
+  "bullets": [
+   "Katie Button wants to visit Arrea! in Kanpezu to experience inland Basque cooking built on foraged mountain ingredients [1].",
+   "Mary Attea is planning a trip to Beirut to taste authentic manakish, shawarma, and msabbaha at El Soussi [1].",
+   "Clara Lee highlights Song-yi Sikdang in Inje for its traditional hwangtae jungsik set featuring dried pollock soup [1]."
+  ],
+  "report": [
+   {
+    "h": "Global Culinary Inspiration",
+    "t": "Top international chefs share the specific restaurants, markets, and regional dishes they are traveling to experience firsthand [1]. These journeys serve to spark creative menu development, learn new techniques, and connect with culinary heritage [1]."
+   },
+   {
+    "h": "Diverse Regional Flavors",
+    "t": "Destinations range from mountain foraging in the Basque Country and temple food in South Korea to traditional Lebanese breakfasts in Beirut [1]. Chefs also highlight spots like a six-seat sushi counter in Tokyo and regional specialties in Puglia and Assam [1]."
+   },
+   {
+    "h": "Connecting Through Food",
+    "t": "Many of these planned travels are deeply personal, offering ways for chefs to explore shared cultural histories and pass down traditions to their children [1]. Exploring local markets and indigenous cooking methods reveals the core of a community [1]."
+   }
+  ],
+  "why": "Explorations of world cultures and regional cuisines offer inspiring ideas for future travel itineraries and food discovery.",
+  "tryit": "Research one regional dish mentioned by the chefs online and look up a local specialty grocery store or restaurant near you to try authentic ingredients.",
+  "qa": [
+   [
+    "Where does Katie Button want to eat in the Basque Country?",
+    "She wants to visit Arrea! in Kanpezu for its inland mountain cooking [1]."
+   ],
+   [
+    "What dish is Mary Attea eager to try at El Soussi in Beirut?",
+    "She wants to try msabbaha, warm mashed chickpeas with lemon and tahini, alongside beid ghanam [1]."
+   ],
+   [
+    "What makes Inje in South Korea famous?",
+    "Inje is most famous for hwangtae guk, which is dried pollock soup [1]."
+   ],
+   [
+    "Who is the chef behind Sushi Meino in Tokyo?",
+    "It is run by Chef Mei Kougo, one of only a few female sushi masters in Japan [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/women-chefs-on-the-meals-theyre-traveling-for-in-2027",
+    "status": 200,
+    "title": "9 Chefs on the Meals They're Traveling For in 2027—From Korean Soups to Peruvian Ceviche",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T22:13:09Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/top-international-dining-destinations-that-leadi.mp3",
+  "image": {
+   "src": "img/top-international-dining-destinations-that-leadi.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/women-chefs-on-the-meals-theyre-traveling-for-in-2027",
+   "from_url": "https://media.cntraveler.com/photos/6af61ab64c27d2ab6b4ddb27/16:9/w_1280,c_limit/WWT%20SPONSORED%20EDIT%20Women%20Chefs.png"
+  }
+ },
+ {
+  "id": "new-data-reveals-hundreds-of-uk-children-prescri",
+  "cat": "health",
+  "tags": [
+   "health",
+   "peptides",
+   "weight",
+   "longevity",
+   "science"
+  ],
+  "title": "New Data Reveals Hundreds of UK Children Prescribed GLP-1 Weight-Loss Jabs",
+  "snippet": "An exclusive investigation shows hundreds of children in England received GLP-1 prescriptions. Experts highlight the need for specialist care and long-term monitoring as obesity rates rise globally.",
+  "bullets": [
+   "In the financial year 2025-26, there were 419 prescriptions issued to children under the age of 18, including 10 for those under 12 [1].",
+   "From April to July this year, 341 prescriptions for GLP-1s were issued to children, with 15 under the age of 12 [1].",
+   "Experts note that these medications are typically used as an adjunct after standard lifestyle therapies have not helped children with high excess weight [1]."
+  ],
+  "report": [
+   {
+    "h": "Rising Prescriptions",
+    "t": "Data obtained via freedom of information requests shows hundreds of young people in England receiving GLP-1 medications [1]. These totals exclude private clinics, prisons, and hospitals, indicating the true figures are higher [1]."
+   },
+   {
+    "h": "Expert Guidance",
+    "t": "Specialists stress that children starting these treatments require comprehensive support for diet, growth, mental health, and side effects [1]. Regular monitoring is essential because weight often returns after stopping the drugs and long-term data on growing bodies remains limited [1]."
+   },
+   {
+    "h": "Clinical Context",
+    "t": "Clinicians note that young patients receiving these treatments often face severe secondary conditions like type 2 diabetes or liver disease [1]. For these individuals, successful treatment can restore a sense of agency and transform their daily lives [1]."
+   }
+  ],
+  "why": "This tracks the broader medical landscape of GLP-1 peptides, metabolic health, and weight management trends relevant to adults and children alike [1].",
+  "tryit": "Speak with a qualified healthcare professional or GP if you want to understand more about metabolic health and the latest clinical guidelines for GLP-1 medications.",
+  "qa": [
+   [
+    "How many prescriptions were issued to children under 18 in 2025-26?",
+    "There were 419 prescriptions issued to children under the age of 18 in the financial year 2025-26 [1]."
+   ],
+   [
+    "What do experts say is necessary when children start GLP-1s?",
+    "Experts say children must start them within specialist services with support for diet, growth, wellbeing, and long-term monitoring [1]."
+   ],
+   [
+    "Do these figures include private clinic prescriptions?",
+    "No, the figures do not cover those prescribed and dispensed via private prescriptions, in prisons, and in hospitals [1]."
+   ],
+   [
+    "What did the WHO guidelines state regarding age limits?",
+    "New global guidelines from the WHO stated obesity medications should not be given to children under the age of 10 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
+    "status": 200,
+    "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T08:00:39Z",
+  "addedAt": "2026-11-14T11:02:26Z",
+  "audio": "audio/new-data-reveals-hundreds-of-uk-children-prescri.mp3",
+  "image": {
+   "src": "img/new-data-reveals-hundreds-of-uk-children-prescri.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
+   "from_url": "https://i.guim.co.uk/img/media/a32b508dc2e54f89a324872b8b025ede44510b55/0_0_4374_3499/master/4374.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1be5198f609be7c79d2d70ae9271900"
+  }
+ },
+ {
   "id": "new-study-examines-safety-of-stopping-statins-af",
   "cat": "health",
   "tags": [
@@ -14437,75 +15769,6 @@
   }
  },
  {
-  "id": "uk-weather-update-10-days-of-calm-and-dry-condit",
-  "cat": "news",
-  "tags": [
-   "weather",
-   "uk",
-   "climate"
-  ],
-  "title": "UK weather update: 10 days of calm and dry conditions ahead",
-  "snippet": "After a week of storms, the UK is entering a period of high pressure. Expect up to 10 days of dry, calm weather with light winds, though mornings may bring persistent mist and fog.",
-  "bullets": [
-   "The UK could experience 10 consecutive days without rain following a recent period of unsettled weather [1].",
-   "England recently recorded its wettest week in two years due to Storms Austen and Boelo [1].",
-   "High pressure is expected to dominate until mid-November, when conditions may shift back to wetter, windier weather [1]."
-  ],
-  "report": [
-   {
-    "h": "Calm weather returns",
-    "t": "High pressure is moving in, bringing a prolonged spell of dry conditions across the UK [1]. Most areas will see light winds and clear skies as darkness falls, providing a break from recent storms [1]."
-   },
-   {
-    "h": "Fog and temperatures",
-    "t": "While the weather is settled, mornings may feature dense, slow-clearing fog that could impact visibility [1]. Temperatures are expected to gradually edge lower, making for a cooler feel during nights and early mornings [1]."
-   },
-   {
-    "h": "Looking ahead",
-    "t": "This dry pattern is set to continue into early November [1]. By mid-November, high pressure may loosen its hold, potentially allowing Atlantic low-pressure systems to bring wetter and windier weather back to the country [1]."
-   }
-  ],
-  "why": "Knowing the weather forecast helps you plan your travel and outdoor activities for the next 10 days, allowing you to schedule tasks that require clear conditions.",
-  "tryit": "Check your local weather forecast using your postcode to see if you need to prepare for morning fog or cooler temperatures during your commute.",
-  "qa": [
-   [
-    "How long will the dry weather last?",
-    "The current area of high pressure is expected to stay over or close to the UK for at least 10 days [1]."
-   ],
-   [
-    "What caused the recent wet weather?",
-    "England experienced its wettest week in two years due to Storms Austen and Boelo, along with another area of low pressure [1]."
-   ],
-   [
-    "Will it be cold?",
-    "Temperatures are expected to gradually edge lower, creating a cooler feel, particularly during the nights and early mornings [1]."
-   ],
-   [
-    "When might the weather change again?",
-    "Signs suggest high pressure could loosen its hold around mid-November, potentially allowing for wetter and windier conditions [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo",
-    "status": 200,
-    "title": "UK weather: 10 days without rain after 'wettest week in two years'",
-    "domain": "bbc.co.uk"
-   }
-  ],
-  "date": "2026-10-31",
-  "publishedAt": "2026-10-31T00:06:31Z",
-  "addedAt": "2026-11-03T04:15:06Z",
-  "audio": "audio/uk-weather-update-10-days-of-calm-and-dry-condit.mp3",
-  "image": {
-   "src": "img/uk-weather-update-10-days-of-calm-and-dry-condit.jpg",
-   "credit": "BBC News",
-   "license": "© BBC News, shown with credit",
-   "page": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo",
-   "from_url": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/d8a4/live/d7b9f090-d452-11f1-93e1-3b657b665bcf.jpg"
-  }
- },
- {
   "id": "thomas-bradley-becomes-queensland-s-first-public",
   "cat": "whoa",
   "tags": [
@@ -16890,144 +18153,6 @@
   }
  },
  {
-  "id": "simple-blood-test-could-predict-alzheimer-s-risk",
-  "cat": "health",
-  "tags": [
-   "health",
-   "science",
-   "longevity"
-  ],
-  "title": "Simple Blood Test Could Predict Alzheimer's Risk A Decade Early",
-  "snippet": "A simple blood test measuring a specific biomarker could help identify Alzheimer's risk before symptoms appear. In a large international study, high biomarker levels predicted a 38% risk of cognitive decline within five years. Researchers say the test could transform future prevention.",
-  "bullets": [
-   "A study of 2,684 older adults found that measuring the p-tau217 blood biomarker can predict future cognitive decline [1].",
-   "Participants with very high levels of p-tau217 faced a 38% chance of cognitive impairment within five years and an estimated 78% risk over 10 years [1].",
-   "Doctors do not currently recommend the blood test for healthy people because preventive treatments are not yet available [1]."
-  ],
-  "report": [
-   {
-    "h": "Tracking a key blood marker",
-    "t": "Researchers combined data from six observational studies across North America, Japan, and Australia involving 2,684 older adults with no cognitive impairment [1]. Participants provided blood samples to measure p-tau217, a biomarker associated with Alzheimer's disease [1]."
-   },
-   {
-    "h": "Predicting cognitive decline early",
-    "t": "Data spanned assessments from 2004 to 2025, during which 478 participants developed cognitive impairment [1]. Adults with very high p-tau217 levels showed a 38% chance of cognitive decline within five years and an estimated 78% risk over 10 years [1]."
-   },
-   {
-    "h": "Why routine tests wait",
-    "t": "The p-tau217 marker predicted risk better than genetic factors or brain scans [1]. Even so, doctors do not recommend routine testing for healthy people yet because disease-modifying preventive treatments are not currently available [1]."
-   }
-  ],
-  "why": "If you are interested in health and longevity, early biomarker research reveals how future medical care may detect and prevent brain decline long before symptoms start [1].",
-  "tryit": "Focus on simple lifestyle steps recommended by doctors, such as regular exercise, a nutritious diet, and prioritising restful sleep [1].",
-  "qa": [
-   [
-    "What is p-tau217?",
-    "It is a blood biomarker associated with Alzheimer's disease that can help predict future cognitive impairment [1]."
-   ],
-   [
-    "How many people were studied?",
-    "The study combined data from six cohorts involving 2,684 older adults across North America, Japan, and Australia [1]."
-   ],
-   [
-    "Why is the test not recommended for everyone yet?",
-    "Preventive treatments to change the disease course in healthy people do not exist yet, so test results would not change medical care [1]."
-   ],
-   [
-    "What lifestyle steps do doctors advise for brain health?",
-    "Doctors recommend exercising regularly, maintaining a healthy diet, and prioritising good sleep and overall wellness [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
-    "status": 200,
-    "title": "A simple blood test could reveal Alzheimerâs risk 10 years before symptoms",
-    "domain": "sciencedaily.com"
-   }
-  ],
-  "date": "2026-10-31",
-  "publishedAt": "2026-10-31T00:59:52Z",
-  "addedAt": "2026-11-02T11:05:53Z",
-  "audio": "audio/simple-blood-test-could-predict-alzheimer-s-risk.mp3",
-  "image": {
-   "src": "img/simple-blood-test-could-predict-alzheimer-s-risk.jpg",
-   "credit": "ScienceDaily",
-   "license": "© ScienceDaily, shown with credit",
-   "page": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
-   "from_url": "https://www.sciencedaily.com/images/1920/alzheimers-disease-blood-test-tube.webp"
-  }
- },
- {
-  "id": "understanding-seasonal-affective-disorder-and-pr",
-  "cat": "health",
-  "tags": [
-   "health",
-   "psychology",
-   "fitness"
-  ],
-  "title": "Understanding Seasonal Affective Disorder and Practical Ways to Manage Winter Energy",
-  "snippet": "Seasonal Affective Disorder affects about 1 in 20 people in the U.S. and can make winter months feel debilitating. By recognizing patterns and using light, diet, and movement as cues, you can help manage your internal clock.",
-  "bullets": [
-   "About 1 in 20 people in the U.S. experience seasonal affective disorder, a condition that typically lasts about 40% of the year [1].",
-   "SAD lamps providing 10,000 lux of light can help, with users often feeling a difference within two weeks of daily 20 to 30 minute sessions [1].",
-   "Maintaining a consistent 10- to 12-hour eating window and stopping food intake three hours before sleep helps regulate circadian rhythms [1]."
-  ],
-  "report": [
-   {
-    "h": "Recognising the pattern",
-    "t": "Seasonal affective disorder often creeps up incrementally, making it hard to spot until symptoms like sluggishness or overeating become significant [1]. Dr. Norman Rosenthal, who coined the term, notes that those affected may feel like hibernating bears during darker months [1]."
-   },
-   {
-    "h": "Using light cues",
-    "t": "Light therapy using a 10,000 lux lamp can be highly effective when used for 20 to 30 minutes in the morning [1]. It is important to position the lamp so light shines down, mimicking natural sunlight, rather than staring directly into it [1]."
-   },
-   {
-    "h": "Regulating your rhythm",
-    "t": "Consistent habits regarding food and exercise provide vital cues to your body about the time of day [1]. Staying active and avoiding late-night eating can help break the cycle of low energy and depression [1]."
-   }
-  ],
-  "why": "Understanding these physiological cues can help you manage your energy levels and focus during the darker winter months, which is essential for maintaining productivity.",
-  "tryit": "If you feel sluggish, try to get outside for natural light even on overcast days, or consider using a 10,000 lux SAD lamp for 20 to 30 minutes each morning; consult your GP if symptoms persist.",
-  "qa": [
-   [
-    "What are the three main causes of SAD?",
-    "The three main causes are a genetic component, a lack-of-light component, and stress [1]."
-   ],
-   [
-    "How long should I use a SAD lamp?",
-    "You should use it for about 20 to 30 minutes a day and expect to feel a difference within two weeks [1]."
-   ],
-   [
-    "Does light therapy work through the skin?",
-    "No, the light is absorbed through the eyes, not the skin [1]."
-   ],
-   [
-    "What is the winter blues?",
-    "It is a milder version of SAD where you feel like a sadder, sleepier, or slower version of yourself [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
-    "status": 200,
-    "title": "Do you have seasonal affective disorder? How to tell — and what to do about it",
-    "domain": "npr.org"
-   }
-  ],
-  "date": "2026-10-31",
-  "publishedAt": "2026-10-31T09:01:00Z",
-  "addedAt": "2026-11-02T11:05:53Z",
-  "audio": "audio/understanding-seasonal-affective-disorder-and-pr.mp3",
-  "image": {
-   "src": "img/understanding-seasonal-affective-disorder-and-pr.jpg",
-   "credit": "NPR",
-   "license": "© NPR, shown with credit",
-   "page": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
-   "from_url": "https://media.npr.org/assets/img/2022/01/11/npr-sad-capossela_wide-b35ca583db47f358ad7fd9683f37e723deaabd55.jpg?s=1400&c=85&f=webp"
-  }
- },
- {
   "id": "five-hmrc-myths-cleared-up-ahead-of-making-tax-d",
   "cat": "money",
   "tags": [
@@ -17240,76 +18365,6 @@
   }
  },
  {
-  "id": "how-modest-mortgage-overpayments-can-help-you-cl",
-  "cat": "money",
-  "tags": [
-   "money",
-   "business",
-   "negotiation",
-   "economics"
-  ],
-  "title": "How modest mortgage overpayments can help you clear debt and fund business ventures",
-  "snippet": "Clearing a mortgage early can save thousands in interest and provide the financial freedom to start a business. By making consistent overpayments, homeowners can reduce their debt term significantly while building long-term security. [1]",
-  "bullets": [
-   "One couple saved £30,000 in interest and cleared their mortgage seven years early by making regular overpayments and using lump sums [1].",
-   "On a £200,000 mortgage at 5% interest, overpaying by £100 a month can save £24,530 and clear the debt three years and six months early [1].",
-   "Offset mortgages allow you to link savings to your debt, reducing interest charges while keeping your cash accessible for emergencies [1]."
-  ],
-  "report": [
-   {
-    "h": "The power of overpaying",
-    "t": "Making even small, regular overpayments on a mortgage can lead to significant interest savings over the life of a loan [1]. By funneling spare cash or pay rises into the balance, homeowners can reduce their debt years ahead of schedule [1]."
-   },
-   {
-    "h": "Flexibility and strategy",
-    "t": "It is important to maintain a savings buffer of three to six months of essential outgoings before committing extra funds to a mortgage [1]. Always check your mortgage terms, as many lenders allow annual overpayments of up to 10% of the balance without penalty [1]."
-   },
-   {
-    "h": "Considering offset options",
-    "t": "Offset mortgages link your savings to your debt, which reduces the interest charged without locking your money away permanently [1]. While these deals may have slightly higher interest rates, they provide a flexible alternative for those with significant cash savings [1]."
-   }
-  ],
-  "why": "For someone interested in buying a small business, clearing your largest monthly expense can provide the capital and peace of mind needed to take the leap into entrepreneurship. [1]",
-  "tryit": "Contact your mortgage lender to ask about their specific overpayment terms and check if you are currently permitted to pay more than your monthly requirement without incurring charges. [1]",
-  "qa": [
-   [
-    "What is the main benefit of an offset mortgage?",
-    "It allows you to link your savings to your mortgage, reducing the interest charged while keeping your money accessible if you need to withdraw it. [1]"
-   ],
-   [
-    "Should I reduce my monthly payment or my mortgage term?",
-    "If your current repayments are comfortable, choosing to reduce the mortgage term is better because it helps you clear the balance sooner. [1]"
-   ],
-   [
-    "Are there penalties for overpaying?",
-    "Some lenders charge early repayment fees, often 3-5% of the overpayment, so it is essential to check your specific loan terms first. [1]"
-   ],
-   [
-    "How much of a savings buffer should I keep?",
-    "Experts typically recommend keeping three to six months of essential outgoings in savings to handle unexpected costs. [1]"
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/money/2026/oct/31/mortgage-free-at-45-how-you-can-do-it",
-    "status": 200,
-    "title": "‘We were mortgage-free at 45, here’s how you can do it too’",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-10-31",
-  "publishedAt": "2026-10-31T11:00:40Z",
-  "addedAt": "2026-11-02T11:05:53Z",
-  "audio": "audio/how-modest-mortgage-overpayments-can-help-you-cl.mp3",
-  "image": {
-   "src": "img/how-modest-mortgage-overpayments-can-help-you-cl.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/money/2026/oct/31/mortgage-free-at-45-how-you-can-do-it",
-   "from_url": "https://i.guim.co.uk/img/media/05da21aeda69834b39d0688fd48b02c07ed6d45f/50_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b2c96cd17fa8844c0cf19e5c77db683"
-  }
- },
- {
   "id": "national-grid-buys-land-for-massive-uk-electrici",
   "cat": "ai",
   "tags": [
@@ -17444,75 +18499,6 @@
    "license": "© The Guardian, shown with credit",
    "page": "https://www.theguardian.com/commentisfree/2026/nov/01/maxxing-life-2027-relax-start-minning",
    "from_url": "https://i.guim.co.uk/img/media/8006e02005aa3f8d52e713cff0cbba59d128da5d/686_0_5020_4016/master/5020.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=999ec5e08ec5ee4f22c01b94963f9a86"
-  }
- },
- {
-  "id": "how-a-simple-reading-list-helped-an-author-chang",
-  "cat": "mind",
-  "tags": [
-   "mind",
-   "psychology",
-   "books"
-  ],
-  "title": "How a simple reading list helped an author change her life path",
-  "snippet": "International bestselling author Kit de Waal shares how a solicitor's reading recommendation helped her navigate a mental health crisis. This chance encounter with literature eventually led her to a successful career as a writer.",
-  "bullets": [
-   "Kit de Waal was near a serious mental breakdown at age 21 before a solicitor suggested she start reading [1].",
-   "The solicitor provided a list of 10 novels, including War and Peace and Madame Bovary, to help with her insomnia [1].",
-   "De Waal spent over a decade learning the craft of writing before achieving success with her international bestseller My Name Is Leon [1]."
-  ],
-  "report": [
-   {
-    "h": "Early life and struggles",
-    "t": "Born in Birmingham to an Irish mother and Caribbean father, de Waal experienced significant poverty during her childhood [1]. She left home at 16 and later struggled with substance use and poor mental health [1]."
-   },
-   {
-    "h": "The power of books",
-    "t": "While working at the Crown Prosecution Service, a solicitor recommended books to help her cope with insomnia [1]. Although she initially disliked reading, this habit became a lifelong passion that eventually inspired her own writing career [1]."
-   },
-   {
-    "h": "Finding professional success",
-    "t": "It took more than a decade of rejection before de Waal was published [1]. Her breakthrough novel, My Name Is Leon, became an international bestseller and was later adapted for the screen [1]."
-   }
-  ],
-  "why": "This story highlights how small, unexpected interventions can shift your trajectory during difficult periods, reminding us that persistence in a chosen craft is often a long-term game.",
-  "tryit": "If you are feeling overwhelmed, consider asking a mentor or colleague for a book recommendation that helped them gain a new perspective.",
-  "qa": [
-   [
-    "Did the books cure her insomnia?",
-    "No, de Waal stated that she never cured the insomnia [1]."
-   ],
-   [
-    "How long did it take her to get published?",
-    "It took more than a decade of rejection and learning the craft before she was published [1]."
-   ],
-   [
-    "What is her main advice for writers?",
-    "Her lesson is to write the thing you really care about [1]."
-   ],
-   [
-    "What was her first major success?",
-    "Her breakthrough came with the novel My Name Is Leon [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.bbc.co.uk/news/articles/cmd7qge3qe2eo",
-    "status": 200,
-    "title": "How books saved Birmingham author Kit de Waal from breakdown",
-    "domain": "bbc.co.uk"
-   }
-  ],
-  "date": "2026-10-31",
-  "publishedAt": "2026-10-31T07:04:17Z",
-  "addedAt": "2026-11-02T11:05:53Z",
-  "audio": "audio/how-a-simple-reading-list-helped-an-author-chang.mp3",
-  "image": {
-   "src": "img/how-a-simple-reading-list-helped-an-author-chang.jpg",
-   "credit": "BBC News",
-   "license": "© BBC News, shown with credit",
-   "page": "https://www.bbc.co.uk/news/articles/cmd7qge3qe2eo",
-   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7dcc/live/46e6b7d0-ccad-11f1-8789-fd6bb060c3f9.jpg"
   }
  },
  {
@@ -17931,79 +18917,6 @@
    "license": "© The Guardian, shown with credit",
    "page": "https://www.theguardian.com/global/2026/nov/01/the-truth-about-testicles-are-we-facing-spermageddon",
    "from_url": "https://i.guim.co.uk/img/media/04ba0f986fb0902b007d564d85c9ddd8b40a2add/448_0_4510_3608/master/4510.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7fba8b24e502d09a8d2d8b52cda7685f"
-  }
- },
- {
-  "id": "uk-budget-2026-raises-savings-tax-rates-but-reta",
-  "cat": "money",
-  "tags": [
-   "tax",
-   "money",
-   "economics"
-  ],
-  "title": "UK Budget 2026 Raises Savings Tax Rates But Retains Isa Limits",
-  "snippet": "Starting 6 April, UK tax rates on savings interest will increase by two percentage points. Basic-rate payers face 24%, higher-rate 44%, and additional-rate 49%. However, the chancellor retained the £20,000 annual cash Isa allowance rather than cutting it.",
-  "bullets": [
-   "Savings tax rates will rise by two percentage points on 6 April to 24% for basic-rate, 44% for higher-rate, and 49% for additional-rate taxpayers [1].",
-   "The chancellor scrapped plans to slash the annual cash Isa limit to £12,000 for under-65s, keeping it at £20,000 [1].",
-   "Basic-rate taxpayers retain a £1,000 personal savings allowance, while higher-rate taxpayers get £500 and additional-rate taxpayers get nothing [1]."
-  ],
-  "report": [
-   {
-    "h": "New savings tax rates",
-    "t": "The UK budget introduced an extra tax charge on savings and property income starting on 6 April [1]. The chancellor added two percentage points to each rate, resulting in 24% for basic-rate taxpayers, 44% for higher-rate taxpayers, and 49% for additional-rate taxpayers [1]."
-   },
-   {
-    "h": "Isa limits preserved",
-    "t": "Savers retain the ability to put up to £20,000 each tax year into a cash Isa [1]. Chancellor John Healey dropped a previous plan that would have slashed this limit to £12,000 for people aged under 65 from April 2027 [1]."
-   },
-   {
-    "h": "Tactical financial options",
-    "t": "Basic-rate taxpayers get a £1,000 personal savings allowance, while higher-rate taxpayers receive £500 [1]. Savers can also reduce tax using pension contributions, Premium Bonds with a £50,000 limit, or low coupon short-dated gilts [1]."
-   }
-  ],
-  "why": "Understanding UK tax thresholds and Isa rules helps you optimize where you hold your cash to preserve your returns.",
-  "tryit": "Calculate your expected savings interest for the tax year to see if it exceeds your personal savings allowance.",
-  "qa": [
-   [
-    "What are the new savings tax rates?",
-    "From 6 April, the rates will be 24% for basic-rate taxpayers, 44% for higher-rate taxpayers, and 49% for additional-rate taxpayers [1]."
-   ],
-   [
-    "What is the cash Isa limit for under-65s?",
-    "The cash Isa limit will stay at £20,000 per tax year instead of being cut to £12,000 [1]."
-   ],
-   [
-    "How much interest can you earn tax-free under the personal savings allowance?",
-    "Basic-rate taxpayers can earn £1,000 in interest tax-free, higher-rate taxpayers can earn £500, and additional-rate taxpayers get zero [1]."
-   ],
-   [
-    "What is the maximum amount you can hold in Premium Bonds?",
-    "Each individual in the UK can hold up to £50,000 in tax-free Premium Bonds [1]."
-   ],
-   [
-    "How do pension payments help reduce savings tax?",
-    "Pension contributions give tax relief at your highest rate and reduce your adjusted net income, which can pull you below higher tax thresholds [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/money/2026/oct/31/budget-2026-how-to-beat-the-new-savings-tax-rates",
-    "status": 200,
-    "title": "Budget 2026: how to beat the new savings tax rates",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-10-31",
-  "publishedAt": "2026-10-31T07:00:36Z",
-  "addedAt": "2026-11-01T22:08:32Z",
-  "audio": "audio/uk-budget-2026-raises-savings-tax-rates-but-reta.mp3",
-  "image": {
-   "src": "img/uk-budget-2026-raises-savings-tax-rates-but-reta.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/money/2026/oct/31/budget-2026-how-to-beat-the-new-savings-tax-rates",
-   "from_url": "https://i.guim.co.uk/img/media/b58ab8013fd5ab1dc6a62f75a85a0c8a56a5e4f9/196_0_2445_1956/master/2445.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfb826822b3f0add575b50a4cdbf9368"
   }
  },
  {
