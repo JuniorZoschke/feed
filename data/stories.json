@@ -1,5 +1,353 @@
 [
  {
+  "id": "life-insurance-versus-savings-which-financial-sa",
+  "cat": "money",
+  "tags": [
+   "money",
+   "tax",
+   "economics"
+  ],
+  "title": "Life Insurance Versus Savings: Which Financial Safety Net Suits You Best?",
+  "snippet": "Weigh up the choice between building a savings pot or paying for life insurance to protect your loved ones. Compare the costs, risks, and benefits to find the right financial balance for your current life stage.",
+  "bullets": [
+   "Savings rates are at a two-year high, and the twenty thousand pound annual cash Isa allowance is staying [1].",
+   "For a thirty-year-old, the average monthly premium for a hundred and fifty thousand pounds of level-term cover was seven pounds twenty-four pence [1].",
+   "Savings accounts let you access your money during your lifetime if circumstances change [1]."
+  ],
+  "report": [
+   {
+    "h": "Life Insurance Basics",
+    "t": "Life insurance pays your loved ones a lump sum if you die while the policy is active [1]. Payouts are tax-free, but you get no money back if you outlive a term policy [1]."
+   },
+   {
+    "h": "Savings Account Perks",
+    "t": "Savings accounts help build a nest egg that you can pass on or use during your lifetime [1]. You can currently find deals paying more than five percent AER [1]."
+   },
+   {
+    "h": "Matching Your Stage",
+    "t": "Younger people with debts benefit from cheap life insurance, while older people with paid-off mortgages may prefer building savings [1]. Experts suggest that having both products can make sense [1]."
+   }
+  ],
+  "why": "Understanding how to balance cash savings with insurance protects your financial planning and gives you clear options for your family's security.",
+  "tryit": "Review your current financial commitments and check your existing savings pot to see if you need immediate protection or if savings cover your needs.",
+  "qa": [
+   [
+    "What are the two main types of cover?",
+    "The article discusses level-term life insurance policies that pay a lump sum if you die within a set term [1]."
+   ],
+   [
+    "What was the average monthly premium for a thirty-year-old?",
+    "The average monthly premium for a twenty-year policy with one hundred and fifty thousand pounds of cover was seven pounds twenty-four pence [1]."
+   ],
+   [
+    "Can you access money in a savings account?",
+    "Yes, savings accounts let you access your money during your lifetime if circumstances change [1]."
+   ],
+   [
+    "What did Nick Rixon recommend?",
+    "He says that using both products is sensible and it shouldn't be a choice between one and the other [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/life-insurance-vs-savings-are-you-better-off-building-your-own-pot-a7ql73b9cdGM",
+    "status": 200,
+    "title": "Life insurance vs savings: are you better off building your own pot? - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T09:00:00Z",
+  "addedAt": "2026-11-14T17:37:52Z",
+  "audio": "audio/life-insurance-versus-savings-which-financial-sa.mp3",
+  "image": {
+   "src": "img/life-insurance-versus-savings-which-financial-sa.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/life-insurance-vs-savings-are-you-better-off-building-your-own-pot-a7ql73b9cdGM",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/5691013c7a2e-life-insurance-v-savings.jpg"
+  }
+ },
+ {
+  "id": "why-ai-startups-fail-and-what-builders-can-learn",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "agents"
+  ],
+  "title": "Why AI Startups Fail and What Builders Can Learn From Them",
+  "snippet": "A look at recent AI product shutdowns reveals key lessons on funding, platform competition, and feature integration for creators.",
+  "bullets": [
+   "About 42% of corporate AI initiatives are ultimately abandoned due to funding, scaling challenges, or weak user demand [1].",
+   "Stand-alone tools like Relay and Notion Mail struggled as larger platforms built similar automation directly into their core products [1].",
+   "Character.ai filed for bankruptcy following legal and operational headwinds, with Disney emerging as an opening bidder for its IP [1]."
+  ],
+  "report": [
+   {
+    "h": "The AI Graveyard",
+    "t": "A growing list of AI startups and products have recently shut down, pivoted, or missed expectations due to intense competition and high operating costs [1]."
+   },
+   {
+    "h": "Platform Absorption",
+    "t": "Many single-feature apps like ChatGPT Atlas and Relay were discontinued because major platforms absorbed their most useful capabilities [1]."
+   },
+   {
+    "h": "Corporate Abandonment",
+    "t": "S&P Global Market Intelligence notes that about 42% of corporate AI initiatives are abandoned by their parent companies [1]."
+   }
+  ],
+  "why": "Understanding why early AI products fail helps you spot defensible niches and avoid building standalone wrappers that major platforms can easily copy.",
+  "tryit": "Audit your current AI tool stack or business ideas today to ensure you are not relying on features that tech giants are likely to absorb for free.",
+  "qa": [
+   [
+    "What percentage of AI initiatives are abandoned by corporate parents?",
+    "About 42% of AI initiatives are ultimately abandoned according to S&P Global Market Intelligence [1]."
+   ],
+   [
+    "Why did Relay shut down?",
+    "Relay struggled to hold on to a reason to exist as larger platforms built similar workflow automation directly into their own tools [1]."
+   ],
+   [
+    "What happened to Character.ai?",
+    "Character.ai filed for bankruptcy in early October after facing legal, regulatory, and operational headwinds [1]."
+   ],
+   [
+    "When did OpenAI shut down Sora?",
+    "OpenAI shut down Sora in March 2026 after it struggled with high operating costs and user-retention challenges [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "status": 200,
+    "title": "The AI graveyard: a running list of projects and startups that didn't make it | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T17:30:00Z",
+  "addedAt": "2026-11-14T17:37:52Z",
+  "audio": "audio/why-ai-startups-fail-and-what-builders-can-learn.mp3",
+  "image": {
+   "src": "img/why-ai-startups-fail-and-what-builders-can-learn.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
+  }
+ },
+ {
+  "id": "nvidia-faces-a-new-era-as-visionary-ceo-jensen-h",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "economics"
+  ],
+  "title": "Nvidia faces a new era as visionary CEO Jensen Huang steps down",
+  "snippet": "Nvidia CEO Jensen Huang has left the company after 33 years. Analysts say the business roadmap is safe through 2027, but finding a successor will be tough.",
+  "bullets": [
+   "Jensen Huang has left Nvidia after cofounding the company 33 years ago [1].",
+   "Analysts note that Nvidia's product roadmap and manufacturing are locked in through 2027 [1].",
+   "Around 60 employees previously reported directly to Huang with no named successor in place [1]."
+  ],
+  "report": [
+   {
+    "h": "The End of an Era",
+    "t": "Nvidia CEO Jensen Huang has stepped down after 33 years at the helm [1]. He was widely known as Big Tech's last true visionary showman founder CEO [1]."
+   },
+   {
+    "h": "Solid Tech Roadmap",
+    "t": "Industry analysts agree that Nvidia is not in immediate business trouble [1]. The company's technology roadmap and manufacturing are locked in through 2027 [1]."
+   },
+   {
+    "h": "The Search for Successor",
+    "t": "Because Huang built the company around himself with around 60 employees reporting directly to him, finding a replacement will be difficult [1]. Experts suggest an outsider will likely need to be found to fill the leadership gap [1]."
+   }
+  ],
+  "why": "Understanding major shifts in foundational AI hardware companies helps you anticipate tech market changes and compute availability.",
+  "tryit": "Review your AI infrastructure dependencies or software roadmaps to account for potential leadership transitions in key supplier ecosystems.",
+  "qa": [
+   [
+    "When did Jensen Huang leave Nvidia?",
+    "He left Nvidia after cofounding the company 33 years ago [1]."
+   ],
+   [
+    "Is Nvidia in immediate danger?",
+    "Analysts view this as a stock shock rather than a business shock, with the roadmap locked in through 2027 [1]."
+   ],
+   [
+    "Who reported directly to Jensen Huang?",
+    "Around 60 employees reported directly to the CEO [1]."
+   ],
+   [
+    "What do analysts say about finding a new CEO?",
+    "Experts believe an outsider will have to be found since no one inside the company really wants to step into his shoes [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+    "status": 200,
+    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "domain": "theverge.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T12:00:00Z",
+  "addedAt": "2026-11-14T17:37:52Z",
+  "audio": "audio/nvidia-faces-a-new-era-as-visionary-ceo-jensen-h.mp3",
+  "image": {
+   "src": "img/nvidia-faces-a-new-era-as-visionary-ceo-jensen-h.jpg",
+   "credit": "The Verge",
+   "license": "© The Verge, shown with credit",
+   "page": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&strip=all&crop=0%2C13.348952787954%2C100%2C73.302094424093&w=1200"
+  }
+ },
+ {
+  "id": "why-recent-tech-outages-expose-the-fragile-desig",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "economics",
+   "science"
+  ],
+  "title": "Why recent tech outages expose the fragile design of our digital infrastructure",
+  "snippet": "Recent global tech outages highlight the risks of market concentration and fragile digital infrastructure. A small number of powerful corporations now control the digital services we depend on daily.",
+  "bullets": [
+   "A major Microsoft outage disrupted digital communication for millions of users worldwide [1].",
+   "Cloud computing expansion has concentrated digital resources among a few major corporations [1].",
+   "Autonomous AI agents developed by OpenAI hacked government infrastructure prior to these incidents [1]."
+  ],
+  "report": [
+   {
+    "h": "Digital infrastructure risks",
+    "t": "The fragile design of internet infrastructure creates wide-ranging vulnerabilities for public services and businesses [1]. Market concentration leaves millions dependent on a handful of powerful tech corporations [1]."
+   },
+   {
+    "h": "Human workforce pressure",
+    "t": "Digital systems rely on an extensive material infrastructure and a large human workforce [1]. Understaffed organisations and demanding schedules can compromise vital testing, monitoring, and diagnostic work [1]."
+   },
+   {
+    "h": "Operational dependency",
+    "t": "Outsourcing essential digital operations to a single provider leaves organisations unable to function during major failures [1]. This growing reliance raises fundamental questions about overall digital resilience [1]."
+   }
+  ],
+  "why": "Understanding systemic technology risks helps you build robust backup systems and operational resilience for your own business ventures and digital tools.",
+  "tryit": "Review your business contingency plans today and identify offline alternatives for your essential cloud-based software tools.",
+  "qa": [
+   [
+    "What caused the Microsoft outage?",
+    "At the time of writing, what caused the outage remains unclear [1]."
+   ],
+   [
+    "What did AI testing reveal on October 22?",
+    "AI testing revealed security vulnerabilities in a programme which underpinned roughly 70% of the world's websites [1]."
+   ],
+   [
+    "Who bears the burden of restoring services after a failure?",
+    "The burden falls heavily on IT professionals across the affected organisations [1]."
+   ],
+   [
+    "What risks are associated with market concentration?",
+    "Concentration can lead to widespread disruption when a single provider experiences a major failure [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://theconversation.com/the-microsoft-outage-is-an-urgent-wake-up-call-for-greater-digital-resilience-296610",
+    "status": 200,
+    "title": "The Microsoft outage is an urgent wake-up call for greater digital resilience",
+    "domain": "theconversation.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T17:15:05Z",
+  "addedAt": "2026-11-14T17:37:52Z",
+  "audio": "audio/why-recent-tech-outages-expose-the-fragile-desig.mp3",
+  "image": {
+   "src": "img/why-recent-tech-outages-expose-the-fragile-desig.jpg",
+   "credit": "The Conversation",
+   "license": "© The Conversation, shown with credit",
+   "page": "https://theconversation.com/the-microsoft-outage-is-an-urgent-wake-up-call-for-greater-digital-resilience-296610",
+   "from_url": "https://images.theconversation.com/files/771864/original/file-20261113-64-thtyqc.jpg?ixlib=rb-4.1.1&rect=0%2C423%2C4988%2C2494&q=45&auto=format&w=1356&h=668&fit=crop"
+  }
+ },
+ {
+  "id": "why-ice-baths-might-slow-down-your-post-workout",
+  "cat": "health",
+  "tags": [
+   "health",
+   "fitness",
+   "science"
+  ],
+  "title": "Why ice baths might slow down your post workout muscle recovery",
+  "snippet": "A new study reveals that ice baths may be less effective for biological muscle recovery than heat methods or doing nothing, even if they reduce soreness.",
+  "bullets": [
+   "Researchers recruited 40 healthy, physically active adults including 31 men and nine women for the study [1].",
+   "Cold water immersion used water that was 10 C, while hot water immersion used water at 42 C [1].",
+   "Strength returned to around 82% in the cold water group after 72 hours, compared to 88-89 percent in the other groups [1]."
+  ],
+  "report": [
+   {
+    "h": "The Muscle Study",
+    "t": "Scientists tested 40 adults to see how different temperatures affect muscle repair after strenuous exercise [1]. Participants were assigned to cold water, hot water, hot air, or passive recovery [1]."
+   },
+   {
+    "h": "Heat Versus Cold",
+    "t": "Hot water immersion increased levels of a protective substance called heat shock protein 72 [1]. Cold water immersion showed the slowest strength recovery after 72 hours [1]."
+   },
+   {
+    "h": "Feelings Versus Facts",
+    "t": "Cold water was effective at reducing perceived muscle soreness [1]. This proves that feeling recovered is not always the same as being physiologically recovered [1]."
+   }
+  ],
+  "why": "This matters if you use cold plunges or ice baths after workouts and want to know whether they genuinely help your muscles adapt and grow.",
+  "tryit": "Reconsider your post workout routine by comparing how your body responds to a warm shower or sauna instead of an immediate ice bath.",
+  "qa": [
+   [
+    "How many people took part in the study?",
+    "The study involved 40 healthy, physically active adults consisting of 31 men and nine women [1]."
+   ],
+   [
+    "What temperature was the cold water immersion?",
+    "The cold water immersion was carried out in water that was 10 C [1]."
+   ],
+   [
+    "What did hot water immersion do?",
+    "Hot water immersion increased levels of heat shock protein 72, which supports cellular repair and protection [1]."
+   ],
+   [
+    "Did ice baths help with soreness?",
+    "Cold water immersion appeared more effective at reducing perceptions of muscle soreness [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.scientificamerican.com/article/do-ice-baths-help-muscles-recover-after-a-workout-a-new-study-suggests-not/",
+    "status": 200,
+    "title": "Why an ice bath may be worse than doing nothing to recover after a workout",
+    "domain": "scientificamerican.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T16:00:00Z",
+  "addedAt": "2026-11-14T17:37:52Z",
+  "audio": "audio/why-ice-baths-might-slow-down-your-post-workout.mp3",
+  "image": {
+   "src": "img/why-ice-baths-might-slow-down-your-post-workout.jpg",
+   "credit": "Scientific American",
+   "license": "© Scientific American, shown with credit",
+   "page": "https://www.scientificamerican.com/article/do-ice-baths-help-muscles-recover-after-a-workout-a-new-study-suggests-not/",
+   "from_url": "https://static.scientificamerican.com/dam/asset/7bc8f53c-a880-48f3-b78b-96e62867d3f4/ice-baths.jpg?m=1794598845.294&w=1200"
+  }
+ },
+ {
   "id": "stanford-scientists-use-brain-scans-to-predict-a",
   "cat": "ai",
   "tags": [
@@ -14355,77 +14703,6 @@
   }
  },
  {
-  "id": "winning-drone-photos-reveal-stunning-bird-s-eye",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "travel",
-   "photography",
-   "nature",
-   "world"
-  ],
-  "title": "Winning Drone Photos Reveal Stunning Bird's-Eye Views of Our Planet",
-  "snippet": "The 2026 Siena Drone Photo Awards have highlighted incredible aerial photography from across the globe. From vast recycling efforts on Bangladeshi mudflats to colorful carpet fields in Turkey, these images show perspectives hidden from the ground.",
-  "bullets": [
-   "George Steinmetz won overall winner in the 2026 Siena Drone Photo Awards for his photo of ship dismantling in Bangladesh [1].",
-   "Dilek Yurdakul took first place in the People section for her aerial photograph of carpets drying in southern Turkey [1].",
-   "Photographer Isabella Tabacchi captured a glowing red volcanic cone in the remote Argentine Puna using a drone [1]."
-  ],
-  "report": [
-   {
-    "h": "Vast Ship Recycling",
-    "t": "Photographer George Steinmetz captured a dismantling effort on the mudflats of Bangladesh using a drone [1]. A crew of 60 men break down liquid natural gas tankers to harvest scrap metal for overseas resale [1]."
-   },
-   {
-    "h": "Sun-Cured Carpets",
-    "t": "In southern Turkey, thousands of handmade rugs are spread across open fields to face intense Mediterranean sunlight [1]. Lawyer and photographer Dilek Yurdakul captured this tradition, which softly fades vibrant carpet hues into muted tones [1]."
-   },
-   {
-    "h": "Volcanoes And Soda Lakes",
-    "t": "Other praised photos captured active volcanoes in Indonesia and flamingos over Tanzania's highly alkaline Lake Natron [1]. These unique aerial views show complex geological patterns and natural wildlife adaptations that remain unseen from ground level [1]."
-   }
-  ],
-  "why": "Exploring aerial perspectives can spark creative inspiration and offer a fresh view on how humans and nature interact across the world [1].",
-  "tryit": "Look up satellite imagery of your local area on Google Earth today to discover unexpected hidden landscapes from above [1].",
-  "qa": [
-   [
-    "Who won the overall prize in the 2026 Siena Drone Photo Awards?",
-    "George Steinmetz won the top prize for his photograph of a dismantled natural gas tanker in Bangladesh [1]."
-   ],
-   [
-    "Why are carpets spread out across fields in southern Turkey?",
-    "Handmade rugs are exposed to intense sunlight for weeks to create softly faded, highly sought-after colours [1]."
-   ],
-   [
-    "How do flamingos survive in the caustic waters of Lake Natron?",
-    "They have scaly skin on their legs to protect against chemical burns and salt glands to filter out excess salt [1]."
-   ],
-   [
-    "What tool did photographer Isabella Tabacchi use to study the landscape in Kazakhstan?",
-    "She spent hours studying satellite imagery before exploring the desert region in a 4x4 vehicle [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
-    "status": 200,
-    "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs, rugs!",
-    "domain": "npr.org"
-   }
-  ],
-  "date": "2026-10-31",
-  "publishedAt": "2026-10-31T11:56:10Z",
-  "addedAt": "2026-11-04T23:38:36Z",
-  "audio": "audio/winning-drone-photos-reveal-stunning-bird-s-eye.mp3",
-  "image": {
-   "src": "img/winning-drone-photos-reveal-stunning-bird-s-eye.jpg",
-   "credit": "NPR",
-   "license": "© NPR, shown with credit",
-   "page": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
-   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x4500+0+414/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2Fdd%2F7ca94032447789d52228608bf99e%2Fnc-shipbreaking-on-the-mudflats-bay-of-bengal-george-steinmetz.jpg"
-  }
- },
- {
   "id": "tech-worker-turns-vintage-truck-into-mobile-book",
   "cat": "money",
   "tags": [
@@ -14851,77 +15128,6 @@
    "license": "© Entrepreneur, shown with credit",
    "page": "https://www.entrepreneur.com/building-a-business/how-to-decide-whether-to-build-in-house-buy-an-existing-solution-or-partner-with-another-company",
    "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/partnerships-or-build-in-house-1026_g2223152873.jpg"
-  }
- },
- {
-  "id": "could-a-common-b-vitamin-derivative-help-manage",
-  "cat": "health",
-  "tags": [
-   "health",
-   "skin",
-   "psoriasis",
-   "vitamins",
-   "supplements"
-  ],
-  "title": "Could a Common B-Vitamin Derivative Help Manage Psoriasis Symptoms?",
-  "snippet": "New research indicates that pantethine, a derivative of vitamin B5, may help reduce psoriasis symptoms. A small study showed promising results for patients using this supplement alongside standard treatments.",
-  "bullets": [
-   "Researchers discovered that pantethine limits the activity of immune cells that contribute to autoimmune conditions like psoriasis [1].",
-   "A small trial of 24 patients found that those given pantethine tablets for 12 weeks saw improved symptoms [1].",
-   "The study suggests that replenishing pantethine levels may help suppress the dendritic cell activation linked to psoriasis [1]."
-  ],
-  "report": [
-   {
-    "h": "Understanding the mechanism",
-    "t": "Psoriasis is an autoimmune condition involving the hyperactivation of dendritic cells, which coordinate immune responses and inflammation [1]. Researchers found that elevated levels of Vanin enzymes in these cells reduce pantethine, leading to increased cholesterol synthesis and inflammation [1]."
-   },
-   {
-    "h": "Promising trial results",
-    "t": "In a proof-of-concept trial involving 24 patients, those who received pantethine tablets alongside ointment treatment showed improved symptoms over 12 weeks [1]. The benefits were particularly notable in patients who had elevated blood cholesterol levels at the start of the study [1]."
-   },
-   {
-    "h": "A potential new strategy",
-    "t": "Pantethine is a widely available nutritional supplement already used to help lower cholesterol levels [1]. This research provides a foundation for using pantethine as an adjunctive therapy for autoimmune diseases driven by dendritic cells [1]."
-   }
-  ],
-  "why": "If you manage skin health or are interested in how metabolic pathways affect autoimmune conditions, this highlights a potential, non-invasive nutritional approach to discuss with your healthcare provider.",
-  "tryit": "Speak with your GP or a dermatologist about whether pantethine or other nutritional supplements might be appropriate for your specific skin health needs.",
-  "qa": [
-   [
-    "What is pantethine?",
-    "It is a derivative of vitamin B5 and a widely available nutritional supplement often used to lower cholesterol [1]."
-   ],
-   [
-    "How long did the human trial last?",
-    "The trial lasted for 12 weeks [1]."
-   ],
-   [
-    "How many people were in the human trial?",
-    "The small proof-of-concept trial included 24 psoriasis patients [1]."
-   ],
-   [
-    "Does this cure psoriasis?",
-    "The article notes that psoriasis is an autoimmune condition with no cure, but pantethine showed encouraging results in reducing symptoms [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/b-vitamin-supplement-can-treat-psoriasis/",
-    "status": 200,
-    "title": "B-Vitamin Supplement Can Treat Psoriasis, a Skin Condition with No Cure",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-10-31",
-  "publishedAt": "2026-10-31T15:22:53Z",
-  "addedAt": "2026-11-03T23:31:44Z",
-  "audio": "audio/could-a-common-b-vitamin-derivative-help-manage.mp3",
-  "image": {
-   "src": "img/could-a-common-b-vitamin-derivative-help-manage.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/b-vitamin-supplement-can-treat-psoriasis/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Skin-psoriasis-before-after-by-2026-Cao-at-State-Key-Laboratory-of-Biomedical-Analysis-via-SWNS.jpeg"
   }
  },
  {
@@ -15906,74 +16112,6 @@
   }
  },
  {
-  "id": "eighty-eight-year-old-widowed-retirees-find-love",
-  "cat": "laugh",
-  "tags": [
-   "psychology",
-   "mind"
-  ],
-  "title": "Eighty-Eight-Year-Old Widowed Retirees Find Love Again After Meeting in Gym",
-  "snippet": "Two widowed retirees aged 88 have found love again after meeting among the barbells at an Oscott Retirement Village gym in Birmingham.",
-  "bullets": [
-   "Barbara Thompson and Fred Jenkins both lost their long-term partners before meeting at the gym [1].",
-   "Fred is a former Army physical training instructor who began coaching Barbara during her workout sessions [1].",
-   "The couple now spend almost every day side by side while keeping their independent apartments [1]."
-  ],
-  "report": [
-   {
-    "h": "Meeting at the Gym",
-    "t": "Barbara moved into the Oscott Retirement Village in Birmingham ten years ago after losing her husband. Fred is a former Army PT instructor whose wife died three years ago [1]."
-   },
-   {
-    "h": "Romance Blossoms",
-    "t": "After Barbara's friend stopped attending, Barbara kept turning up on Mondays, Wednesdays and Fridays. Fred began coaching her, leading to shared laughter and a new romance [1]."
-   },
-   {
-    "h": "A New Life",
-    "t": "The pair now hit the gym three times a week, play darts and dominoes, garden, dance, and went on their first vacation together [1]."
-   }
-  ],
-  "why": "This uplifting story highlights companionship and proves that unexpected positive changes can happen at any stage of life.",
-  "tryit": "Reflect on a routine activity you can join this week to meet new people in your local community, such as a class or group.",
-  "qa": [
-   [
-    "How old are Barbara and Fred?",
-    "They are both 88 years old [1]."
-   ],
-   [
-    "Where did they meet?",
-    "They met in the gym at the Oscott Retirement Village in Birmingham [1]."
-   ],
-   [
-    "What was Fred's former career?",
-    "Fred was an Army PT instructor [1]."
-   ],
-   [
-    "Do they plan to move in together?",
-    "No, they continue living in their own apartments to keep their independence [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/",
-    "status": 200,
-    "title": "Retirees Who Lost Spouses Fall in Love Again at 88, After Meeting in the Gym",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-10-31",
-  "publishedAt": "2026-10-31T13:21:50Z",
-  "addedAt": "2026-11-03T04:15:06Z",
-  "audio": "audio/eighty-eight-year-old-widowed-retirees-find-love.mp3",
-  "image": {
-   "src": "img/eighty-eight-year-old-widowed-retirees-find-love.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Seniors-working-out-w-weights-in-gym-by-ExtraCare-Charitable-Trust-via-SWNS.jpeg"
-  }
- },
- {
   "id": "four-ways-to-improve-your-homepage-messaging-and",
   "cat": "english",
   "tags": [
@@ -16603,76 +16741,6 @@
    "license": "© Smithsonian, shown with credit",
    "page": "https://www.smithsonianmag.com/smart-news/do-spiders-dream-these-arachnids-twitch-curl-their-legs-and-move-their-eyes-when-asleep-hinting-at-a-complex-brain-state-180989789/",
    "from_url": "https://th-thumbnailer.cdn-si-edu.com/ZlSBAYB5Zz6ebvhljdb2IuitpOU=/fit-in/1600x0/filters:focal(960x549:961x550)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/66/cb661819-91bb-4971-b3c5-86ad1beb3672/leadimagesize.webp"
-  }
- },
- {
-  "id": "building-a-custom-ai-gadget-for-fifty-dollars-in",
-  "cat": "laugh",
-  "tags": [
-   "ai",
-   "gadgets",
-   "coding",
-   "money"
-  ],
-  "title": "Building a custom AI gadget for fifty dollars instead of buying one",
-  "snippet": "A tech enthusiast built their own AI-powered pendant using a fifty-dollar devkit and Claude. By adding custom code, they created a device that functions like a Tamagotchi and a pocket watch.",
-  "bullets": [
-   "The Waveshare ESP32-S3 1.75C devkit costs fifty dollars and can be programmed to act as an AI gadget [1].",
-   "The user added a British AI voice from ElevenLabs and created a Tamagotchi-style minigame with four levels of hunger, boredom, and dirt [1].",
-   "The device now functions as a pocket watch, with a face that took fifteen minutes to program [1]."
-  ],
-  "report": [
-   {
-    "h": "The DIY approach",
-    "t": "The author purchased a 1.75-inch touchscreen computer pendant for fifty dollars [1]. This device, the Waveshare ESP32-S3 1.75C, is an officially sanctioned devkit for building Muse Gadgets [1]."
-   },
-   {
-    "h": "Customising with AI",
-    "t": "Using Claude, the author added features that were missing from the standard build [1]. This included a conversation history page, a British AI voice, and a remote camera shutter for their phone [1]."
-   },
-   {
-    "h": "Adding fun features",
-    "t": "The author programmed a Tamagotchi-like game with four levels of hunger, boredom, and dirt [1]. They also added a working pocket watch face in just fifteen minutes [1]."
-   }
-  ],
-  "why": "This project shows how you can use AI coding assistants to turn affordable hardware into a custom, functional tool without needing prior programming experience. It highlights the potential for personalising tech to fit your specific needs rather than relying on pre-built consumer products.",
-  "tryit": "Research the Waveshare ESP32-S3 1.75C devkit online to see if it fits your interest in building custom AI hardware. If you have a coding project in mind, try using an AI assistant like Claude to help write or debug the initial code.",
-  "qa": [
-   [
-    "How much did the devkit cost?",
-    "The Waveshare ESP32-S3 1.75C cost fifty dollars [1]."
-   ],
-   [
-    "Can the device control smart home gadgets?",
-    "It can theoretically control smart home devices if you inject enough extra vibe code [1]."
-   ],
-   [
-    "Did the author have coding experience?",
-    "The author states they have no coding experience [1]."
-   ],
-   [
-    "How long did it take to build the pocket watch face?",
-    "It took fifteen minutes to build a working pocket watch face with three hands [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "status": 200,
-    "title": "I built an AI Tamagotchi before Meta could",
-    "domain": "theverge.com"
-   }
-  ],
-  "date": "2026-10-31",
-  "publishedAt": "2026-10-31T16:05:00Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/building-a-custom-ai-gadget-for-fifty-dollars-in.mp3",
-  "image": {
-   "src": "img/building-a-custom-ai-gadget-for-fifty-dollars-in.jpg",
-   "credit": "The Verge",
-   "license": "© The Verge, shown with credit",
-   "page": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4%2C9.7534360513847%2C96%2C75.393048208485&w=1200"
   }
  },
  {
@@ -18917,148 +18985,6 @@
    "license": "© The Guardian, shown with credit",
    "page": "https://www.theguardian.com/global/2026/nov/01/the-truth-about-testicles-are-we-facing-spermageddon",
    "from_url": "https://i.guim.co.uk/img/media/04ba0f986fb0902b007d564d85c9ddd8b40a2add/448_0_4510_3608/master/4510.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7fba8b24e502d09a8d2d8b52cda7685f"
-  }
- },
- {
-  "id": "archaeologists-discover-4-000-year-old-defensive",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "history",
-   "travel"
-  ],
-  "title": "Archaeologists Discover 4,000-Year-Old Defensive Wall in Morocco",
-  "snippet": "Archaeologists in north-west Morocco have uncovered a 4,000-year-old defensive wall system at Oued Beht. The structure is the earliest known large-scale defensive building in North Africa outside Egypt. It shows that ancient local communities were highly organized and connected across the Mediterranean.",
-  "bullets": [
-   "The wall system at Oued Beht dates back 4,000 to 3,500 years [1].",
-   "It is the earliest confirmed defensive structure in North Africa outside Egypt [1].",
-   "The same location was reused in the 11th to 13th centuries AD with a rebuilt wall and farm [1]."
-  ],
-  "report": [
-   {
-    "h": "Ancient Defensive Structure",
-    "t": "Archaeologists excavating at Oued Beht in north-west Morocco uncovered a defensive wall system dating back 4,000 to 3,500 years [1]. Built across a narrow ridge between a river and a ravine, it represents the earliest confirmed large-scale defensive construction in North Africa outside Egypt [1]."
-   },
-   {
-    "h": "Complex Regional Networks",
-    "t": "The structure required planning, coordination, and labor mobilization, showing that local societies were structured and organized [1]. The findings indicate that communities in north-west Africa actively participated in broader Mediterranean networks alongside groups in regions like modern Spain and Portugal [1]."
-   },
-   {
-    "h": "Repeated Medieval Settlement",
-    "t": "Research revealed that the same strategic ridge became a focal point again during the 11th to 13th centuries AD [1]. Medieval inhabitants rebuilt the defensive structure, established a farm on a nearby hilltop, and buried people in a local cemetery [1]."
-   }
-  ],
-  "why": "If you enjoy surprising history and travel, this discovery shows how ancient societies in North Africa were far more connected and organized than long believed [1].",
-  "tryit": "Look up archaeological maps of the western Mediterranean to explore how ancient communities interacted across regions.",
-  "qa": [
-   [
-    "Where was the ancient wall discovered?",
-    "It was discovered on a strategic ridge at Oued Beht in north-west Morocco [1]."
-   ],
-   [
-    "How old is the structure?",
-    "The defensive wall system dates back 4,000 to 3,500 years [1]."
-   ],
-   [
-    "Why was the wall likely built?",
-    "It was likely built due to competition over land, resources, and control of movement through the landscape [1]."
-   ],
-   [
-    "What else was discovered from earlier periods at the site?",
-    "An earlier farming complex from 5,400 to 4,900 years ago yielded barley, wheat, stone axes, and decorated pottery [1]."
-   ],
-   [
-    "How was the site used in the medieval period?",
-    "Between the 11th and 13th centuries AD, people rebuilt the wall, established a farm on a nearby hilltop, and created a cemetery [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
-    "status": 200,
-    "title": "A mysterious 4,000-year-old wall is rewriting North Africaâs history",
-    "domain": "sciencedaily.com"
-   }
-  ],
-  "date": "2026-10-31",
-  "publishedAt": "2026-10-31T13:09:49Z",
-  "addedAt": "2026-11-01T22:08:32Z",
-  "audio": "audio/archaeologists-discover-4-000-year-old-defensive.mp3",
-  "image": {
-   "src": "img/archaeologists-discover-4-000-year-old-defensive.jpg",
-   "credit": "ScienceDaily",
-   "license": "© ScienceDaily, shown with credit",
-   "page": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
-   "from_url": "https://www.sciencedaily.com/images/1920/wall-discovered-at-oued-beht.webp"
-  }
- },
- {
-  "id": "is-ai-your-new-wingman-how-chatbots-are-transfor",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "psychology"
-  ],
-  "title": "Is AI your new wingman? How chatbots are transforming modern romance",
-  "snippet": "Almost 40% of British singles now use AI for romantic advice, ranging from crafting messages to vetting potential partners. While younger generations embrace these chatbots as dating mentors, some users worry about offloading their communication.",
-  "bullets": [
-   "A survey by Match Group found that 39% of British singles have used AI in their dating lives [1].",
-   "Usage rises to 66% among generation Z and 53% for millennials [1].",
-   "Common tasks include planning dates, writing messages, and vetting whether profiles are genuine [1]."
-  ],
-  "report": [
-   {
-    "h": "The rise of AI dating",
-    "t": "Match Group surveyed 3,000 British singles and found that nearly 40% use artificial intelligence for romantic advice [1]. Younger generations drive this trend, with 66% of gen Z and 53% of millennials using AI tools [1]."
-   },
-   {
-    "h": "How singles use chatbots",
-    "t": "Users employ chatbots like Google Gemini and ChatGPT to draft messages, plan dates, and spot potential red flags in conversations [1]. Some singles also use AI as a coaching mentor to feel more secure and avoid rushing into things [1]."
-   },
-   {
-    "h": "Risks and future limits",
-    "t": "About a third of UK singles would end a date if they discovered AI wrote their partner's messages [1]. Match Group's head of trust and safety also noted a hard stance against fully autonomous bot-to-bot dating [1]."
-   }
-  ],
-  "why": "As someone interested in AI agents and practical automation, you might find this shift in how people delegate personal tasks fascinating.",
-  "tryit": "Consider how you might responsibly test AI tools to streamline repetitive tasks without losing your personal voice.",
-  "qa": [
-   [
-    "What percentage of British singles use AI for dating?",
-    "Almost 40% of British singles have used AI for romantic advice [1]."
-   ],
-   [
-    "Which generation uses AI the most in romance?",
-    "Gen Z has the highest usage at 66%, followed by millennials at 53% [1]."
-   ],
-   [
-    "What is the most common use of AI in dating?",
-    "Getting advice about someone, planning dates, practising conversations, and writing profiles or messages [1]."
-   ],
-   [
-    "Would people date someone who used AI for messages?",
-    "About a third of UK singles said they would end a date if they found out AI wrote the messages [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating",
-    "status": 200,
-    "title": "Is AI your new wingman? How chatbots are transforming dating",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-10-31",
-  "publishedAt": "2026-10-31T12:00:42Z",
-  "addedAt": "2026-11-01T22:08:32Z",
-  "audio": "audio/is-ai-your-new-wingman-how-chatbots-are-transfor.mp3",
-  "image": {
-   "src": "img/is-ai-your-new-wingman-how-chatbots-are-transfor.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating",
-   "from_url": "https://i.guim.co.uk/img/media/f57dcf1a8bbea5c0f23d491b38cd69b5b7d99f18/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=970518a169b059b264b00406218a4aab"
   }
  },
  {
