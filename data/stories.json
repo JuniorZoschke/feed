@@ -1,5 +1,1751 @@
 [
  {
+  "id": "ai-tools-find-code-bugs-fast-but-human-reviewers",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "science"
+  ],
+  "title": "AI tools find code bugs fast, but human reviewers face a severe bottleneck",
+  "snippet": "AI systems are generating massive waves of bug reports and patches, leaving human maintainers overwhelmed. While finding bugs is now easy, reviewing and fixing them has created a massive human bottleneck.",
+  "bullets": [
+   "Microsoft’s FORGE Lab reported that its MDASH AI scanning system found 59 upstream Linux kernel bug reports [1].",
+   "For 2026, the Linux CVE team reported an average of 27 CVEs a day [1].",
+   "Kernel maintainer Lorenzo Stoakes stepped down from reviewing code due to the high volume of AI-generated series [1]."
+  ],
+  "report": [
+   {
+    "h": "AI finding bugs",
+    "t": "Microsoft's MDASH AI scanning system found 59 upstream Linux kernel bug reports, including a 21-year-old flaw [1]. In Windows Patch Tuesday, Microsoft reported 726 CVEs, mostly coming from AI programmers [1]."
+   },
+   {
+    "h": "The human bottleneck",
+    "t": "Finding bugs is no longer difficult, but reviewing and fixing them has created a major imbalance [1]. Human effort is now the primary bottleneck, leaving maintainers overworked and struggling to keep up [1]."
+   },
+   {
+    "h": "Mixed industry views",
+    "t": "Some maintainers note that AI fixes are starting to outpace reports in areas like bpf [1]. Other leaders remain cautious about when human-approved fixes will fully catch up with the incoming flood [1]."
+   }
+  ],
+  "why": "This matters because understanding the current AI coding landscape helps you navigate software bottlenecks and spot workflow opportunities.",
+  "tryit": "Review your own software projects or automation pipelines to ensure you have enough bandwidth for reviewing AI-generated code before integrating it.",
+  "qa": [
+   [
+    "How many CVEs did the Linux team report on average for 2026?",
+    "An average of 27 CVEs a day through November 2 [1]."
+   ],
+   [
+    "What system did Microsoft's FORGE Lab use to find Linux bugs?",
+    "An AI scanning system named MDASH [1]."
+   ],
+   [
+    "Why did kernel maintainer Lorenzo Stoakes stop reviewing code?",
+    "He lacked the general bandwidth to offer reviews due to the throughput of AI-generated series [1]."
+   ],
+   [
+    "What did Linux Torvalds say about AI fixes in the Linux 7.4 rc 2?",
+    "Much of the new code was driven by various AI fixes [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
+    "status": 200,
+    "title": "'We need more reviewers': Finding Linux bugs is easy now - fixing them is another story - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T01:20:06Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/ai-tools-find-code-bugs-fast-but-human-reviewers.mp3",
+  "image": {
+   "src": "img/ai-tools-find-code-bugs-fast-but-human-reviewers.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-10167204.jpg"
+  }
+ },
+ {
+  "id": "roku-drops-smart-home-products-to-focus-entirely",
+  "cat": "adhd",
+  "tags": [
+   "business",
+   "strategy",
+   "focus"
+  ],
+  "title": "Roku drops smart home products to focus entirely on streaming",
+  "snippet": "Roku is winding down sales of its smart home hardware to sharpen its focus on its core streaming mission after its acquisition by Fox.",
+  "bullets": [
+   "Roku plans to wind down sales of smart home hardware while providing continued support for existing products [1].",
+   "The formal sale of Roku to Fox closed on Nov. 6 [1].",
+   "Financial disclosures noted that smart home gear does not contribute to streaming hours or revenue [1]."
+  ],
+  "report": [
+   {
+    "h": "Core Focus",
+    "t": "Roku is stepping back from smart home gear to concentrate on its core mission as a streaming platform [1]."
+   },
+   {
+    "h": "Recent Sale",
+    "t": "The company was recently acquired by Fox, with the formal sale closing on Nov. 6 [1]."
+   },
+   {
+    "h": "Retail Changes",
+    "t": "Many Roku listings at retailers like Amazon, Walmart, and Home Depot have been removed or marked for clearance [1]."
+   }
+  ],
+  "why": "Understanding how a major company ruthless-prunes non-core activities to refocus on a primary mission offers a great mental model for managing complex business projects or personal focus.",
+  "tryit": "Audit your own current projects or daily tasks today, and write down one major distraction to drop so you can concentrate fully on your core goal.",
+  "qa": [
+   [
+    "Why is Roku dropping smart home products?",
+    "The company wants to sharpen its focus on being the top streaming platform [1]."
+   ],
+   [
+    "When did the sale of Roku to Fox close?",
+    "The formal sale closed on Nov. 6 [1]."
+   ],
+   [
+    "What will happen to existing Roku Smart Home products?",
+    "Roku will provide continued support and services for Roku Smart Home products [1]."
+   ],
+   [
+    "Where have Roku listings been removed?",
+    "Listings have been removed or marked for clearance at retailers like Home Depot, Amazon, and Walmart [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products/",
+    "status": 200,
+    "title": "Roku drops smart home products to focus on streaming - what that means for your devices - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T18:43:08Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/roku-drops-smart-home-products-to-focus-entirely.mp3",
+  "image": {
+   "src": "img/roku-drops-smart-home-products-to-focus-entirely.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg"
+  }
+ },
+ {
+  "id": "netflix-creator-explores-messy-first-queer-love",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "relationships",
+   "mind"
+  ],
+  "title": "Netflix Creator Explores Messy First Queer Love in The Body",
+  "snippet": "Netflix releases The Body, a queer supernatural teen drama created by Quinn Shephard. The show explores the messy realities of young queer relationships.",
+  "bullets": [
+   "The supernatural horror drama series premiered on Wednesday with an 83 percent critics rating and a 98 percent audience rating on Rotten Tomatoes [1].",
+   "Creator Quinn Shephard set the eight-episode series around Halloween 2004 to capture a time when social standing felt threatened [1].",
+   "The show stars newcomers alongside familiar faces like The Traitors winner Gabby Windey [1]."
+  ],
+  "report": [
+   {
+    "h": "New Netflix Drama",
+    "t": "The psychological drama series The Body launched on Netflix on Wednesday [1]. Creator Quinn Shephard designed it as an unsanitised first queer love story [1]."
+   },
+   {
+    "h": "Setting And Themes",
+    "t": "The show is set around Halloween 2004 and follows a Catholic school dance troupe experiencing mass hysteria [1]. It draws on nineties and Y2K teen movies and erotic thrillers [1]."
+   },
+   {
+    "h": "Cast And Reception",
+    "t": "The eight-episode series earned an 83 percent critics rating and a 98 percent audience rating on Rotten Tomatoes [1]. The cast includes Kristina Bogic, Sara Boustany, and Gabby Windey [1]."
+   }
+  ],
+  "why": "It highlights the value of embracing emotional honesty and self-compassion when reflecting on past relationships and personal history.",
+  "tryit": "Reflect on a past teenage experience with self-compassion by journaling about how far your emotional understanding has grown since then.",
+  "qa": [
+   [
+    "Who created the show?",
+    "The series was created by Quinn Shephard [1]."
+   ],
+   [
+    "When is the series set?",
+    "The show is set around Halloween 2004 [1]."
+   ],
+   [
+    "What are the Rotten Tomatoes ratings?",
+    "It received an 83 percent critics rating and a 98 percent audience rating [1]."
+   ],
+   [
+    "How many episodes are in the series?",
+    "The series consists of eight episodes [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.thepinknews.com/2026/11/13/netflix-the-body-lesbian-teen-drama-cast/",
+    "status": 200,
+    "title": "Netflix's The Body creator wanted a ‘messy’ lesbian teen drama",
+    "domain": "thepinknews.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T12:11:26Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/netflix-creator-explores-messy-first-queer-love.mp3",
+  "image": {
+   "src": "img/netflix-creator-explores-messy-first-queer-love.jpg",
+   "credit": "PinkNews",
+   "license": "© PinkNews, shown with credit",
+   "page": "https://www.thepinknews.com/2026/11/13/netflix-the-body-lesbian-teen-drama-cast/",
+   "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/the-bdy.jpg"
+  }
+ },
+ {
+  "id": "automating-creator-outreach-with-nectar-s-new-ai",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "negotiation"
+  ],
+  "title": "Automating creator outreach with Nectar's new AI agent system",
+  "snippet": "Nectar has launched an AI agent designed to automate creator discovery, outreach, and relationship management for brands. The tool searches millions of profiles, sends personalized messages, and handles contracts without spreadsheets [1].",
+  "bullets": [
+   "Nectar launched a new Creator Agent to automate influencer marketing tasks like finding creators and tracking campaign results [1].",
+   "The system searches over 300 million creator profiles and analyzes videos for brand safety and context [1].",
+   "The agent can draft personalized messages, coordinate collaborations, and manage contracts and shipping details [1]."
+  ],
+  "report": [
+   {
+    "h": "Automated Creator Discovery",
+    "t": "Nectar has launched a new Creator Agent that searches through more than 300 million creator profiles to find potential brand partners [1]. The tool analyzes video content and context to check brand safety rather than relying on simple keyword searches [1]."
+   },
+   {
+    "h": "Streamlining Outreach",
+    "t": "Once matches are found, the agent drafts and sends personalized messages in the specific voice of the brand [1]. It also remembers past interactions, manages contracts, and coordinates product gifting without the need for manual spreadsheets [1]."
+   },
+   {
+    "h": "Integration Options",
+    "t": "The Creator Agent is available globally for Instagram and TikTok creators [1]. Nectar plans to offer the agent through the Model Context Protocol, allowing teams to use it via assistants like Claude, ChatGPT, Gemini, and Copilot [1]."
+   }
+  ],
+  "why": "This tool shows how AI agents can take over repetitive administrative workflows like outreach and relationship tracking, freeing up time for high-value strategy and negotiation.",
+  "tryit": "Explore how Model Context Protocol (MCP) and agentic workflows are changing outreach by testing a custom prompt in Claude or ChatGPT to draft personalized partnership messages based on a specific brand voice.",
+  "qa": [
+   [
+    "What does Nectar's Creator Agent do?",
+    "It automates creator discovery, checks content for brand safety, sends personalized messages, coordinates collaborations, and monitors campaign performance [1]."
+   ],
+   [
+    "How many creator profiles does the agent search?",
+    "It searches more than 300 million creator profiles to find potential partners [1]."
+   ],
+   [
+    "Which platforms does the Creator Agent cover?",
+    "It covers Instagram creators and TikTokers globally [1]."
+   ],
+   [
+    "How can teams access the new agent?",
+    "It is available today globally and will be accessible through the Model Context Protocol in AI assistants like Claude, ChatGPT, Gemini, and Copilot [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "status": 200,
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T19:11:00Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/automating-creator-outreach-with-nectar-s-new-ai.mp3",
+  "image": {
+   "src": "img/automating-creator-outreach-with-nectar-s-new-ai.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/Nectar_OliverL_3199.jpg?resize=1200,800"
+  }
+ },
+ {
+  "id": "pixel-users-receive-gemini-intelligence-in-major",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "android",
+   "pixel",
+   "tech",
+   "tools"
+  ],
+  "title": "Pixel users receive Gemini Intelligence in major Android Auto update",
+  "snippet": "Gemini Intelligence is coming to Android Auto for eligible Pixel users, allowing the AI to pull info from your apps and surface it on your car screen [1].",
+  "bullets": [
+   "Gemini Intelligence is expanding to the Pixel 10 and select other devices, bringing advanced AI to cars [1].",
+   "The system can gather info from your apps, such as finding a confirmation email for a meeting spot when a friend texts you [1].",
+   "Users need the Gemini app and setup, and must be 18 or older in select countries [1]."
+  ],
+  "report": [
+   {
+    "h": "Android Auto Update",
+    "t": "Gemini Intelligence is spreading to the Pixel 10, Motorola Signature 27, and several Samsung Galaxy foldables and flagship phones [1]. Pixel users get exclusive first access to this new in-car AI integration [1]."
+   },
+   {
+    "h": "Cross-App Tasks",
+    "t": "The assistant can pull information from your messages and emails to suggest details with a single tap on your infotainment screen [1]. It helps complete complex cross-app tasks while you focus on driving [1]."
+   },
+   {
+    "h": "Intelligence Tiers",
+    "t": "Gemini Intelligence draws on sensitive data like messages to be proactive [1]. Non-Pixel Android phones use Personal Intelligence instead, which relies solely on data from Google services like Maps, Photos, and Gmail [1]."
+   }
+  ],
+  "why": "This shows how mobile AI agents are shifting from reactive search tools to proactive assistants that manage cross-app tasks for you.",
+  "tryit": "Check your phone for the Gemini app setup requirements and ensure your Android Auto software is updated if you use a compatible device.",
+  "qa": [
+   [
+    "Which phones get Gemini Intelligence in Android Auto first?",
+    "Eligible Pixel users get the feature first [1]."
+   ],
+   [
+    "What age requirement is there for the feature?",
+    "Users must be aged 18 and older [1]."
+   ],
+   [
+    "What is the difference between Gemini Intelligence and Personal Intelligence?",
+    "Gemini Intelligence draws on sensitive data like messages for proactive help, while Personal Intelligence relies solely on Google services like Maps, Photos, and Gmail [1]."
+   ],
+   [
+    "Can non-Pixel Android phones use Personal Intelligence?",
+    "Yes, non-Pixel Android phones and those without Gemini Intelligence can use Personal Intelligence [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
+    "status": 200,
+    "title": "Pixel users are getting a major Android Auto update - and it rivals Siri AI - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T17:11:19Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/pixel-users-receive-gemini-intelligence-in-major.mp3",
+  "image": {
+   "src": "img/pixel-users-receive-gemini-intelligence-in-major.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/38545acc-df59-4d4a-b19d-d4057d0b306e.jpg"
+  }
+ },
+ {
+  "id": "how-upcoming-siri-ai-integrations-will-let-you-a",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "travel"
+  ],
+  "title": "How Upcoming Siri AI Integrations Will Let You Automate Third-Party Apps",
+  "snippet": "New betas for iOS, iPadOS, MacOS, and VisionOS expand Siri AI support to all third-party developers using App Intents. This update allows users to perform complex, multi-step actions across different apps using natural language.",
+  "bullets": [
+   "Apple is expanding Siri AI support to all third-party developers through public and developer betas for iOS 27.3, iPadOS 27.3, MacOS 27.3, and VisionOS 27.3 [1].",
+   "Using a feature known as App Intents, Siri AI can handle tasks like organizing your inbox, editing photos, and analyzing your current screen [1].",
+   "Developers can bring their app content and actions directly into Siri AI to enable custom actions like checking deliveries and booking reservations [1]."
+  ],
+  "report": [
+   {
+    "h": "Third-Party App Integration",
+    "t": "New developer betas for iOS 27.3, iPadOS 27.3, MacOS 27.3, and VisionOS 27.3 allow all developers to integrate fully with Siri AI [1]. This lets users interact with external apps using natural language instead of manually opening them [1]."
+   },
+   {
+    "h": "Advanced App Intents",
+    "t": "Introduced in 2022 with iOS 16, App Intents let you combine several actions in one shot and work across multiple apps [1]. Siri AI adds personal context understanding, on-screen awareness, and natural language skills to these tasks [1]."
+   },
+   {
+    "h": "Complex Multi-Step Tasks",
+    "t": "Users can execute commands like checking a delivery, booking a reservation, or placing an order by speaking to Siri in their own words [1]. Developers can bring any custom action into Siri AI to make their services easier to access [1]."
+   }
+  ],
+  "why": "Streamlining your digital tools with upcoming AI agent features can save you time on routine business tasks, research, and travel planning.",
+  "tryit": "Check your device settings for software update availability to explore the latest developer or public betas on your supported Apple devices.",
+  "qa": [
+   [
+    "What feature allows Siri AI to work directly with apps?",
+    "A feature known as App Intents enables Siri AI to work directly with built-in and third-party apps [1]."
+   ],
+   [
+    "Which operating system versions introduce full third-party developer support?",
+    "The iOS 27.3, iPadOS 27.3, MacOS 27.3, and VisionOS 27.3 betas expand support to all third-party developers [1]."
+   ],
+   [
+    "When was the App Intents skill originally introduced?",
+    "The App Intents skill was introduced in 2022 with iOS 16 [1]."
+   ],
+   [
+    "What advanced capabilities does Siri AI bring to app integration?",
+    "Siri AI adds personal context understanding, on-screen awareness, and natural language processing to app actions [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration/",
+    "status": 200,
+    "title": "5 apps I need Siri AI to work with now that it’s open to third-party developers - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T14:38:36Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/how-upcoming-siri-ai-integrations-will-let-you-a.mp3",
+  "image": {
+   "src": "img/how-upcoming-siri-ai-integrations-will-let-you-a.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Libby-app-on-iPhone.jpg"
+  }
+ },
+ {
+  "id": "ai-breakthrough-helps-make-bionic-eye-implants-s",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "science",
+   "health",
+   "brain"
+  ],
+  "title": "AI Breakthrough Helps Make Bionic Eye Implants Smarter and More Precise",
+  "snippet": "Scientists used deep learning to improve how brain implants stimulate the visual cortex. The AI system adapted to individual brain responses, bringing bionic vision a step closer to reality.",
+  "bullets": [
+   "Researchers used a deep learning system to develop electrical stimulation patterns for electrodes implanted in the visual cortex [1].",
+   "In 2024, scientists tested the technology in Spain with a 27-year-old blind man who had a 96-electrode array in his brain [1].",
+   "The AI approach generated intended patterns of neural activity more accurately while requiring less electrical current [1]."
+  ],
+  "report": [
+   {
+    "h": "Smart Brain Implants",
+    "t": "Researchers are using artificial intelligence to improve experimental visual prostheses that stimulate the brain's visual cortex directly [1]. This approach bypasses damaged eyes or optic nerves to help people who have lost their sight [1]."
+   },
+   {
+    "h": "Testing With AI",
+    "t": "A team worked with a 27-year-old man in Spain who had a 96-electrode implant in his visual cortex following a traumatic brain injury [1]. The AI model predicted how his brain would respond to different electrical settings, making the stimulation more accurate and reliable [1]."
+   },
+   {
+    "h": "Personalised Adaptation",
+    "t": "The system used the brain's actual recorded responses and resting activity to adjust signals rather than relying on a fixed recipe [1]. This adaptive feedback loop is a key step toward more effective bionic eyes in the future [1]."
+   }
+  ],
+  "why": "It shows a practical, real-world application of AI and deep learning solving complex biological challenges by adapting to individual human data.",
+  "tryit": "Read the published study in the journal Neuron to explore how deep learning models are structured for neural decoding applications.",
+  "qa": [
+   [
+    "What is the role of AI in this bionic eye research?",
+    "AI is used to predict how the visual cortex responds to electrical stimulation and to select the most effective signal combinations [1]."
+   ],
+   [
+    "Who participated in the 2024 study in Spain?",
+    "The team worked with a 27-year-old man who had become blind following a traumatic brain injury [1]."
+   ],
+   [
+    "How many electrodes were in the participant's brain implant?",
+    "The implant contained 96 electrodes arranged in an array within his visual cortex [1]."
+   ],
+   [
+    "What kind of grant supported the underlying research?",
+    "The research builds on computational work supported by a five-year, $2 million grant from a National Institutes of Health award [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+    "status": 200,
+    "title": "AI-powered bionic eye breakthrough could help the blind see again",
+    "domain": "sciencedaily.com"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T11:55:55Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/ai-breakthrough-helps-make-bionic-eye-implants-s.mp3",
+  "image": {
+   "src": "img/ai-breakthrough-helps-make-bionic-eye-implants-s.jpg",
+   "credit": "ScienceDaily",
+   "license": "© ScienceDaily, shown with credit",
+   "page": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+   "from_url": "https://www.sciencedaily.com/images/1920/beyeler-bionic-eye.webp"
+  }
+ },
+ {
+  "id": "two-centuries-later-a-bog-recovered-bronze-leg-r",
+  "cat": "news",
+  "tags": [
+   "science",
+   "history",
+   "travel"
+  ],
+  "title": "Two Centuries Later, A Bog-Recovered Bronze Leg Reveals A Roman Secret",
+  "snippet": "A bronze leg pulled from a Scottish bog in 1820 was once part of a towering statue of Emperor Antoninus Pius. Researchers found it was carefully decommissioned rather than stolen as loot.",
+  "bullets": [
+   "A larger-than-life gilded bronze lower leg was pulled out of a bog in the Scottish Borders region in 1820 [1].",
+   "Researchers determined the Milsington leg formed part of a colossal equestrian statue of the Roman Emperor Antoninus Pius [1].",
+   "The artifact will be on view at the National Museum of Scotland in Edinburgh from November 14, 2026, through April 18, 2027 [1]."
+  ],
+  "report": [
+   {
+    "h": "A Surprising Discovery",
+    "t": "In 1820, a larger-than-life gilded bronze lower leg was pulled out of a bog in the Scottish Borders region [1]. Historians long assumed the artifact was hacked off a monument in England and hauled north by marauding tribes [1]."
+   },
+   {
+    "h": "Carefully Decommissioned",
+    "t": "Researchers have now determined the leg formed part of a colossal equestrian statue of the Roman Emperor Antoninus Pius [1]. Close inspection reveals the upper edge remains intact as cast by Roman metalworkers, indicating the statue was carefully decommissioned rather than stolen [1]."
+   },
+   {
+    "h": "Exhibition Details",
+    "t": "The Milsington leg is mounted onto a full-scale silhouette reconstruction of a horse and rider for an upcoming museum exhibition [1]. The exhibition runs at the National Museum of Scotland in Edinburgh from November 14, 2026, through April 18, 2027 [1]."
+   }
+  ],
+  "why": "It is a fascinating historical discovery that highlights how ancient artifacts can completely change our understanding of past civilizations.",
+  "tryit": "Plan a visit to the National Museum of Scotland in Edinburgh to see the exhibition when it opens.",
+  "qa": [
+   [
+    "When was the bronze leg found?",
+    "It was pulled out of a bog in 1820 [1]."
+   ],
+   [
+    "Who was the statue believed to represent?",
+    "It is believed to have belonged to a towering statue of the Roman Emperor Antoninus Pius [1]."
+   ],
+   [
+    "Where will the artifact be exhibited?",
+    "It is featured in an exhibition at the National Museum of Scotland in Edinburgh [1]."
+   ],
+   [
+    "When does the exhibition run?",
+    "It runs from November 14, 2026, through April 18, 2027 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smart-news/two-centuries-after-this-bronze-leg-emerged-from-a-scottish-bog-archaeologists-believe-it-may-have-once-belonged-to-a-towering-statue-of-a-roman-emperor-on-horseback-180989872/",
+    "status": 200,
+    "title": "Two Centuries After This Bronze Leg Emerged From a Scottish Bog, Archaeologists Believe It May Have Belonged to a Towering Statue of a Roman Emperor on Horseback",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T21:34:59Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/two-centuries-later-a-bog-recovered-bronze-leg-r.mp3",
+  "image": {
+   "src": "img/two-centuries-later-a-bog-recovered-bronze-leg-r.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smart-news/two-centuries-after-this-bronze-leg-emerged-from-a-scottish-bog-archaeologists-believe-it-may-have-once-belonged-to-a-towering-statue-of-a-roman-emperor-on-horseback-180989872/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/9BkR8cPZme3FaNEyVwvDr571Ydw=/fit-in/1600x0/filters:focal(2701x1801:2702x1802)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bc/81/bc8175f9-ab3c-445f-bcf8-f1950d18ced1/dr_fraser_hunter_with_the_bronze_milsington_leg_photo__duncan_mcglynn_2_1.jpg"
+  }
+ },
+ {
+  "id": "six-surprising-rights-women-won-only-decades-ago",
+  "cat": "news",
+  "tags": [
+   "history",
+   "law",
+   "economics",
+   "travel"
+  ],
+  "title": "Six Surprising Rights Women Won Only Decades Ago",
+  "snippet": "Discover how everyday freedoms like credit cards, jury service, and birth control were restricted for American women until recent decades.",
+  "bullets": [
+   "Before the Equal Credit Opportunity Act of 1974, banks often required a male co-signer for women seeking loans or credit cards [1].",
+   "Title VII of the Civil Rights Act of 1964 made it illegal to discriminate based on sex, though enforcement was initially loose [1].",
+   "All 50 states did not permit women to serve on juries until 1973 [1]."
+  ],
+  "report": [
+   {
+    "h": "Financial Restrictions",
+    "t": "Before the Equal Credit Opportunity Act of 1974, financial institutions turned women away from mortgages and credit cards without a male co-signer [1]. Unmarried women faced strict denials, while married women required their husbands' signatures [1]."
+   },
+   {
+    "h": "Workplace and Education",
+    "t": "Women could be fired for becoming pregnant until the Pregnancy Discrimination Act of 1978 [1]. Many Ivy League colleges also delayed admitting women until the late 1960s and early 1970s [1]."
+   },
+   {
+    "h": "Legal and Civic Rights",
+    "t": "State governments restricted women from serving on juries until 1973 because they were viewed as too fragile or sympathetic [1]. Contraception also faced legal hurdles, remaining illegal for unmarried couples until 1972 [1]."
+   }
+  ],
+  "why": "This historical look at legal evolution highlights how rapidly societal rules and economic access can shift.",
+  "tryit": "Reflect on how modern legal frameworks protect your own professional and financial autonomy today.",
+  "qa": [
+   [
+    "When was the Equal Credit Opportunity Act passed?",
+    "It was passed in 1974 [1]."
+   ],
+   [
+    "When did all 50 states allow women to serve on juries?",
+    "All 50 states allowed women to serve on juries by 1973 [1]."
+   ],
+   [
+    "When did Princeton accept its first female student?",
+    "Princeton accepted its first female student in 1969 [1]."
+   ],
+   [
+    "What year was the birth control pill approved by the FDA?",
+    "The FDA approved the pill in 1957 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.mentalfloss.com/history/law/things-women-couldn-t-legally-do-america-1960s",
+    "status": 200,
+    "title": "6 Things Women Couldn't Legally Do in America in the 1960s",
+    "domain": "mentalfloss.com"
+   }
+  ],
+  "date": "2026-11-15",
+  "publishedAt": "2026-11-15T02:00:00Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/six-surprising-rights-women-won-only-decades-ago.mp3",
+  "image": {
+   "src": "img/six-surprising-rights-women-won-only-decades-ago.jpg",
+   "credit": "Mental Floss",
+   "license": "© Mental Floss, shown with credit",
+   "page": "https://www.mentalfloss.com/history/law/things-women-couldn-t-legally-do-america-1960s",
+   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_21,w_1024,h_576/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01m73fjc0fwc9x4s73cm.jpg"
+  }
+ },
+ {
+  "id": "discover-seven-expert-tested-products-to-keep-yo",
+  "cat": "news",
+  "tags": [
+   "news",
+   "business",
+   "money"
+  ],
+  "title": "Discover Seven Expert Tested Products To Keep Your Car Looking Pristine",
+  "snippet": "Explore independent test results for car cleaning essentials, from high-scoring shampoos to effective handheld vacuums and stain removers.",
+  "bullets": [
+   "A top-rated car wash kit scored 94 percent and impressed experts with its ability to shift mud [1].",
+   "A high-scoring handheld vacuum achieved 82 percent and excelled at picking up small debris and pet hair [1].",
+   "An affordable carpet stain remover scored 97 percent after successfully tackling fresh and dried stains [1]."
+  ],
+  "report": [
+   {
+    "h": "Independent Testing Results",
+    "t": "Independent tests highlight several top-performing products designed to make vehicle maintenance easier and more efficient [1]. These selections include dedicated wheel cleaners, scratch removers, and pressure washers tested across various surfaces [1]."
+   },
+   {
+    "h": "Interior And Exterior Care",
+    "t": "Specialist products help tackle common problems like stubborn brake dust, road grime, and interior crumbs [1]. A high-scoring handheld vacuum reaches awkward spots around car seats with useful attachments [1]."
+   },
+   {
+    "h": "Value And Efficiency",
+    "t": "Selected items combine high performance with great value, such as a stain remover that sailed through tests on tough spills [1]. Choosing the right tools can save time and effort when dealing with seasonal weather mess [1]."
+   }
+  ],
+  "why": "This article offers practical product insights that save time and effort when maintaining your vehicle.",
+  "tryit": "Check consumer test reports before buying vehicle cleaning supplies to find top-scoring, great value options.",
+  "qa": [
+   [
+    "What score did the top car wash kit receive?",
+    "It received a score of 94 percent and a Best Buy recommendation [1]."
+   ],
+   [
+    "How well did the scratch remover perform?",
+    "It did an excellent job of removing shallow scratches after just a few applications [1]."
+   ],
+   [
+    "What features does the recommended hose attachment have?",
+    "It has three spray patterns that hold their shape well and a lightweight, well-balanced design [1]."
+   ],
+   [
+    "What stains did the top carpet stain remover tackle?",
+    "It tackled everything from curry and ketchup to red wine [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/brilliant-which-best-buys-to-keep-your-car-looking-its-best-aXrRk8D2tT5a",
+    "status": 200,
+    "title": "7 brilliant Which? Best Buys to keep your car looking its best - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T10:53:48Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/discover-seven-expert-tested-products-to-keep-yo.mp3",
+  "image": {
+   "src": "img/discover-seven-expert-tested-products-to-keep-yo.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/brilliant-which-best-buys-to-keep-your-car-looking-its-best-aXrRk8D2tT5a",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/8f985eac8274-lead-10.jpg"
+  }
+ },
+ {
+  "id": "walking-the-peaks-of-the-balkans-a-trekking-rout",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "visas",
+   "business",
+   "economics"
+  ],
+  "title": "Walking the Peaks of the Balkans, a Trekking Route With Community At Its Core",
+  "snippet": "Explore the 119-mile Peaks of the Balkans trail across Albania, Kosovo, and Montenegro. Discover how community-led tourism brings new life to remote mountain villages.",
+  "bullets": [
+   "Roughly 43,000 hikers walk the 119-mile Peaks of the Balkans trail each year [1].",
+   "The cross-border tourism project injects more than €25 million annually into the region [1].",
+   "Some busy spots like Dobërdol face heavy volume, while alternative routes remain quiet [1]."
+  ],
+  "report": [
+   {
+    "h": "Trail Reconnects Communities",
+    "t": "Conceived in the early 2010s, the trail bridges borderlands splintered by war and brings economic life back to depopulated villages [1]."
+   },
+   {
+    "h": "Managing Trail Success",
+    "t": "While popular sections like Dobërdol face high volume during the summer season, alternative paths and lesser-known routes offer deep solitude [1]."
+   },
+   {
+    "h": "Local Revival",
+    "t": "Guesthouse owners like Blendi Lajqi turned family homes once left empty by conflict into welcoming stays for international travelers [1]."
+   }
+  ],
+  "why": "This inspiring story shows how small-scale tourism and community initiatives can breathe new economic life into rural border regions.",
+  "tryit": "Plan a self-guided trek or look into emerging long-distance routes like the 225-mile High Scardus Trail for your next adventure.",
+  "qa": [
+   [
+    "How long is the Peaks of the Balkans trek?",
+    "It is a 119-mile inn-to-inn circular trail [1]."
+   ],
+   [
+    "Which countries does the route cross?",
+    "The route crosses Albania, Kosovo, and Montenegro [1]."
+   ],
+   [
+    "How much money does the trail inject into the region annually?",
+    "It injects more than €25 million ($27.7 million USD) annually [1]."
+   ],
+   [
+    "When is the main hiking season?",
+    "The season runs roughly from June through September, with some hikers continuing into early October [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/walking-the-peaks-of-the-balkans-a-trekking-route-with-community-at-its-core",
+    "status": 200,
+    "title": "Walking the Peaks of the Balkans, a Trekking Route With Community At Its Core",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-11-15",
+  "publishedAt": "2026-11-15T10:00:00Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/walking-the-peaks-of-the-balkans-a-trekking-rout.mp3",
+  "image": {
+   "src": "img/walking-the-peaks-of-the-balkans-a-trekking-rout.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/walking-the-peaks-of-the-balkans-a-trekking-route-with-community-at-its-core",
+   "from_url": "https://media.cntraveler.com/photos/6af765b2751ec24c9bfadf89/16:9/w_1280,c_limit/Hiking%20the%20Peaks%20of%20the%20Balkans%20Trail.png"
+  }
+ },
+ {
+  "id": "why-unwavering-cooperators-lower-coordination-ba",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "business",
+   "negotiation",
+   "economics"
+  ],
+  "title": "Why Unwavering Cooperators Lower Coordination Barriers But Weaken Long-Term Participation",
+  "snippet": "A new mathematical modeling study shows that unconditionally cooperative individuals make group efforts easier to start, yet their reliability may encourage others to slack off over the long run [1].",
+  "bullets": [
+   "Unwavering cooperators act as a double-edged sword in group tasks that require a minimum number of contributors to succeed [1].",
+   "Adding a small share of zealots pushed the starting coordination barrier downward so fewer adaptable cooperators were needed to get collective action started [1].",
+   "The models assume that strangers are grouped at random for single, anonymous rounds, meaning individuals cannot recognize unconditional cooperators [1]."
+  ],
+  "report": [
+   {
+    "h": "The Power of Zealots",
+    "t": "Committed minorities can help spark collective action while simultaneously reducing overall participation once coordination takes hold [1]. Researchers used mathematical equations and computer simulations to study multiplayer stag-hunt games containing a minority of zealots [1]."
+   },
+   {
+    "h": "Lowering Coordination Barriers",
+    "t": "Adding a small share of zealots, such as 0.2 zealots per adaptable player in a 15-person game requiring at least 5 contributors, pushed the starting coordination barrier downward [1]. This made it easier for cooperation to emerge because fewer adaptable cooperators were needed at the start [1]."
+   },
+   {
+    "h": "The Free-Rider Trade-Off",
+    "t": "That same cushion lets groups meet the target with fewer ordinary contributors and gives free-riders wider room to coast [1]. Under moderate collective returns, a smaller proportion of adaptable players cooperated in the long run than in a population with no zealots [1]."
+   }
+  ],
+  "why": "Understanding how group dynamics and committed minorities operate helps when negotiating shared efforts, building business partnerships, or designing team incentives where free-riding can creep in.",
+  "tryit": "Review your current business projects or team collaborations, and check if a reliable minority is accidentally carrying all the weight while others coast.",
+  "qa": [
+   [
+    "What are zealots in these game theory models?",
+    "They are committed individuals who always cooperate and never change their strategy, regardless of what others do [1]."
+   ],
+   [
+    "Did the study involve human participants?",
+    "No, the researchers relied entirely on mathematical equations and computer simulations, posting their code publicly on Zenodo [1]."
+   ],
+   [
+    "What did the researchers find about finite populations?",
+    "In intermediate population sizes of 20 and 50 under moderate returns, adding 30 percent zealots helped overcome the coordination hurdle and shifted adaptable players into sustained coexistence [1]."
+   ],
+   [
+    "Where was the study published?",
+    "It was published in Proceedings of the Royal Society B [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/unwavering-cooperators-make-group-efforts-easier-to-start-but-harder-to-sustain/",
+    "status": 200,
+    "title": "Unwavering cooperators make group efforts easier to start but harder to sustain",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T21:00:45Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/why-unwavering-cooperators-lower-coordination-ba.mp3",
+  "image": {
+   "src": "img/why-unwavering-cooperators-lower-coordination-ba.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/unwavering-cooperators-make-group-efforts-easier-to-start-but-harder-to-sustain/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/team-rowing.jpg"
+  }
+ },
+ {
+  "id": "finding-quiet-solitude-and-strumming-landscapes",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "scotland",
+   "hiking",
+   "nature",
+   "solitude"
+  ],
+  "title": "Finding Quiet Solitude and Strumming Landscapes in the Remote Scottish Highlands",
+  "snippet": "A solo stay in a tiny wooden hut on Rannoch Moor offers a powerful escape from daily mental clutter. Walking across the vast moorland clears the head and proves that true solitude is the ultimate luxury.",
+  "bullets": [
+   "The Star Hut sits near Rannoch station and offers a small wooden structure with basic essentials and stunning views [1].",
+   "Visitors can take a spectacular 12-minute train journey north to Corrour, the highest and most remote railway station in the UK [1].",
+   "Bill and Jenny are two of only four permanent residents living directly at the remote station community [1]."
+  ],
+  "report": [
+   {
+    "h": "Remote Highland Cabin Escape",
+    "t": "Staying in a tiny wooden hut near Rannoch station places you right at the edge of expansive Scottish moorland [1]. The accommodation includes a double bed, microwave, fridge, and essential gear like OS maps and binoculars [1]."
+   },
+   {
+    "h": "Walking the High Moor",
+    "t": "Taking the train one stop north to Corrour lets you hike an 11-mile clear path back across Rannoch Moor [1]. The physical journey quiets mental chatter and offers sweeping views of surrounding mountains including Ben Nevis [1]."
+   },
+   {
+    "h": "Local Community and Travel",
+    "t": "The local station tearoom serves hot food and cakes before busy trains arrive with travellers [1]. ScotRail services connect the remote station to Glasgow Queen Street, and the Caledonian Sleeper runs between London Euston and Fort William [1]."
+   }
+  ],
+  "why": "It shows how stepping away from routine and physical noise can completely clear a busy, buzzing head and restore calm focus.",
+  "tryit": "Plan a mini digital-free nature walk this weekend in your local green space to give your brain a break from its daily running commentary.",
+  "qa": [
+   [
+    "Where is the Star Hut located?",
+    "It sits on a small slope just a few hundred yards from Rannoch station [1]."
+   ],
+   [
+    "What is notable about Corrour station?",
+    "It is the highest railway station in the UK and the most remote, accessible only by train, bike, or on foot [1]."
+   ],
+   [
+    "How many permanent residents live right at Rannoch station?",
+    "There are only four permanent residents, including Bill and his wife Jenny [1]."
+   ],
+   [
+    "Which train services stop at Rannoch station?",
+    "ScotRail services run from Glasgow Queen Street, and the station is also on the Caledonian Sleeper route between London Euston and Fort William [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/travel/2026/nov/15/solo-stay-remote-cabin-highlands-scotland-rannoch-moor",
+    "status": 200,
+    "title": "‘I was nervous before my solo stay in a remote Scottish Highlands cabin – but the solitude is glorious’",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-15",
+  "publishedAt": "2026-11-15T07:00:06Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/finding-quiet-solitude-and-strumming-landscapes.mp3",
+  "image": {
+   "src": "img/finding-quiet-solitude-and-strumming-landscapes.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/travel/2026/nov/15/solo-stay-remote-cabin-highlands-scotland-rannoch-moor",
+   "from_url": "https://i.guim.co.uk/img/media/27c4c170ec8704ac1ee96a982e4273f881933a9b/996_0_4917_3937/master/4917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1af72ca9a312b11e615c943ca2cd58bb"
+  }
+ },
+ {
+  "id": "oscar-tipped-star-guitarricadelafuente-on-vulner",
+  "cat": "mind",
+  "tags": [
+   "mind",
+   "psychology",
+   "music",
+   "film"
+  ],
+  "title": "Oscar-tipped star Guitarricadelafuente on vulnerability, masculinity and his new film",
+  "snippet": "Spanish folk-pop star Guitarricadelafuente discusses his acting debut in La bola negra, his friendship with Troye Sivan, and redefining modern masculinity.",
+  "bullets": [
+   "Spanish folk-pop star Guitarricadelafuente stars in the gay Spanish war epic La bola negra [1].",
+   "He credits Troye Sivan as a major artistic reference who showed him how to combine vulnerability and strength [1].",
+   "Playing his character Sebastián helped him realise that tenderness and fear do not make a man less masculine [1]."
+  ],
+  "report": [
+   {
+    "h": "Rising Star at TIFF",
+    "t": "Spanish musician Guitarricadelafuente recently attended the Toronto International Film Festival with his debut film role [1]. He stars in the autumn gay Spanish war epic La bola negra [1]."
+   },
+   {
+    "h": "Redefining Masculinity",
+    "t": "Playing the trapped character Sebastián made the singer reflect on how rigid ideas of manhood still persist today [1]. He learned that showing the body, feeling fear, and being tender do not diminish a man [1]."
+   },
+   {
+    "h": "Creative Overlap",
+    "t": "His creative work on his album Spanish Leather and his role in the film overlapped deeply [1]. Immersing himself in another historical period and emotional world ultimately changed how he writes music [1]."
+   }
+  ],
+  "why": "It is a thoughtful reminder on self-compassion and dropping rigid expectations of how to perform masculinity in daily life.",
+  "tryit": "Reflect today on any unhelpful expectations you hold about yourself, and write down one way you can embrace vulnerability instead.",
+  "qa": [
+   [
+    "What film is Guitarricadelafuente starring in?",
+    "He stars in the gay Spanish war epic La bola negra [1]."
+   ],
+   [
+    "How did his mother find out he had a boyfriend?",
+    "She found out during lockdown when he mentioned being there with his boyfriend during an interview [1]."
+   ],
+   [
+    "Who is one of his major musical influences?",
+    "Troye Sivan is a major reference and friend who influenced him [1]."
+   ],
+   [
+    "What was his album Spanish Leather about?",
+    "It was about giving in to desire, allowing himself to be seen, and feeling comfortable in his skin [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.attitude.co.uk/culture/meet-the-oscar-tipped-star-of-la-bola-negra-star-spanish-folk-pop-star-539747/",
+    "status": 200,
+    "title": "Guitarricadelafuente on coming out, Troye Sivan friendship and La bola negra: 'Showing your body, being tender, being afraid – none of those things make you less of a man'",
+    "domain": "attitude.co.uk"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T15:03:15Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/oscar-tipped-star-guitarricadelafuente-on-vulner.mp3",
+  "image": {
+   "src": "img/oscar-tipped-star-guitarricadelafuente-on-vulner.jpg",
+   "credit": "Attitude",
+   "license": "© Attitude, shown with credit",
+   "page": "https://www.attitude.co.uk/culture/meet-the-oscar-tipped-star-of-la-bola-negra-star-spanish-folk-pop-star-539747/",
+   "from_url": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2026/11/GUITARRICA-ATTITUDE-TILLMANS-copy.jpg"
+  }
+ },
+ {
+  "id": "nfl-quarterback-josh-dobbs-combines-aerospace-en",
+  "cat": "whoa",
+  "tags": [
+   "aerospace",
+   "aviation",
+   "business",
+   "travel",
+   "stem"
+  ],
+  "title": "NFL Quarterback Josh Dobbs Combines Aerospace Engineering and Athletic Travel",
+  "snippet": "NFL veteran Josh Dobbs spent time working with NASA on rocket launchers and lunar rovers, and now he is building plans to improve travel infrastructure for professional athletes.",
+  "bullets": [
+   "Josh Dobbs spent a month at the Kennedy Space Center shadowing engineers and working on the Artemis I mobile launcher [1].",
+   "While playing for the San Francisco 49ers, Dobbs earned his pilot license in the Bay Area [1].",
+   "His foundation brought seven aerospace engineering students from the University of Tennessee to the Kennedy Space Center [1]."
+  ],
+  "report": [
+   {
+    "h": "From Gridiron to NASA",
+    "t": "Josh Dobbs balanced his athletic career with a degree in aerospace engineering from the University of Tennessee [1]. He later used an externship to work at the Kennedy Space Center on components for the Artemis I rocket [1]."
+   },
+   {
+    "h": "Solving Travel Challenges",
+    "t": "Dobbs points out the disconnect between heavy investments in player health and the inadequate seating conditions athletes face on team flights [1]. He aims to build an aviation infrastructure and charter option tailored to professional teams [1]."
+   },
+   {
+    "h": "Investing in the Future",
+    "t": "Through his foundation, Dobbs helps introduce young students and student-athletes to careers in STEM and aerospace [1]. He envisions a future where better transport logistics help expand sports globally to places like Tokyo and Dubai [1]."
+   }
+  ],
+  "why": "It shows how dual passions and methodical problem-solving can open up unique entrepreneurial opportunities outside your main career.",
+  "tryit": "Identify one skill from a secondary hobby or past career and write down a single practical way to apply it to your current business or projects this week.",
+  "qa": [
+   [
+    "What did Josh Dobbs do at NASA?",
+    "He worked with the instrumentation group on the Artemis I mobile launcher and helped research commercial rockets for a lunar rover [1]."
+   ],
+   [
+    "Where did Dobbs earn his pilot's license?",
+    "He earned his pilot's license in the San Francisco Bay Area [1]."
+   ],
+   [
+    "What is Josh Dobbs' main goal for aviation?",
+    "He wants to build an aviation infrastructure and create a charter option that significantly improves how sports teams travel [1]."
+   ],
+   [
+    "What does his foundation do?",
+    "The Extraordinary Dobbs Foundation gives students and student-athletes introductions to STEM and aerospace careers, such as visiting the Kennedy Space Center [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/building-a-business/this-nfl-quarterback-used-to-work-with-nasa-it-inspired-him-to-change-how-athletes-travel",
+    "status": 200,
+    "title": "This NFL Quarterback Used to Work With NASA. It Inspired Him to Change How Athletes Travel.",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T17:00:00Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/nfl-quarterback-josh-dobbs-combines-aerospace-en.mp3",
+  "image": {
+   "src": "img/nfl-quarterback-josh-dobbs-combines-aerospace-en.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/building-a-business/this-nfl-quarterback-used-to-work-with-nasa-it-inspired-him-to-change-how-athletes-travel",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/josh-dobbs-1126.jpg"
+  }
+ },
+ {
+  "id": "exciting-new-stays-and-cultural-gems-in-north-am",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "jamaica",
+   "canada",
+   "resorts",
+   "hotels",
+   "nature"
+  ],
+  "title": "Exciting New Stays And Cultural Gems In North America And Beyond",
+  "snippet": "Discover fresh travel destinations for 2027, from an Indigenous-owned floating lodge in British Columbia to renewed coastal retreats in Jamaica.",
+  "bullets": [
+   "Wahous Wilderness Lodge opens in Quait Bay as a 16-room floating lodge owned by the Ahousaht First Nation [1].",
+   "Jamaica's South Coast is welcoming travelers back with newly reopened boutique stays and farm tours [1].",
+   "Curaçao features new beachfront resorts and nonstop flights from major US airports [1]."
+  ],
+  "report": [
+   {
+    "h": "Indigenous Luxury In BC",
+    "t": "The Ahousaht First Nation operates the Wahous Wilderness Lodge in Quait Bay, offering tide-to-table dining, a shoreline spa, and cultural experiences in the traditional cedar longhouse [1]."
+   },
+   {
+    "h": "Jamaica South Coast",
+    "t": "Treasure Beach and local hotels like Jakes Hotel offer farm-to-table dinners, community recovery support, agro-tourism farm tours, and scenic coastal road trips [1]."
+   },
+   {
+    "h": "Curaçao Island Energy",
+    "t": "The Dutch Caribbean island features new spots like the Pyrmont Curaçao and Tui Blue Curaçao alongside direct flights from major US cities [1]."
+   }
+  ],
+  "why": "Explorations of new destinations and cultural lodges offer great inspiration for planning refreshing, restorative trips with positive community impact.",
+  "tryit": "Visit the Condé Nast Traveler website to explore the full guide and bookmark destination highlights for your upcoming travel planning.",
+  "qa": [
+   [
+    "When does Wahous Wilderness Lodge open?",
+    "Wahous Wilderness Lodge opens in July 2026 [1]."
+   ],
+   [
+    "Where is Wahous Wilderness Lodge located?",
+    "It is located in secluded Quait Bay within Clayoquot Sound [1]."
+   ],
+   [
+    "What is Treasure Beach known for?",
+    "Treasure Beach is a mellow seaside town known for its black sand beaches and slow-paced bohemian lifestyle [1]."
+   ],
+   [
+    "Which airline offers new seasonal flights to Curaçao?",
+    "American Airlines offers a seasonal route running from December through April from Chicago O'Hare [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/best-places-to-go-in-north-america-mexico-and-the-caribbean-2027",
+    "status": 200,
+    "title": "The Best Places to Go in North America, Mexico, and the Caribbean",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-11-15",
+  "publishedAt": "2026-11-15T07:00:00Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/exciting-new-stays-and-cultural-gems-in-north-am.mp3",
+  "image": {
+   "src": "img/exciting-new-stays-and-cultural-gems-in-north-am.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/best-places-to-go-in-north-america-mexico-and-the-caribbean-2027",
+   "from_url": "https://media.cntraveler.com/photos/6ac41cbad2e16f51bf861238/16:9/w_1280,c_limit/Copy%20of%20Jamaica%20South%20Coast-Jamaica-Sept01-pr-credit%20Jamaica%20Tourist%20Board-global-156_JTB_Nature_SouthCoast_Coastline%20(1)%20(1).jpg"
+  }
+ },
+ {
+  "id": "us-loses-measles-elimination-status-due-to-decli",
+  "cat": "health",
+  "tags": [
+   "health",
+   "vaccines",
+   "measles",
+   "cdc",
+   "prevention"
+  ],
+  "title": "US Loses Measles Elimination Status Due to Declining Vaccination Rates",
+  "snippet": "Global health authorities confirmed the U.S. has lost its measles elimination status as outbreaks have surged beyond one year. Two doses of the MMR vaccine remain about 97% effective at preventing infections.",
+  "bullets": [
+   "The U.S. has lost its status as a country where measles is eliminated after outbreaks lasted longer than a year [1].",
+   "Two doses of the measles-mumps-rubella vaccine prevent about 97% of infections [1].",
+   "Recent outbreaks have led to over 830 hospitalizations and cost roughly $125 million in care and lost productivity [1]."
+  ],
+  "report": [
+   {
+    "h": "Loss of Elimination Status",
+    "t": "The Pan American Health Organization concluded that measles has reestablished regular transmission in the United States [1]. Researchers anticipated this after an outbreak in Utah surpassed the one-year mark [1]."
+   },
+   {
+    "h": "Impact and Costs",
+    "t": "Over 830 people have been hospitalized with measles in the U.S. over the past two years [1]. Outbreaks have sickened more than 8,000 people and cost roughly $125 million in medical care and lost productivity [1]."
+   },
+   {
+    "h": "Prevention and Protection",
+    "t": "Two doses of the measles-mumps-rubella vaccine prevent about 97% of infections when communities are fully immunized [1]. Federal guidelines and public health programs have historically supported on-time vaccination to maintain herd immunity [1]."
+   }
+  ],
+  "why": "Understanding public health updates helps you make informed choices about your own immunisations and health protection.",
+  "tryit": "Talk to your GP or pharmacist to check if your routine vaccinations, including your MMR shots, are up to date.",
+  "qa": [
+   [
+    "What caused the U.S. to lose its measles elimination status?",
+    "Outbreaks surpassed the one-year mark without ending, meaning measles has reestablished regular transmission [1]."
+   ],
+   [
+    "How effective is the MMR vaccine?",
+    "Two doses of the measles-mumps-rubella vaccine prevent about 97% of infections [1]."
+   ],
+   [
+    "How many people have been hospitalised recently?",
+    "In the past two years, over 830 people have been hospitalised with measles in the U.S [1]."
+   ],
+   [
+    "What is required to regain elimination status?",
+    "Current U.S. outbreaks must end, and future outbreaks must stop spreading within a year [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+    "status": 200,
+    "title": "US has lost measles elimination status, global health authorities say",
+    "domain": "npr.org"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T22:15:02Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/us-loses-measles-elimination-status-due-to-decli.mp3",
+  "image": {
+   "src": "img/us-loses-measles-elimination-status-due-to-decli.jpg",
+   "credit": "NPR",
+   "license": "© NPR, shown with credit",
+   "page": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2873x1616+0+104/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F49%2F1f36704d408faf669fa00f372d61%2Fmeasles-02.jpg"
+  }
+ },
+ {
+  "id": "new-laboratory-research-tests-cannabis-supplemen",
+  "cat": "health",
+  "tags": [
+   "health",
+   "peptides",
+   "science",
+   "psychology"
+  ],
+  "title": "New laboratory research tests cannabis supplement effects on brain immune cells",
+  "snippet": "Recent laboratory tests show that cannabigerol has inconsistent anti-inflammatory effects on brain immune cells and a narrow therapeutic margin.",
+  "bullets": [
+   "Cannabigerol is a non-intoxicating compound from the cannabis plant that has gained popularity as a dietary supplement [1].",
+   "Laboratory tests in Toxicology reveal that high concentrations of cannabigerol killed cells and triggered severe chemical stress [1].",
+   "Researchers noted a narrow therapeutic window between beneficial concentrations and toxicity in cell cultures [1]."
+  ],
+  "report": [
+   {
+    "h": "Laboratory findings",
+    "t": "Recent research in Toxicology evaluated the effects of cannabigerol on mouse microglial cells across five concentrations from 0.01 to 100 micromolar [1]. The highest concentration of 100 micromolar cut cell survival to about a fifth of untreated levels and triggered severe chemical stress [1]."
+   },
+   {
+    "h": "Contrasting DNA tests",
+    "t": "When purified double-stranded DNA was exposed directly to cannabigerol, every concentration above 0.01 micromolar caused measurable strand breakage [1]. However, intact human white blood cells exposed to doses up to 10 micromolar showed no statistically significant differences in DNA damage compared to untreated cells [1]."
+   },
+   {
+    "h": "Expert assessment",
+    "t": "Daniele Piomelli noted that modest effect sizes and a narrow therapeutic window mean considerable work remains before translational conclusions can be drawn [1]. The study highlights that dish-based results cannot fully capture how compounds behave inside a living body [1]."
+   }
+  ],
+  "why": "Understanding the limits and complex cellular mechanisms of popular supplements helps you make informed choices about your wellness routine and health investments.",
+  "tryit": "Talk to a qualified GP or pharmacist before adding new supplements to your routine, and check reliable clinical sources for evidence.",
+  "qa": [
+   [
+    "What is cannabigerol?",
+    "It is a non-intoxicating phytocannabinoid produced by the Cannabis sativa plant [1]."
+   ],
+   [
+    "What did the highest concentration do to cells?",
+    "At 100 micromolar, cannabigerol cut cell survival to about a fifth of untreated levels and triggered severe chemical stress [1]."
+   ],
+   [
+    "Did lower doses break DNA in living human cells?",
+    "When intact human white blood cells were exposed to concentrations up to 10 micromolar, differences in DNA damage compared to untreated cells were not statistically significant [1]."
+   ],
+   [
+    "Who led the research team?",
+    "The research team was led by Júlia Maiara dos Santos of the University of São Paulo in Brazil [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/popular-cannabis-supplement-shows-inconsistent-anti-inflammatory-effects-in-brain-cells/",
+    "status": 200,
+    "title": "Popular cannabis supplement shows inconsistent anti-inflammatory effects in brain cells",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T19:00:29Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/new-laboratory-research-tests-cannabis-supplemen.mp3",
+  "image": {
+   "src": "img/new-laboratory-research-tests-cannabis-supplemen.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/popular-cannabis-supplement-shows-inconsistent-anti-inflammatory-effects-in-brain-cells/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2025/01/marijuana-cannabis-plant-leaves.jpg"
+  }
+ },
+ {
+  "id": "new-study-tests-a-better-way-to-diagnose-obesity",
+  "cat": "health",
+  "tags": [
+   "health",
+   "fitness",
+   "longevity"
+  ],
+  "title": "New Study Tests a Better Way to Diagnose Obesity Beyond BMI",
+  "snippet": "A landmark study tests a new framework that separates clinical obesity from preclinical obesity. This approach looks at organ function rather than just body mass index [1].",
+  "bullets": [
+   "A landmark study published in Nature tests an alternative vision to body mass index for diagnosing obesity [1].",
+   "Researchers analyzed health data from more than 844,000 adults across four countries [1].",
+   "Just 22.7 to 31.3 percent of people who met the body mass index criteria for obesity had clinical obesity [1]."
+  ],
+  "report": [
+   {
+    "h": "The Limits of Body Mass Index",
+    "t": "Body mass index relies on weight and height, but it reveals little about body composition or whether excess fat affects health [1]. It also cannot distinguish fat from muscle or account for differences in fat distribution [1]."
+   },
+   {
+    "h": "A New Framework",
+    "t": "Researchers tested a framework distinguishing clinical obesity from preclinical obesity [1]. Clinical obesity means excess body fat impairs organ function or everyday activities, while preclinical obesity means function remains intact [1]."
+   },
+   {
+    "h": "Different Health Risks",
+    "t": "Most people with preclinical obesity did not go on to develop clinical obesity over a decade [1]. Those with clinical obesity faced a substantially higher risk of death [1]."
+   }
+  ],
+  "why": "Understanding how modern science evaluates body composition and metabolic health helps you stay informed on better diagnostic tools for long-term vitality [1].",
+  "tryit": "Talk to a GP or healthcare professional about comprehensive health markers like waist circumference rather than relying on body mass index alone [1].",
+  "qa": [
+   [
+    "What is body mass index?",
+    "It is a calculation of a person's weight divided by their squared height [1]."
+   ],
+   [
+    "What is clinical obesity?",
+    "It is when excess body fat impairs organ function or everyday activities [1]."
+   ],
+   [
+    "How many adults were included in the study?",
+    "The study analyzed health data from more than 844,000 adults across four countries [1]."
+   ],
+   [
+    "What percentage of people meeting body mass index criteria had clinical obesity?",
+    "Researchers estimated that just 22.7 to 31.3 percent of people who met the criteria had clinical obesity [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.scientificamerican.com/article/is-there-a-better-way-of-diagnosing-obesity-than-bmi/",
+    "status": 200,
+    "title": "We could be on the cusp of a better way of diagnosing obesity than BMI",
+    "domain": "scientificamerican.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T13:00:00Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/new-study-tests-a-better-way-to-diagnose-obesity.mp3",
+  "image": {
+   "src": "img/new-study-tests-a-better-way-to-diagnose-obesity.jpg",
+   "credit": "Scientific American",
+   "license": "© Scientific American, shown with credit",
+   "page": "https://www.scientificamerican.com/article/is-there-a-better-way-of-diagnosing-obesity-than-bmi/",
+   "from_url": "https://static.scientificamerican.com/dam/asset/48fa4880-2328-4d0f-afdd-000ab317b513/BMI-alternative.jpg?m=1794510268.295&w=1200"
+  }
+ },
+ {
+  "id": "archaeologists-solve-mystery-of-eight-thousand-r",
+  "cat": "news",
+  "tags": [
+   "science",
+   "animals",
+   "history"
+  ],
+  "title": "Archaeologists Solve Mystery of Eight Thousand Roman Era Frog Bones",
+  "snippet": "Researchers in England discovered 8,000 amphibian bones in a single ditch. New analysis reveals birds of prey hunted the young frogs during the Roman era.",
+  "bullets": [
+   "Between 2016 and 2022, archaeologists working along England’s A14 highway discovered roughly 8,000 amphibian bones in a single ditch in rural Cambridgeshire [1].",
+   "Researchers concluded that birds of prey like short-eared owls hunted the young frogs in the second or third century C.E. [1].",
+   "The mass predation happened because locals cleared trees for livestock and stayed away during autumn and winter, creating a quiet roosting site [1]."
+  ],
+  "report": [
+   {
+    "h": "The Mysterious Ditch",
+    "t": "Archaeologists uncovered thousands of amphibian bones inside a single gully at the Bar Hill site. Initial theories ranged from trapped animals to human meals, but the lack of cut marks made these ideas unlikely [1]."
+   },
+   {
+    "h": "Bone Analysis",
+    "t": "Scientists measured the arm bones of the frogs to estimate their age at death. Digestion traces and breakage patterns pointed directly to medium-sized birds of prey as the culprits [1]."
+   },
+   {
+    "h": "Human Impact",
+    "t": "The heavy predation occurred because humans and their dogs rarely visited the quiet area during autumn and winter, allowing owls to hunt undisturbed [1]."
+   }
+  ],
+  "why": "This surprising historical discovery offers a fascinating look into ancient wildlife behaviors and natural ecosystems in England.",
+  "tryit": "Read the full study published in the journal Environmental Archaeology to learn more about how scientists use animal bones to reconstruct past environments.",
+  "qa": [
+   [
+    "How many frog bones were found in the ditch?",
+    "Archaeologists discovered some 8,000 amphibian bones in a single ditch [1]."
+   ],
+   [
+    "What caused the mass accumulation of bones?",
+    "Researchers concluded the frogs were eaten by birds of prey, such as short-eared owls, during the Roman era [1]."
+   ],
+   [
+    "How did scientists determine the age of the frogs?",
+    "The team measured the amphibians' distal humeri, or arm bones [1]."
+   ],
+   [
+    "Were humans involved in depositing the bones?",
+    "The researchers argue that the mass predation happened precisely because humans rarely visited the quiet area at that time [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smart-news/archaeologists-in-england-discovered-8000-roman-era-frog-bones-in-a-single-ditch-they-just-solved-the-mystery-how-the-amphibians-ended-up-there-180989868/",
+    "status": 200,
+    "title": "Archaeologists in England Discovered 8,000 Roman-Era Frog Bones in a Single Ditch. They Just Solved the Mystery of How the Amphibians Ended Up There",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T16:25:54Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/archaeologists-solve-mystery-of-eight-thousand-r.mp3",
+  "image": {
+   "src": "img/archaeologists-solve-mystery-of-eight-thousand-r.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smart-news/archaeologists-in-england-discovered-8000-roman-era-frog-bones-in-a-single-ditch-they-just-solved-the-mystery-how-the-amphibians-ended-up-there-180989868/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/0dg7zREAIvfWA4E9czAr_5Qc7EY=/fit-in/1600x0/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/b8/ccb81183-d6c7-4601-b7bf-d89c90d12d15/aerial-view.png"
+  }
+ },
+ {
+  "id": "spot-a-rare-diagonal-parade-of-four-planets-in-n",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "space",
+   "travel"
+  ],
+  "title": "Spot a rare diagonal parade of four planets in November's pre-dawn sky",
+  "snippet": "Stargazers can see a diagonal line of four planets in the morning sky throughout November. Mars and Jupiter will appear exceptionally close together on Monday 16 November.",
+  "bullets": [
+   "Mercury, Venus, Mars and Jupiter are visible to the naked eye in the south-eastern to eastern sky during November [1].",
+   "Mars and Jupiter will appear separated by just 1.2 degrees on Monday 16 November [1].",
+   "A full Moon will join the planets in the morning sky from 24 November [1]."
+  ],
+  "report": [
+   {
+    "h": "Planetary line up",
+    "t": "Mercury, Venus, Mars and Jupiter are visible to the naked eye in the south-eastern to eastern sky this November [1]. Mercury is the hardest to spot because it is locked in solar glare and close to the horizon [1]."
+   },
+   {
+    "h": "Close encounters",
+    "t": "Mars and Jupiter will appear exceptionally close together on Monday 16 November [1]. They will be separated by just 1.2 degrees, which is roughly the width of a finger held at arm's length [1]."
+   },
+   {
+    "h": "Viewing tips",
+    "t": "The best time to view the lineup is approximately 45-60 minutes before sunrise [1]. Find a spot away from light pollution and let your eyes adjust to the dark for around twenty minutes [1]."
+   }
+  ],
+  "why": "It is a wonderful, grounding excuse to step outside early, catch some fresh air, and witness a striking piece of natural astronomy.",
+  "tryit": "Step outside about 45 minutes before sunrise with a clear view of the eastern horizon, let your eyes adjust for twenty minutes, and look for Venus and the planet pair.",
+  "qa": [
+   [
+    "Which planets are visible to the naked eye?",
+    "Mercury, Venus, Mars and Jupiter are visible to the naked eye [1]."
+   ],
+   [
+    "When will Mars and Jupiter appear closest?",
+    "They will appear close together on 15 and 16 November [1]."
+   ],
+   [
+    "How do you tell Venus apart from the star Spica?",
+    "Stars twinkle while planets glow steadily [1]."
+   ],
+   [
+    "What is the best time to view the planetary lineup?",
+    "The best time is approximately 45-60 minutes before sunrise [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo",
+    "status": 200,
+    "title": "November planetary parade: How and when to spot it in the pre-dawn sky",
+    "domain": "bbc.co.uk"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T11:07:51Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/spot-a-rare-diagonal-parade-of-four-planets-in-n.mp3",
+  "image": {
+   "src": "img/spot-a-rare-diagonal-parade-of-four-planets-in-n.jpg",
+   "credit": "BBC News",
+   "license": "© BBC News, shown with credit",
+   "page": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo",
+   "from_url": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/a1a4/live/8fa21860-daa5-11f1-9da2-b11e4d68c08e.jpg"
+  }
+ },
+ {
+  "id": "returning-to-the-past-a-father-and-daughter-jour",
+  "cat": "mind",
+  "tags": [
+   "mind",
+   "psychology",
+   "travel",
+   "business",
+   "self-compassion"
+  ],
+  "title": "Returning to the Past: A Father and Daughter Journey Through Uganda",
+  "snippet": "Food writer Meera Sodha took her 75-year-old father back to Uganda, fifty years after he left as a refugee. The trip unlocked buried memories, a new perspective on compassion, and a spark for business innovation.",
+  "bullets": [
+   "Meera's father Raj left Uganda in 1970 on a student visa, becoming a refugee two years before Idi Amin expelled all Ugandan Asians [1].",
+   "Despite his early hardship and food poverty, Raj was deeply moved by the compassionate treatment of refugees he witnessed in Uganda [1].",
+   "Inspired by the trip, Raj immediately proposed setting up a company distributing solar panels to farmers living in mud huts [1]."
+  ],
+  "report": [
+   {
+    "h": "The Long-Awaited Journey",
+    "t": "Raj Sodha returned to Uganda for the first time with his daughter Meera, visiting the places he fled as a refugee in 1970 [1]. Despite initial reluctance and memories of childhood hardship, he navigated his old hometowns of Arua and Parombo to reconnect with his past [1]."
+   },
+   {
+    "h": "Challenging Perspectives",
+    "t": "Visiting refugee settlements in Kiryandongo and Adjumani exposed Raj to communities working together with local Ugandans [1]. Witnessing this resilience shifted his outlook and sparked an idea for a business venture providing solar power to rural farmers [1]."
+   },
+   {
+    "h": "Connecting the Dots",
+    "t": "Walking through his old neighborhood, Raj found his father's former shop and the small rooms where his family once lived [1]. Though the memories brought mixed emotions, the trip ultimately bridged generational gaps and created new shared experiences [1]."
+   }
+  ],
+  "why": "It shows how confronting old family history and stepping outside your comfort zone can spark fresh business ideas and deeper self-compassion.",
+  "tryit": "Reflect on a past challenge or family story that shaped your current habits, and write down one practical way you can turn that insight into a helpful project today.",
+  "qa": [
+   [
+    "When did Raj leave Uganda?",
+    "He left Uganda in 1970 on a student visa [1]."
+   ],
+   [
+    "How many refugees live in Uganda according to the text?",
+    "There are about 2 million refugees living in Uganda [1]."
+   ],
+   [
+    "What business idea did Raj propose during the trip?",
+    "He suggested setting up a company to distribute solar panels to farmers living in mud huts [1]."
+   ],
+   [
+    "How old is Raj in the story?",
+    "He is 75, turning 76 during the trip [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/meera-sodha-father-homecoming-uganda",
+    "status": 200,
+    "title": "‘Like many men of his generation, he tends to push his feelings down from his heart to his toes’: Meera Sodha on her father’s homecoming",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-15",
+  "publishedAt": "2026-11-15T06:00:07Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/returning-to-the-past-a-father-and-daughter-jour.mp3",
+  "image": {
+   "src": "img/returning-to-the-past-a-father-and-daughter-jour.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/lifeandstyle/2026/nov/15/meera-sodha-father-homecoming-uganda",
+   "from_url": "https://i.guim.co.uk/img/media/0e0253d5468c82d15bca48ad6f89fd184349bd68/958_509_3612_2891/master/3612.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54cd956dfd70b1107e41262db18609ea"
+  }
+ },
+ {
+  "id": "save-up-to-20-percent-with-new-rei-holiday-coupo",
+  "cat": "money",
+  "tags": [
+   "money",
+   "travel",
+   "negotiation"
+  ],
+  "title": "Save Up to 20 Percent With New REI Holiday Coupon Codes",
+  "snippet": "Co-op members can save 20 percent on full-price and outlet items using a specific promo code. Shoppers can also find volume discounts and clearance sales on outdoor gear.",
+  "bullets": [
+   "Members can save 20 percent on one full-price item and one outlet item using the promo code HOLIDAY2026 through November 23, 2026 [1].",
+   "Shoppers can bundle multiple products for volume discounts of up to 15 percent this fall [1].",
+   "The deals section features last season's gear with savings of up to 77 percent off [1]."
+  ],
+  "report": [
+   {
+    "h": "Member Discount Code",
+    "t": "Co-op members can use the promo code HOLIDAY2026 to take 20 percent off one full-price item and one REI Outlet item [1]. This limited-time holiday coupon is valid online, over the phone, and in stores through November 23, 2026 [1]."
+   },
+   {
+    "h": "Volume and Bundle Savings",
+    "t": "Buyers can save up to 15 percent by bundling items like cycle accessories with a Co-op Cycles bike purchase [1]. Customers can also get 10 percent off socks when buying three or more full-priced pairs [1]."
+   },
+   {
+    "h": "Clearance and Outlet Deals",
+    "t": "The deals section offers past-season gear for up to 77 percent off, including up to $200 off rain jackets and parkas [1]. Shoppers can also browse the online REI Outlet for major price cuts on top outdoor brands [1]."
+   }
+  ],
+  "why": "Finding smart discounts on durable gear lets you stretch your travel and hobby budget further without extra stress.",
+  "tryit": "Check the REI discount page online to compare active coupon codes and volume deals before making your next purchase [1].",
+  "qa": [
+   [
+    "What is the code for the member discount?",
+    "The promo code is HOLIDAY2026 [1]."
+   ],
+   [
+    "When does the member holiday coupon expire?",
+    "It is valid through November 23, 2026 [1]."
+   ],
+   [
+    "How much can you save on select items in the deals section?",
+    "You can save up to 77 percent off hiking boots and gear [1]."
+   ],
+   [
+    "What do you get with a lifetime REI membership?",
+    "Members get free standard shipping, extended return windows, and discounts on rentals and services [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/rei-coupon",
+    "status": 200,
+    "title": "Top REI Coupons: 20% Off in November 2026",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2025-11-13",
+  "publishedAt": "2025-11-13T21:45:01Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/save-up-to-20-percent-with-new-rei-holiday-coupo.mp3",
+  "image": {
+   "src": "img/save-up-to-20-percent-with-new-rei-holiday-coupo.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/rei-coupon",
+   "from_url": "https://media.cntraveler.com/photos/605a5f9c7ef97a43a1af2cd6/16:9/w_1280,c_limit/REI-2021-GettyImages-1056063624.jpg"
+  }
+ },
+ {
+  "id": "us-federal-government-moves-to-restrict-concentr",
+  "cat": "health",
+  "tags": [
+   "health",
+   "addiction",
+   "focus"
+  ],
+  "title": "US Federal Government Moves to Restrict Concentrated 7-OH Products",
+  "snippet": "New federal restrictions are targeting concentrated 7-OH and related products found in gas stations and smoke shops amid rising addiction concerns.",
+  "bullets": [
+   "Federal restrictions on certain 7-OH products could go into place as early as Friday, Nov. 13, 2026 [1].",
+   "Calls related to kratom to 53 U.S. poison control centers increased about 1,200% between 2015 and 2025 [1].",
+   "In 2023 alone, a KFF report found there were over 79,000 opioid deaths, and in 2024 there were 54,000 [1]."
+  ],
+  "report": [
+   {
+    "h": "Rising Availability",
+    "t": "Concentrated products containing 7-OH have popped up online, at smoke shops, liquor stores, and gas stations [1]. These items are often sold as tablets, gummies, tonics, and chocolate [1]."
+   },
+   {
+    "h": "Regulatory Changes",
+    "t": "The DEA and HHS are planning to restrict a narrower range of 7-OH and MGPI products that contain higher concentrations [1]. Traditional botanical kratom is not expected to be part of this federal crackdown [1]."
+   },
+   {
+    "h": "Health Concerns",
+    "t": "Researchers note that some users show classic signs of addiction and experience severe withdrawal symptoms [1]. However, some chronic pain and addiction recovery patients report that these substances provide significant personal benefits [1]."
+   }
+  ],
+  "why": "Understanding substance regulations and health risks helps you make informed wellness choices.",
+  "tryit": "Consult a GP or qualified healthcare professional if you have questions about managing pain, focus, or supplement safety.",
+  "qa": [
+   [
+    "What is 7-OH?",
+    "7-OH, or 7-hydroxymitragynine, is one of the major psychoactive ingredients found in kratom [1]."
+   ],
+   [
+    "Are traditional kratom powders banned?",
+    "No federal actions have been taken against traditional botanical kratom [1]."
+   ],
+   [
+    "What did the poison control data show?",
+    "Calls related to kratom to 53 U.S. poison control centers increased about 1,200% between 2015 and 2025 [1]."
+   ],
+   [
+    "When could the new restrictions start?",
+    "A new federal restriction on some 7-OH products could go into place as early as Friday, Nov. 13, 2026 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
+    "status": 200,
+    "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
+    "domain": "npr.org"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T11:00:00Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/us-federal-government-moves-to-restrict-concentr.mp3",
+  "image": {
+   "src": "img/us-federal-government-moves-to-restrict-concentr.jpg",
+   "credit": "NPR",
+   "license": "© NPR, shown with credit",
+   "page": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
+   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+486/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F5b%2F108062ce4ba3bd3c837c527aedad%2Fgettyimages-2274290236.jpg"
+  }
+ },
+ {
+  "id": "lost-500-year-old-masterpiece-by-renaissance-pio",
+  "cat": "whoa",
+  "tags": [
+   "art",
+   "history",
+   "science",
+   "museums"
+  ],
+  "title": "Lost 500-Year-Old Masterpiece by Renaissance Pioneer Discovered After Seven Decades",
+  "snippet": "A rare 16th-century painting by Albrecht Altdorfer has emerged from a private Swiss collection after nearly seventy years. The small forest scene is heading to auction at Sotheby's in London.",
+  "bullets": [
+   "A small 16th-century painting of a forest hung in a private collection in Switzerland for nearly seven decades [1].",
+   "The 500-year-old work is newly attributed to Albrecht Altdorfer, a German Renaissance artist who pioneered landscape painting [1].",
+   "The painting will head to auction at Sotheby's in London on December 9 and is expected to sell for up to $6.6 million [1]."
+  ],
+  "report": [
+   {
+    "h": "Hidden Masterpiece Surfaces",
+    "t": "A small painting created around 1520 was kept hidden in a private Swiss collection for nearly seven decades without art historians knowing [1]. Experts identified the work earlier this year as a genuine creation by the German Renaissance master Albrecht Altdorfer [1]."
+   },
+   {
+    "h": "Rarity on the Market",
+    "t": "Scholars previously knew of just two oil landscapes by Altdorfer, both residing securely in major European museums [1]. No painting by this artist has appeared on the open market since 1980 [1]."
+   },
+   {
+    "h": "Upcoming Public Preview",
+    "t": "The newly surfaced work will go on public display at Sotheby's in New York from November 7 to 19 and in London from December 4 to 9 [1]. It heads to auction on December 9 with an expected sale price of up to $6.6 million [1]."
+   }
+  ],
+  "why": "This surprising historical discovery offers a fascinating look at the rare rediscovery of masterworks hidden away in private hands for generations.",
+  "tryit": "Visit the Sotheby's exhibitions in New York between November 7 and 19 or in London from December 4 to 9 to view this rare Renaissance masterwork in person.",
+  "qa": [
+   [
+    "Who painted the newly discovered landscape?",
+    "The painting is attributed to Albrecht Altdorfer, a German Renaissance artist [1]."
+   ],
+   [
+    "When and where will the painting be auctioned?",
+    "The work will go to auction at Sotheby's in London on December 9 [1]."
+   ],
+   [
+    "How much is the painting expected to sell for?",
+    "It is expected to fetch up to $6.6 million, though experts note it could sell for more [1]."
+   ],
+   [
+    "Where has the painting been kept for the last seventy years?",
+    "It hung in a private collection in Switzerland after being purchased in 1957 from an aristocratic Austrian family [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smart-news/german-renaissance-master-albrecht-altdorfer-pioneered-landscape-painting-a-work-previously-unknown-to-scholars-just-emerged-after-70-years-in-a-private-collection-180989861/",
+    "status": 200,
+    "title": "German Renaissance Master Albrecht Altdorfer Pioneered Landscape Painting. A Work Previously Unknown to Scholars Just Emerged After 70 Years in a Private Collection",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T15:02:32Z",
+  "addedAt": "2026-11-15T10:36:50Z",
+  "audio": "audio/lost-500-year-old-masterpiece-by-renaissance-pio.mp3",
+  "image": {
+   "src": "img/lost-500-year-old-masterpiece-by-renaissance-pio.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smart-news/german-renaissance-master-albrecht-altdorfer-pioneered-landscape-painting-a-work-previously-unknown-to-scholars-just-emerged-after-70-years-in-a-private-collection-180989861/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/2JinNdmPWWEvpc2IS5BMbDMK9Nc=/fit-in/1600x0/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/63/e6637885-7b8a-4b2e-a948-948b2bd1e49e/albrecht_altdorfer_a_thickly_wooded_landscape_with_a_rainbow_-10837bfff4a915cb3f2b2530b1fcc559.jpg"
+  }
+ },
+ {
   "id": "couple-with-adhd-channel-focus-into-cleaning-dir",
   "cat": "adhd",
   "tags": [
@@ -18923,77 +20669,6 @@
   }
  },
  {
-  "id": "how-to-train-your-memory-and-sharpness-using-sim",
-  "cat": "adhd",
-  "tags": [
-   "adhd",
-   "focus",
-   "health",
-   "psychology",
-   "science"
-  ],
-  "title": "How to Train Your Memory and Sharpness Using Simple Proven Techniques",
-  "snippet": "Memory is a skill that can be trained like riding a bike or driving a car. Information overload and technology can weaken focus and recall over time. Simple mental habits like visual stories, spaced repetition, and proper sleep help keep the brain sharp.",
-  "bullets": [
-   "Sania Alam notes that learning memory techniques helps people rely on their own brains rather than digital gadgets [1].",
-   "Professor Barbara Sahakian explains that studying challenging subjects or route maps can physically increase the volume of the hippocampus [1].",
-   "Memory champion Katie Kermode uses visual journey techniques and symbolism to memorise thousands of digits and complex facts [1]."
-  ],
-  "report": [
-   {
-    "h": "Brain fitness",
-    "t": "Keeping your brain active with new, challenging activities helps keep neural circuits functioning better for longer [1]. Experiments with London black-cab taxi drivers learning routes and medical students studying for exams show that the hippocampus physically increases in volume [1]. Furthermore, constant attention switching from mobile phones can distract attention and reduce focus [1]."
-   },
-   {
-    "h": "Visual techniques",
-    "t": "Memory champions use visual journeys and memory palaces by mentally placing items to remember along a familiar route [1]. Symbolism can transform abstract words into concrete visuals, such as imagining the number two as a swan sitting on a pumpkin for October second [1]. Mind maps and PowerPoint slide decks with detailed backgrounds also help organize complex topics [1]."
-   },
-   {
-    "h": "Rest and recall",
-    "t": "Sleep is essential for memory because the brain consolidates daytime learning while you sleep at night [1]. Professor Barbara Sahakian ensures she gets at least seven hours of sleep, while Sania Alam recommends taking regular naps to combat brain fog [1]. Spaced repetition, which involves reviewing facts at increasing intervals over time, prevents natural forgetting [1]."
-   }
-  ],
-  "why": "Building practical memory techniques supports clear focus, helps manage information overload, and keeps your mind sharp as you learn new skills [1].",
-  "tryit": "Try mentally placing items from your next shopping list along a familiar route through your home to test the journey technique [1].",
-  "qa": [
-   [
-    "Why is memory getting worse in the digital age?",
-    "Information overload, social media, and constant focus switching on mobile phones age the brain and disturb concentration [1]."
-   ],
-   [
-    "How does the journey technique work for remembering things?",
-    "You imagine a route you know well and mentally place objects or topics to remember along that path [1]."
-   ],
-   [
-    "What is spaced repetition and how does it help?",
-    "Spaced repetition means reviewing information at increasing intervals, such as daily then weekly, to stop natural forgetting [1]."
-   ],
-   [
-    "Why is sleep so important for retaining information?",
-    "Sleep consolidates what you learned during the day and prevents brain fog from slowing down your mind [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/how-to-improve-your-memory-10-easy-enjoyable-expert-tips-from-reading-a-book-to-getting-more-sleep",
-    "status": 200,
-    "title": "How to improve your memory: 10 easy, enjoyable expert tips – from reading a book to getting more sleep",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T05:00:03Z",
-  "addedAt": "2026-11-01T22:08:32Z",
-  "audio": "audio/how-to-train-your-memory-and-sharpness-using-sim.mp3",
-  "image": {
-   "src": "img/how-to-train-your-memory-and-sharpness-using-sim.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/lifeandstyle/2026/nov/01/how-to-improve-your-memory-10-easy-enjoyable-expert-tips-from-reading-a-book-to-getting-more-sleep",
-   "from_url": "https://i.guim.co.uk/img/media/bd899045b6939df839c5bd882b26a6ed2649acb0/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34c8cf113b309b3d9e593f1435310432"
-  }
- },
- {
   "id": "drinking-tea-may-help-protect-your-heart-but-tem",
   "cat": "health",
   "tags": [
@@ -19060,75 +20735,6 @@
    "license": "© ScienceDaily, shown with credit",
    "page": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm",
    "from_url": "https://www.sciencedaily.com/images/1920/pouring-hot-tea.webp"
-  }
- },
- {
-  "id": "a-forgotten-particle-may-explain-why-matter-exis",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "space",
-   "physics"
-  ],
-  "title": "A forgotten particle may explain why matter exists in the universe",
-  "snippet": "Scientists have proposed a new explanation for why matter exists in the cosmos. They found that a forgotten heavy particle lived long enough to dominate the energy density of the early universe. This shift helped matter outnumber antimatter after the Big Bang.",
-  "bullets": [
-   "Researchers from the University of Southampton and the Indian Institute of Technology Kanpur studied a decoupled heavy neutrino [1].",
-   "The particle decayed so slowly that it temporarily took over the energy density of the cooling cosmos [1].",
-   "This temporary dominance altered particle interactions involving the Higgs boson and allowed matter to survive [1]."
-  ],
-  "report": [
-   {
-    "h": "The matter mystery",
-    "t": "In the early universe, matter and antimatter were produced in almost equal amounts [1]. When these opposing particles meet, they annihilate each other and release energy [1]. Without a slight imbalance favouring matter, no material would have survived to form stars, planets, or life [1]."
-   },
-   {
-    "h": "A forgotten particle",
-    "t": "Physicists previously ignored the decoupled heavy neutrino because it interacts very weakly with ordinary matter [1]. However, calculations show its unusually long lifetime allowed it to temporarily dominate the energy density of the early universe [1]."
-   },
-   {
-    "h": "Gravitational wave clues",
-    "t": "This phase shifted the temperature at which fundamental particles interacted with their antiparticles using the Higgs boson [1]. Scientists believe this dramatic change in cosmic expansion could leave detectable patterns in ancient gravitational waves [1]."
-   }
-  ],
-  "why": "If you enjoy physics and space discoveries, this study shows how an overlooked detail can answer fundamental questions about why the physical world exists.",
-  "tryit": "Look up recent research on primordial gravitational waves if you want to follow how cosmologists test theories about the early universe.",
-  "qa": [
-   [
-    "What is a decoupled heavy neutrino?",
-    "It is a hypothetical, heavier relative of the lightweight neutrino that interacts extremely weakly with other particles [1]."
-   ],
-   [
-    "Why was this particle ignored in the past?",
-    "Scientists assumed its weak interactions meant it had too little influence to affect the creation of matter [1]."
-   ],
-   [
-    "What role did the Higgs boson play?",
-    "The heavy neutrino changed the cosmic temperature governing how particles interacted with antiparticles via the Higgs boson [1]."
-   ],
-   [
-    "How might scientists prove this theory in the future?",
-    "They hope to detect distinct signatures left by the changed cosmic expansion in primordial gravitational waves [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
-    "status": 200,
-    "title": "Scientists say a forgotten particle may explain why the universe exists",
-    "domain": "sciencedaily.com"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T04:33:36Z",
-  "addedAt": "2026-11-01T22:08:32Z",
-  "audio": "audio/a-forgotten-particle-may-explain-why-matter-exis.mp3",
-  "image": {
-   "src": "img/a-forgotten-particle-may-explain-why-matter-exis.jpg",
-   "credit": "ScienceDaily",
-   "license": "© ScienceDaily, shown with credit",
-   "page": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
-   "from_url": "https://www.sciencedaily.com/images/1920/high-energy-atomic-particle-physics.webp"
   }
  },
  {
@@ -19339,75 +20945,6 @@
    "license": "© The Guardian, shown with credit",
    "page": "https://www.theguardian.com/science/2026/nov/01/why-you-should-treat-charisma-as-a-red-flag",
    "from_url": "https://i.guim.co.uk/img/media/92b7466c257758563f3be722cea9fbc03af2c6f6/159_0_1530_1224/master/1530.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b61d3fa7b95e34541ab368a0bcc3af5"
-  }
- },
- {
-  "id": "new-outdoor-charity-uses-nature-and-activity-to",
-  "cat": "mind",
-  "tags": [
-   "mind",
-   "health",
-   "psychology"
-  ],
-  "title": "New Outdoor Charity Uses Nature And Activity To Help Men Connect",
-  "snippet": "A new charity called Connect Outdoors is launching with activities like cold-water swimming, archery and hill walking to improve men's mental health and reduce isolation.",
-  "bullets": [
-   "Connect Outdoors is launching with an International Men's Day event expecting about 80 participants [1].",
-   "The charity wants to gather research on what support men are most likely to engage with [1].",
-   "Activities include bushcraft, mindfulness, yoga, ice baths, and high ropes [1]."
-  ],
-  "report": [
-   {
-    "h": "Outdoor wellbeing focus",
-    "t": "A new charity named Connect Outdoors aims to use natural landscapes to improve health and reduce isolation [1]. Chief executive Kate Bergquist stated that the island's landscape should be embedded into everyone's weekly wellbeing routine [1]."
-   },
-   {
-    "h": "Green and blue health",
-    "t": "The initiative relies on green and blue health by encouraging people to use forests, beaches, and the sea [1]. A key focus is addressing mental health through activities that encourage conversation without making it the main selling point [1]."
-   },
-   {
-    "h": "Natural conversation spaces",
-    "t": "Supporters like former mountain leader Gary Thomas note that people find it easier to open up outdoors than in clinical settings [1]. Barbers are also involved, highlighting how safe spaces help men discuss difficult issues and build new social connections [1]."
-   }
-  ],
-  "why": "This shows how informal, non-clinical environments and shared physical activities can make it easier to open up and build supportive connections.",
-  "tryit": "Talk to a GP or healthcare professional if you are experiencing mental health challenges and want to explore supportive local groups.",
-  "qa": [
-   [
-    "What is the name of the new charity?",
-    "The new charity is called Connect Outdoors [1]."
-   ],
-   [
-    "Where is the launch event taking place?",
-    "The official launch is taking place alongside an International Men's Day event at the Venture Centre in Maughold [1]."
-   ],
-   [
-    "What kind of activities are offered?",
-    "Activities range from cold-water swimming, archery, hill walking, and breathwork to high ropes, bushcraft, mindfulness, yoga, and ice baths [1]."
-   ],
-   [
-    "Who is Kate Bergquist?",
-    "Kate Bergquist is the chief executive of Connect Outdoors [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.bbc.co.uk/news/articles/ck98zqpzn1e5o",
-    "status": 200,
-    "title": "New charity uses outdoors to improve men's mental health",
-    "domain": "bbc.co.uk"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T07:39:54Z",
-  "addedAt": "2026-11-01T22:08:32Z",
-  "audio": "audio/new-outdoor-charity-uses-nature-and-activity-to.mp3",
-  "image": {
-   "src": "img/new-outdoor-charity-uses-nature-and-activity-to.jpg",
-   "credit": "BBC News",
-   "license": "© BBC News, shown with credit",
-   "page": "https://www.bbc.co.uk/news/articles/ck98zqpzn1e5o",
-   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e24/live/64142fb0-d205-11f1-b3b6-c1e79e957e40.png"
   }
  },
  {
