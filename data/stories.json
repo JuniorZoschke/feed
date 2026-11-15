@@ -1,5 +1,355 @@
 [
  {
+  "id": "new-study-shows-how-vitamin-c-could-block-stomac",
+  "cat": "health",
+  "tags": [
+   "health",
+   "science",
+   "longevity",
+   "nutrition"
+  ],
+  "title": "New study shows how vitamin C could block stomach chemicals linked to cancer",
+  "snippet": "New mathematical modeling from the University of Waterloo suggests dietary vitamin C could help prevent potentially cancer-causing chemicals from forming in the stomach during digestion [1].",
+  "bullets": [
+   "Scientists used mathematical modeling to investigate how vitamin C influences chemical reactions in the digestive system [1].",
+   "Simulations showed that vitamin C consumed alongside nitrates and nitrites may interfere with the formation of harmful compounds [1].",
+   "Taking vitamin C after meals could moderately reduce the formation of nitrosation products linked to cancer risk [1]."
+  ],
+  "report": [
+   {
+    "h": "Simulating Digestive Chemistry",
+    "t": "Researchers at the University of Waterloo developed a mathematical model to simulate how nitrates and nitrites travel through the body and undergo chemical changes [1]. The model incorporated systems including the salivary glands, stomach, small intestine, and blood plasma [1]."
+   },
+   {
+    "h": "The Role of Vitamin C",
+    "t": "Simulations revealed that vitamin C consumed with nitrates and nitrites may interfere with the creation of potentially harmful compounds [1]. This could explain why leafy vegetables that contain both nitrates and vitamin C show protective effects in dietary research [1]."
+   },
+   {
+    "h": "Meal Timing and Next Steps",
+    "t": "Findings indicate that taking vitamin C after meals could moderately reduce nitrosation products, particularly when eating processed meats like bacon and salami [1]. However, researchers note that further clinical trials are needed to confirm these computer simulations in humans [1]."
+   }
+  ],
+  "why": "This research highlights a simple dietary mechanism that could inform how you manage everyday nutrition and antioxidant intake for long-term health.",
+  "tryit": "Talk to a GP, pharmacist, or registered dietitian about your dietary antioxidant intake and how to safely include vitamin-rich foods in your meals.",
+  "qa": [
+   [
+    "What did the new study investigate?",
+    "Scientists investigated how vitamin C influences chemical reactions in the digestive system that have been linked to cancer risk [1]."
+   ],
+   [
+    "How was the research conducted?",
+    "Researchers developed a mathematical model that simulates how nitrates and nitrites travel through the body and undergo chemical changes [1]."
+   ],
+   [
+    "Where do nitrates and nitrites come from?",
+    "They are found in cured meats like bacon and salami, as well as in fruits and vegetables grown in polluted soil or water [1]."
+   ],
+   [
+    "What did the simulations suggest about vitamin C?",
+    "Taking vitamin C after each meal could moderately reduce the formation of nitrosation products associated with cancer risk [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+    "status": 200,
+    "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+    "domain": "sciencedaily.com"
+   }
+  ],
+  "date": "2026-11-15",
+  "publishedAt": "2026-11-15T14:13:18Z",
+  "addedAt": "2026-11-15T17:37:33Z",
+  "audio": "audio/new-study-shows-how-vitamin-c-could-block-stomac.mp3",
+  "image": {
+   "src": "img/new-study-shows-how-vitamin-c-could-block-stomac.jpg",
+   "credit": "ScienceDaily",
+   "license": "© ScienceDaily, shown with credit",
+   "page": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+   "from_url": "https://www.sciencedaily.com/images/1920/vitamin-c-supplement-capsules.webp"
+  }
+ },
+ {
+  "id": "four-american-mountain-towns-that-capture-the-ma",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "winter",
+   "resorts",
+   "usa"
+  ],
+  "title": "Four American mountain towns that capture the magic of European winter",
+  "snippet": "Discover American mountain towns styled after European ski villages, offering alpine charm and winter wonderlands without the long-haul flight.",
+  "bullets": [
+   "Midway in Utah is known as Little Switzerland due to its Swiss and German immigrant history dating back to the 1850s [1].",
+   "Leavenworth was completely rebuilt in the 1960s to emulate a Bavarian village in Germany with chalets and festive events [1].",
+   "Stowe features an Austrian-style lodge founded by the real-life von Trapp family from The Sound of Music [1]."
+  ],
+  "report": [
+   {
+    "h": "Utah and Washington",
+    "t": "Midway sits nearly 30 miles outside of Salt Lake City and features Swiss-influenced architecture, chocolate, and artisanal cheeses [1]. Leavenworth was transformed in the 1960s into a Bavarian village hosting famous winter festivals with lights and gingerbread house contests [1]."
+   },
+   {
+    "h": "Idaho and Vermont",
+    "t": "Sun Valley in Idaho opened in 1936 as the first American destination ski resort and offers holiday markets and top-notch ski slopes [1]. Stowe in Vermont offers magnificent views, dog-sledding, and the authentic von Trapp Family Lodge and Resort [1]."
+   },
+   {
+    "h": "Winter Activities",
+    "t": "These mountain destinations provide skiing, snowboarding, snowshoeing, and cozy cultural experiences across different American regions [1]. Visitors can enjoy sleigh rides, ice skating, and festive winter markets without leaving the United States [1]."
+   }
+  ],
+  "why": "This offers great inspiration for planning a domestic winter getaway with international alpine charm.",
+  "tryit": "Research the travel logistics for visiting one of these alpine-style towns for a future seasonal break.",
+  "qa": [
+   [
+    "Where is Midway located?",
+    "Midway is nearly 30 miles outside of Salt Lake City [1]."
+   ],
+   [
+    "Why was Leavenworth rebuilt?",
+    "It was nearly a ghost town after the railroad was rerouted, so the townspeople rebuilt it to attract tourists [1]."
+   ],
+   [
+    "When did Sun Valley open?",
+    "Sun Valley has been famous since 1936 [1]."
+   ],
+   [
+    "Who founded the lodge in Stowe?",
+    "The von Trapp family founded the von Trapp Family Lodge and Resort [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.mentalfloss.com/geography/wanderlust/american-mountain-towns-feel-like-europe",
+    "status": 200,
+    "title": "4 American Mountain Towns That Feel Like a European Winter Escape",
+    "domain": "mentalfloss.com"
+   }
+  ],
+  "date": "2026-11-15",
+  "publishedAt": "2026-11-15T13:00:00Z",
+  "addedAt": "2026-11-15T17:37:33Z",
+  "audio": "audio/four-american-mountain-towns-that-capture-the-ma.mp3",
+  "image": {
+   "src": "img/four-american-mountain-towns-that-capture-the-ma.jpg",
+   "credit": "Mental Floss",
+   "license": "© Mental Floss, shown with credit",
+   "page": "https://www.mentalfloss.com/geography/wanderlust/american-mountain-towns-feel-like-europe",
+   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_5000,h_2812/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m6n9qnzdkdrpwx7ybf.jpg"
+  }
+ },
+ {
+  "id": "simple-exercises-and-shoe-tips-to-protect-your-a",
+  "cat": "health",
+  "tags": [
+   "health",
+   "fitness",
+   "longevity",
+   "peptides"
+  ],
+  "title": "Simple exercises and shoe tips to protect your ankles from injury",
+  "snippet": "Ankle injuries make up 5% of A&E visits in the UK. Simple movement awareness, targeted balance drills and correct shoe choices can protect them.",
+  "bullets": [
+   "Ankle injuries account for 5% of visits to A&E in the UK [1].",
+   "Building brain to body awareness helps you sense ankle movements without looking down [1].",
+   "Choosing shoes that give your toes enough space helps prevent poor foot alignment [1]."
+  ],
+  "report": [
+   {
+    "h": "Brain and body awareness",
+    "t": "Performance physiotherapist Genevieve Tawiah explains that building strong ankles starts with brain to body awareness [1]. You can build this foundation by watching your foot and practicing toe movements [1]."
+   },
+   {
+    "h": "Simple strengthening exercises",
+    "t": "Improve balance and control using heel raises, single leg stands, and walking with one foot directly in front of the other [1]. Slow, heavy loads like weighted calf raises help manage chronic tendon pain [1]."
+   },
+   {
+    "h": "Choosing supportive shoes",
+    "t": "Avoid narrow or flat shoes that crowd your toes, and match your footwear to your specific activity [1]. Flatter shoes suit squats, while cushioned trainers or hiking boots fit running and rough terrain [1]."
+   }
+  ],
+  "why": "Keeping your joints strong and mobile supports your daily training, longevity, and overall physical confidence.",
+  "tryit": "Talk to a physiotherapist or GP before starting new exercises if you have existing pain, or practice slow heel raises next to a sturdy surface today.",
+  "qa": [
+   [
+    "How common are ankle injuries in the UK?",
+    "Ankle injuries account for 5% of visits to A&E in the UK [1]."
+   ],
+   [
+    "What is toe abduction?",
+    "It is moving your big toe towards a pen placed parallel to it on the floor [1]."
+   ],
+   [
+    "What type of shoes are recommended for squats?",
+    "A flatter shoe is recommended because spongy soles make it harder to balance [1]."
+   ],
+   [
+    "Why might hiking boots cause ankle stiffness?",
+    "Wearing them for long periods day to day can limit ankle mobility to a degree [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o",
+    "status": 200,
+    "title": "One of the most commonly injured body parts that many of us never train",
+    "domain": "bbc.co.uk"
+   }
+  ],
+  "date": "2026-11-15",
+  "publishedAt": "2026-11-15T16:18:27Z",
+  "addedAt": "2026-11-15T17:37:33Z",
+  "audio": "audio/simple-exercises-and-shoe-tips-to-protect-your-a.mp3",
+  "image": {
+   "src": "img/simple-exercises-and-shoe-tips-to-protect-your-a.jpg",
+   "credit": "BBC News",
+   "license": "© BBC News, shown with credit",
+   "page": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o",
+   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14f3/live/2e24a220-e0f8-11f1-97b9-9110abfffc70.jpg"
+  }
+ },
+ {
+  "id": "swedish-alt-pop-artist-river-on-scrapping-three",
+  "cat": "news",
+  "tags": [
+   "music",
+   "artist",
+   "creativity",
+   "psychology"
+  ],
+  "title": "Swedish alt-pop artist River on scrapping three albums to find her voice",
+  "snippet": "Swedish alt-pop artist River scrapped three albums before finding her authentic voice on her 12-track debut album, A Dying Source. The record blends live instrumentation with personal themes of transformation and overcoming insecurity.",
+  "bullets": [
+   "River trashed three completed albums before discovering her true sound on her debut record A Dying Source [1].",
+   "The 12-track album features real live instruments and collaborations with musicians like Nils Berg, Tobias Wiklund, and Magnus Wiklund [1].",
+   "Writing the album served as a way for River to process her fears, insecurities, anger, and the passing of her father when she was 17 [1]."
+  ],
+  "report": [
+   {
+    "h": "Finding Her True Voice",
+    "t": "Swedish alt-pop musician River spent years developing her craft, eventually creating an alter ego called RIVER to feel free to express herself [1]. After trashing three albums, she finally connected with a raw sound on her debut album A Dying Source [1]."
+   },
+   {
+    "h": "Live Instruments and Collaboration",
+    "t": "The album relies entirely on real live instruments rather than backing tracks to maintain its core essence [1]. Musicians including Nils Berg on flute and sax contributed to the atmospheric production [1]."
+   },
+   {
+    "h": "Personal Transformation",
+    "t": "The songs explore deep themes like loss, aging, and overcoming codependency following the death of her father when she was 17 [1]. The creative process helped unite her stage persona with her true self, Elsa [1]."
+   }
+  ],
+  "why": "This story offers a refreshing perspective on patience, creative resilience, and letting go of perfectionism to find an authentic voice.",
+  "tryit": "Listen to a new album or artist today with live instruments and notice how real instrumentation changes the feeling of the music.",
+  "qa": [
+   [
+    "What is the name of River's debut album?",
+    "Her debut album is called A Dying Source [1]."
+   ],
+   [
+    "How many albums did River trash before this one?",
+    "She scrapped three albums one after another before finding her voice [1]."
+   ],
+   [
+    "Who played brass on the record?",
+    "Nils Berg played flute and sax, while Tobias and Magnus Wiklund recorded a bunch of different brass instruments [1]."
+   ],
+   [
+    "What song is written from the perspective of someone on their deathbed?",
+    "The song 'Baby Dream' is written from the perspective of someone lying on their deathbed [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.attitude.co.uk/culture/swedish-river-debut-album-a-dying-source-539775/",
+    "status": 200,
+    "title": "Swedish alt-pop artist River scrapped three albums before finding her voice on A Dying Source (EXCLUSIVE)",
+    "domain": "attitude.co.uk"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T15:45:45Z",
+  "addedAt": "2026-11-15T17:37:33Z",
+  "audio": "audio/swedish-alt-pop-artist-river-on-scrapping-three.mp3",
+  "image": {
+   "src": "img/swedish-alt-pop-artist-river-on-scrapping-three.jpg",
+   "credit": "Attitude",
+   "license": "© Attitude, shown with credit",
+   "page": "https://www.attitude.co.uk/culture/swedish-river-debut-album-a-dying-source-539775/",
+   "from_url": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2026/11/RIVER-press-09-John-Scarisbrick-1.webp"
+  }
+ },
+ {
+  "id": "an-adventurer-kayaked-500-miles-of-congolese-riv",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "business",
+   "mind",
+   "science"
+  ],
+  "title": "An Adventurer Kayaked 500 Miles of Congolese River to Spark Global Conversation",
+  "snippet": "Welsh adventurer Ash Dykes paddled nearly 500 miles down the Sangha River in the Congo Basin, sparking millions of views and viral discussions online. Working with local guide Obed Temba Tuyumvire, the team aimed to showcase the region and support local conservation efforts.",
+  "bullets": [
+   "Adventurer Ash Dykes paddled nearly 500 miles down the Sangha River in the Congo Basin [1].",
+   "Local guide Obed Temba Tuyumvire partnered on the trip to share meaningful stories and counter exaggerated narratives [1].",
+   "The journey was broadcast live on TikTok, drawing millions of views and sparking global conversations [1]."
+  ],
+  "report": [
+   {
+    "h": "The Sangha River Expedition",
+    "t": "Ash Dykes and guide Obed Temba Tuyumvire completed a kayaking trip spanning nearly 500 miles through the Congo Basin rainforest [1]. The journey formed the first part of Dykes's ambitious Project 6 venture [1]."
+   },
+   {
+    "h": "Storytelling and Conservation",
+    "t": "Tuyumvire joined the expedition to provide vital local context, highlighting the critical endangerment of forest elephants and deforestation threats [1]. He runs Kumbukumbu Tours and helps manage the Congo Rainforest Fund to support local communities [1]."
+   },
+   {
+    "h": "Navigating Digital Audiences",
+    "t": "While millions tuned in via TikTok, the team faced challenges ranging from physical exhaustion and parasite threats to online commenters treating the adventure like entertainment [1]. Tuyumvire reflected on the need for stronger calls to action to help turn online curiosity into direct regional impact [1]."
+   }
+  ],
+  "why": "This story offers a practical look at how digital reach can be harnessed for advocacy, and how local experts collaborate with travelers to shape authentic narratives.",
+  "tryit": "Visit the Congo Rainforest Fund website to learn about their grassroots educational and job opportunity initiatives.",
+  "qa": [
+   [
+    "What river did Ash Dykes kayak down?",
+    "He paddled down the Sangha River, a tributary of the Congo River [1]."
+   ],
+   [
+    "Who is Obed Temba Tuyumvire?",
+    "He is a conservation advocate, ecotourism founder, and local guide who joined the expedition to provide authentic context [1]."
+   ],
+   [
+    "How long was the kayaking journey?",
+    "The team travelled nearly 500 miles down the river [1]."
+   ],
+   [
+    "What is Project 6?",
+    "It is an ambitious undertaking by Ash Dykes to traverse extreme parts of the globe using intensive athletic feats [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/a-tiktoker-went-viral-for-kayaking-500-miles-of-congolese-river-and-started-an-even-bigger-conversation",
+    "status": 200,
+    "title": "A TikToker Went Viral for Kayaking 500 Miles of Congolese River—and Started an Even Bigger Conversation",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T11:00:00Z",
+  "addedAt": "2026-11-15T17:37:33Z",
+  "audio": "audio/an-adventurer-kayaked-500-miles-of-congolese-riv.mp3",
+  "image": {
+   "src": "img/an-adventurer-kayaked-500-miles-of-congolese-riv.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/a-tiktoker-went-viral-for-kayaking-500-miles-of-congolese-river-and-started-an-even-bigger-conversation",
+   "from_url": "https://media.cntraveler.com/photos/6af771603ce154de6fa109a5/16:9/w_1280,c_limit/gettyimages-1314004701.jpg"
+  }
+ },
+ {
   "id": "ai-tools-find-code-bugs-fast-but-human-reviewers",
   "cat": "ai",
   "tags": [
@@ -1535,75 +1885,6 @@
    "license": "© The Guardian, shown with credit",
    "page": "https://www.theguardian.com/lifeandstyle/2026/nov/15/meera-sodha-father-homecoming-uganda",
    "from_url": "https://i.guim.co.uk/img/media/0e0253d5468c82d15bca48ad6f89fd184349bd68/958_509_3612_2891/master/3612.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54cd956dfd70b1107e41262db18609ea"
-  }
- },
- {
-  "id": "save-up-to-20-percent-with-new-rei-holiday-coupo",
-  "cat": "money",
-  "tags": [
-   "money",
-   "travel",
-   "negotiation"
-  ],
-  "title": "Save Up to 20 Percent With New REI Holiday Coupon Codes",
-  "snippet": "Co-op members can save 20 percent on full-price and outlet items using a specific promo code. Shoppers can also find volume discounts and clearance sales on outdoor gear.",
-  "bullets": [
-   "Members can save 20 percent on one full-price item and one outlet item using the promo code HOLIDAY2026 through November 23, 2026 [1].",
-   "Shoppers can bundle multiple products for volume discounts of up to 15 percent this fall [1].",
-   "The deals section features last season's gear with savings of up to 77 percent off [1]."
-  ],
-  "report": [
-   {
-    "h": "Member Discount Code",
-    "t": "Co-op members can use the promo code HOLIDAY2026 to take 20 percent off one full-price item and one REI Outlet item [1]. This limited-time holiday coupon is valid online, over the phone, and in stores through November 23, 2026 [1]."
-   },
-   {
-    "h": "Volume and Bundle Savings",
-    "t": "Buyers can save up to 15 percent by bundling items like cycle accessories with a Co-op Cycles bike purchase [1]. Customers can also get 10 percent off socks when buying three or more full-priced pairs [1]."
-   },
-   {
-    "h": "Clearance and Outlet Deals",
-    "t": "The deals section offers past-season gear for up to 77 percent off, including up to $200 off rain jackets and parkas [1]. Shoppers can also browse the online REI Outlet for major price cuts on top outdoor brands [1]."
-   }
-  ],
-  "why": "Finding smart discounts on durable gear lets you stretch your travel and hobby budget further without extra stress.",
-  "tryit": "Check the REI discount page online to compare active coupon codes and volume deals before making your next purchase [1].",
-  "qa": [
-   [
-    "What is the code for the member discount?",
-    "The promo code is HOLIDAY2026 [1]."
-   ],
-   [
-    "When does the member holiday coupon expire?",
-    "It is valid through November 23, 2026 [1]."
-   ],
-   [
-    "How much can you save on select items in the deals section?",
-    "You can save up to 77 percent off hiking boots and gear [1]."
-   ],
-   [
-    "What do you get with a lifetime REI membership?",
-    "Members get free standard shipping, extended return windows, and discounts on rentals and services [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/rei-coupon",
-    "status": 200,
-    "title": "Top REI Coupons: 20% Off in November 2026",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2025-11-13",
-  "publishedAt": "2025-11-13T21:45:01Z",
-  "addedAt": "2026-11-15T10:36:50Z",
-  "audio": "audio/save-up-to-20-percent-with-new-rei-holiday-coupo.mp3",
-  "image": {
-   "src": "img/save-up-to-20-percent-with-new-rei-holiday-coupo.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/rei-coupon",
-   "from_url": "https://media.cntraveler.com/photos/605a5f9c7ef97a43a1af2cd6/16:9/w_1280,c_limit/REI-2021-GettyImages-1056063624.jpg"
   }
  },
  {
@@ -17723,77 +18004,6 @@
   }
  },
  {
-  "id": "new-jersey-students-collect-quarter-million-poun",
-  "cat": "calm",
-  "tags": [
-   "community",
-   "leadership",
-   "volunteering",
-   "organisation",
-   "business"
-  ],
-  "title": "New Jersey Students Collect Quarter Million Pounds of Food for Local Banks",
-  "snippet": "Hundreds of students in New Jersey successfully collected over a quarter million pounds of food to support local families. The massive donation effort covered a high school football field and supplied 30 different food banks across the state [1].",
-  "bullets": [
-   "Students collected over a quarter million pounds of food during the second annual 100-Yard Food Drive Challenge [1].",
-   "The donations were distributed to 30 food banks to assist families across New Jersey [1].",
-   "The project helped students develop leadership skills while coordinating volunteers and community efforts [1]."
-  ],
-  "report": [
-   {
-    "h": "The Massive Food Drive",
-    "t": "Hundreds of students at Howell High School participated in the second annual 100-Yard Food Drive Challenge [1]. They successfully collected over a quarter million pounds of food, which completely covered the school's football field from end zone to end zone [1]."
-   },
-   {
-    "h": "Supporting Local Banks",
-    "t": "This initiative was organised by the nonprofit Dermer Dreams, which was started in 2019 [1]. The collected items were transported to 30 food bank partners, including Lunch Break, Fulfill, Howell Food Bank, and Open Door in Freehold [1]."
-   },
-   {
-    "h": "Developing Leadership Skills",
-    "t": "Beyond the immediate aid, the project provided a platform for students to develop leadership skills by recruiting volunteers and organising their peers [1]. This event builds on the inaugural 2025 challenge held at Rumson-Fair Haven Regional High School, continuing a mission to inspire young people to take action [1]."
-   }
-  ],
-  "why": "This story highlights how structured, community-focused projects can effectively scale up to solve large problems, offering a positive model for leadership and organisation that you can apply to your own business or community ventures.",
-  "tryit": "Look for a local community project or charity in your area that needs help with logistics or organisation, and offer to apply your business skills to help them streamline their operations or recruitment.",
-  "qa": [
-   [
-    "How much food was collected?",
-    "Students collected over a quarter million pounds of food [1]."
-   ],
-   [
-    "How many food banks received the donations?",
-    "The food was distributed to 30 food banks across the state [1]."
-   ],
-   [
-    "Who organised the event?",
-    "The event was organised by the nonprofit Dermer Dreams [1]."
-   ],
-   [
-    "When did the nonprofit start?",
-    "The nonprofit was started in 2019 [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/",
-    "status": 200,
-    "title": "High School Fills Entire Football Field With Groceries to Replenish New Jersey Food Banks",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T15:34:01Z",
-  "addedAt": "2026-11-03T11:11:00Z",
-  "audio": "audio/new-jersey-students-collect-quarter-million-poun.mp3",
-  "image": {
-   "src": "img/new-jersey-students-collect-quarter-million-poun.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Football-field-full-of-food-bank-donations-in-NY-Credit-Tommy-Pantaleo-for-Dermer-Dreams-submitted.jpg"
-  }
- },
- {
   "id": "a-look-back-at-the-bizarre-reality-tv-trends-of",
   "cat": "laugh",
   "tags": [
@@ -18632,77 +18842,6 @@
   }
  },
  {
-  "id": "new-health-insurance-rules-for-us-visa-holders-a",
-  "cat": "travel",
-  "tags": [
-   "health",
-   "visas",
-   "money",
-   "travel",
-   "insurance"
-  ],
-  "title": "New health insurance rules for US visa holders and international residents",
-  "snippet": "The US health insurance marketplace is introducing stricter identity checks and new eligibility rules for 2027. Understanding these changes early can help you secure coverage and manage your costs effectively.",
-  "bullets": [
-   "Open enrollment for 2027 health coverage begins on 1 November in most US states [1].",
-   "New identity verification rules require high-risk applicants to use third-party services like Experian or upload a passport [1].",
-   "Subsidy eligibility has changed for many lawfully present immigrants, including those on H-1B work visas [1]."
-  ],
-  "report": [
-   {
-    "h": "Stricter identity checks",
-    "t": "Consumers using agents in the federal marketplace now need a one-time confirmation code sent via text or email to authorize their broker [1]. High-risk applicants, including those moving between states or switching agents, must complete extra identity proofing through approved third parties [1]."
-   },
-   {
-    "h": "Visa and subsidy updates",
-    "t": "The One Big Beautiful Bill Act has removed subsidy eligibility for several groups, including H-1B visa holders and those with pending green-card applications [1]. However, permanent green-card holders and citizens of specific nations like Micronesia remain eligible for these financial supports [1]."
-   },
-   {
-    "h": "Rising cost caps",
-    "t": "Out-of-pocket maximums for 2027 will increase by 13 percent to 12,000 dollars for individuals [1]. Experts suggest comparing plans manually rather than allowing automatic renewal, as new insurers may offer better rates or lower deductibles [1]."
-   }
-  ],
-  "why": "As a dual citizen or visa holder, these changes directly impact your eligibility for financial help and the documents you need to prove your identity when securing US-based health cover.",
-  "tryit": "Check your current US health plan details and prepare your passport or immigration papers if you plan to update your coverage during the enrollment window starting 1 November.",
-  "qa": [
-   [
-    "When does the open enrollment period start?",
-    "It starts on 1 November in most states, though Idaho, Connecticut, and Massachusetts began earlier [1]."
-   ],
-   [
-    "Which immigrants are still eligible for subsidies?",
-    "Green-card holders, certain Cuban and Haitian immigrants, and citizens of Micronesia, the Marshall Islands, or Palau remain eligible [1]."
-   ],
-   [
-    "What is the new out-of-pocket limit for individuals?",
-    "For 2027, the individual out-of-pocket maximum will increase to 12,000 dollars [1]."
-   ],
-   [
-    "Who is considered a high-risk applicant for identity checks?",
-    "This includes first-time applicants, people moving states, those switching brokers, or anyone with a monthly premium of 30 dollars or less [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
-    "status": 200,
-    "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
-    "domain": "npr.org"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T12:00:00Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/new-health-insurance-rules-for-us-visa-holders-a.mp3",
-  "image": {
-   "src": "img/new-health-insurance-rules-for-us-visa-holders-a.jpg",
-   "credit": "NPR",
-   "license": "© NPR, shown with credit",
-   "page": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
-   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F84%2Fcb5510334ff68e4dd5948bf3f79b%2Fap25286814762473.jpg"
-  }
- },
- {
   "id": "thinking-with-ai-how-to-use-tools-without-losing",
   "cat": "mind",
   "tags": [
@@ -19055,146 +19194,6 @@
   }
  },
  {
-  "id": "cumbrian-mothers-support-groups-secured-with-new",
-  "cat": "calm",
-  "tags": [
-   "health",
-   "mental health",
-   "community",
-   "support"
-  ],
-  "title": "Cumbrian mothers' support groups secured with new funding grants",
-  "snippet": "A vital support service for mothers facing postpartum mental health challenges has secured its future. Grants totaling £70,000 will keep their in-person wellbeing groups running, preventing a shift to online-only services.",
-  "bullets": [
-   "The Happy Mums Foundation received £70,000 in grants from the Postcode and National Lottery to maintain its in-person support groups [1].",
-   "The foundation, established in 2015, has supported more than 1,000 families across Cumbria [1].",
-   "Director Lucinda Bray noted that these real-world safe spaces are crucial for preventing the worsening of mental health for vulnerable women [1]."
-  ],
-  "report": [
-   {
-    "h": "Funding secures vital support",
-    "t": "The Happy Mums Foundation, which helps women with postpartum mental health challenges, has secured its immediate future [1]. They received £50,000 from the Postcode Lottery and £20,000 from the National Lottery [1]."
-   },
-   {
-    "h": "Why in-person matters",
-    "t": "The organisation had considered moving to online groups due to funding pressures, but feared this would remove necessary safe spaces [1]. Director Lucinda Bray explained that having a place to talk about difficult thoughts is a significant preventative factor for mental health [1]."
-   },
-   {
-    "h": "Looking toward sustainability",
-    "t": "With the funding secured, the foundation can continue its current groups while working on ways to make the organisation more sustainable for the future [1]. Since 2015, the service has helped more than 1,000 families [1]."
-   }
-  ],
-  "why": "This story highlights the tangible impact of community-based support systems and the importance of securing funding for mental health services that provide safe, in-person spaces.",
-  "tryit": "Reflect on a local community group or service that supports your own wellbeing, and consider if there is a small way you can support them, such as volunteering or sharing their information with someone who might need it.",
-  "qa": [
-   [
-    "How much funding did the foundation receive?",
-    "The foundation received a total of £70,000, consisting of £50,000 from the Postcode Lottery and £20,000 from the National Lottery [1]."
-   ],
-   [
-    "How many families has the foundation helped?",
-    "Since it was set up in 2015, the foundation has helped more than 1,000 families across Cumbria [1]."
-   ],
-   [
-    "Why were the in-person groups at risk?",
-    "The groups were at risk due to funding pressures, which had led the organisation to consider moving its services online [1]."
-   ],
-   [
-    "What is the benefit of these in-person groups?",
-    "Director Lucinda Bray stated that having a safe space to talk about difficult thoughts, including suicidal thinking, is a good preventative factor for mental health [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.bbc.co.uk/news/articles/cvglw35zjwkgo",
-    "status": 200,
-    "title": "At risk Cumbrian in-person postpartum mums' groups saved",
-    "domain": "bbc.co.uk"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T16:15:11Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/cumbrian-mothers-support-groups-secured-with-new.mp3",
-  "image": {
-   "src": "img/cumbrian-mothers-support-groups-secured-with-new.jpg",
-   "credit": "BBC News",
-   "license": "© BBC News, shown with credit",
-   "page": "https://www.bbc.co.uk/news/articles/cvglw35zjwkgo",
-   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4843/live/04fe5300-c893-11f1-b0a4-81e564f1cfaa.jpg"
-  }
- },
- {
-  "id": "15-surprising-slang-terms-from-the-1970s-we-stil",
-  "cat": "english",
-  "tags": [
-   "english",
-   "language",
-   "history",
-   "words"
-  ],
-  "title": "15 Surprising Slang Terms From the 1970s We Still Use Today",
-  "snippet": "Language evolves, but some phrases from the 1970s have stood the test of time. From guilt trips to eye-candy, these terms remain part of our daily vocabulary today [1].",
-  "bullets": [
-   "The term guilt trip has been used to describe feelings of consternation caused by another person's accusation since 1970 [1].",
-   "Eye-candy was first recorded in 1978, likely modeled after the 1930s term eye food [1].",
-   "The phrase first world problem was coined in 1979 to describe minor issues for those living pleasant lives [1]."
-  ],
-  "report": [
-   {
-    "h": "Origins of Common Phrases",
-    "t": "Many phrases we use daily have specific origins in the 1970s [1]. For example, the term hurt locker emerged in 1972 to describe intense distress or anxiety [1]."
-   },
-   {
-    "h": "Evolving Meanings",
-    "t": "Some words shifted meaning significantly over time [1]. Gotcha moved from a simple exclamation of understanding to describing a moment where someone is caught doing something foolish [1]."
-   },
-   {
-    "h": "Scientific and Cultural Roots",
-    "t": "The uncanny valley was coined in 1970 by robotics specialist Masahiro Mori to describe the unease felt toward things that are almost human [1]. Other terms like page-turner evolved from a literal device to a description of an engrossing book by 1972 [1]."
-   }
-  ],
-  "why": "Understanding the history of the language you use can be a fun way to engage with culture and improve your vocabulary precision.",
-  "tryit": "Pick one of these phrases, such as page-turner or guilt trip, and look up its full etymology online to see how its usage has shifted over the decades.",
-  "qa": [
-   [
-    "When was first world problem coined?",
-    "It was coined in 1979 [1]."
-   ],
-   [
-    "What does the full Monty mean?",
-    "It implies the absolute entirety of something or a no-holds-barred effort [1]."
-   ],
-   [
-    "Where did uncanny valley come from?",
-    "It was coined by Japanese robotics specialist Masahiro Mori in 1970 [1]."
-   ],
-   [
-    "What was a headbanger in the 1970s?",
-    "It referred to anyone with a fiery, unpredictable temper or a vocal opponent of something [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.mentalfloss.com/language/slang/words-1970s-still-use-today",
-    "status": 200,
-    "title": "15 Slang Words From the 1970s We Still Use Today",
-    "domain": "mentalfloss.com"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T17:00:03Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/15-surprising-slang-terms-from-the-1970s-we-stil.mp3",
-  "image": {
-   "src": "img/15-surprising-slang-terms-from-the-1970s-we-stil.jpg",
-   "credit": "Mental Floss",
-   "license": "© Mental Floss, shown with credit",
-   "page": "https://www.mentalfloss.com/language/slang/words-1970s-still-use-today",
-   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_98,y_38,w_1720,h_967/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01m64n0kcr78sxzx4dt2.png"
-  }
- },
- {
   "id": "how-to-use-pre-tax-health-funds-on-fitness-weara",
   "cat": "health",
   "tags": [
@@ -19330,75 +19329,6 @@
    "license": "© The Guardian, shown with credit",
    "page": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
    "from_url": "https://i.guim.co.uk/img/media/808d3d6670b293910bf2e300b7328a07c2c4872c/432_0_4320_3456/master/4320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf0d99ebf21cd5bf96faa729db390914"
-  }
- },
- {
-  "id": "paul-mccartney-shares-his-favorite-beatles-songs",
-  "cat": "english",
-  "tags": [
-   "english",
-   "music",
-   "culture"
-  ],
-  "title": "Paul McCartney Shares His Favorite Beatles Songs and Surprising Choices",
-  "snippet": "At 84, Paul McCartney remains a living legend and shared his favorite Beatles tracks in recent interviews. His picks include unexpected gems alongside classic hits like Let It Be [1].",
-  "bullets": [
-   "Paul McCartney is 84 and still releases new music [1].",
-   "He named the oddball track You Know My Name as a surprising favorite [1].",
-   "The classic song Let It Be hit No. 1 on the Billboard Hot 100 [1]."
-  ],
-  "report": [
-   {
-    "h": "Surprising Favorites",
-    "t": "In a 2020 interview, Paul McCartney picked out some of his favorite Beatles tracks, including the lesser-known You Know My Name [1]. He described this oddball track as a zany B-side that they had so much fun making [1]."
-   },
-   {
-    "h": "Classic Hits",
-    "t": "The iconic song Let It Be was co-written by John Lennon and McCartney, hitting No. 1 on the Billboard Hot 100 [1]. McCartney also praised the psychedelic classic Strawberry Fields Forever, issued in 1967 [1]."
-   },
-   {
-    "h": "Creative Process",
-    "t": "During a 2024 podcast interview, McCartney revealed a preference for Here, There and Everywhere, which he penned while waiting for Lennon [1]. He often had 20 minutes or half an hour to wait before their writing sessions began [1]."
-   }
-  ],
-  "why": "Why it matters to you: Exploring the creative habits behind iconic art offers a neat look into how great collaborations spark unexpected moments.",
-  "tryit": "Try this today: Listen to a lesser-known B-side track by your favourite band to find hidden gems you might have missed [1].",
-  "qa": [
-   [
-    "How old is Paul McCartney?",
-    "At 84, he is still going strong and releasing new music [1]."
-   ],
-   [
-    "When was Strawberry Fields Forever issued?",
-    "It was first issued as a double-A single in 1967 [1]."
-   ],
-   [
-    "Where did McCartney write Here, There and Everywhere?",
-    "He penned the track while sitting by the pool at John Lennon's house in Weybridge [1]."
-   ],
-   [
-    "What chart position did Let It Be reach?",
-    "It hit No. 1 on the Billboard Hot 100 [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.mentalfloss.com/entertainment/music/paul-mccartney-favorite-beatles-song",
-    "status": 200,
-    "title": "The Beatles Songs Paul McCartney Has Called His Favorites",
-    "domain": "mentalfloss.com"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T15:00:00Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/paul-mccartney-shares-his-favorite-beatles-songs.mp3",
-  "image": {
-   "src": "img/paul-mccartney-shares-his-favorite-beatles-songs.jpg",
-   "credit": "Mental Floss",
-   "license": "© Mental Floss, shown with credit",
-   "page": "https://www.mentalfloss.com/entertainment/music/paul-mccartney-favorite-beatles-song",
-   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_1171,w_3482,h_1958/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m66swwptw567cjr9wk.jpg"
   }
  },
  {
@@ -19682,78 +19612,6 @@
    "license": "CC BY 2.0",
    "page": "https://www.flickr.com/photos/190888186@N04/51670080984",
    "from_url": "https://live.staticflickr.com/65535/51670080984_5b0c2a9c3f_b.jpg",
-   "note": "Real photo substituted: publisher image was a render/illustration"
-  }
- },
- {
-  "id": "daily-peanut-consumption-may-boost-brain-insulin",
-  "cat": "health",
-  "tags": [
-   "health",
-   "longevity",
-   "brain",
-   "nutrition",
-   "memory"
-  ],
-  "title": "Daily peanut consumption may boost brain insulin response and memory in adults",
-  "snippet": "Researchers found that eating 60 grams of unsalted, skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in memory-related brain regions. This dietary habit may support cognitive health by enhancing how the brain processes insulin [1].",
-  "bullets": [
-   "Participants consumed 60 grams of unsalted, skin-roasted peanuts daily for 16 weeks [1].",
-   "The study observed improved insulin responsiveness in brain regions like the hippocampus and lingual gyrus [1].",
-   "Earlier research showed a 3.6% increase in cerebral blood flow and a 5.8% improvement in verbal memory performance [1]."
-  ],
-  "report": [
-   {
-    "h": "The study design",
-    "t": "Researchers at Maastricht University Medical Center conducted a randomized, controlled crossover trial with 31 healthy adults aged 60 to 75 [1]. Participants ate 60 grams of unsalted, skin-roasted peanuts daily for 16 weeks, while the control phase involved avoiding peanuts entirely [1]."
-   },
-   {
-    "h": "Brain insulin benefits",
-    "t": "The study found that daily consumption improved insulin responsiveness in brain regions linked to memory, such as the hippocampus and posterior cingulate gyrus [1]. Insulin is vital for nerve cell growth, survival, and communication, which supports overall cognitive function [1]."
-   },
-   {
-    "h": "Nutrient impact",
-    "t": "Scientists suggest the benefits likely come from a combination of nutrients in peanuts, including unsaturated fats, fiber, vitamins, and L-arginine [1]. L-arginine is a precursor to nitric oxide, which has been reported to facilitate learning and memory performance [1]."
-   }
-  ],
-  "why": "Supporting brain health through simple dietary choices is a practical, low-cost strategy for long-term cognitive maintenance as you age [1].",
-  "tryit": "Add a small portion of unsalted, skin-roasted peanuts to your daily routine as a snack, ensuring you check with your GP or a nutritionist if you have specific dietary concerns [1].",
-  "qa": [
-   [
-    "How much did participants eat?",
-    "Participants consumed 60 grams of peanuts daily [1]."
-   ],
-   [
-    "How long did the study last?",
-    "The intervention phase lasted for 16 weeks [1]."
-   ],
-   [
-    "What brain regions were affected?",
-    "Improvements were seen in the lingual gyrus, hippocampus, parahippocampal gyrus, and posterior cingulate gyrus [1]."
-   ],
-   [
-    "What is the role of L-arginine?",
-    "It is a key precursor of nitric oxide, which has been reported to facilitate learning and memory performance [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
-    "status": 200,
-    "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
-    "domain": "sciencedaily.com"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T13:24:51Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/daily-peanut-consumption-may-boost-brain-insulin.mp3",
-  "image": {
-   "src": "img/daily-peanut-consumption-may-boost-brain-insulin-photo.jpg",
-   "credit": "Alabama Extension / Flickr",
-   "license": "CC0 1.0",
-   "page": "https://www.flickr.com/photos/184594136@N08/52303500397",
-   "from_url": "https://live.staticflickr.com/65535/52303500397_27b1c13fb5_b.jpg",
    "note": "Real photo substituted: publisher image was a render/illustration"
   }
  },
@@ -20110,77 +19968,6 @@
   }
  },
  {
-  "id": "a-peaceful-cotswolds-retreat-for-your-next-quiet",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "uk",
-   "cottage",
-   "staycation",
-   "rest"
-  ],
-  "title": "A peaceful Cotswolds retreat for your next quiet weekend away from London",
-  "snippet": "Escape the city to a 16th-century thatched cottage in the village of Adderbury. These restored properties offer a perfect blend of historic charm and modern luxury for a restful break.",
-  "bullets": [
-   "Strawtop Cottages are two 16th-century thatched-roof properties located in the village of Adderbury [1].",
-   "The cottages feature Grade II-listed original details alongside modern amenities like blackout blinds and Bamford products [1].",
-   "Hosts provide a curated list of local restaurant recommendations, including The Yurt at Nicholsons and The Norman Knight [1]."
-  ],
-  "report": [
-   {
-    "h": "Historic charm meets comfort",
-    "t": "The cottages are 16th-century buildings that have been meticulously renovated to preserve Grade II-listed features [1]. They offer a quiet environment with blackout blinds and high-quality linens designed for deep, restorative sleep [1]."
-   },
-   {
-    "h": "Curated local experiences",
-    "t": "The hosts act as a de facto concierge, providing guests with excellent local dining recommendations [1]. This service allows visitors to enjoy high-quality meals at places like The Duke of Cumberland’s Head without the stress of researching options [1]."
-   },
-   {
-    "h": "Thoughtful interior design",
-    "t": "The interiors feature cozy touches like wood-burning fires, egg-yolk yellow kitchens, and well-stocked boot rooms [1]. Every detail, from the Roberts Radio to the Soho Home robes, is intended to make the stay feel peaceful and luxurious [1]."
-   }
-  ],
-  "why": "Finding a truly quiet, low-effort escape can help you reset your focus and manage the sensory overload that often comes with living in a busy city.",
-  "tryit": "Search for 'Strawtop Cottages' on Instagram or Airbnb to view their availability and save the listing to your own staycation wishlist for a future break.",
-  "qa": [
-   [
-    "Where are the cottages located?",
-    "They are located in the quaint village of Adderbury, within a couple of hours' drive from northwest London [1]."
-   ],
-   [
-    "What amenities are provided in the kitchen?",
-    "The kitchen includes a fresh loaf of sourdough, organic eggs, marmalade, bacon, rosé, and an Aga stove [1]."
-   ],
-   [
-    "Are the cottages suitable for a quiet getaway?",
-    "Yes, they are situated on a quiet street and feature blackout blinds to ensure a dark and peaceful sleeping environment [1]."
-   ],
-   [
-    "Do the hosts help with dining plans?",
-    "Yes, the hosts provide a list of recommended restaurants and can even book tables for guests [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/my-favorite-airbnb-a-dreamy-thatched-cottage-tucked-away-in-the-cotswolds",
-    "status": 200,
-    "title": "My Favorite Airbnb: A Dreamy Thatched Cottage Tucked Away in the Cotswolds",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T14:00:00Z",
-  "addedAt": "2026-11-03T02:36:02Z",
-  "audio": "audio/a-peaceful-cotswolds-retreat-for-your-next-quiet.mp3",
-  "image": {
-   "src": "img/a-peaceful-cotswolds-retreat-for-your-next-quiet.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/my-favorite-airbnb-a-dreamy-thatched-cottage-tucked-away-in-the-cotswolds",
-   "from_url": "https://media.cntraveler.com/photos/6ae39cb9a8605cc9b4ece94c/16:9/w_1280,c_limit/MFA%20Cotswolds.png"
-  }
- },
- {
   "id": "how-a-miniature-horse-named-black-pearl-brings-c",
   "cat": "calm",
   "tags": [
@@ -20532,74 +20319,6 @@
   }
  },
  {
-  "id": "why-2027-should-be-the-year-of-minning-instead-o",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "self-compassion"
-  ],
-  "title": "Why 2027 should be the year of minning instead of maxxing",
-  "snippet": "The trend of maxxing has reached its limit and become exhausting. Minning offers a new approach focused on doing less to improve the world around you.",
-  "bullets": [
-   "Maxxing has been identified as a selfish and futile trend that pushes endeavours to the limit [1].",
-   "Minning involves doing activities less or not at all to benefit others rather than just yourself [1].",
-   "The concept of minning can be applied to social habits like scrollminning or chewminning to be a better human being [1]."
-  ],
-  "report": [
-   {
-    "h": "The end of maxxing",
-    "t": "Maxxing has become an exhausting trend that pushes everything to its absolute limit [1]. Dictionary.com named maxxing its word of the year, signalling that the concept is fully exhausted [1]."
-   },
-   {
-    "h": "What is minning",
-    "t": "Minning is a more noble approach that focuses on making the world better instead of just improving yourself [1]. It involves doing things less or stopping them entirely to create a more positive environment [1]."
-   },
-   {
-    "h": "Everyday applications",
-    "t": "You can apply minning to social habits like scrollminning, which is checking your phone mid-conversation [1]. It can also help you cut out negative habits like ginminning or kinminning to improve your life [1]."
-   }
-  ],
-  "why": "This shift towards minning offers a practical way to reduce social friction and focus on self-compassion by letting go of the pressure to constantly optimise every aspect of your life.",
-  "tryit": "Identify one small, draining habit you can stop doing today to be more present with the people around you.",
-  "qa": [
-   [
-    "What does minning mean?",
-    "Minning means doing your endeavours less, or not at all, to make the world better for others [1]."
-   ],
-   [
-    "What is scrollminning?",
-    "It is the act of absent-mindedly checking your phone in the middle of a conversation [1]."
-   ],
-   [
-    "Can minning help with personal habits?",
-    "Yes, it is an opportunity to cut out habits like drinking too many spirits or negative familial relationships [1]."
-   ],
-   [
-    "Why is the second n in minning important?",
-    "The second n is important to ensure the word is not mistaken for something else [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/01/maxxing-life-2027-relax-start-minning",
-    "status": 200,
-    "title": "Forget maxxing your life. 2027 must be the year we relax – and start minning | Polly Hudson",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T16:00:15Z",
-  "addedAt": "2026-11-02T11:05:53Z",
-  "audio": "audio/why-2027-should-be-the-year-of-minning-instead-o.mp3",
-  "image": {
-   "src": "img/why-2027-should-be-the-year-of-minning-instead-o.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/commentisfree/2026/nov/01/maxxing-life-2027-relax-start-minning",
-   "from_url": "https://i.guim.co.uk/img/media/8006e02005aa3f8d52e713cff0cbba59d128da5d/686_0_5020_4016/master/5020.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=999ec5e08ec5ee4f22c01b94963f9a86"
-  }
- },
- {
   "id": "finding-freedom-in-the-arctic-circle-s-endless-w",
   "cat": "travel",
   "tags": [
@@ -20666,285 +20385,6 @@
    "license": "© The Guardian, shown with credit",
    "page": "https://www.theguardian.com/travel/2026/nov/02/dark-winter-holiday-swedish-lapland",
    "from_url": "https://i.guim.co.uk/img/media/78e472b28f1b56fac77ef9059775cf451f9efdb9/299_7_3091_2473/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c49bc0f5a80da4a8bb4fb1a70ef37b64"
-  }
- },
- {
-  "id": "drinking-tea-may-help-protect-your-heart-but-tem",
-  "cat": "health",
-  "tags": [
-   "health",
-   "fitness",
-   "science"
-  ],
-  "title": "Drinking tea may help protect your heart, but temperature matters",
-  "snippet": "A study of nearly 500,000 adults found that regular tea drinking is linked to an 11% lower risk of vascular disease. However, drinking tea at extremely hot temperatures was associated with an increased risk instead.",
-  "bullets": [
-   "A study of 485,934 adults followed for a median of 9.05 years found regular tea drinkers had an 11% lower risk of combined vascular outcomes [1].",
-   "Black tea showed more consistent associations with a reduced risk of vascular disease than green tea [1].",
-   "Drinking tea described as burning hot was linked to an increased risk of vascular disease [1]."
-  ],
-  "report": [
-   {
-    "h": "Large study on tea",
-    "t": "Researchers tracked 485,934 adults in China over a median of 9.05 years to study tea drinking habits [1]. During this time, they recorded 14,863 cases of vascular disease [1]. Regular tea consumption was linked to an 11% lower risk of combined vascular outcomes [1]."
-   },
-   {
-    "h": "Tea type and strength",
-    "t": "Black tea showed more consistent links to lower vascular risk compared to green tea [1]. Moderate strength tea offered the lowest associated risk, while six to eight cups per day showed the lowest estimated risk among weekly drinkers [1]."
-   },
-   {
-    "h": "The heat factor",
-    "t": "Drinking tea described as burning hot was linked to an increased risk of vascular disease [1]. The study did not prove a direct cause or set a precise temperature limit, but it suggests beverage heat is an important factor [1]."
-   }
-  ],
-  "why": "If you enjoy hot drinks for health or wellness, this research highlights how simple daily habits around beverage choice and preparation temperature can align with heart health [1].",
-  "tryit": "If you regularly consume hot tea, consider letting it cool slightly to a moderate temperature, or consult a GP about managing your overall cardiovascular risk [1].",
-  "qa": [
-   [
-    "How many people took part in this research?",
-    "The study followed 485,934 adults in China over a median period of 9.05 years [1]."
-   ],
-   [
-    "Which tea variety showed more consistent heart benefits?",
-    "Black tea showed more consistent associations with reduced vascular disease risk than green tea [1]."
-   ],
-   [
-    "How much tea was linked to the lowest vascular risk?",
-    "Among weekly tea drinkers, the lowest estimated risk was observed at six to eight cups per day [1]."
-   ],
-   [
-    "Why might very hot tea be problematic?",
-    "Drinking tea described as burning hot was linked to an increased risk of vascular disease, though the exact reason remains unproven [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm",
-    "status": 200,
-    "title": "Drinking tea may help protect your heart, but thereâs a surprising catch",
-    "domain": "sciencedaily.com"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T11:29:04Z",
-  "addedAt": "2026-11-01T22:08:32Z",
-  "audio": "audio/drinking-tea-may-help-protect-your-heart-but-tem.mp3",
-  "image": {
-   "src": "img/drinking-tea-may-help-protect-your-heart-but-tem.jpg",
-   "credit": "ScienceDaily",
-   "license": "© ScienceDaily, shown with credit",
-   "page": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm",
-   "from_url": "https://www.sciencedaily.com/images/1920/pouring-hot-tea.webp"
-  }
- },
- {
-  "id": "british-adventurer-karl-bushby-nears-end-of-28-y",
-  "cat": "whoa",
-  "tags": [
-   "travel",
-   "psychology",
-   "world"
-  ],
-  "title": "British adventurer Karl Bushby nears end of 28-year global walk",
-  "snippet": "British adventurer Karl Bushby has crossed the Humber Bridge on the final leg of his 28-year trek from South America to Hull. He set off from Chile in 1998 under rules not to use transport to advance or return home early.",
-  "bullets": [
-   "Karl Bushby left Chile in 1998 at age 29 and has walked for 28 years to return to Hull [1].",
-   "He followed rules not to use transport to advance and not to return home until finishing the trek [1].",
-   "Across his journey, he crossed four continents and swum the English Channel on 5 October [1]."
-  ],
-  "report": [
-   {
-    "h": "A long journey home",
-    "t": "Karl Bushby set off from Punta Arenas in Chile in 1998 with a few hundred dollars in his pocket [1]. Now aged 57, the former paratrooper walked across four continents, deserts, mountains, jungles, a frozen sea, and swum the English Channel on 5 October [1]."
-   },
-   {
-    "h": "Strict self-imposed rules",
-    "t": "The adventurer began his trek after the breakdown of his marriage [1]. He set two strict rules: he could not return to the UK until finishing, and he could not use any transport to advance [1]."
-   },
-   {
-    "h": "Pushing The Beast",
-    "t": "Throughout his 31,000-mile (49,890 km) walk, Bushby pushed a cart he nicknamed The Beast [1]. He described feeling overwhelmed by the crowds lining the Humber Bridge on the final leg to his mother's home in north Hull [1]."
-   }
-  ],
-  "why": "If you feel overwhelmed by a long-term goal, Bushby's epic voyage shows how patient momentum over decades can turn an unbelievable challenge into reality.",
-  "tryit": "Set one clear boundary for a personal project this week and stick to it without making excuses.",
-  "qa": [
-   [
-    "How far did Karl Bushby walk on his journey?",
-    "He covered 31,000 miles (49,890 km) walking from South America to Hull [1]."
-   ],
-   [
-    "What rules did Karl Bushby follow during his trek?",
-    "He committed not to return to the UK until the trek was complete and never to use transport to advance [1]."
-   ],
-   [
-    "How did Karl Bushby cross the English Channel?",
-    "He swum across the English Channel on 5 October to reach the UK leg of his journey [1]."
-   ],
-   [
-    "What is The Beast mentioned in the article?",
-    "The Beast is the cart that Bushby pushed for 28 years during his walk around the world [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.bbc.co.uk/news/articles/c9146yve236lo",
-    "status": 200,
-    "title": "Hull adventurer Karl Bushby 'overwhelmed' at Humber Bridge crowds",
-    "domain": "bbc.co.uk"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T17:18:16Z",
-  "addedAt": "2026-11-01T22:08:32Z",
-  "audio": "audio/british-adventurer-karl-bushby-nears-end-of-28-y.mp3",
-  "image": {
-   "src": "img/british-adventurer-karl-bushby-nears-end-of-28-y.jpg",
-   "credit": "BBC News",
-   "license": "© BBC News, shown with credit",
-   "page": "https://www.bbc.co.uk/news/articles/c9146yve236lo",
-   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edb8/live/e1b11720-d616-11f1-90fb-b3468681b3ba.png"
-  }
- },
- {
-  "id": "biologist-explains-how-testosterone-supplements",
-  "cat": "health",
-  "tags": [
-   "health",
-   "fertility",
-   "testosterone",
-   "science",
-   "men"
-  ],
-  "title": "Biologist Explains How Testosterone Supplements and Lifestyle Choices Affect Male Fertility",
-  "snippet": "Reproductive biologist Michael Carroll addresses widespread myths surrounding male fertility and sperm health [1]. He explains that popular health shortcuts, such as taking extra testosterone, can actually halt natural sperm production [1].",
-  "bullets": [
-   "Supplementary testosterone can trigger a feedback loop that causes the body to stop producing its own sperm [1].",
-   "In Ireland, a study of 15,000 men between 2008 and 2023 showed a 23% increase in sperm concentration [1].",
-   "Finasteride and testosterone replacement therapy can both send signals to the brain that shut down testicular function [1]."
-  ],
-  "report": [
-   {
-    "h": "Understanding Male Fertility",
-    "t": "Biologist Michael Carroll highlights that sperm counts vary globally, rising in some places like Ireland by 23% between 2008 and 2023 [1]. High sperm counts do not automatically guarantee fertility because sperm functionality remains complex and partially understood [1]."
-   },
-   {
-    "h": "Risks of Quick Hacks",
-    "t": "Taking supplementary testosterone can trigger a negative feedback loop that tells the brain to stop sperm production [1]. Using finasteride to combat male-pattern baldness or taking testosterone replacement therapy can both signal the body to reduce testicular output [1]."
-   },
-   {
-    "h": "Everyday Lifestyle Impacts",
-    "t": "Smoking is linked to lower sperm count and increased DNA damage, while high temperatures can also harm reproductive health [1]. Fat cells contain an enzyme called aromatase, which converts testosterone into oestrogen and can impair testicular cell function [1]."
-   }
-  ],
-  "why": "If you take an interest in fitness, men's aesthetics, or longevity, understanding how treatments like testosterone replacement therapy or finasteride affect your body helps you make safer choices [1].",
-  "tryit": "Speak with a GP or pharmacist before taking hormone supplements or hair loss treatments to understand how they might affect your fertility [1].",
-  "qa": [
-   [
-    "How does taking supplementary testosterone affect sperm production?",
-    "It creates a negative feedback loop that signals the brain to stop telling the testicles to produce testosterone and sperm [1]."
-   ],
-   [
-    "Can hair loss medication impact male fertility?",
-    "Yes, finasteride alters hormone signals, which can lead the brain to shut down testicular output [1]."
-   ],
-   [
-    "Did sperm counts drop everywhere in recent decades?",
-    "No, trends vary by region, with Danish military recruits showing no drop from 1996 to 2022 and Irish clinic data showing a 23% rise [1]."
-   ],
-   [
-    "How does body weight influence testicular health?",
-    "Fat cells produce an enzyme named aromatase that converts testosterone into oestrogen, which can directly impair testicular cell function [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/global/2026/nov/01/the-truth-about-testicles-are-we-facing-spermageddon",
-    "status": 200,
-    "title": "The truth about testicles: are we facing spermageddon?",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T14:00:16Z",
-  "addedAt": "2026-11-01T22:08:32Z",
-  "audio": "audio/biologist-explains-how-testosterone-supplements.mp3",
-  "image": {
-   "src": "img/biologist-explains-how-testosterone-supplements.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/global/2026/nov/01/the-truth-about-testicles-are-we-facing-spermageddon",
-   "from_url": "https://i.guim.co.uk/img/media/04ba0f986fb0902b007d564d85c9ddd8b40a2add/448_0_4510_3608/master/4510.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7fba8b24e502d09a8d2d8b52cda7685f"
-  }
- },
- {
-  "id": "why-you-should-treat-modern-charm-and-charisma-a",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "adhd",
-   "science",
-   "economics"
-  ],
-  "title": "Why you should treat modern charm and charisma as a red flag",
-  "snippet": "Smooth talkers tap directly into an evolutionary vulnerability left over from our hunter-gatherer past. Discover why online charisma bypasses critical thinking and how to defend yourself.",
-  "bullets": [
-   "Charisma is a set of skills and behaviours that brings out trust or enthusiasm in others [1].",
-   "Our hunter-gatherer ancestors needed strong leadership, so high-status traits included a persuasive voice and great eye contact [1].",
-   "Algorithmic social media has only been around for about 15 years, leaving us vulnerable to manipulation [1]."
-  ],
-  "report": [
-   {
-    "h": "The Evolution of Charm",
-    "t": "Our ancestors spent roughly 94% of human history in nomadic tribes where high-status hunter-gatherers had traits we now associate with charisma [1]. In those small groups, superficial charm was quickly exposed because people observed each other all day in lethal danger [1]."
-   },
-   {
-    "h": "Modern Scale of Deception",
-    "t": "Today, algorithmic social media easily bypasses our better judgment and amplifies charismatic voices on topics like healthcare and finance [1]. Internet personalities can distort the truth on complex subjects like ADHD or antidepressants without any experience [1]."
-   },
-   {
-    "h": "Building a Defense",
-    "t": "The best defense against charismatic excess is critical thinking used like a collective immune system [1]. We must learn to separate confidence from substance and ask critical questions about what a speaker stands to gain [1]."
-   }
-  ],
-  "why": "This helps protect your focus from online noise and smooth-talking distractions when navigating big topics like health or finance.",
-  "tryit": "The next time you feel emotionally pulled to someone's confident perspective, pause and actively look for counter-arguments.",
-  "qa": [
-   [
-    "What is charisma according to the psychology of charisma?",
-    "It is not a magic X-factor, but rather a set of skills and behaviours that can be natural or learned [1]."
-   ],
-   [
-    "Why were our ancestors less fooled by charm?",
-    "They observed their peers all day, every day, meaning charisma only won out if accompanied by sound judgment and wisdom [1]."
-   ],
-   [
-    "How long has algorithmic social media been around?",
-    "It has only been around for about 15 years [1]."
-   ],
-   [
-    "What should we treat as a red flag?",
-    "Charisma should be a red flag that encourages us to be more sceptical of an individual [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/science/2026/nov/01/why-you-should-treat-charisma-as-a-red-flag",
-    "status": 200,
-    "title": "Why you should treat charisma as a red flag",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-01",
-  "publishedAt": "2026-11-01T12:00:12Z",
-  "addedAt": "2026-11-01T22:08:32Z",
-  "audio": "audio/why-you-should-treat-modern-charm-and-charisma-a.mp3",
-  "image": {
-   "src": "img/why-you-should-treat-modern-charm-and-charisma-a.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/science/2026/nov/01/why-you-should-treat-charisma-as-a-red-flag",
-   "from_url": "https://i.guim.co.uk/img/media/92b7466c257758563f3be722cea9fbc03af2c6f6/159_0_1530_1224/master/1530.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b61d3fa7b95e34541ab368a0bcc3af5"
   }
  },
  {
