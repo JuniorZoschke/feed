@@ -1,5 +1,355 @@
 [
  {
+  "id": "apple-launches-health-ai-study-to-explore-future",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "health",
+   "apple",
+   "tech",
+   "research"
+  ],
+  "title": "Apple Launches Health AI Study To Explore Future AI Coaches",
+  "snippet": "Apple has launched a new health study in collaboration with OpenEvidence to explore how people use conversational AI for health advice and prepare for clinical visits.",
+  "bullets": [
+   "Apple launched the study to measure the quality of AI health responses, comprehension, and everyday health behaviors [1].",
+   "The study is conducted in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals [1].",
+   "The study is open to 200,000 eligible participants aged 21 and older in the US with a compatible device [1]."
+  ],
+  "report": [
+   {
+    "h": "Exploring AI Health",
+    "t": "Apple has launched the Apple Health AI Usage Study to measure AI response quality, user comprehension, and everyday health behaviors [1]. The research examines the relationship between conversational AI tools and the people who use them [1]."
+   },
+   {
+    "h": "Clinical Collaboration",
+    "t": "Apple is conducting the project alongside OpenEvidence, a clinical AI platform widely used by healthcare professionals [1]. The study will also explore how AI can help prepare patients ahead of clinical visits [1]."
+   },
+   {
+    "h": "Study Requirements",
+    "t": "The study is open to 200,000 eligible participants aged 21 and older based in the US [1]. Participants need an iPhone with Apple Intelligence enabled, such as the iPhone 15 Pro or later, running iOS 26 or later [1]."
+   }
+  ],
+  "why": "This shows how major tech platforms are developing responsible AI health tools, which ties into the growing landscape of health tech and AI agents.",
+  "tryit": "Download the study app if you meet the US location, age, and device criteria to see if you can participate in shaping future health tech tools.",
+  "qa": [
+   [
+    "Who is collaborating with Apple on the study?",
+    "Apple is conducting the study in collaboration with OpenEvidence, a clinical AI platform [1]."
+   ],
+   [
+    "How many participants can join the study?",
+    "The study is open to 200,000 eligible participants [1]."
+   ],
+   [
+    "What are the age and location requirements?",
+    "Participants must be age 21 and older and located in the US [1]."
+   ],
+   [
+    "What device requirements are needed?",
+    "You need a phone with Apple Intelligence enabled, such as the iPhone 15 Pro or later, running iOS 26 or later [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll/",
+    "status": 200,
+    "title": "Apple could build its AI health chatbot from this study - how to enroll - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-16",
+  "publishedAt": "2026-11-16T19:25:57Z",
+  "addedAt": "2026-11-16T23:39:32Z",
+  "audio": "audio/apple-launches-health-ai-study-to-explore-future.mp3",
+  "image": {
+   "src": "img/apple-launches-health-ai-study-to-explore-future.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/63e6c0eb-8321-4e2c-a17a-50dd35f33946.jpg"
+  }
+ },
+ {
+  "id": "sam-altman-clarifies-his-comments-on-personal-co",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business"
+  ],
+  "title": "Sam Altman clarifies his comments on personal computer RAM and home tinkering",
+  "snippet": "OpenAI CEO Sam Altman clarifies past remarks about memory supply, stating he wants everyone to have plenty of RAM for their computers.",
+  "bullets": [
+   "Sam Altman stated that he wants people to have a lot of RAM for their own personal computers [1].",
+   "Altman noted that DRAM prices have seen significant increases of perhaps 5x or 7x [1].",
+   "He spoke about supply constraints affecting OpenAI at different times, including memory and data center capacity [1]."
+  ],
+  "report": [
+   {
+    "h": "Clarifying RAM comments",
+    "t": "OpenAI CEO Sam Altman addressed his recent comments on personal computer memory at a summit [1]. He clarified that he wants everyone to be able to buy plenty of RAM for their own devices [1]."
+   },
+   {
+    "h": "Addressing supply limits",
+    "t": "Altman discussed how global memory supply has struggled to keep up with demand [1]. He mentioned that DRAM prices have risen sharply over recent months [1]."
+   },
+   {
+    "h": "Home tinkering support",
+    "t": "Despite previous debates over data center efficiency versus edge devices, Altman expressed clear support for home tinkering [1]. He emphasized the value of people having robust hardware at home [1]."
+   }
+  ],
+  "why": "Understanding hardware supply trends helps when planning computer setups for running local AI tools or business tasks.",
+  "tryit": "Check current hardware prices and memory specs before planning your next computer upgrade or local AI setup.",
+  "qa": [
+   [
+    "What did Sam Altman say about RAM?",
+    "He said he wants everyone to have a lot of RAM and that home tinkering is great [1]."
+   ],
+   [
+    "Where did he make these comments?",
+    "He made the remarks onstage at Semafor’s Silicon Valley & The World summit [1]."
+   ],
+   [
+    "What did he say about DRAM prices?",
+    "He noted that DRAM prices have gone up maybe 5x or 7x [1]."
+   ],
+   [
+    "What constrained OpenAI?",
+    "OpenAI has been constrained by memory, rack assembly, data center capacity, or random components at different times [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "status": 200,
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "domain": "theverge.com"
+   }
+  ],
+  "date": "2026-11-16",
+  "publishedAt": "2026-11-16T20:41:28Z",
+  "addedAt": "2026-11-16T23:39:32Z",
+  "audio": "audio/sam-altman-clarifies-his-comments-on-personal-co.mp3",
+  "image": {
+   "src": "img/sam-altman-clarifies-his-comments-on-personal-co.jpg",
+   "credit": "The Verge",
+   "license": "© The Verge, shown with credit",
+   "page": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200"
+  }
+ },
+ {
+  "id": "how-pepsi-built-a-startup-within-a-corporate-gia",
+  "cat": "ai",
+  "tags": [
+   "business",
+   "money",
+   "negotiation",
+   "economics"
+  ],
+  "title": "How Pepsi Built a Startup Within a Corporate Giant",
+  "snippet": "PepsiCo launched a new dirty soda brand called DRIPS using an agile startup approach. The team tests new products quickly in mobile trailers and uses pop-up data to launch new syrups for restaurant operators.",
+  "bullets": [
+   "PepsiCo created DRIPS to test the dirty soda trend using a mirror-chrome Airstream trailer [1].",
+   "The DRIPS team operates like an internal startup to move quickly on flavor trends and cultural moments [1].",
+   "PepsiCo launched DRIPS by Pepsi Signature Mixes, featuring five no-added-sugar syrups built on data from pop-ups [1]."
+  ],
+  "report": [
+   {
+    "h": "Testing in Public",
+    "t": "PepsiCo uses a mobile Airstream trailer to test unique drinks at high-profile events like the Formula 1 track in Las Vegas [1]. The setup allows the team to gauge customer reactions to inventive combinations like cold foam, syrups, and popping boba in real time [1]."
+   },
+   {
+    "h": "Speed to Market",
+    "t": "The internal team pairs fast-moving flavor trends with cultural events by getting straight into the kitchen with company chefs [1]. For instance, they recently created a banana float made with Mug root beer for a racing event [1]."
+   },
+   {
+    "h": "Scaling for Operators",
+    "t": "PepsiCo is packaging its pop-up learnings into standalone syrups and recipe kits for restaurant operators [1]. This includes five no-added-sugar syrups that combine multiple flavors into a single pump to simplify kitchen operations [1]."
+   }
+  ],
+  "why": "This shows a smart blueprint for how large organisations or small ventures can test new product ideas rapidly using pop-ups and live feedback loops.",
+  "tryit": "Audit your current business offerings and pick one fast experiment or pop-up test you can launch within days to gather direct customer data.",
+  "qa": [
+   [
+    "What are DRIPS drinks?",
+    "They are classic sodas loaded with syrups, cold foam, and popping boba [1]."
+   ],
+   [
+    "How much revenue did the trailer generate at the Austin event?",
+    "The trailer did close to $10,000 a day in sales at the U.S. Grand Prix in Austin [1]."
+   ],
+   [
+    "What new products were recently launched for operators?",
+    "PepsiCo launched DRIPS by Pepsi Signature Mixes, which are five no-added-sugar syrups with several flavors in one pump [1]."
+   ],
+   [
+    "Where are they testing standalone stores?",
+    "PepsiCo is exploring standalone DRIPS stores in Austin and New York City [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/business-news/pepsi-is-quietly-testing-a-dirty-soda-startup",
+    "status": 200,
+    "title": "Pepsi Is Quietly Testing a Dirty Soda Startup. Here's What They're Learning Gen Z Is Really Thirsty For.",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-16",
+  "publishedAt": "2026-11-16T19:30:00Z",
+  "addedAt": "2026-11-16T23:39:32Z",
+  "audio": "audio/how-pepsi-built-a-startup-within-a-corporate-gia.mp3",
+  "image": {
+   "src": "img/how-pepsi-built-a-startup-within-a-corporate-gia.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/business-news/pepsi-is-quietly-testing-a-dirty-soda-startup",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/DRIPS-by-Pepsi-Airstream-at-Austin-City-Limits-Starry®-Dragon-Fruit-Blast.jpg"
+  }
+ },
+ {
+  "id": "adult-autism-diagnoses-shift-toward-young-adults",
+  "cat": "adhd",
+  "tags": [
+   "adhd",
+   "health",
+   "psychology",
+   "science"
+  ],
+  "title": "Adult autism diagnoses shift toward young adults, women and co-occurring conditions",
+  "snippet": "First-time adult autism diagnoses in the UK and Sweden have shifted markedly since 2010. Diagnoses are now climbing fastest among young adults and women, with prior records of anxiety, depression and ADHD becoming much more common.",
+  "bullets": [
+   "First-time adult autism diagnoses rose more than tenfold in the UK from 0.6 per 10,000 person-years in 2010 to 6.4 in 2023 [1].",
+   "By 2023 in the UK, age-standardized rates of new diagnoses reached 10.2 per 10,000 person-years among women compared with 6.7 among men [1].",
+   "Prior anxiety records among newly diagnosed autistic adults in the UK rose from 28.7% in 2010 to 58.3% in 2023 [1]."
+  ],
+  "report": [
+   {
+    "h": "Rising Adult Diagnoses",
+    "t": "New adult autism diagnoses have climbed rapidly in the UK and Sweden since 2010. The steepest growth occurs among young adults aged 16 to 20, reaching a total prevalence of 4.1% in that age group [1]."
+   },
+   {
+    "h": "Shifting Sex Ratios",
+    "t": "Diagnoses among women have overtaken male rates in recent years. By 2023, UK age-standardized new diagnosis rates reached 10.2 per 10,000 person-years for women compared with 6.7 for men [1]."
+   },
+   {
+    "h": "Changing Medical Backgrounds",
+    "t": "Newly diagnosed adults are less likely to have intellectual disabilities or epilepsy and much more likely to have prior records of anxiety, depression, or ADHD [1]."
+   }
+  ],
+  "why": "Understanding how neurodivergent profiles overlap with ADHD, anxiety and adult health records helps clarify your own clinical landscape and healthcare interactions in the UK.",
+  "tryit": "Discuss any overlapping focus or mental health symptoms with your GP or a qualified clinician to ensure you get comprehensive support tailored to your whole profile.",
+  "qa": [
+   [
+    "How much did first-time adult autism diagnoses rise in the UK?",
+    "They rose more than tenfold from 0.6 per 10,000 person-years in 2010 to 6.4 in 2023 [1]."
+   ],
+   [
+    "What age group experienced the highest diagnosis rates?",
+    "16-to-20-year-olds experienced the highest diagnosis rates and fastest increases across both the UK and Sweden [1]."
+   ],
+   [
+    "How did the ratio of men to women change for new diagnoses?",
+    "Women overtook men by the end of the study period, with UK rates reaching 10.2 per 10,000 person-years for women and 6.7 for men in 2023 [1]."
+   ],
+   [
+    "Which co-occurring conditions became more common in newly diagnosed adults?",
+    "Prior records of anxiety, depression, ADHD, sleep disorders, and eating disorders climbed significantly [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/the-profile-of-adults-diagnosed-with-autism-has-shifted-markedly-since-2010/",
+    "status": 200,
+    "title": "The profile of adults diagnosed with autism has shifted markedly since 2010",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-16",
+  "publishedAt": "2026-11-16T19:00:35Z",
+  "addedAt": "2026-11-16T23:39:32Z",
+  "audio": "audio/adult-autism-diagnoses-shift-toward-young-adults.mp3",
+  "image": {
+   "src": "img/adult-autism-diagnoses-shift-toward-young-adults.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/the-profile-of-adults-diagnosed-with-autism-has-shifted-markedly-since-2010/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2024/10/sad-woman.jpg"
+  }
+ },
+ {
+  "id": "uk-scientists-help-prepare-space-mission-to-samp",
+  "cat": "news",
+  "tags": [
+   "science",
+   "space",
+   "astronomy",
+   "mars"
+  ],
+  "title": "UK Scientists Help Prepare Space Mission To Sample Mars Moon Phobos",
+  "snippet": "UK laboratory experiments and simulation work are helping scientists prepare to interpret soil samples from Phobos. The MMX mission aims to reveal whether Mars moons are captured asteroids or the result of an ancient impact.",
+  "bullets": [
+   "Japan's MMX mission launched successfully on October 19 atop an H3 rocket from Tanegashima Space Center [1].",
+   "Laboratory tests at the University of Kent used a light-gas gun to simulate impact conditions on Phobos [1].",
+   "Researchers investigated whether instruments can detect foreign material from Mars within the surface layer of Phobos [1]."
+  ],
+  "report": [
+   {
+    "h": "Mission To Phobos",
+    "t": "Japan's MMX spacecraft launched successfully on October 19 to solve the mystery of how Mars' two moons, Phobos and Deimos, formed [1]. Ground controllers received the first signal from the spacecraft about two weeks ago to check it is communicating normally [1]."
+   },
+   {
+    "h": "Simulating Impact Scenarios",
+    "t": "Researchers at the University of Kent used a light-gas gun to fire projectiles at simulated Phobos surfaces [1]. This tested how crater formation depends on impact speed and whether material from Mars could contaminate the moon [1]."
+   },
+   {
+    "h": "Searching For Organics",
+    "t": "A team called Hard Rocks at the University of Leicester is designing experiments to look for potential organic matter on Phobos [1]. These compounds could reveal important clues about the formation and evolution of the Martian moons [1]."
+   }
+  ],
+  "why": "This fascinating space mission offers a glimpse into how international scientific collaboration solves deep solar system mysteries.",
+  "tryit": "Read the official Europlanet Science Congress updates online to follow how planetary scientists use laboratory simulations to decode data from deep space missions.",
+  "qa": [
+   [
+    "When did the MMX mission launch?",
+    "It launched on October 19 atop an H3 rocket from Tanegashima Space Center in southern Japan [1]."
+   ],
+   [
+    "What is the main goal of the MMX mission?",
+    "To investigate both Martian moons and return samples of soil from Phobos to Earth [1]."
+   ],
+   [
+    "What equipment did University of Kent researchers use?",
+    "They used a light-gas gun to propel objects at high velocities at material simulating the surface of Phobos [1]."
+   ],
+   [
+    "What do scientists hope to find regarding organic matter?",
+    "They are designing experiments to investigate the potential presence of organic matter on Phobos [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://theconversation.com/how-uk-scientists-are-helping-the-mmx-space-mission-grab-the-best-sample-of-soil-from-mars-moon-phobos-295329",
+    "status": 200,
+    "title": "How UK scientists are helping the MMX space mission grab the best sample of soil from Mars’ moon Phobos",
+    "domain": "theconversation.com"
+   }
+  ],
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T11:48:32Z",
+  "addedAt": "2026-11-16T23:39:32Z",
+  "audio": "audio/uk-scientists-help-prepare-space-mission-to-samp.mp3",
+  "image": {
+   "src": "img/uk-scientists-help-prepare-space-mission-to-samp.jpg",
+   "credit": "The Conversation",
+   "license": "© The Conversation, shown with credit",
+   "page": "https://theconversation.com/how-uk-scientists-are-helping-the-mmx-space-mission-grab-the-best-sample-of-soil-from-mars-moon-phobos-295329",
+   "from_url": "https://images.theconversation.com/files/768717/original/file-20261028-52-5anq8a.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C1836%2C918&q=45&auto=format&w=1356&h=668&fit=crop"
+  }
+ },
+ {
   "id": "new-un-study-reveals-major-accuracy-flaws-in-pop",
   "cat": "ai",
   "tags": [
@@ -135,75 +485,6 @@
    "license": "© ZDNET, shown with credit",
    "page": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/",
    "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304360163.jpg"
-  }
- },
- {
-  "id": "top-ways-to-save-big-on-outdoor-gear-with-rei-co",
-  "cat": "money",
-  "tags": [
-   "money",
-   "travel",
-   "business"
-  ],
-  "title": "Top Ways to Save Big on Outdoor Gear With REI Coupons",
-  "snippet": "Discover practical ways to save on outdoor gear and travel accessories with active member coupons, volume bundles, and secondhand trade-ins at REI.",
-  "bullets": [
-   "Co-op members can save an extra 20% on one full-price item and one outlet item using the promo code HOLIDAY2026 through November 23, 2026 [1].",
-   "Shoppers can bundle multiple products to get volume discounts of up to 15% off without a coupon this fall [1].",
-   "Customers can trade in gently used gear through the Re/Supply platform to receive REI gift cards [1]."
-  ],
-  "report": [
-   {
-    "h": "Member Coupons",
-    "t": "Co-op members can use the promo code HOLIDAY2026 to save 20% on one full-price item and 20% off one REI Outlet item through November 23, 2026 [1]. This limited-time holiday coupon applies to the highest full-price item in your cart [1]."
-   },
-   {
-    "h": "Volume and Bundle Discounts",
-    "t": "Buyers can save up to 15% by bundling multiple products like cycling accessories or camping gear [1]. Specific deals include 10% off three or more full-priced sock pairs and 15% off paddles with a kayak purchase [1]."
-   },
-   {
-    "h": "Secondhand Trade-Ins",
-    "t": "Gently used products can be given a second life through REI's Re/Supply platform for a gift card [1]. Customers fill out an online trade-in form and drop items off at a local store to receive credit [1]."
-   }
-  ],
-  "why": "Smart savings strategies help you stretch your travel and hobby budget without sacrificing quality gear.",
-  "tryit": "Check the REI discount page for active coupon codes and fill out a Re/Supply form if you have old gear to trade in.",
-  "qa": [
-   [
-    "What is the promo code for members?",
-    "Members can use the promo code HOLIDAY2026 to save 20% [1]."
-   ],
-   [
-    "How much does a lifetime membership cost?",
-    "A lifetime REI membership costs a one-time fee of $30 [1]."
-   ],
-   [
-    "What discount do you get on socks when buying three pairs?",
-    "You can take up to 10% off when you buy three or more full-priced pairs of socks [1]."
-   ],
-   [
-    "How can you trade in used gear?",
-    "Fill out the trade-in form on the Re/Supply platform to get an estimate and drop your products off at your nearest REI store [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/rei-coupon",
-    "status": 200,
-    "title": "Top REI Coupons: 20% Off in November 2026",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2025-11-13",
-  "publishedAt": "2025-11-13T21:45:01Z",
-  "addedAt": "2026-11-16T17:54:39Z",
-  "audio": "audio/top-ways-to-save-big-on-outdoor-gear-with-rei-co.mp3",
-  "image": {
-   "src": "img/top-ways-to-save-big-on-outdoor-gear-with-rei-co.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/rei-coupon",
-   "from_url": "https://media.cntraveler.com/photos/605a5f9c7ef97a43a1af2cd6/16:9/w_1280,c_limit/REI-2021-GettyImages-1056063624.jpg"
   }
  },
  {
@@ -16241,27 +16522,7 @@
    "license": "© Lifehacker, shown with credit",
    "page": "https://lifehacker.com/tech/what-to-know-about-black-friday-2026-sales",
    "from_url": "https://lifehacker.com/imagery/articles/01M6M9C0FEV5RNYQPDWWT8HYHR/hero-image.fill.size_1200x675.png"
-  },
-  "sides": [
-   {
-    "title": "The 41+ best early Black Friday deals, handpicked by a shopping expert",
-    "url": "https://www.nbcnews.com/select/shopping/best-early-black-friday-deals-rcna609512",
-    "outlet": "NBC News",
-    "domain": "nbcnews.com",
-    "lean": "L",
-    "leanLabel": "Left-leaning",
-    "publishedAt": "2026-11-16T14:01:01Z"
-   },
-   {
-    "title": "Best CD rates of November 2026: Up to 5.00% APY",
-    "url": "https://www.cbsnews.com/moneywatch/banking/cd-rates/",
-    "outlet": "CBS News",
-    "domain": "cbsnews.com",
-    "lean": "C",
-    "leanLabel": "Centre",
-    "publishedAt": "2026-11-16T15:49:33Z"
-   }
-  ]
+  }
  },
  {
   "id": "wheelchair-athlete-opens-china-s-first-training",
@@ -17899,76 +18160,6 @@
   }
  },
  {
-  "id": "using-meditation-to-create-space-and-reduce-unpr",
-  "cat": "mind",
-  "tags": [
-   "mind",
-   "psychology",
-   "adhd",
-   "self-compassion"
-  ],
-  "title": "Using Meditation to Create Space and Reduce Unproductive Shame Spirals",
-  "snippet": "Meditation helps create distance between yourself and intrusive thoughts, offering a way to stop shame spirals. By treating thoughts like passersby on a sidewalk, you can learn to observe them without elaborating or reacting.",
-  "bullets": [
-   "Meditation creates distance from default thoughts, allowing you to choose how you feel about your experiences [1].",
-   "A recommended starting practice is ten to fifteen minutes a day, three days a week, though even a few minutes can help [1].",
-   "The goal is to notice shame as a passing thought without adding commentary or reacting to it [1]."
-  ],
-  "report": [
-   {
-    "h": "Creating mental space",
-    "t": "Meditation is a tool for building distance between yourself and the onslaught of daily thoughts [1]. It does not change your personality or IQ, but it can make your mind less frantic and less prone to doom loops [1]."
-   },
-   {
-    "h": "The sidewalk analogy",
-    "t": "Think of your thoughts like people walking on a busy city sidewalk [1]. You cannot control who appears, but you can choose not to follow them or build stories around them [1]."
-   },
-   {
-    "h": "Interrupting the spiral",
-    "t": "Shame often stems from the story we tell about a desire, rather than the desire itself [1]. By simply noticing a shame thought and returning your attention to your breath, you can eventually strip that thought of its emotional power [1]."
-   }
-  ],
-  "why": "This matters because it offers a practical, non-judgmental way to manage intrusive thoughts and shame, helping you stay grounded without needing to change who you are.",
-  "tryit": "Next time you feel a negative thought or shame spiral starting, pause, label the thought as just a thought, and gently return your focus to your breath for one minute.",
-  "qa": [
-   [
-    "How much should I meditate?",
-    "The author recommends starting with ten to fifteen minutes a day, three days a week, though even a couple of minutes can make a difference [1]."
-   ],
-   [
-    "Will meditation change my personality?",
-    "No, your personality and IQ will remain unchanged by meditation [1]."
-   ],
-   [
-    "How do I handle shame thoughts?",
-    "Notice the thought as it arises, do not add commentary or react to it, and gently return your attention to your breath [1]."
-   ],
-   [
-    "Is the goal to avoid unpleasant thoughts?",
-    "No, the goal is simply to recognise them without elaborating on them [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psychologytoday.com/us/blog/the-psychology-of-fetish-and-desire/202611/how-to-meditate-to-help-reduce-shame",
-    "status": 200,
-    "title": "How to Meditate to Help Reduce Shame",
-    "domain": "psychologytoday.com"
-   }
-  ],
-  "date": "2026-11-02",
-  "publishedAt": "2026-11-02T20:29:18Z",
-  "addedAt": "2026-11-03T11:11:00Z",
-  "audio": "audio/using-meditation-to-create-space-and-reduce-unpr.mp3",
-  "image": {
-   "src": "img/using-meditation-to-create-space-and-reduce-unpr.jpg",
-   "credit": "Psychology Today",
-   "license": "© Psychology Today, shown with credit",
-   "page": "https://www.psychologytoday.com/us/blog/the-psychology-of-fetish-and-desire/202611/how-to-meditate-to-help-reduce-shame",
-   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/pexels-ivan-s-6648546.jpg?itok=ueTzT0Gg"
-  }
- },
- {
   "id": "discover-the-darent-valley-a-quiet-kent-escape-l",
   "cat": "travel",
   "tags": [
@@ -18037,566 +18228,6 @@
    "license": "© The Guardian, shown with credit",
    "page": "https://www.theguardian.com/travel/2026/nov/03/perfect-weekend-darent-valley-kent-demi-paradise-great-pubs",
    "from_url": "https://i.guim.co.uk/img/media/6da46a7b621e32a986b9cc07784eaff03a1e3b7f/1152_0_6557_5246/master/6557.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d26e77da465801f0eebedea9727e9bb4"
-  }
- },
- {
-  "id": "four-ways-to-improve-your-homepage-messaging-and",
-  "cat": "english",
-  "tags": [
-   "business",
-   "marketing",
-   "conversion",
-   "sales"
-  ],
-  "title": "Four ways to improve your homepage messaging and increase customer conversions",
-  "snippet": "Many websites fail to convert visitors because they focus on product features rather than buyer needs. By speaking directly to customer problems and reducing perceived risks, you can turn more traffic into sales.",
-  "bullets": [
-   "Focus your homepage on the single problem that most motivates your ideal customers to act [1].",
-   "Make the consequences of doing nothing visible to show why your solution is necessary [1].",
-   "Address specific implementation fears to reduce the perceived risk of buying your product [1]."
-  ],
-  "report": [
-   {
-    "h": "Focus on one problem",
-    "t": "Companies often try to communicate every feature at once, which leads to vague messaging [1]. Instead, interview recent customers to identify the one specific, urgent problem that consistently motivates them to seek a solution [1]."
-   },
-   {
-    "h": "Highlight cost of inaction",
-    "t": "Your biggest competitor is often the way customers currently do things [1]. Use real examples to show how the status quo creates revenue leakage, missed opportunities, or unnecessary administrative costs [1]."
-   },
-   {
-    "h": "Reduce buying risk",
-    "t": "Buyers often hesitate because they are uncertain about implementation or trust [1]. Address these specific concerns directly on your homepage by showing how the product fits into their workflow or by sharing relevant customer stories [1]."
-   }
-  ],
-  "why": "This helps you refine your business messaging to actually convert visitors, saving you time and money on ineffective marketing efforts [1].",
-  "tryit": "Interview a handful of recent customers this week and ask them specifically what problem they were most eager to solve before they found your solution [1].",
-  "qa": [
-   [
-    "Why does vague messaging fail?",
-    "It fails because it tries to capture multiple use cases and benefits in a single headline, risking saying nothing compelling enough to make a buyer act [1]."
-   ],
-   [
-    "How should I identify the right message?",
-    "Interview recent customers or prospects to find the single problem or desired outcome that most consistently motivates them to act [1]."
-   ],
-   [
-    "Why is the status quo a competitor?",
-    "Customers may recognise a problem but have learned to live with it, so they have little reason to change unless the cost of continuing becomes clear [1]."
-   ],
-   [
-    "Should I use customer logos for reassurance?",
-    "While they help, they do not necessarily answer the specific questions that make buyers hesitate, such as concerns about data migration or implementation [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.entrepreneur.com/building-a-business/4-reasons-your-homepage-messaging-isnt-converting-and-how-to-address-them",
-    "status": 200,
-    "title": "4 Reasons Your Homepage Messaging Isn't Converting (and How to Address Them)",
-    "domain": "entrepreneur.com"
-   }
-  ],
-  "date": "2026-11-02",
-  "publishedAt": "2026-11-02T18:00:00Z",
-  "addedAt": "2026-11-03T03:50:17Z",
-  "audio": "audio/four-ways-to-improve-your-homepage-messaging-and.mp3",
-  "image": {
-   "src": "img/four-ways-to-improve-your-homepage-messaging-and.jpg",
-   "credit": "Entrepreneur",
-   "license": "© Entrepreneur, shown with credit",
-   "page": "https://www.entrepreneur.com/building-a-business/4-reasons-your-homepage-messaging-isnt-converting-and-how-to-address-them",
-   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/homepage-messaging-not-converting-1026-g-1467526225.jpg"
-  }
- },
- {
-  "id": "thinking-with-ai-how-to-use-tools-without-losing",
-  "cat": "mind",
-  "tags": [
-   "mind",
-   "ai",
-   "adhd",
-   "productivity",
-   "learning"
-  ],
-  "title": "Thinking With AI: How To Use Tools Without Losing Your Edge",
-  "snippet": "AI is a powerful assistant, but using it to skip the hard work of thinking can stunt your growth. Learn how to use AI to prompt deeper thought rather than avoiding the mental heavy lifting that builds real skill.",
-  "bullets": [
-   "AI is most helpful when it handles low-level busy work rather than replacing your own critical thinking [1].",
-   "Using AI to provide step-by-step answers can prevent you from learning how to apply principles to new, similar problems [1].",
-   "When you face a difficult task, ask AI for hints or guidance instead of requesting the final solution [1]."
-  ],
-  "report": [
-   {
-    "h": "The Trap of Convenience",
-    "t": "It is tempting to use AI to summarise reading or write emails, but this often bypasses the mental work that actually builds knowledge [1]. When you let AI do the heavy lifting, you miss the vital opportunity to extract essential information yourself or add the unique human touch that makes communication effective and persuasive [1]."
-   },
-   {
-    "h": "Active Learning Principles",
-    "t": "True learning happens when you wrestle with a problem, not when you simply read an AI-generated explanation [1]. Research suggests that after understanding a concept, you must apply it to new, similar problems independently to ensure you have truly mastered the underlying principles and can generalise that knowledge [1]."
-   },
-   {
-    "h": "Using AI Wisely",
-    "t": "AI is a tool for support, not a replacement for your own cognitive process [1]. If you are stuck, use AI to provide hints or guide your thinking process rather than asking it to provide the final answer or verify facts, as generative AI can hallucinate and echo what it has been told [1]."
-   }
-  ],
-  "why": "As someone interested in AI agents and business, you need to ensure you are building your own expertise and critical thinking skills, not just outsourcing your brain to a chatbot.",
-  "tryit": "Next time you use AI to help with a complex task or business problem, stop and ask it to \"give me a hint to get started\" or \"explain the logic behind this\" instead of asking it to \"write the final draft\" or \"solve this for me.\"",
-  "qa": [
-   [
-    "When is it appropriate to use AI?",
-    "AI use is appropriate when it prompts you to think more or helps you accomplish busy work that requires little thinking [1]."
-   ],
-   [
-    "Why is using AI to verify news a bad idea?",
-    "Generative AI has a tendency to hallucinate and echo what it has been told, making it a poor tool for verifying facts [1]."
-   ],
-   [
-    "What should students do when they face difficulty?",
-    "They should ask for hints from their instructors or an AI, rather than asking for the answers [1]."
-   ],
-   [
-    "Why is it better to handwrite notes than type them?",
-    "Taking notes is an insufficient tool for learning, especially when typed, because the act of deciding which information is most salient is what promotes learning [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202611/using-ai-to-avoid-thinking-harms-students",
-    "status": 200,
-    "title": "Using AI to Avoid Thinking Harms Students",
-    "domain": "psychologytoday.com"
-   }
-  ],
-  "date": "2026-11-02",
-  "publishedAt": "2026-11-02T20:08:54Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/thinking-with-ai-how-to-use-tools-without-losing.mp3",
-  "image": {
-   "src": "img/thinking-with-ai-how-to-use-tools-without-losing.jpg",
-   "credit": "Psychology Today",
-   "license": "© Psychology Today, shown with credit",
-   "page": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202611/using-ai-to-avoid-thinking-harms-students",
-   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-11/chaya_nuphol.jpg?itok=K6nye9_d"
-  }
- },
- {
-  "id": "jumping-spiders-show-complex-sleep-stages-and-si",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "animals",
-   "nature"
-  ],
-  "title": "Jumping spiders show complex sleep stages and signs of dreaming",
-  "snippet": "New research reveals that jumping spiders experience structured sleep with two distinct stages, including a phase that resembles REM sleep in humans. Scientists observed the arachnids twitching and moving their eyes while hanging from silk lines at night.",
-  "bullets": [
-   "Researchers identified two distinct sleep stages in jumping spiders including a phase similar to REM sleep [1].",
-   "Spiders in the REM-like stage took an average of 4.27 seconds to respond to sounds compared to 1.69 seconds when awake [1].",
-   "The findings suggest that the basic architecture of sleep may have evolved over 500 million years ago [1]."
-  ],
-  "report": [
-   {
-    "h": "Nightly routines",
-    "t": "Scientists used infrared cameras to record spiders and found they spend their nights hanging upside-down from silk platforms. During this time, they enter a state of quiescence interspersed with short bouts of leg curling and rapid eye movement [1]."
-   },
-   {
-    "h": "Complex brain states",
-    "t": "The study confirms that spiders meet the criteria for sleep by showing they respond slower to external stimuli when resting. This suggests these animals experience a complex sensory world that exists beyond immediate physical sensations [1]."
-   },
-   {
-    "h": "Evolutionary origins",
-    "t": "The lineage leading to spiders and vertebrates diverged around 500 million years ago. Finding similar sleep structures in such different animals indicates that REM-like sleep is much older and more widespread than previously thought [1]."
-   }
-  ],
-  "why": "This discovery highlights the sophisticated nature of small creatures and reminds us that even the simplest organisms require rest for complex brain function. It offers a perspective on the universal importance of sleep for focus and health across all species.",
-  "tryit": "Observe the wildlife in your local park or garden today to practice mindfulness and connection with nature. Look for small details in how insects or spiders interact with their environment to build your curiosity and appreciation for complex biology.",
-  "qa": [
-   [
-    "How do spiders sleep in the wild?",
-    "They often look for a place to rest at sunset, groom themselves, and then hang motionless from silk lines attached to surfaces [1]."
-   ],
-   [
-    "Do spiders actually dream?",
-    "While they show REM-like eye movements and twitching, scientists say it is difficult to prove if they dream because we still have a limited understanding of human dreaming [1]."
-   ],
-   [
-    "How much slower do spiders react when asleep?",
-    "Spiders in the REM-like phase took about 4.27 seconds to react to a loud noise, which is significantly slower than the 1.69 seconds they take when awake [1]."
-   ],
-   [
-    "What other simple animals are known to sleep?",
-    "Jellyfish and sea anemones also spend about one-third of their day asleep, likely to help reduce DNA damage in their nerve cells [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.smithsonianmag.com/smart-news/do-spiders-dream-these-arachnids-twitch-curl-their-legs-and-move-their-eyes-when-asleep-hinting-at-a-complex-brain-state-180989789/",
-    "status": 200,
-    "title": "Do Spiders Dream? These Arachnids Twitch, Curl Their Legs and Move Their Eyes When Asleep, Hinting at a Complex Brain State",
-    "domain": "smithsonianmag.com"
-   }
-  ],
-  "date": "2026-11-02",
-  "publishedAt": "2026-11-02T20:45:46Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/jumping-spiders-show-complex-sleep-stages-and-si.mp3",
-  "image": {
-   "src": "img/jumping-spiders-show-complex-sleep-stages-and-si.jpg",
-   "credit": "Smithsonian",
-   "license": "© Smithsonian, shown with credit",
-   "page": "https://www.smithsonianmag.com/smart-news/do-spiders-dream-these-arachnids-twitch-curl-their-legs-and-move-their-eyes-when-asleep-hinting-at-a-complex-brain-state-180989789/",
-   "from_url": "https://th-thumbnailer.cdn-si-edu.com/ZlSBAYB5Zz6ebvhljdb2IuitpOU=/fit-in/1600x0/filters:focal(960x549:961x550)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/66/cb661819-91bb-4971-b3c5-86ad1beb3672/leadimagesize.webp"
-  }
- },
- {
-  "id": "how-a-simple-next-day-thank-you-can-boost-your-p",
-  "cat": "money",
-  "tags": [
-   "money",
-   "business",
-   "negotiation",
-   "etiquette"
-  ],
-  "title": "How a Simple Next-Day Thank You Can Boost Your Professional Reputation",
-  "snippet": "Sending a sincere thank-you message within 24 hours of a professional interaction is a powerful way to stand out. This simple habit demonstrates character and emotional intelligence, helping you build stronger relationships in business [1].",
-  "bullets": [
-   "Sending a sincere thank-you email or text within 24 hours distinguishes you from competitors who overlook this courtesy [1].",
-   "Research indicates that 36% of B2B decision-makers refuse to do business with sales professionals who demonstrate poor etiquette [1].",
-   "A post-interview thank-you note should be personalized rather than generic or AI-generated to show genuine interest [1]."
-  ],
-  "report": [
-   {
-    "h": "The Power of Gratitude",
-    "t": "A sincere thank-you sent within 24 hours shows character and emotional intelligence [1]. It helps you stand out from others who may overlook this simple professional courtesy [1]."
-   },
-   {
-    "h": "Professional Etiquette Matters",
-    "t": "Research shows 36% of B2B decision-makers will not work with sales professionals who display poor etiquette [1]. Even outside of sales, your behaviour influences how others perceive your credibility [1]."
-   },
-   {
-    "h": "Keep It Personal",
-    "t": "When following up after an interview or favour, avoid generic, AI-generated text [1]. A message of three or four sincere sentences is usually enough to make a positive impression [1]."
-   }
-  ],
-  "why": "This is a low-effort, high-reward habit for your ADHD brain to automate, helping you build the professional network and reputation needed to buy a business or negotiate deals.",
-  "tryit": "Set a recurring 24-hour reminder on your phone for a 'Gratitude Check' to send a quick, specific thank-you text or email after any meeting, interview, or favour received.",
-  "qa": [
-   [
-    "How quickly should I send a thank-you message?",
-    "You should send a sincere thank-you email or text within 24 hours [1]."
-   ],
-   [
-    "Does etiquette affect business deals?",
-    "Yes, 36% of B2B decision-makers will not do business with sales professionals who demonstrate poor etiquette [1]."
-   ],
-   [
-    "Should I use AI to write my thank-you notes?",
-    "No, you should avoid generic, AI-generated paragraphs and instead use genuine personalization [1]."
-   ],
-   [
-    "How long should a thank-you note be?",
-    "Three or four sincere sentences are usually enough [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.entrepreneur.com/careers/a-next-day-thank-you-can-do-more-for-your-career-than-you-think",
-    "status": 200,
-    "title": "A Next-Day 'Thank You' Can Do More for Your Career Than You Think",
-    "domain": "entrepreneur.com"
-   }
-  ],
-  "date": "2026-11-02",
-  "publishedAt": "2026-11-02T19:30:00Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/how-a-simple-next-day-thank-you-can-boost-your-p.mp3",
-  "image": {
-   "src": "img/how-a-simple-next-day-thank-you-can-boost-your-p-photo.jpg",
-   "credit": "Salem State Archives and Special Collections / Flickr",
-   "license": "CC BY 2.0",
-   "page": "https://www.flickr.com/photos/68317878@N04/51926743973",
-   "from_url": "https://live.staticflickr.com/65535/51926743973_b5474f6110_b.jpg",
-   "note": "Real photo substituted: publisher image was a render/illustration"
-  }
- },
- {
-  "id": "how-to-use-pre-tax-health-funds-on-fitness-weara",
-  "cat": "health",
-  "tags": [
-   "health",
-   "fitness",
-   "money"
-  ],
-  "title": "How to Use Pre-Tax Health Funds on Fitness Wearables",
-  "snippet": "Discover how you can use your pre-tax health funds to buy fitness trackers and workout gear by obtaining a Letter of Medical Necessity.",
-  "bullets": [
-   "You can save an average of 30 percent on eligible health purchases using your health funds [1].",
-   "Third-party platforms like Truemed help users obtain a Letter of Medical Necessity through a short online health survey [1].",
-   "Eligibility depends on your health history and proving a device treats or monitors a specific condition like obesity or high blood pressure [1]."
-  ],
-  "report": [
-   {
-    "h": "Unlock Pre-Tax Health Funds",
-    "t": "Flexible spending accounts can sometimes cover items like fitness trackers, smartwatches, and exercise equipment when classified as qualifying healthcare costs [1]. Rather than general wellness, the device must be necessary for treating or monitoring a specific medical condition [1]."
-   },
-   {
-    "h": "Get a Medical Letter",
-    "t": "Qualifying typically requires a Letter of Medical Necessity, which is a doctor's note proving the device treats a legitimate condition [1]. Services like Truemed allow users to answer a brief health survey online to be matched with a licensed provider for an evaluation [1]."
-   },
-   {
-    "h": "Check Your Plan Details",
-    "t": "An approval relies on your self-reported health markers and medical history rather than extensive lab work [1]. However, plan administrators still scrutinize purchases closely, and employer rules or specific plan guidelines can vary [1]."
-   }
-  ],
-  "why": "This helps you discover clever ways to use pre-tax health dollars for fitness trackers and gear you might already want.",
-  "tryit": "Check your remaining flexible spending account balance and look for checkout options like Truemed on brand websites to see if you qualify.",
-  "qa": [
-   [
-    "Can health funds cover the entire cost of a fitness tracker?",
-    "No, your funds typically save you an average of 30 percent on eligible health purchases [1]."
-   ],
-   [
-    "What is required to buy a fitness tracker with these funds?",
-    "You need a Letter of Medical Necessity from a licensed provider proving the device treats a medical condition [1]."
-   ],
-   [
-    "Do I always need to visit a doctor in person for approval?",
-    "No, third-party platforms like Truemed let you complete an online health survey to be matched with an independent provider [1]."
-   ],
-   [
-    "What kind of conditions make a device eligible?",
-    "Conditions like obesity, cardiovascular risk, pre-diabetes, sleep issues, or chronic pain can help qualify a purchase [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://lifehacker.com/health/health-and-fitness-products-hsa-fsa-funds",
-    "status": 200,
-    "title": "All the Health and Fitness Products You Didn't Realize You Could Buy With HSA Funds",
-    "domain": "lifehacker.com"
-   }
-  ],
-  "date": "2026-11-02",
-  "publishedAt": "2026-11-02T21:00:00Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/how-to-use-pre-tax-health-funds-on-fitness-weara.mp3",
-  "image": {
-   "src": "img/how-to-use-pre-tax-health-funds-on-fitness-weara-photo.jpg",
-   "credit": "JESHOOTS.com / Stocksnap",
-   "license": "CC0 1.0",
-   "page": "https://stocksnap.io/photo/running-shoes-645GI8G1W4",
-   "from_url": "https://cdn.stocksnap.io/img-thumbs/960w/645GI8G1W4.jpg",
-   "note": "Real photo substituted: publisher image was a render/illustration"
-  }
- },
- {
-  "id": "scientists-find-fossilised-red-blood-cells-in-11",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "whoa"
-  ],
-  "title": "Scientists find fossilised red blood cells in 115m-year-old dinosaur bone",
-  "snippet": "Researchers analyzing a small dinosaur from Brazil have identified what appear to be fossilised red blood cells and traces of heme [1]. This world first opens up new ways to study ancient biology [1].",
-  "bullets": [
-   "Chemical tests on Aratasaurus bone identified the presence of heme, the organic compound that allows blood to carry oxygen [1].",
-   "Electron microscope images revealed small, round structures resembling red blood cells in the bone channels [1].",
-   "Researchers suggest a manganese compound called hausmannite may have helped stabilise the cells prior to fossilisation [1]."
-  ],
-  "report": [
-   {
-    "h": "Fossilised Blood Discovery",
-    "t": "Scientists examining the hind leg bones of an Aratasaurus that lived 115m years ago found structures resembling red blood cells [1]. Chemical tests also identified heme and traces of collagen amino acids [1]."
-   },
-   {
-    "h": "Preservation By Minerals",
-    "t": "A manganese compound called hausmannite may have helped preserve the cells and amino acids before fossilisation occurred [1]. Prof Kliti Grice described the finding as a mineral and molecular echo of the dinosaur's original biology [1]."
-   },
-   {
-    "h": "Debate And Caution",
-    "t": "Other experts like Prof Mary Schweitzer remain cautious about whether the structures are truly red blood cells due to their shape [1]. However, researchers agree the work challenges conventional wisdom about what molecular information fossils can preserve [1]."
-   }
-  ],
-  "why": "It is a fascinating scientific discovery showing that museum collections around the world may hold unexpected molecular information waiting to be uncovered [1].",
-  "tryit": "Read the full study in the Proceedings of the National Academy of Sciences to learn more about how advanced chemical tests are changing our understanding of fossils [1].",
-  "qa": [
-   [
-    "What dinosaur was studied?",
-    "Researchers analysed the hind leg bones of an Aratasaurus that lived in north-eastern Brazil 115m years ago [1]."
-   ],
-   [
-    "What compound helped preserve the cells?",
-    "A manganese compound called hausmannite may have helped stabilise them prior to fossilisation [1]."
-   ],
-   [
-    "Where are the fossilised remnants held?",
-    "They have been held in the National Museum of Brazil since being discovered in a mine in 2008 [1]."
-   ],
-   [
-    "Does this mean dinosaur DNA can be found?",
-    "Prof Kliti Grice urges caution and states her work does not imply that large biological molecules like DNA live on in ancient fossils [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
-    "status": 200,
-    "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-02",
-  "publishedAt": "2026-11-02T20:00:27Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/scientists-find-fossilised-red-blood-cells-in-11.mp3",
-  "image": {
-   "src": "img/scientists-find-fossilised-red-blood-cells-in-11.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
-   "from_url": "https://i.guim.co.uk/img/media/808d3d6670b293910bf2e300b7328a07c2c4872c/432_0_4320_3456/master/4320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf0d99ebf21cd5bf96faa729db390914"
-  }
- },
- {
-  "id": "a-simple-tool-that-makes-keeping-your-apartment",
-  "cat": "laugh",
-  "tags": [
-   "adhd",
-   "home",
-   "cleaning",
-   "productivity"
-  ],
-  "title": "A Simple Tool That Makes Keeping Your Apartment Tidy Much Easier",
-  "snippet": "Cleaning often feels like a chore because of the friction involved in dragging out a full-size vacuum. Using a cordless, handheld vacuum and blower combo allows you to tackle small messes instantly, keeping your space tidy without the hassle.",
-  "bullets": [
-   "A handheld vacuum and blower combo removes the friction of using a full-size machine for minor spills [1].",
-   "The device should be cordless, rechargeable, lightweight, and easy to empty to ensure you actually use it [1].",
-   "Keeping the device in plain sight near common mess areas helps prevent small crumbs from piling up into larger cleaning tasks [1]."
-  ],
-  "report": [
-   {
-    "h": "The friction of cleaning",
-    "t": "Many people wait for a mess to grow large enough to justify the effort of using a full-size vacuum [1]. This involves finding cords, moving the machine, and storing it away again, which creates significant friction [1]."
-   },
-   {
-    "h": "A dual-purpose solution",
-    "t": "A cordless, handheld vacuum and blower combo, such as the Sharper Image Dual Air Slim, removes this barrier [1]. The blower function is particularly useful for dislodging debris from tight spaces like keyboard keys before vacuuming it up [1]."
-   },
-   {
-    "h": "Less painful maintenance",
-    "t": "By cleaning messes the moment they happen, you avoid letting them accumulate [1]. This makes your occasional deep cleaning sessions far less painful because there is significantly less debris to deal with overall [1]."
-   }
-  ],
-  "why": "This is a practical way to lower the barrier to entry for household chores, which is helpful for managing the mental load of keeping a tidy space.",
-  "tryit": "Identify one area in your home where small messes frequently appear, and look for a cordless, rechargeable handheld vacuum-blower combo to keep in that specific spot.",
-  "qa": [
-   [
-    "Why is a blower feature useful?",
-    "It helps blast crumbs out of difficult areas like keyboard keys or loosens stubborn debris before you vacuum it [1]."
-   ],
-   [
-    "What are the must-have features for a handheld vacuum?",
-    "It should be cordless, rechargeable, lightweight, slim, and have an easy-to-empty dust cup [1]."
-   ],
-   [
-    "Does this replace a full-size vacuum?",
-    "No, it will not replace your regular vacuum, but it makes you less likely to need it as often [1]."
-   ],
-   [
-    "Where should you store it?",
-    "You should keep it in plain sight, as close as possible to where messes happen, such as the kitchen or entryway [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://lifehacker.com/home/handheld-vacuum-upgrade-of-the-week",
-    "status": 200,
-    "title": "This Handheld Vacuum Fixed My Biggest Problem With Cleaning",
-    "domain": "lifehacker.com"
-   }
-  ],
-  "date": "2026-11-02",
-  "publishedAt": "2026-11-02T18:00:00Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/a-simple-tool-that-makes-keeping-your-apartment.mp3",
-  "image": {
-   "src": "img/a-simple-tool-that-makes-keeping-your-apartment.jpg",
-   "credit": "Lifehacker",
-   "license": "© Lifehacker, shown with credit",
-   "page": "https://lifehacker.com/home/handheld-vacuum-upgrade-of-the-week",
-   "from_url": "https://lifehacker.com/imagery/articles/01M6EM3Y8NYE9N957CRQ75RVJ3/hero-image.fill.size_1200x675.jpg"
-  }
- },
- {
-  "id": "new-platform-helps-non-technical-experts-train-a",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "automation",
-   "startup",
-   "productivity"
-  ],
-  "title": "New platform helps non-technical experts train AI models for specialized business tasks",
-  "snippet": "Trajectory has raised $45 million to automate AI model training. This allows specialists like lawyers and doctors to improve AI performance without needing research teams. The platform is now publicly available.",
-  "bullets": [
-   "Trajectory raised $45 million in a Series A round, reaching a $300 million valuation [1].",
-   "The platform allows non-technical experts to train AI models to improve at specialized tasks using feedback [1].",
-   "Companies like Harvey and Rogo are already using the platform to help AI learn from previous work [1]."
-  ],
-  "report": [
-   {
-    "h": "The AI training gap",
-    "t": "Current AI models often struggle to learn from mistakes without expensive research teams or consultants [1]. Trajectory aims to fix this by automating the process of post-training AI models [1]."
-   },
-   {
-    "h": "How it works",
-    "t": "The startup allows specialists, such as lawyers or financial analysts, to provide feedback on model performance [1]. This feedback helps the AI improve at specific tasks over time, similar to an employee gaining experience on the job [1]."
-   },
-   {
-    "h": "Company background",
-    "t": "Founded by former Google DeepMind and Apple employees, the 18-person company has now made its platform publicly available [1]. It is backed by investors including Sequoia, Nvidia, and Bain Capital Ventures [1]."
-   }
-  ],
-  "why": "If you are looking to build or run a business using AI, this tool could lower the barrier to creating custom, high-performing AI agents without needing a dedicated engineering team [1].",
-  "tryit": "Visit the Trajectory website to see if their platform could help automate the training of AI agents for your specific business workflows [1].",
-  "qa": [
-   [
-    "How much did Trajectory raise?",
-    "The company raised $45 million in a Series A round [1]."
-   ],
-   [
-    "Who is the platform for?",
-    "It is designed for non-technical experts, such as lawyers and doctors, to improve AI models [1]."
-   ],
-   [
-    "Is the platform available now?",
-    "Yes, the startup is now making its post-training platform publicly available [1]."
-   ],
-   [
-    "Does the AI improve itself autonomously?",
-    "No, the founders argue that keeping humans involved in the training process is safer [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "status": 200,
-    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-02",
-  "publishedAt": "2026-11-02T23:13:53Z",
-  "addedAt": "2026-11-03T02:55:52Z",
-  "audio": "audio/new-platform-helps-non-technical-experts-train-a.mp3",
-  "image": {
-   "src": "img/new-platform-helps-non-technical-experts-train-a.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900"
   }
  },
  {
