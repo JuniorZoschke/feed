@@ -1,5 +1,1127 @@
 [
  {
+  "id": "microsoft-reveals-cheap-new-ai-coding-models-to",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "agents"
+  ],
+  "title": "Microsoft reveals cheap new AI coding models to cut outside costs",
+  "snippet": "Microsoft introduced new AI models at its Ignite keynote, claiming high performance at a fraction of the cost. These home-grown tools aim to handle everyday tasks and reduce reliance on outside providers.",
+  "bullets": [
+   "Microsoft claims its MAI Code 2 model shows 96% of Claude Opus 5.5 performance at 5% of Opus 5.5's price [1].",
+   "The new models are integrated as optional choices for GitHub Copilot, Microsoft 365, and Fabric [1].",
+   "Microsoft also announced MAI Work Flash to help generate Excel formulas, work with Word documents, and track Teams decisions [1]."
+  ],
+  "report": [
+   {
+    "h": "New AI models introduced",
+    "t": "Microsoft introduced two new frontier AI models built for everyday coding tasks at its keynote [1]. The MAI Code 2 model reportedly achieves 96% of Claude Opus 5.5 performance at only 5% of its price [1]."
+   },
+   {
+    "h": "Reducing outside reliance",
+    "t": "By using home-grown AI models, Microsoft can reduce its financial reliance on outside providers like OpenAI and Anthropic [1]. These internally built models handle routine requests across the company's vast product line [1]."
+   },
+   {
+    "h": "Office workflow integration",
+    "t": "Microsoft turned its coding model into an AI worker for Office called MAI Work Flash [1]. This tool helps generate formulas in Excel, handle Word instructions, and extract information from Teams [1]."
+   }
+  ],
+  "why": "This matters because lower AI inference costs and efficient agentic tools create practical opportunities to run automated business workflows much more affordably.",
+  "tryit": "Explore how automated AI agents can handle routine administrative tasks or formula generation in your current software setup to save time.",
+  "qa": [
+   [
+    "What performance does Microsoft claim for MAI Code 2?",
+    "Microsoft claims MAI Code 2 shows 96% of Claude Opus 5.5 performance at 5% of its price [1]."
+   ],
+   [
+    "What is MAI Work Flash used for?",
+    "It can help generate formulas in Excel, work with documents in Word, and extract useful information from Teams [1]."
+   ],
+   [
+    "Are these models meant for complex research?",
+    "No, the company described clearly that these new models are not designed to handle the most challenging agentic and research workloads [1]."
+   ],
+   [
+    "Where are these new models being integrated?",
+    "Microsoft is integrating them as optional choices for GitHub Copilot, Microsoft 365, and Fabric [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+    "status": 200,
+    "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T22:42:44Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/microsoft-reveals-cheap-new-ai-coding-models-to.mp3",
+  "image": {
+   "src": "img/microsoft-reveals-cheap-new-ai-coding-models-to.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/ignite.jpg"
+  }
+ },
+ {
+  "id": "microsoft-ceo-satya-nadella-discusses-agi-and-ec",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "economy",
+   "business",
+   "technology"
+  ],
+  "title": "Microsoft CEO Satya Nadella discusses AGI and economic disruption",
+  "snippet": "Microsoft CEO Satya Nadella shares his perspective on how artificial general intelligence could transform the global economy, politics, and the future of firms.",
+  "bullets": [
+   "Microsoft CEO Satya Nadella stated that he is AGI-pilled regarding how AI might change the structure of the economy [1].",
+   "Nadella does not believe that frontier models like Claude are conscious [1].",
+   "He emphasized that the most important socio-technical issue is ensuring the economy can diffuse this technology broadly [1]."
+  ],
+  "report": [
+   {
+    "h": "Economy and AGI",
+    "t": "Satya Nadella discussed how AGI could bring startling changes to the structure of the economy and political organization [1]. He highlighted the risk of a single AI model achieving monopoly status [1]."
+   },
+   {
+    "h": "Consciousness and Rights",
+    "t": "Nadella stated he does not think models like Claude are conscious and supports the view that companies should not give rights to models [1]. He noted that Microsoft AI CEO Mustafa Suleyman finds the approach of treating models with moral status to be dangerous [1]."
+   },
+   {
+    "h": "Disruption of Firms",
+    "t": "Nadella questioned the future role of firms and human capital if intelligence develops network effects [1]. He stressed that the market will demand many different models to keep control from centralizing [1]."
+   }
+  ],
+  "why": "Understanding how tech leaders view AI market structure helps you anticipate broader economic shifts and business opportunities in the AI agent space.",
+  "tryit": "Explore enterprise tools that let you pick cost-effective models for specific tasks rather than relying on a single centralized system [1].",
+  "qa": [
+   [
+    "Does Satya Nadella think Claude is conscious?",
+    "No, Nadella stated that he does not think frontier models like Claude are conscious [1]."
+   ],
+   [
+    "What is Nadella's main concern regarding a single AI monopoly?",
+    "He warned of the potential collapse of the economy and the end of democracy if one AI model achieves monopoly status [1]."
+   ],
+   [
+    "What did Nadella say about the future of firms?",
+    "He questioned the future role of a firm and human capital if intelligence has network effects and models can learn anything [1]."
+   ],
+   [
+    "What solution did Microsoft promote at Ignite to prevent centralization?",
+    "Microsoft promoted AI tools that let enterprise clients pick cost-effective models, run their own models, and control their own data [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+    "status": 200,
+    "title": "Satya Nadella says he’s AGI-pilled now",
+    "domain": "theverge.com"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T23:41:18Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/microsoft-ceo-satya-nadella-discusses-agi-and-ec.mp3",
+  "image": {
+   "src": "img/microsoft-ceo-satya-nadella-discusses-agi-and-ec.jpg",
+   "credit": "The Verge",
+   "license": "© The Verge, shown with credit",
+   "page": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&strip=all&crop=0%2C5.5575251492495%2C100%2C88.884949701501&w=1200"
+  }
+ },
+ {
+  "id": "microsoft-introduces-accounting-software-to-calc",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "economics"
+  ],
+  "title": "Microsoft introduces accounting software to calculate the economic value of AI agents",
+  "snippet": "Microsoft has launched Agent 365 Business Analytics to measure AI labor costs and compare them against human wages. The system aims to give businesses a clearer picture of their overall AI return on investment.",
+  "bullets": [
+   "Microsoft introduced Agent 365 Business Analytics to build an accounting system for AI labor [1].",
+   "The system uses data from the US Bureau of Labor Statistics and LinkedIn Occupational Graph to price tasks [1].",
+   "Microsoft notes the generated figures are directional estimates rather than guaranteed financial returns [1]."
+  ],
+  "report": [
+   {
+    "h": "AI Labor Accounting",
+    "t": "Microsoft introduced Agent 365 Business Analytics to help companies calculate the economic value of work performed by AI agents [1]. It attempts to track agents the way an HR department tracks human employees [1]."
+   },
+   {
+    "h": "Cost and Wage Data",
+    "t": "The software maps labor-market economics by using information from the US Bureau of Labor Statistics, the O*NET database, and the LinkedIn Occupational Graph [1]. It compares AI processing expenses against prevailing human labor rates [1]."
+   },
+   {
+    "h": "Directional Estimates",
+    "t": "Microsoft explicitly warns that the resulting metrics are directional estimates of work helped complete, rather than measured time saved [1]. Businesses must remain disciplined when interpreting these dashboards for real decision-making [1]."
+   }
+  ],
+  "why": "Understanding how to quantify AI productivity and costs helps you evaluate emerging tools effectively for business automation.",
+  "tryit": "Review your current software subscriptions and list every task where AI tools currently assist your daily workflow.",
+  "qa": [
+   [
+    "What is Agent 365 Business Analytics?",
+    "It is a new Microsoft tool that attempts to calculate the economic value and return on investment of AI agent labor [1]."
+   ],
+   [
+    "What data sources does the system use?",
+    "It incorporates data from the US Bureau of Labor Statistics, the O*NET database, and the LinkedIn Occupational Graph [1]."
+   ],
+   [
+    "Do the calculated metrics guarantee real financial savings?",
+    "No, Microsoft states the outputs are directional estimates of work completed rather than measured financial returns [1]."
+   ],
+   [
+    "What warning does Microsoft give about the tool's metrics?",
+    "Microsoft notes that assisted hours are directional estimates of work AI helped complete, not measured time saved or financial return [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/innovation/microsoft-agent-365-business-analytics-ignite/",
+    "status": 200,
+    "title": "Microsoft wants to put a dollar value on AI's work - but can you trust the math? - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T23:05:48Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/microsoft-introduces-accounting-software-to-calc.mp3",
+  "image": {
+   "src": "img/microsoft-introduces-accounting-software-to-calc.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/innovation/microsoft-agent-365-business-analytics-ignite/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Satya.png"
+  }
+ },
+ {
+  "id": "smart-travel-predictions-and-expert-tips-for-pla",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "vacation",
+   "europe",
+   "tips",
+   "planning"
+  ],
+  "title": "Smart Travel Predictions And Expert Tips For Planning Your Next Big Trip",
+  "snippet": "Travel experts share top strategies for beating crowds, designing multigenerational getaways, and finding authentic cultural experiences.",
+  "bullets": [
+   "Travel specialists recommend swapping busy hotspots like the Dolomites for Switzerland to enjoy beautiful scenery with fewer crowds [1].",
+   "Multigenerational family trips work best when itineraries include options for separating during the day and reuniting for meals [1].",
+   "To dodge peak crowds in Europe, experts suggest visiting popular destinations as early as May instead of August [1]."
+  ],
+  "report": [
+   {
+    "h": "Beating The Crowds",
+    "t": "Experts suggest replacing crowded regions with cooler, quieter alternatives like Switzerland or Slovenia for a more relaxed trip [1]. Traveling as early as May instead of August also helps dodge peak summer rushes [1]."
+   },
+   {
+    "h": "Multigenerational Dynamics",
+    "t": "With travelers in their 80s and 90s joining trips, successful family itineraries need layered options for different exertion levels [1]. Experts recommend planning three daily choices so younger folks can explore while families reunite for meals [1]."
+   },
+   {
+    "h": "Authentic Culinary Travel",
+    "t": "Travelers increasingly crave real food stories provided by local chefs rather than standard cooking classes [1]. Context, such as the history behind traditional local ingredients, gives a meal its true soul [1]."
+   }
+  ],
+  "why": "Why it matters to you: Getting clever insider tips helps you design smoother, less stressful trips that offer genuine relaxation and cultural connection.",
+  "tryit": "Try this today: Research an alternative European destination like Switzerland, Belgium, or Slovenia for your next getaway to avoid peak summer crowds [1].",
+  "qa": [
+   [
+    "Where should I go to avoid crowds in the Dolomites?",
+    "Experts suggest considering Switzerland instead for history and scenery with fewer crowds [1]."
+   ],
+   [
+    "What is a good alternative to Italy for families?",
+    "Specialists recommend Umbria, Austria, Ireland, or Croatia [1]."
+   ],
+   [
+    "How can I avoid peak summer crowds in Europe?",
+    "Consider going as early as possible, such as in May instead of August [1]."
+   ],
+   [
+    "What makes a family trip successful?",
+    "The most successful family trips provide opportunities for separating during the day and coming back together for mealtimes [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/2026-points-of-view-summit-expert-travel-predictions",
+    "status": 200,
+    "title": "At Our Annual Points of View Summit, Experts Make Their 2027 Travel Predictions",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T22:45:11Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/smart-travel-predictions-and-expert-tips-for-pla.mp3",
+  "image": {
+   "src": "img/smart-travel-predictions-and-expert-tips-for-pla.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/2026-points-of-view-summit-expert-travel-predictions",
+   "from_url": "https://media.cntraveler.com/photos/6af7663284b1639c2408e0a3/16:9/w_1280,c_limit/261112%C2%A9Sean%20Sime-8913.jpg"
+  }
+ },
+ {
+  "id": "west-coast-s-first-ever-olive-ridley-sea-turtle",
+  "cat": "whoa",
+  "tags": [
+   "animals",
+   "science"
+  ],
+  "title": "West Coast's first ever olive ridley sea turtle hatchlings released into the Pacific",
+  "snippet": "Olive ridley sea turtle hatchlings saved from an approaching storm in California were released into the wild over the weekend following historic nesting events.",
+  "bullets": [
+   "Olive ridley sea turtle hatchlings saved from an approaching storm in California were released into the wild [1].",
+   "This marked the first-ever recorded instance of sea turtles nesting on America’s Pacific coast [1].",
+   "Experts suggest the unique nesting event may be linked to the Super El Nino weather phenomenon and decades of successful conservation efforts [1]."
+  ],
+  "report": [
+   {
+    "h": "Historic Coastal Nesting",
+    "t": "A female turtle climbed out of the sea and deposited her clutch on a beach, creating the first ever recorded sea turtle nests on the West Coast [1]. State and federal authorities later evacuated the nests due to storm forecasts [1]."
+   },
+   {
+    "h": "Careful Aquarium Hatching",
+    "t": "The eggs were taken to the Aquarium of the Pacific in Long Beach where the hatchlings emerged successfully [1]. Handlers measured each hatchling before letting them scurry down to the water on their own with minimal human disturbance [1]."
+   },
+   {
+    "h": "Conservation Success",
+    "t": "Populations of olive ridley sea turtles have increased substantially throughout portions of their range due to decades of dedicated conservation efforts [1]. Experts note this allowed turtles to take advantage of unique environmental conditions like the Super El Nino [1]."
+   }
+  ],
+  "why": "This uplifting natural history story shows how long-term conservation efforts can lead to unexpected positive ecological milestones.",
+  "tryit": "Read more about global sea turtle conservation projects today by visiting the US Fish and Wildlife Service website to learn about protecting marine life.",
+  "qa": [
+   [
+    "What kind of turtles were they?",
+    "They were olive ridley sea turtle hatchlings [1]."
+   ],
+   [
+    "Where were the eggs hatched?",
+    "The eggs were hatched at the Aquarium of the Pacific in Long Beach [1]."
+   ],
+   [
+    "Why were the eggs moved?",
+    "State and federal authorities evacuated the nests due to approaching storm forecasts [1]."
+   ],
+   [
+    "What might have caused this event?",
+    "Experts suggest potential reasons include the Super El Nino weather phenomenon and increased overall population numbers from conservation [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/",
+    "status": 200,
+    "title": "West Coast's First Ever Sea Turtle Hatchlings Released into the Pacific (LOOK)",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T19:30:43Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/west-coast-s-first-ever-olive-ridley-sea-turtle.mp3",
+  "image": {
+   "src": "img/west-coast-s-first-ever-olive-ridley-sea-turtle.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Turtle-hatchlings-rush-for-the-sea-on-Seal-Beach-credit-Robin-Riggs-Aquarium-of-the-Pacific-©.jpg"
+  }
+ },
+ {
+  "id": "maui-is-rebuilding-through-regenerative-tourism",
+  "cat": "news",
+  "tags": [
+   "travel",
+   "community",
+   "science",
+   "business",
+   "psychology"
+  ],
+  "title": "Maui Is Rebuilding Through Regenerative Tourism and Community Action",
+  "snippet": "Following the 2023 fires, Maui is pioneering regenerative tourism by uniting Indigenous knowledge, local entrepreneurship, and sustainable agriculture to heal ecosystems and support residents.",
+  "bullets": [
+   "Kenneth Duane Sparkman and local groups used donated GPS technology to map and save stressed trees after the fires [1].",
+   "Hua Momona Foundation provided tons of free food boxes and hot meals for displaced residents and workers [1].",
+   "Landscaping management in Kāʻanapali has shifted to composting, aeration, and microbial inputs instead of synthetic pesticides [1]."
+  ],
+  "report": [
+   {
+    "h": "Regenerative Tree Recovery",
+    "t": "Following the 2023 fires, local experts used donated GPS technology to locate and water stressed trees that survived the disaster [1]. This tree recovery effort has expanded to help families replace lost trees and shares its methods with other disaster-hit regions [1]."
+   },
+   {
+    "h": "Nourishing the Community",
+    "t": "The Hua Momona Foundation scaled up food production to provide hot meals and farm boxes for people living in temporary housing [1]. Even as the immediate emergency slowed down, the foundation continued preparing hundreds of weekly meals [1]."
+   },
+   {
+    "h": "Sustainable Tourism Shifts",
+    "t": "Resorts like Royal Lahaina installed solar parking lot panels to reduce the heat island effect and protect local ecosystems [1]. Landscaping across properties has moved away from chemical pesticides in favor of soil health and organic practices [1]."
+   }
+  ],
+  "why": "This story shows how communities can turn difficult crises into practical, forward-thinking opportunities for sustainable business and local resilience.",
+  "tryit": "Explore local volunteering or give-back opportunities when planning your next trip to connect meaningfully with communities working toward a sustainable future.",
+  "qa": [
+   [
+    "What is regenerative tourism?",
+    "It is an approach where the goal of travel is to leave the destination better than before through restoration and community resilience [1]."
+   ],
+   [
+    "How did the Hua Momona Foundation help after the fires?",
+    "They stepped up food production to deliver hot meals and fresh farm boxes to people in temporary housing [1]."
+   ],
+   [
+    "What changes were made to landscaping in Kāʻanapali?",
+    "Management moved away from pesticides and fertilizers in favor of composting, aeration, and microbial inputs [1]."
+   ],
+   [
+    "What is the RISE Maui Summit?",
+    "It is an event organized by Gary Grube to bring together farmers, cultural practitioners, scientists, and leaders to discuss community rebuilding [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reasonstobecheerful.world/maui-living-laboratory-regenerative-tourism/",
+    "status": 200,
+    "title": "Maui Is Becoming a Living Laboratory for Regenerative Tourism",
+    "domain": "reasonstobecheerful.world"
+   }
+  ],
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T08:00:12Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/maui-is-rebuilding-through-regenerative-tourism.mp3",
+  "image": {
+   "src": "img/maui-is-rebuilding-through-regenerative-tourism.jpg",
+   "credit": "Reasons to be Cheerful",
+   "license": "© Reasons to be Cheerful, shown with credit",
+   "page": "https://reasonstobecheerful.world/maui-living-laboratory-regenerative-tourism/",
+   "from_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/L1060171.jpg"
+  }
+ },
+ {
+  "id": "supermarket-meat-labels-cutting-through-marketin",
+  "cat": "money",
+  "tags": [
+   "shopping",
+   "food",
+   "consumer",
+   "supermarket",
+   "welfare"
+  ],
+  "title": "Supermarket Meat Labels: Cutting Through Marketing Spin and Unregulated Terms",
+  "snippet": "New research from Which? reveals that unregulated marketing terms on supermarket meat packaging can blur the lines between genuine welfare standards and standard farming practices. Learn how to spot true animal welfare labels when shopping.",
+  "bullets": [
+   "Unregulated terms like trusted farmers can reinforce a perception of high welfare without standing up to scrutiny [1].",
+   "More than 85% of UK farmed animals are kept indoors in modern intensive farming systems [1].",
+   "Organic is usually the gold standard, and RSPCA Assured is a worthwhile logo to look for [1]."
+  ],
+  "report": [
+   {
+    "h": "Decoding Food Labels",
+    "t": "Supermarket packaging often uses phrases like trusted farmers or happy and healthy to suggest high animal welfare, but these terms have no official industry-defined meaning [1]. Shoppers pay a premium at the till, confusing standard farming practices with genuine welfare certifications [1]."
+   },
+   {
+    "h": "Understanding Chicken Standards",
+    "t": "Most meat chickens in large indoor sheds follow Red Tractor standards with a stocking density of 38kg per square metre [1]. Retailers like M&S and Waitrose stand out by using slower-reared breeds linked to the Better Chicken Commitment [1]."
+   },
+   {
+    "h": "Practical Buying Tips",
+    "t": "To buy higher welfare products, look for organic options or the RSPCA Assured logo on packaging [1]. You can also make higher welfare choices more affordable by reducing overall meat intake and replacing it with plant-based proteins [1]."
+   }
+  ],
+  "why": "This helps you make informed choices at the supermarket checkout and ensures your money goes toward genuine high welfare products.",
+  "tryit": "Check the front-of-pack labels and ingredient lists of your regular meat and dairy products on your next shop to see which items carry recognised certifications like RSPCA Assured or organic labels.",
+  "qa": [
+   [
+    "What do terms like trusted farmers actually mean?",
+    "They usually refer to selected long-term suppliers, but the terms do not have an industry-defined meaning [1]."
+   ],
+   [
+    "What is the difference between outdoor bred and outdoor reared pigs?",
+    "Outdoor-bred pigs live outside for the first four to five weeks of life, while outdoor-reared pigs spend about half of their lives outside [1]."
+   ],
+   [
+    "Which supermarkets use slower-reared chicken breeds as standard?",
+    "M&S and Waitrose use slower-reared breeds for all their fresh chicken as standard [1]."
+   ],
+   [
+    "What is a practical way to afford higher welfare meat?",
+    "You can reduce your overall meat intake and replace some of it with cheaper plant-based proteins like lentils, chickpeas or tofu [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/do-trusted-farmers-and-higher-welfare-labels-really-mean-what-you-think-they-do-amJvC7h2dgri",
+    "status": 200,
+    "title": "Do 'trusted farmers' and 'higher welfare' labels really mean what you think they do? - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T07:00:00Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/supermarket-meat-labels-cutting-through-marketin.mp3",
+  "image": {
+   "src": "img/supermarket-meat-labels-cutting-through-marketin.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/do-trusted-farmers-and-higher-welfare-labels-really-mean-what-you-think-they-do-amJvC7h2dgri",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/b6232014ccf4-animalwelfarepodcast.jpg"
+  }
+ },
+ {
+  "id": "meta-executive-posts-ai-video-of-competitor-in-a",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "agents",
+   "business",
+   "money"
+  ],
+  "title": "Meta executive posts AI video of competitor in a furry suit",
+  "snippet": "Meta chief AI officer Alexandr Wang shared an AI video featuring OpenAI CEO Sam Altman dressed as a furry mascot to promote a consumer AI agent.",
+  "bullets": [
+   "Meta chief AI officer Alexandr Wang shared an AI-generated video on Instagram to promote Muse, the company's consumer AI agent [1].",
+   "The clip portrays Wang, Mark Zuckerberg, and OpenAI CEO Sam Altman on a video call, with Altman dressed in a furry hooded suit [1].",
+   "Meta requires AI-generated videos depicting people to be labeled as AI, and Wang's post carried this label [1]."
+  ],
+  "report": [
+   {
+    "h": "AI Executive Shares Video",
+    "t": "Meta chief AI officer Alexandr Wang shared a short clip on Instagram to promote Muse, the company's consumer AI agent [1]. The AI-generated video features Wang, Mark Zuckerberg, and OpenAI CEO Sam Altman on a four-way video call [1]."
+   },
+   {
+    "h": "Platform Policies on AI",
+    "t": "Meta requires AI-generated videos depicting people to be labeled as AI, and Wang's post was properly labeled [1]. Static images do not carry the same requirement, leading to criticism from representatives of public figures over unlabelled content [1]."
+   },
+   {
+    "h": "Industry Context",
+    "t": "Wang has been promoting Muse actively on social media while dismissing traditional marketing methods [1]. Meanwhile, OpenAI's Sam Altman has previously made his likeness available for AI content generation tools [1]."
+   }
+  ],
+  "why": "It shows how major tech figures are using generative AI and social media content strategies to promote new consumer AI agents in competitive markets.",
+  "tryit": "Check Meta's current platform guidelines regarding AI labeling if you plan to use AI-generated video content for marketing your business tools.",
+  "qa": [
+   [
+    "Who posted the AI video?",
+    "Alexandr Wang, Meta's chief AI officer, shared the clip [1]."
+   ],
+   [
+    "What product was the video promoting?",
+    "The clip promoted Muse, the company's consumer AI agent [1]."
+   ],
+   [
+    "What was Sam Altman wearing in the video?",
+    "Altman appeared wearing a furry hooded suit and face paint to look like Jolly, the mascot of Muse [1]."
+   ],
+   [
+    "Does Meta require labels on AI videos?",
+    "Yes, Meta requires AI-generated videos depicting people to be labeled as AI [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+    "status": 200,
+    "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+    "domain": "theverge.com"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T21:00:55Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/meta-executive-posts-ai-video-of-competitor-in-a.mp3",
+  "image": {
+   "src": "img/meta-executive-posts-ai-video-of-competitor-in-a.jpg",
+   "credit": "The Verge",
+   "license": "© The Verge, shown with credit",
+   "page": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&strip=all&crop=0%2C10.755339554057%2C100%2C78.489320891885&w=1200"
+  }
+ },
+ {
+  "id": "mit-initiative-funds-interdisciplinary-research",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "science",
+   "psychology",
+   "business",
+   "money"
+  ],
+  "title": "MIT Initiative Funds Interdisciplinary Research on AI and Society",
+  "snippet": "The MIT Human Insight Collaborative has supported 67 projects across 31 MIT units with $5.5 million in funding to study how AI shapes society, cognition, and human relationships.",
+  "bullets": [
+   "The MIT Human Insight Collaborative launched in 2024 as a strategic initiative to explore the human dimensions of artificial intelligence [1].",
+   "The initiative has supported 67 projects across 31 MIT units, offering a total of $5.5 million in funding [1].",
+   "Roughly a third of those funded projects are focused specifically on AI, society, and humanity [1]."
+  ],
+  "report": [
+   {
+    "h": "Funding Human Insight",
+    "t": "The MIT Human Insight Collaborative has supported 67 projects across 31 MIT units with a total of $5.5 million in funding [1]. Roughly a third of these interdisciplinary projects examine how generative AI is reshaping sociality and human relationships [1]."
+   },
+   {
+    "h": "Studying Cognition",
+    "t": "Researchers are actively measuring AI near- and long-term effects on the human brain and cognitive function [1]. Professors are investigating whether generative AI increases information consumption while offloading cognitive function or supports the creative process [1]."
+   },
+   {
+    "h": "Democratic Knowledge",
+    "t": "Political scientists are studying how large language models like Anthropic's Claude act as intermediaries for democratic and political information [1]. Their work highlights how users across different demographics encounter and make sense of political research via AI [1]."
+   }
+  ],
+  "why": "Understanding how AI impacts human cognition and social structures helps you design better AI agents and build more resilient businesses.",
+  "tryit": "Explore how interdisciplinary teams study AI interaction by reviewing the public resources from university initiatives like MIT's MITHIC to inform your own AI agent workflows.",
+  "qa": [
+   [
+    "When was the MITHIC initiative launched?",
+    "It was launched in 2024 as a strategic initiative [1]."
+   ],
+   [
+    "How much funding has MITHIC offered?",
+    "It has offered a total of $5.5 million in funding across 67 projects [1]."
+   ],
+   [
+    "What proportion of MITHIC projects focus on AI?",
+    "Roughly a third of the supported projects are focused on AI, society, and humanity [1]."
+   ],
+   [
+    "Which AI model was featured in political research in Alaska?",
+    "Researchers studied Anthropic's AI model, Claude [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+    "status": 200,
+    "title": "Putting a spotlight on AI, society, and humanity",
+    "domain": "news.mit.edu"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T20:40:00Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/mit-initiative-funds-interdisciplinary-research.mp3",
+  "image": {
+   "src": "img/mit-initiative-funds-interdisciplinary-research.jpg",
+   "credit": "MIT News",
+   "license": "© MIT News, shown with credit",
+   "page": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+   "from_url": "https://news.mit.edu/sites/default/files/images/202610/mithic-ai-brain.jpg"
+  }
+ },
+ {
+  "id": "new-study-shows-high-testosterone-does-not-impai",
+  "cat": "mind",
+  "tags": [
+   "mind",
+   "psychology",
+   "health",
+   "focus",
+   "self-compassion"
+  ],
+  "title": "New Study Shows High Testosterone Does Not Impair Mens Emotional Control",
+  "snippet": "New research shows that high natural resting testosterone does not impair men's ability to reframe upsetting situations [1]. Instead, everyday psychological habits and baseline cortisol jointly relate to managing mild distress [1].",
+  "bullets": [
+   "Resting testosterone levels showed no reliable link to emotional control in a study of 138 men [1].",
+   "Men who routinely practice cognitive reappraisal managed mild negative emotions more effectively when they had higher natural resting cortisol [1].",
+   "Active reframing successfully lowered negative ratings relative to passive viewing across mild and intense images [1]."
+  ],
+  "report": [
+   {
+    "h": "Testosterone and Emotional Control",
+    "t": "A study of 138 healthy men found that resting testosterone levels showed no reliable link to emotional control or cognitive reappraisal [1]. This suggests that high testosterone does not impair a man's ability to reframe upsetting situations [1]."
+   },
+   {
+    "h": "The Role of Cortisol",
+    "t": "Among men who scored high in habitual reappraisal, higher resting cortisol was associated with lower negative feelings during active reframing [1]. Baseline hormones alone were not statistically significant predictors across the full group [1]."
+   },
+   {
+    "h": "Context and Habits",
+    "t": "The findings show that hormonal effects are context-dependent and interact with everyday psychological habits [1]. For high-intensity graphic scenes, none of the associations involving hormones or everyday habits were statistically significant [1]."
+   }
+  ],
+  "why": "This research offers a reassuring, balanced view of male hormones, showing that higher testosterone does not undermine emotional regulation or self-control [1].",
+  "tryit": "Practice cognitive reappraisal today by deliberately reinterpreting a minor stressful situation in a more hopeful or less threatening light.",
+  "qa": [
+   [
+    "Does high testosterone impair emotional control?",
+    "No, resting testosterone levels showed no reliable link to emotional control, meaning men with higher testosterone can successfully engage in cognitive reappraisal [1]."
+   ],
+   [
+    "What is cognitive reappraisal?",
+    "It is a conscious strategy involving deliberately reinterpreting an upsetting scene in a less threatening or more hopeful light to soften its emotional impact [1]."
+   ],
+   [
+    "How many men participated in the study?",
+    "The study included 138 healthy Lithuanian men aged 20 to 36 for task-level analyses [1]."
+   ],
+   [
+    "Did baseline hormones predict reframing for everyone?",
+    "No, baseline cortisol, baseline testosterone, and their interaction were not significant predictors across the full group, emerging only among men who scored high in habitual reappraisal during mild scenes [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/new-research-finds-high-testosterone-does-not-impair-mens-emotional-reframing/",
+    "status": 200,
+    "title": "New research finds high testosterone does not impair men's emotional reframing",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T15:00:13Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/new-study-shows-high-testosterone-does-not-impai.mp3",
+  "image": {
+   "src": "img/new-study-shows-high-testosterone-does-not-impai.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/new-research-finds-high-testosterone-does-not-impair-mens-emotional-reframing/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2025/03/man-thinking.jpg"
+  }
+ },
+ {
+  "id": "new-study-shows-high-satisfaction-rates-among-yo",
+  "cat": "health",
+  "tags": [
+   "health",
+   "wellness",
+   "science",
+   "medicine"
+  ],
+  "title": "New Study Shows High Satisfaction Rates Among Youth Using Hormone Therapy",
+  "snippet": "A large survey reveals that nearly 97 percent of transgender and gender diverse youth felt hormone therapy was the right decision.",
+  "bullets": [
+   "Almost 400 transgender and gender diverse young people reflected on their decision to take hormone therapy [1].",
+   "Nearly 97 percent affirmed it was the right decision in a study published in JAMA Pediatrics [1].",
+   "Only about 3 percent, or 10 individuals, expressed regret about taking the step [1]."
+  ],
+  "report": [
+   {
+    "h": "Survey Results",
+    "t": "Researchers analyzed surveys from 376 young people who were former patients of a clinic for transgender and gender diverse youth [1]. Nearly 97 percent of participants stated that taking hormone therapy was the right decision for them [1]."
+   },
+   {
+    "h": "Treatment Details",
+    "t": "Nearly 92 percent of the study participants began hormones at 17 or younger [1]. Thirty percent took estrogen and 70 percent took testosterone, with the time since starting averaging five years [1]."
+   },
+   {
+    "h": "Clinical Context",
+    "t": "Gender-affirming hormone therapy allows a person's body to better match their gender identity [1]. The new research adds to growing evidence that these treatments improve life satisfaction and reduce depression and anxiety [1]."
+   }
+  ],
+  "why": "This research provides clinical insights into gender-affirming care outcomes, supporting informed discussions on adolescent health and well-being.",
+  "tryit": "Discuss evidence-based clinical guidelines with a qualified healthcare professional or specialist if you are exploring gender-affirming health care options.",
+  "qa": [
+   [
+    "What percentage of young people felt hormone therapy was the right decision?",
+    "Nearly 97 percent of participants affirmed it was the right decision [1]."
+   ],
+   [
+    "How many individuals said they regretted the step?",
+    "Only about 3 percent, or 10 individuals, said they regretted the step [1]."
+   ],
+   [
+    "What hormones were taken by the participants?",
+    "Thirty percent took estrogen and 70 percent took testosterone [1]."
+   ],
+   [
+    "What medical organizations support gender-affirming care?",
+    "The American Academy of Pediatrics and the Endocrine Society support gender-affirming health care for young people [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencenews.org/article/hormone-therapy-transgender-youth",
+    "status": 200,
+    "title": "Most transgender youth satisfied after choosing hormone therapy",
+    "domain": "sciencenews.org"
+   }
+  ],
+  "date": "2026-11-16",
+  "publishedAt": "2026-11-16T14:00:00Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/new-study-shows-high-satisfaction-rates-among-yo.mp3",
+  "image": {
+   "src": "img/new-study-shows-high-satisfaction-rates-among-yo.jpg",
+   "credit": "Science News",
+   "license": "© Science News, shown with credit",
+   "page": "https://www.sciencenews.org/article/hormone-therapy-transgender-youth",
+   "from_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/111026_AC_transyouth_main.jpg"
+  }
+ },
+ {
+  "id": "ancient-humans-may-have-used-poisoned-spear-tips",
+  "cat": "news",
+  "tags": [
+   "science",
+   "history",
+   "archaeology"
+  ],
+  "title": "Ancient Humans May Have Used Poisoned Spear Tips 125,000 Years Ago",
+  "snippet": "Archaeologists exploring an ancient lakeshore in Saudi Arabia found stone tools with chemical traces of plant poison and animal tissue. If confirmed, these would be the oldest poisoned weapons ever discovered.",
+  "bullets": [
+   "Researchers found more than 5,500 stone tools and 500 fossilized animal remains at a site called Uruq Aljelibah [1].",
+   "Some stone points showed chemical biomarkers linked to the arrow-poison tree [1].",
+   "The site itself is dated to 125,000 years ago, which would make these the oldest poisoned weapons by a wide margin [1]."
+  ],
+  "report": [
+   {
+    "h": "Ancient Lush Landscape",
+    "t": "Southern Saudi Arabia is a dry desert today, but 125,000 years ago it featured a large freshwater lake supporting hippos, buffalo, and camels [1]. Archaeologists excavated this site, known as Uruq Aljelibah, finding thousands of artifacts [1]."
+   },
+   {
+    "h": "Advanced Hunting Tools",
+    "t": "Researchers discovered stone points with microscopic traces of animal tissue and chemical biomarkers from the arrow-poison tree [1]. They also found resin and fibers indicating the points were hafted into complex composite weapons [1]."
+   },
+   {
+    "h": "Sophisticated Early Humans",
+    "t": "The evidence shows that early humans settling along the Arabian migration corridor used sophisticated technologies and exploited local plant and animal resources [1]. If the stone points are confirmed to be from this period, they shatter previous timelines for poisoned weapons [1]."
+   }
+  ],
+  "why": "This fascinating archaeological discovery reveals surprising technological sophistication in early human history.",
+  "tryit": "Read the full study published in the journal Science to learn more about how researchers analyze microscopic residues on ancient tools.",
+  "qa": [
+   [
+    "How old is the Uruq Aljelibah site?",
+    "The site itself has been dated to 125,000 years ago [1]."
+   ],
+   [
+    "What plant poison was indicated by the chemical biomarkers?",
+    "The biomarkers are associated with the arrow-poison tree, Acokanthera schimperi [1]."
+   ],
+   [
+    "Were human remains found at the site?",
+    "No human remains were found, though researchers suspect the area was inhabited by Homo sapiens [1]."
+   ],
+   [
+    "How old are the previous oldest known poisoned hunting weapons?",
+    "The oldest discovered so far date to around 60,000 years ago [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smart-news/ancient-humans-may-have-hunted-hippos-with-poisoned-spear-tips-on-the-arabian-peninsula-125000-years-ago-180989880/",
+    "status": 200,
+    "title": "Ancient Humans May Have Hunted Hippos With Poisoned Spear Tips on the Arabian Peninsula 125,000 Years Ago",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-16",
+  "publishedAt": "2026-11-16T23:30:38Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/ancient-humans-may-have-used-poisoned-spear-tips.mp3",
+  "image": {
+   "src": "img/ancient-humans-may-have-used-poisoned-spear-tips.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smart-news/ancient-humans-may-have-hunted-hippos-with-poisoned-spear-tips-on-the-arabian-peninsula-125000-years-ago-180989880/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/Zt5FWgtFvr9z3Y05lFAiY7MT6pA=/fit-in/1600x0/filters:focal(756x634:757x635)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/00/aa/00aa25c6-9427-4b2a-91ea-a5c5ea84584d/image_5_1.png"
+  }
+ },
+ {
+  "id": "how-to-avoid-impulse-spending-traps-and-beat-mar",
+  "cat": "money",
+  "tags": [
+   "money",
+   "business",
+   "negotiation",
+   "economics"
+  ],
+  "title": "How to avoid impulse spending traps and beat marketing hype",
+  "snippet": "Learn how to bypass marketing hype and avoid impulse purchases using smart budgeting tactics and price history trackers.",
+  "bullets": [
+   "Writing a wish list with exact model codes acts as a financial buffer against urgency marketing techniques [1].",
+   "Setting a strict spending ceiling and a walk-away figure helps ensure a discounted item is genuinely a bargain [1].",
+   "Checking market price histories over six calendar months reveals whether retailers have inflated prices prior to sales [1]."
+  ],
+  "report": [
+   {
+    "h": "Plan your purchases",
+    "t": "Shift from reactive browsing to targeted shopping by writing a wish list with exact product codes and priorities [1]. This prevents panic buying and keeps you focused on essentials rather than nice-to-haves [1]."
+   },
+   {
+    "h": "Track price histories",
+    "t": "Many sales items are the same price or cheaper at other times of the year [1]. Checking market prices over six months helps you determine if a percentage drop is real [1]."
+   },
+   {
+    "h": "Avoid fantasy shopping",
+    "t": "Reflect on your actual routine over the past month to ensure you are buying items that fit your real life [1]. Avoiding ambition shopping stops you from cluttering your space with discounted items you will never use [1]."
+   }
+  ],
+  "why": "It gives you practical ways to negotiate with your impulses and protect your budget from clever marketing tactics.",
+  "tryit": "Write down a priority wish list with exact product codes before starting any online shopping session today.",
+  "qa": [
+   [
+    "Why should I write a wish list before shopping?",
+    "It acts as a financial buffer against urgency marketing techniques like countdown timers [1]."
+   ],
+   [
+    "How can I check if a deal is genuine?",
+    "Track market prices and average prices over the previous six months before buying [1]."
+   ],
+   [
+    "What protection does a credit card offer?",
+    "Section 75 of the Consumer Credit Act 1974 can give you extra protection if goods never arrive or the trader goes bust [1]."
+   ],
+   [
+    "What is fantasy shopping?",
+    "Buying items for an idealised routine rather than how you actually live your life [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/how-to-avoid-black-friday-regrets-aMVv03R5EERo",
+    "status": 200,
+    "title": "How to avoid Black Friday regrets - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T10:14:04Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/how-to-avoid-impulse-spending-traps-and-beat-mar.mp3",
+  "image": {
+   "src": "img/how-to-avoid-impulse-spending-traps-and-beat-mar.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/how-to-avoid-black-friday-regrets-aMVv03R5EERo",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/5003f6303860-blackfridayalerts.jpg"
+  }
+ },
+ {
+  "id": "new-film-highlights-judy-heumann-and-the-disabil",
+  "cat": "news",
+  "tags": [
+   "history",
+   "psychology",
+   "science",
+   "news"
+  ],
+  "title": "New Film Highlights Judy Heumann and the Disability Rights Movement",
+  "snippet": "A new Apple TV film explores the life of Judy Heumann, the mother of the disability rights movement who led the historic 1977 sit-in for Section 504. Modern activists reflect on her legacy and the ongoing fight for accessibility and civil rights today [1].",
+  "bullets": [
+   "Judy Heumann led activists in a nearly month-long takeover of a federal building in San Francisco in 1977 to enforce Section 504 [1].",
+   "A new movie titled Being Heumann directed by Siân Heder premiered on Apple TV to bring her legacy to a wider audience [1].",
+   "Members of the ADA generation formed Judy's League to continue advocacy and push back against ongoing challenges to their rights [1]."
+  ],
+  "report": [
+   {
+    "h": "The Historic Sit-In",
+    "t": "In the spring of 1977, activists led by Judy Heumann and Kitty Cone occupied a federal building in San Francisco for nearly a month [1]. This protest successfully demanded rules to make Section 504 of the Rehabilitation Act of 1973 enforceable [1]."
+   },
+   {
+    "h": "A New Film Legacy",
+    "t": "Directed by Siân Heder, the film Being Heumann tells the story of the Brooklyn woman who fought for the first civil rights protections for disabled people [1]. The movie showcases both the historic struggles and the vibrant, authentic lives of disabled individuals [1]."
+   },
+   {
+    "h": "Carrying the Torch",
+    "t": "Younger activists belonging to the ADA generation are using the film to fuel their current advocacy work through groups like Judy's League [1]. They emphasize that history shows progress is possible when communities unite with unshakable resolve [1]."
+   }
+  ],
+  "why": "This story offers a powerful reminder of how community organizing and tenacity can reshape society to create daily independence and accessibility for everyone [1].",
+  "tryit": "Search for Being Heumann on Apple TV or read more about the 1977 Section 504 sit-in to learn about grassroots civic action [1].",
+  "qa": [
+   [
+    "Who is Judy Heumann?",
+    "She is known as the mother of the disability rights movement for leading the fight for Section 504 protections [1]."
+   ],
+   [
+    "What was Section 504?",
+    "It was a single sentence in the Rehabilitation Act of 1973 promising fair employment and public access without discrimination [1]."
+   ],
+   [
+    "Where can I watch Being Heumann?",
+    "The film premiered in theaters and is currently streaming on Apple TV [1]."
+   ],
+   [
+    "What is Judy's League?",
+    "It is a disability rights organization started by Kaleigh Brendle to push back against efforts to roll back Section 504 protections [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+    "status": 200,
+    "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+    "domain": "npr.org"
+   }
+  ],
+  "date": "2026-11-15",
+  "publishedAt": "2026-11-15T10:00:00Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/new-film-highlights-judy-heumann-and-the-disabil.mp3",
+  "image": {
+   "src": "img/new-film-highlights-judy-heumann-and-the-disabil.jpg",
+   "credit": "NPR",
+   "license": "© NPR, shown with credit",
+   "page": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7952x4473+0+416/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Ff8%2Fb95af317401cb54343937619e0f7%2Fbeing-heumann-photo-0103.jpg"
+  }
+ },
+ {
+  "id": "us-courts-push-back-against-border-agents-seizin",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "visas",
+   "citizenship",
+   "law",
+   "rights"
+  ],
+  "title": "US Courts Push Back Against Border Agents Seizing Travelers' Phones",
+  "snippet": "Federal judges are challenging Customs and Border Protection over the warrantless seizure of electronics from American travelers, citing potential overreach and retaliation.",
+  "bullets": [
+   "Judge Leonie M. Brinkema ordered Customs and Border Protection to explain why it seized electronics from psychiatric nurse Muhammad Numaan Imam [1].",
+   "Judge Allison D. Burroughs ruled that the government likely retaliated against lawyer Andrew Lattarulo by searching his phone after he spoke out [1].",
+   "Courts are growing increasingly frustrated with border agencies attempting to hide their device-searching tactics under the guise of sensitive law enforcement info [1]."
+  ],
+  "report": [
+   {
+    "h": "Growing Legal Pushback",
+    "t": "Federal judges are sharply criticising Customs and Border Protection for seizing electronic devices without warrants at border crossings [1]. Legal pressure is mounting as courts question the agency's broad claims of authority and opaque handling of seized data [1]."
+   },
+   {
+    "h": "Challenging Retaliation Claims",
+    "t": "In one case, Judge Allison D. Burroughs blocked the government from decrypting a lawyer's phone data after noting the seizure appeared to be retaliation for public advocacy [1]. In another case, Judge Leonie M. Brinkema demanded explanations from the agency regarding a nurse's seized family electronics [1]."
+   },
+   {
+    "h": "Overstaying Their Welcome",
+    "t": "Although courts historically granted wide deference to border authorities, agencies are facing intense scrutiny for thin pretexts and evasive tactics [1]. Legal experts note that trying to seize private correspondence creates serious privacy issues beyond standard border searches [1]."
+   }
+  ],
+  "why": "Understanding border privacy rules and legal protections helps keep you informed about international travel rights and shifting judicial boundaries.",
+  "tryit": "Review your device encryption and backup settings before traveling internationally, and consult legal guidance if you ever face unexpected electronic demands at a border.",
+  "qa": [
+   [
+    "What agency is facing increased scrutiny from the courts?",
+    "Customs and Border Protection (CBP) and the Department of Homeland Security (DHS) [1]."
+   ],
+   [
+    "Why did Judge Burroughs rule against the government in Lattarulo's case?",
+    "She believed the DHS seized his phone to retaliate against him for speaking out publicly on immigrants' rights [1]."
+   ],
+   [
+    "What did Judge Brinkema order the CBP to do regarding Muhammad Numaan Imam?",
+    "She ordered the agency to explain what it did to his family's electronics before returning them [1]."
+   ],
+   [
+    "Why couldn't Imam hand over his phone passwords?",
+    "His phone contained confidential communications with patients and case management software [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reason.com/2026/11/17/designed-to-inflict-a-maximal-burden-courts-are-really-unhappy-with-cbp-seizing-americans-phones/",
+    "status": 200,
+    "title": "'Designed to inflict a maximal burden’: Courts are really unhappy with CBP seizing Americans’ phones",
+    "domain": "reason.com"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T21:04:57Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/us-courts-push-back-against-border-agents-seizin.mp3",
+  "image": {
+   "src": "img/us-courts-push-back-against-border-agents-seizin.jpg",
+   "credit": "Reason",
+   "license": "© Reason, shown with credit",
+   "page": "https://reason.com/2026/11/17/designed-to-inflict-a-maximal-burden-courts-are-really-unhappy-with-cbp-seizing-americans-phones/",
+   "from_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/CBP-Archive.jpg"
+  }
+ },
+ {
+  "id": "warren-buffett-donates-5-5-billion-dollars-in-an",
+  "cat": "money",
+  "tags": [
+   "money",
+   "business",
+   "economics"
+  ],
+  "title": "Warren Buffett Donates 5.5 Billion Dollars in Annual Thanksgiving Gift",
+  "snippet": "Warren Buffett marked Thanksgiving by converting Berkshire Hathaway shares into a charitable donation valued at about 5.5 billion dollars.",
+  "bullets": [
+   "Warren Buffett converted thousands of Berkshire Hathaway shares into a charitable donation valued at about 5.5 billion dollars [1].",
+   "The shares were distributed to four Buffett family-led foundations focused on education, health, agriculture, and community development [1].",
+   "Buffett intends to complete the transfer of his remaining Berkshire shares to the four foundations by the end of 2034 [1]."
+  ],
+  "report": [
+   {
+    "h": "The Thanksgiving Gift",
+    "t": "Warren Buffett marked Thanksgiving by converting thousands of Berkshire Hathaway shares into a charitable donation valued at about 5.5 billion dollars [1]. He converted 6,150 Class A shares into 9,225,000 Class B shares [1]."
+   },
+   {
+    "h": "Supporting Four Foundations",
+    "t": "The shares were distributed to four Buffett family-led foundations [1]. These include the Susan Thompson Buffett Foundation, the Sherwood Foundation, the Howard G. Buffett Foundation, and the NoVo Foundation [1]."
+   },
+   {
+    "h": "A Plan For Giving",
+    "t": "This gift continues his plan to give away essentially all of his shares of Berkshire Hathaway by the end of 2034 [1]. The 5.5 billion dollar gift is larger than the approximately 1.3 billion dollars in shares he gave the same foundations last year [1]."
+   }
+  ],
+  "why": "It shows how long-term capital and investments can be structured systematically to create massive public benefit over decades.",
+  "tryit": "Thank one of the selfless people in your own life this week, or look for a small way to be a benefactor for someone else.",
+  "qa": [
+   [
+    "How much was the Thanksgiving gift worth?",
+    "It was valued at about 5.5 billion dollars [1]."
+   ],
+   [
+    "Which shares were converted?",
+    "He converted 6,150 Class A shares into 9,225,000 Class B shares [1]."
+   ],
+   [
+    "When does Buffett plan to complete the transfers?",
+    "He intends to complete the transfer of his remaining Berkshire shares by the end of 2034 [1]."
+   ],
+   [
+    "How much did he give last year?",
+    "He gave approximately 1.3 billion dollars in shares to the same foundations last year [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/warren-buffett-gives-away-5-5-billion-thanksgiving-gift/",
+    "status": 200,
+    "title": "Warren Buffett Gives Away $5.5 Billion in Thanksgiving Gift, Saying Kindness Is Priceless - Good News Network",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T15:55:24Z",
+  "addedAt": "2026-11-18T10:39:34Z",
+  "audio": "audio/warren-buffett-donates-5-5-billion-dollars-in-an.mp3",
+  "image": {
+   "src": "img/warren-buffett-donates-5-5-billion-dollars-in-an.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/warren-buffett-gives-away-5-5-billion-thanksgiving-gift/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg"
+  }
+ },
+ {
   "id": "why-moderate-voices-hold-back-most-during-campus",
   "cat": "adhd",
   "tags": [
@@ -17059,77 +18181,6 @@
    "license": "© Good News Network, shown with credit",
    "page": "https://www.goodnewsnetwork.org/student-run-automotive-shop-opens-to-the-public-in-houston-where-every-oil-change-helps-the-next-generation/",
    "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/YouTube-Screengrab-Houston-Independent-School-District.jpg"
-  }
- },
- {
-  "id": "the-surprising-origins-and-social-power-of-the-m",
-  "cat": "laugh",
-  "tags": [
-   "karaoke",
-   "social",
-   "music",
-   "history",
-   "adhd"
-  ],
-  "title": "The Surprising Origins and Social Power of the Modern Karaoke Machine",
-  "snippet": "Karaoke began in 1968 when a musician invented a machine to perform in his place [1]. Today, these bars offer a unique social space where people gather to connect and perform without irony [1].",
-  "bullets": [
-   "Daisuke Inoue invented the Juke 8 in 1968 by combining a tape player, microphone, and coin slot [1].",
-   "The word karaoke is a portmanteau of the Japanese words for empty and orchestra [1].",
-   "Karaoke bars provide a rare space for people to gather and share music, acting as a reprieve from passive nightlife [1]."
-  ],
-  "report": [
-   {
-    "h": "The accidental invention",
-    "t": "In 1968, musician Daisuke Inoue wanted to be in two places at once while working in Kobe [1]. He created the Juke 8, a device using a tape player and coin slot, to provide entertainment when he could not attend a gig [1]."
-   },
-   {
-    "h": "A social buffer",
-    "t": "Karaoke bars in New York City offer a unique environment where diverse groups gather to perform [1]. These spaces act as a reprieve from passive consumption, allowing people to bond through shared song choices [1]."
-   },
-   {
-    "h": "Finding connection",
-    "t": "Whether it is a piano lounge or a dive bar, these venues attract everyone from theatre enthusiasts to late-night crowds [1]. Singing together creates a sense of belonging, even when other parts of life feel divisive [1]."
-   }
-  ],
-  "why": "Karaoke offers a low-pressure, structured way to socialise and express yourself, which can be a helpful outlet for managing the social anxiety or restlessness that often accompanies ADHD.",
-  "tryit": "Find a local karaoke night in your area this week and go with a friend to observe or participate, using the music as a social buffer to meet new people.",
-  "qa": [
-   [
-    "Who invented the karaoke machine?",
-    "Daisuke Inoue is credited with inventing the Juke 8 in 1968 [1]."
-   ],
-   [
-    "What does the word karaoke mean?",
-    "It is a portmanteau of the Japanese words kara, meaning empty, and oke, meaning orchestra [1]."
-   ],
-   [
-    "Why do people go to karaoke bars?",
-    "They offer a space for collective belonging and a reprieve from the passive consumption of typical nightlife [1]."
-   ],
-   [
-    "Is karaoke just for professional singers?",
-    "No, it is a place where post-prom dates, wedding parties, and career performers gather for entertainment [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/how-to-sing-karaoke-every-night-in-every-borough-of-new-york-city",
-    "status": 200,
-    "title": "How to Sing Karaoke Every Night, in Every Borough of New York City",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T10:00:00Z",
-  "addedAt": "2026-11-05T12:25:55Z",
-  "audio": "audio/the-surprising-origins-and-social-power-of-the-m.mp3",
-  "image": {
-   "src": "img/the-surprising-origins-and-social-power-of-the-m.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/how-to-sing-karaoke-every-night-in-every-borough-of-new-york-city",
-   "from_url": "https://media.cntraveler.com/photos/6adaeca93a01889d5584ba55/16:9/w_1280,c_limit/261030_SA_Karaoke_BeatsKaraokeCafe-6.jpg"
   }
  },
  {
