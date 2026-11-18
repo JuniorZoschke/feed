@@ -1,5 +1,356 @@
 [
  {
+  "id": "how-a-former-therapist-used-chatgpt-and-focus-to",
+  "cat": "adhd",
+  "tags": [
+   "business",
+   "ai",
+   "money",
+   "adhd",
+   "negotiation"
+  ],
+  "title": "How a former therapist used ChatGPT and focus to build a side hustle",
+  "snippet": "Lana Wimmer left her full-time therapy job to launch Öl Brew, a nonalcoholic sparkling fruit malt beverage. Using ChatGPT for initial industry research, the brand now makes about $10,000 a month on Amazon [1].",
+  "bullets": [
+   "Lana Wimmer started her beverage brand Öl Brew while working about 40 hours a week as a mental health therapist [1].",
+   "She used ChatGPT in her first week to research flavor houses, co-packers, and how the beverage industry works [1].",
+   "The brand now generates about $10,000 a month in revenue on Amazon [1]."
+  ],
+  "report": [
+   {
+    "h": "Starting with AI",
+    "t": "Armed with a notebook, a computer, and ChatGPT, the founder researched industry terms, distributors, and brand management companies [1]. AI provided a fast starting point to understand a brand new sector [1]."
+   },
+   {
+    "h": "First Customer Wins",
+    "t": "After initial production runs, the sales strategy was direct and simple: walking into a local grocery store and talking to the manager [1]. This secured the first retail placement and provided real customer feedback [1]."
+   },
+   {
+    "h": "Hiring Lessons",
+    "t": "A major early lesson was avoiding rushed hiring decisions by interviewing at least three to five people before making commitments [1]. This protects capital and helps separate genuine experts from good salespeople [1]."
+   }
+  ],
+  "why": "Why it matters to you: When managing an ADHD brain, using tools like ChatGPT to break down an overwhelming new project into concrete research steps can help you build momentum without getting stuck.",
+  "tryit": "Try this today: Open ChatGPT and prompt it to list the key steps, common bottlenecks, and essential industry terms for a business or side hustle idea you have been thinking about.",
+  "qa": [
+   [
+    "What does Öl Brew sell?",
+    "It sells a nonalcoholic sparkling fruit malt beverage [1]."
+   ],
+   [
+    "How much revenue does it make on Amazon?",
+    "It generates about $10,000 a month in revenue on Amazon [1]."
+   ],
+   [
+    "What tools were used first?",
+    "A notebook, a computer, and ChatGPT [1]."
+   ],
+   [
+    "How were the first retail sales secured?",
+    "By walking into a local grocery store and talking directly to the manager [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/side-hustle/this-54-year-old-left-her-full-time-therapist-job-to-focus-on-a-flavorful-side-hustle-making-10k-a-month-on-amazon-i-used-chatgpt",
+    "status": 200,
+    "title": "This 54-Year-Old Left Her Full-Time Therapist Job to Focus on a Flavorful Side Hustle Making $10K a Month on Amazon: ‘I Used ChatGPT’",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T17:41:22Z",
+  "addedAt": "2026-11-18T17:44:02Z",
+  "audio": "audio/how-a-former-therapist-used-chatgpt-and-focus-to.mp3",
+  "image": {
+   "src": "img/how-a-former-therapist-used-chatgpt-and-focus-to.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/side-hustle/this-54-year-old-left-her-full-time-therapist-job-to-focus-on-a-flavorful-side-hustle-making-10k-a-month-on-amazon-i-used-chatgpt",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/OlBrewLana_a5430f-e1794945438603.jpg"
+  }
+ },
+ {
+  "id": "how-adhd-and-childhood-trauma-independently-shap",
+  "cat": "adhd",
+  "tags": [
+   "adhd",
+   "psychology",
+   "focus"
+  ],
+  "title": "How ADHD and Childhood Trauma Independently Shape Driving Habits",
+  "snippet": "New research shows ADHD symptoms and childhood adversity independently increase risky driving. They act as separate risk factors rather than multiplying each other's effects [1].",
+  "bullets": [
+   "A study of licensed drivers examined how mental health and childhood adversity affect road safety [1].",
+   "Both ADHD symptoms and adverse childhood experiences independently increase unsafe driving behaviors [1].",
+   "Hyperactivity and impulsivity were found to be the main ADHD dimensions predicting risky driving [1]."
+  ],
+  "report": [
+   {
+    "h": "Independent risk factors",
+    "t": "Researchers surveyed drivers to test whether childhood adversity amplifies ADHD-related driving risks [1]. The findings show that both factors increase dangerous driving independently, without multiplying each other [1]."
+   },
+   {
+    "h": "Impulsivity on the road",
+    "t": "When testing different dimensions of ADHD, hyperactivity and impulsivity reliably predicted risky and distracted driving [1]. Inattention alone lost its predictive power when combined with impulsive traits in statistical models [1]."
+   },
+   {
+    "h": "Sensation seeking",
+    "t": "Childhood trauma predicted aggressive driving but not phone distractions, which may link to a trauma-induced desire for thrilling sensations [1]. Future safety programs could target these specific impulsive tendencies [1]."
+   }
+  ],
+  "why": "Understanding how impulsivity affects focus and actions can help you design personal systems to manage distractions behind the wheel.",
+  "tryit": "Notice your impulse to check your phone or speed up this week, and set your phone to driving mode before you start your engine.",
+  "qa": [
+   [
+    "What two factors were studied in relation to driving habits?",
+    "Attention-deficit/hyperactivity disorder symptoms and adverse childhood experiences [1]."
+   ],
+   [
+    "Did childhood trauma amplify the driving risks associated with ADHD?",
+    "No, the results showed they act as independent risk factors rather than multiplying each other [1]."
+   ],
+   [
+    "Which dimension of ADHD best predicted risky driving?",
+    "Symptoms of hyperactivity and impulsivity reliably predicted risky driving in combined models [1]."
+   ],
+   [
+    "How many drivers participated in the survey?",
+    "The study surveyed 263 licensed drivers between the ages of 18 and 29 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/childhood-trauma-and-adhd-independently-fuel-risky-driving-habits/",
+    "status": 200,
+    "title": "Childhood trauma and ADHD independently fuel risky driving habits, study suggests",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T15:00:46Z",
+  "addedAt": "2026-11-18T17:44:02Z",
+  "audio": "audio/how-adhd-and-childhood-trauma-independently-shap.mp3",
+  "image": {
+   "src": "img/how-adhd-and-childhood-trauma-independently-shap.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/childhood-trauma-and-adhd-independently-fuel-risky-driving-habits/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/distracted-driving.jpg"
+  }
+ },
+ {
+  "id": "why-ai-security-flaw-discovery-is-causing-widesp",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "agents"
+  ],
+  "title": "Why AI Security Flaw Discovery Is Causing Widespread Corporate Outages",
+  "snippet": "Advanced AI models are finding security vulnerabilities in software faster than ever. To stop bad actors, companies are patching systems at historic rates, which is inadvertently causing widespread service outages [1].",
+  "bullets": [
+   "AI models are adept at discovering new software security vulnerabilities, far surpassing human researchers [1].",
+   "Microsoft shipped over 1,400 fixes in its October update compared to fewer than 180 fixes in October 2025 [1].",
+   "Wall Street executives and the NSA explained to Congress that rapid patching caused the recent widespread outages [1]."
+  ],
+  "report": [
+   {
+    "h": "AI Finds Vulnerabilities",
+    "t": "Advanced AI models can root out security vulnerabilities in software much faster than human researchers [1]. This includes powerful models like Anthropic's Claude Mythos [1]."
+   },
+   {
+    "h": "Historic Patch Rates",
+    "t": "Software developers are racing to patch as many security flaws as they can before bad actors exploit them [1]. Microsoft shipped over 1,400 fixes with its October update [1]."
+   },
+   {
+    "h": "Why Outages Happen",
+    "t": "The sheer speed of rushing out massive security patches is inadvertently breaking things along the way [1]. Both Wall Street executives and the NSA confirmed that this rapid patching caused recent outages [1]."
+   }
+  ],
+  "why": "Understanding how AI accelerates software updates helps you anticipate tech disruptions in your business tools and workflows [1].",
+  "tryit": "Check your critical business software and devices for pending security updates today, and ensure your backups are current to protect against unexpected disruptions [1].",
+  "qa": [
+   [
+    "What is causing the recent widespread tech outages?",
+    "Companies are rushing to patch security flaws at historic rates, which is inadvertently breaking their own products and causing outages [1]."
+   ],
+   [
+    "Are hackers responsible for these specific outages?",
+    "Secretary of State Marco Rubio stated there is zero evidence that hackers or bad actors caused any of these outages [1]."
+   ],
+   [
+    "How many fixes were in Microsoft's October update?",
+    "The October update included over 1,400 fixes [1]."
+   ],
+   [
+    "Who explained the cause of the outages to Congress?",
+    "Both Wall Street executives and the NSA explained the situation to members of Congress [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://lifehacker.com/tech/what-is-causing-all-these-widespread-outages",
+    "status": 200,
+    "title": "There's Actually a Simple Explanation for All These Widespread Outages",
+    "domain": "lifehacker.com"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T17:06:42Z",
+  "addedAt": "2026-11-18T17:44:02Z",
+  "audio": "audio/why-ai-security-flaw-discovery-is-causing-widesp.mp3",
+  "image": {
+   "src": "img/why-ai-security-flaw-discovery-is-causing-widesp.jpg",
+   "credit": "Lifehacker",
+   "license": "© Lifehacker, shown with credit",
+   "page": "https://lifehacker.com/tech/what-is-causing-all-these-widespread-outages",
+   "from_url": "https://lifehacker.com/imagery/articles/01M7QKPA0DRFNFCC1AW4WQBPXJ/hero-image.fill.size_1200x675.jpg"
+  }
+ },
+ {
+  "id": "teaching-ai-models-to-explain-themselves-in-plai",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "agents",
+   "science",
+   "focus"
+  ],
+  "title": "Teaching AI models to explain themselves in plain human language",
+  "snippet": "Researchers are developing techniques to make complex AI models talk about their own internal processing. This interpretability work helps humans understand machine behavior and deploy safer AI agents.",
+  "bullets": [
+   "Jacob Andreas and his group at MIT develop techniques that enable AI models to communicate accurately about what they learned [1].",
+   "New interpretability methods train large language models to explain what is happening inside other neural networks using human language [1].",
+   "Building deep foundations in how technology works under the hood differentiates people in a world where everyone has a coding agent [1]."
+  ],
+  "report": [
+   {
+    "h": "Transparent AI Systems",
+    "t": "Researchers are moving beyond external tools by training AI models to talk about themselves accurately [1]. This involves translating complex neural computations into clear language humans can understand [1]."
+   },
+   {
+    "h": "Predicting Model Behavior",
+    "t": "A major challenge in machine learning is predicting what happens when training a model on a particular dataset [1]. New techniques assign natural language descriptions to information-processing nodes in massive neural networks [1]."
+   },
+   {
+    "h": "The Value of Foundations",
+    "t": "With coding agents readily available, having a deep technical foundation in how technology works is critical [1]. Understanding the underlying mechanics is the only reliable way to master fast-moving AI tools [1]."
+   }
+  ],
+  "why": "Understanding how AI agents work under the hood helps you build better business systems and maintain a competitive edge when using automated tools.",
+  "tryit": "Review your current AI workflows and spend twenty minutes studying the fundamental logic behind your prompts rather than just copying surface outputs.",
+  "qa": [
+   [
+    "What is the main goal of Jacob Andreas's research group?",
+    "They develop techniques that enable artificial intelligence models to communicate accurately about what they learned in language humans can understand [1]."
+   ],
+   [
+    "Why is interpretability becoming more important?",
+    "It is essential for making advanced systems like AI agents safe enough to deploy in high-stakes situations [1]."
+   ],
+   [
+    "What challenge do AI courses face today?",
+    "Every assignment could potentially be completed by a large language model rather than a human pupil [1]."
+   ],
+   [
+    "How does Andreas recommend students stand out?",
+    "By having a really deep foundation in how all this technology works under the hood [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+    "status": 200,
+    "title": "Learning the language of machine learning",
+    "domain": "news.mit.edu"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T05:00:00Z",
+  "addedAt": "2026-11-18T17:44:02Z",
+  "audio": "audio/teaching-ai-models-to-explain-themselves-in-plai.mp3",
+  "image": {
+   "src": "img/teaching-ai-models-to-explain-themselves-in-plai.jpg",
+   "credit": "MIT News",
+   "license": "© MIT News, shown with credit",
+   "page": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+   "from_url": "https://news.mit.edu/sites/default/files/images/202611/MIT-andreas-jacob-A1-Press.jpg"
+  }
+ },
+ {
+  "id": "why-tech-gossip-and-media-outages-are-not-what-t",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "news"
+  ],
+  "title": "Why Tech Gossip And Media Outages Are Not What They Seem",
+  "snippet": "Recent media reports try to link AI researchers to private kinky parties as a workplace issue. Meanwhile, government agencies and tech companies face major software and upgrade bugs.",
+  "bullets": [
+   "A 2023 filing listed three AI-industry folks as managers of the Red Means No group [1].",
+   "The Beacon piece provides not even a hint of evidence that AI company leadership pressured female employees to attend [1].",
+   "Government agencies, banks, and tech companies have recently experienced upgrades, maintenance, and software bugs [1]."
+  ],
+  "report": [
+   {
+    "h": "Tech Gossip And Media Framing",
+    "t": "Recent media reports attempt to frame private sexual experimentation by tech workers as a systemic workplace issue for women in AI [1]. However, reports provide no evidence of professional pressure or inappropriate office behavior from company leadership [1]."
+   },
+   {
+    "h": "Handling Incidents And Safety",
+    "t": "When a participant reported a stealthing incident at a Red Means No party, organizers swiftly kicked the individual out and banned him [1]. Organizers also required follow-up STI tests and implemented new strategies to prevent future issues [1]."
+   },
+   {
+    "h": "Tech Outages And Software Bugs",
+    "t": "Industries including government agencies and banks have recently experienced technological issues and outages [1]. Most of these outages appear to be self-inflicted through upgrades, maintenance, and software bugs [1]."
+   }
+  ],
+  "why": "This matters when examining how media narratives form around tech industries, helping you separate sensational gossip from actual operational realities.",
+  "tryit": "Check system status pages and software release logs before starting major tech upgrades for your projects this week.",
+  "qa": [
+   [
+    "What is Red Means No?",
+    "It is a group that designs spaces for BDSM and kinky parties using default consent rules and safe words [1]."
+   ],
+   [
+    "Is there evidence of workplace pressure to attend these parties?",
+    "The piece notes there is not even a hint of evidence that AI company leadership pressured employees to attend [1]."
+   ],
+   [
+    "How did party organizers handle a reported assault?",
+    "They swiftly kicked the offender out, required additional STI tests, banned him, and wrote up an incident report [1]."
+   ],
+   [
+    "What caused recent outages in government and tech sectors?",
+    "Most of the issues appear to be self-inflicted through upgrades, maintenance, and software bugs [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reason.com/2026/11/18/ai-orgy-gossip-gets-packaged-as-metoo/",
+    "status": 200,
+    "title": "AI orgy gossip gets packaged as #MeToo",
+    "domain": "reason.com"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T17:00:03Z",
+  "addedAt": "2026-11-18T17:44:02Z",
+  "audio": "audio/why-tech-gossip-and-media-outages-are-not-what-t.mp3",
+  "image": {
+   "src": "img/why-tech-gossip-and-media-outages-are-not-what-t.jpg",
+   "credit": "Reason",
+   "license": "© Reason, shown with credit",
+   "page": "https://reason.com/2026/11/18/ai-orgy-gossip-gets-packaged-as-metoo/",
+   "from_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/11.18.26-v3.jpg"
+  }
+ },
+ {
   "id": "microsoft-reveals-cheap-new-ai-coding-models-to",
   "cat": "ai",
   "tags": [
@@ -11688,75 +12039,6 @@
   }
  },
  {
-  "id": "ancient-dna-reveals-surprising-new-timelines-for",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "history",
-   "travel"
-  ],
-  "title": "Ancient DNA reveals surprising new timelines for Germanic and Celtic languages",
-  "snippet": "New research tracking ancient DNA helps solve the enigma of how Germanic and Celtic languages spread across Europe. Scientists analysed DNA from thousands of prehistoric individuals to test specific theories on linguistic prehistory.",
-  "bullets": [
-   "Two new studies in Nature used ancient DNA from several thousand individuals to track the spread of European languages [1].",
-   "A second group with steppe ancestry appeared in Eastern Scandinavia around 4,000 years ago, suggesting Germanic languages arrived 800 years later than previously assumed [1].",
-   "Genetic analyses show that ancestry associated with the Urnfield culture expanded westward into France and Great Britain between 3,200 and 2,800 years ago [1]."
-  ],
-  "report": [
-   {
-    "h": "Tracing Language Roots",
-    "t": "Scholars have long noticed similarities between European languages like English, Swedish, Irish, Latin, and Greek, which all evolved from Proto-Indo-European [1]. Large groups of people migrated from Eastern European steppes to Europe around 5,000 years ago, supporting the theory that pastoral nomads spread the ancestral language [1]."
-   },
-   {
-    "h": "Rewriting Scandinavian Timelines",
-    "t": "Researchers analysed the DNA of thousands of prehistoric Europeans, including more than 700 newly sequenced individuals [1]. A second group with steppe ancestry appeared in Eastern Scandinavia around 4,000 years ago, suggesting the precursor of Germanic languages arrived some 800 years later than traditionally thought [1]."
-   },
-   {
-    "h": "Uncovering Celtic Origins",
-    "t": "Genetic analyses provide strong support for Celtic languages originating in Central Europe [1]. Between 3,200 and 2,800 years ago, ancestry associated with the Urnfield culture expanded westward into France and Great Britain [1]."
-   }
-  ],
-  "why": "It matters because understanding the complex history of human migration and language evolution offers a fascinating perspective on European prehistory and our shared cultural roots.",
-  "tryit": "Explore the full research papers published in Nature to dive deeper into how ancient DNA is reshaping our understanding of prehistoric human migrations and language dispersals.",
-  "qa": [
-   [
-    "What did the new studies use to track language origins?",
-    "Researchers used ancient DNA from several thousand prehistoric individuals, including more than 700 newly sequenced individuals [1]."
-   ],
-   [
-    "When did large groups migrate from the Eastern European steppes to Europe?",
-    "They migrated around 5,000 years ago [1]."
-   ],
-   [
-    "When did a second group with steppe ancestry appear in Eastern Scandinavia?",
-    "Around 4,000 years ago [1]."
-   ],
-   [
-    "Where did the Urnfield culture ancestry expand to?",
-    "It expanded westward into France and Great Britain, eventually reaching northeastern Spain [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://theconversation.com/we-used-ancient-dna-to-track-the-origins-and-spread-of-the-germanic-and-celtic-languages-new-research-295786",
-    "status": 200,
-    "title": "We used ancient DNA to track the origins and spread of the Germanic and Celtic languages – new research",
-    "domain": "theconversation.com"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T16:12:40Z",
-  "addedAt": "2026-11-11T11:02:24Z",
-  "audio": "audio/ancient-dna-reveals-surprising-new-timelines-for.mp3",
-  "image": {
-   "src": "img/ancient-dna-reveals-surprising-new-timelines-for.jpg",
-   "credit": "The Conversation",
-   "license": "© The Conversation, shown with credit",
-   "page": "https://theconversation.com/we-used-ancient-dna-to-track-the-origins-and-spread-of-the-germanic-and-celtic-languages-new-research-295786",
-   "from_url": "https://images.theconversation.com/files/770040/original/file-20261104-64-rl2b2b.jpg?ixlib=rb-4.1.1&rect=0%2C163%2C6704%2C3352&q=45&auto=format&w=1356&h=668&fit=crop"
-  }
- },
- {
   "id": "actor-returns-to-stage-with-alzheimer-s-using-pr",
   "cat": "mind",
   "tags": [
@@ -14420,76 +14702,6 @@
   }
  },
  {
-  "id": "new-ai-only-platform-moltbook-shows-machines-bui",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "economics"
-  ],
-  "title": "New AI-only platform Moltbook shows machines building digital societies",
-  "snippet": "A new platform called Moltbook lets millions of AI agents interact without humans. It offers a glimpse into autonomous agent coordination and machine societies.",
-  "bullets": [
-   "Moltbook was launched in January 2026 by entrepreneur Matt Schlicht as a social network for AI agents [1].",
-   "An AI bot named Clawd Clawderberg moderates the platform where more than 215,000 AI agents operate [1].",
-   "These agents have created over four million posts and more than 23 million comments [1]."
-  ],
-  "report": [
-   {
-    "h": "AI agent social networks",
-    "t": "A platform called Moltbook launched in January 2026 allows AI agents to share, discuss, and upvote content without human participation [1]. More than 37,000 AI agents joined within days of launch to exchange technical knowledge, argue, and even gossip about their human operators [1]."
-   },
-   {
-    "h": "Massive machine scale",
-    "t": "More than 215,000 AI agents have generated over four million posts and 23 million comments on the site [1]. Over one million humans have visited the platform purely to observe these autonomous machine exchanges [1]."
-   },
-   {
-    "h": "Autonomous coordination",
-    "t": "Agents exchange technical knowledge, philosophise, and coordinate without direct human intervention [1]. This rapid scaling reveals how future digital infrastructure may operate primarily for machine efficiency rather than human connection [1]."
-   }
-  ],
-  "why": "Understanding how autonomous AI agents coordinate at scale gives you a practical edge for building future AI-driven business systems and tools.",
-  "tryit": "Explore how autonomous multi-agent frameworks operate by researching open-source AI agent orchestration tools online today.",
-  "qa": [
-   [
-    "Who launched Moltbook?",
-    "Entrepreneur Matt Schlicht launched Moltbook in January 2026 [1]."
-   ],
-   [
-    "How many AI agents use Moltbook?",
-    "The platform boasts more than 215,000 AI agents as users [1]."
-   ],
-   [
-    "Who moderates the platform?",
-    "An AI bot named Clawd Clawderberg runs and moderates the platform [1]."
-   ],
-   [
-    "How much content have the agents created?",
-    "They have created more than four million posts with over 23 million comments [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://theconversation.com/when-social-media-no-longer-needs-people-what-does-the-social-part-mean-275936",
-    "status": 200,
-    "title": "When social media no longer needs people, what does the ‘social’ part mean?",
-    "domain": "theconversation.com"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T12:28:28Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/new-ai-only-platform-moltbook-shows-machines-bui.mp3",
-  "image": {
-   "src": "img/new-ai-only-platform-moltbook-shows-machines-bui.jpg",
-   "credit": "The Conversation",
-   "license": "© The Conversation, shown with credit",
-   "page": "https://theconversation.com/when-social-media-no-longer-needs-people-what-does-the-social-part-mean-275936",
-   "from_url": "https://images.theconversation.com/files/764941/original/file-20261008-50-hi6xq2.jpg?ixlib=rb-4.1.1&rect=200%2C1412%2C5854%2C2923&q=45&auto=format&w=1356&h=668&fit=crop"
-  }
- },
- {
   "id": "ten-healthy-diets-linked-to-slower-biological-ag",
   "cat": "health",
   "tags": [
@@ -14767,77 +14979,6 @@
    "license": "© TechCrunch, shown with credit",
    "page": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
    "from_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800"
-  }
- },
- {
-  "id": "safari-browser-updates-bring-vertical-tabs-dark",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "apple",
-   "safari",
-   "productivity",
-   "software"
-  ],
-  "title": "Safari browser updates bring vertical tabs, dark mode, and Siri AI",
-  "snippet": "New developer betas introduce major Safari upgrades including vertical tabs, adaptive dark mode for all websites, and deeper Siri AI integration across Apple devices.",
-  "bullets": [
-   "Developer betas for MacOS, iPadOS, and iOS bring major upgrades to the Safari browser [1].",
-   "Adaptive dark mode allows any website to be viewed in dark mode using a color matrix [1].",
-   "Siri AI gains cross-app functionality to handle complex, multi-step tasks across Apple apps [1]."
-  ],
-  "report": [
-   {
-    "h": "Siri AI integration",
-    "t": "Siri AI is woven further into Music, Messages, Photos, Calendar, and Safari to execute complex, multi-step tasks [1]. Users can ask Siri AI to create and save playlists, schedule messages, organize photos, and create calendar invites [1]."
-   },
-   {
-    "h": "Adaptive dark mode",
-    "t": "A WebKit blog post details that 40% of web page loads are from dark mode users, but only 10% of web pages natively support it [1]. Adaptive dark mode uses a color matrix to invert luminosity while preserving hue for unsupported sites [1]."
-   },
-   {
-    "h": "Vertical browser tabs",
-    "t": "Vertical tabs enable vertical navigation and drag-and-drop tab reorganization for Safari users [1]. This view makes lists easier to scan and prevents web page titles from being smushed when several tabs are open [1]."
-   }
-  ],
-  "why": "This matters if you use Apple devices and want to streamline your digital workspace and daily productivity tasks.",
-  "tryit": "Check your Apple device settings for software update availability to test these new developer beta features once public release arrives in mid-December.",
-  "qa": [
-   [
-    "What new Safari features are coming in the developer betas?",
-    "Vertical tabs, adaptive dark mode, and deeper Siri AI integration are on the way [1]."
-   ],
-   [
-    "How does adaptive dark mode work?",
-    "It uses a color matrix to invert the luminosity of colors while preserving hue on pages that do not natively support dark mode [1]."
-   ],
-   [
-    "What percentage of web page loads are from dark mode users?",
-    "According to a WebKit blog post, 40% of web page loads are from dark mode users [1]."
-   ],
-   [
-    "When is the software expected to go public?",
-    "The software is expected to go public in mid-December [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features/",
-    "status": 200,
-    "title": "Safari finally gets 3 popular browser features - and I can't wait to try them - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T17:14:36Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/safari-browser-updates-bring-vertical-tabs-dark.mp3",
-  "image": {
-   "src": "img/safari-browser-updates-bring-vertical-tabs-dark.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc09863_f6afcb.jpg"
   }
  },
  {
@@ -18113,148 +18254,6 @@
   }
  },
  {
-  "id": "students-open-automotive-shop-to-gain-real-world",
-  "cat": "calm",
-  "tags": [
-   "education",
-   "community",
-   "business",
-   "trades",
-   "skills"
-  ],
-  "title": "Students Open Automotive Shop to Gain Real World Experience and Skills",
-  "snippet": "High school students in Houston have opened an automotive shop to provide vehicle maintenance services to the public. This initiative helps students build technical skills and soft skills while serving their local community.",
-  "bullets": [
-   "Students at the Barbara Jordan Career Center are now offering services like oil changes and tire rotations to the public [1].",
-   "The program serves over 1,200 students across 12 different school campuses [1].",
-   "The shop operates every Friday from 9:00 AM to 3:00 PM, with customers providing their own parts and fluids [1]."
-  ],
-  "report": [
-   {
-    "h": "Hands-on student training",
-    "t": "The Barbara Jordan Career Center in Houston has launched a student-run auto shop to provide practical experience in high-demand trades [1]. Students perform essential maintenance like tire rotations and multi-point inspections to build both technical know-how and soft skills [1]."
-   },
-   {
-    "h": "Addressing career readiness",
-    "t": "This initiative aims to improve future employment prospects after research found less than 20% of local graduates were earning a living wage 6 years after finishing school [1]. The center focuses on preparing students for well-paying careers through hands-on internships and job opportunities [1]."
-   },
-   {
-    "h": "Community service model",
-    "t": "The shop is open to the public every Friday from 9:00 AM to 3:00 PM [1]. Customers pay for student labor and provide all necessary parts and fluids, directly supporting the next generation of mechanics [1]."
-   }
-  ],
-  "why": "This story highlights how community-focused business models can solve real-world problems like youth unemployment while providing a useful service to the public.",
-  "tryit": "Look for local vocational colleges or career centers in your area that offer public services like hair salons, restaurants, or workshops, and book an appointment to support their training programs.",
-  "qa": [
-   [
-    "What services does the student shop offer?",
-    "The students perform vehicle maintenance including oil changes, tire rotations, and multi-point inspections [1]."
-   ],
-   [
-    "When is the shop open?",
-    "The shop is open to the public every Friday from 9:00 AM to 3:00 PM [1]."
-   ],
-   [
-    "What do customers need to bring?",
-    "Customers are required to provide all necessary parts and fluids for their vehicle [1]."
-   ],
-   [
-    "How many students does the career center serve?",
-    "The Barbara Jordan Center serves over 1,200 students across 12 school campuses [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/student-run-automotive-shop-opens-to-the-public-in-houston-where-every-oil-change-helps-the-next-generation/",
-    "status": 200,
-    "title": "Student-run Automotive Shop Opens to the Public in Houston Where Every Oil Change Helps the Next Generation",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T16:30:37Z",
-  "addedAt": "2026-11-05T12:25:55Z",
-  "audio": "audio/students-open-automotive-shop-to-gain-real-world.mp3",
-  "image": {
-   "src": "img/students-open-automotive-shop-to-gain-real-world.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/student-run-automotive-shop-opens-to-the-public-in-houston-where-every-oil-change-helps-the-next-generation/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/YouTube-Screengrab-Houston-Independent-School-District.jpg"
-  }
- },
- {
-  "id": "ancient-dna-reveals-how-germanic-and-celtic-lang",
-  "cat": "english",
-  "tags": [
-   "english",
-   "history",
-   "science",
-   "genetics",
-   "language"
-  ],
-  "title": "Ancient DNA Reveals How Germanic and Celtic Languages Spread Across Europe",
-  "snippet": "Researchers have used ancient DNA to trace the origins of Germanic and Celtic languages. By combining genetic data with archaeological findings, the team uncovered previously unknown migration patterns that reshaped European history.",
-  "bullets": [
-   "Geneticists sequenced 712 new genomes from ancient humans and compared them with 4,009 existing ones [1].",
-   "Evidence suggests Germanic languages may have entered Scandinavia 800 years later than previously assumed [1].",
-   "New data indicates Celtic languages spread via a westward migration from eastern central Europe about 3,000 years ago [1]."
-  ],
-  "report": [
-   {
-    "h": "New Genetic Insights",
-    "t": "Researchers analyzed 712 new genomes alongside 4,009 others to map ancient human migrations [1]. This data allows scientists to test long-standing theories about language origins by matching genetic movement with archaeological evidence like pottery and burial styles [1]."
-   },
-   {
-    "h": "Germanic Language Origins",
-    "t": "The study identified a migration from the Baltic region into Denmark and Sweden, suggesting Germanic languages arrived 800 years later than traditionally thought [1]. About 1,650 years ago, these groups moved into areas like Germany, Poland, and the Netherlands, influencing linguistic connections [1]."
-   },
-   {
-    "h": "The Celtic Spread",
-    "t": "Contrary to theories placing Celtic origins on the Atlantic coast, new evidence points to a westward migration from the Urnfield culture in eastern central Europe [1]. This movement occurred roughly 3,000 years ago, spreading languages into Britain, Ireland, France, Italy, and the Iberian Peninsula [1]."
-   }
-  ],
-  "why": "Understanding the history of the languages we speak provides a fascinating perspective on human movement and cultural evolution, which is relevant for anyone interested in the roots of modern English and European identity.",
-  "tryit": "Search for \"Urnfield culture\" online to see how this specific ancient society influenced the spread of languages across the continent.",
-  "qa": [
-   [
-    "How many genomes were analyzed in total?",
-    "The researchers sequenced 712 new genomes and analyzed them alongside 4,009 others [1]."
-   ],
-   [
-    "When did the Celtic languages spread?",
-    "The new evidence suggests they spread during a westward migration about 3,000 years ago [1]."
-   ],
-   [
-    "Where did the Germanic language group likely originate?",
-    "The study suggests a migration from the Baltic region, likely between Finland and northeastern Sweden [1]."
-   ],
-   [
-    "Why is DNA useful for linguistics?",
-    "While DNA does not directly show which language people spoke, it helps trace migrations when combined with archaeological and linguistic evidence [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/ancient-dna-rewrites-the-story-of-how-germanic-and-celtic-languages-spread-across-europe",
-    "status": 200,
-    "title": "Ancient DNA Rewrites The Story of How Germanic And Celtic Languages Spread Across Europe",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T16:00:00Z",
-  "addedAt": "2026-11-05T12:25:55Z",
-  "audio": "audio/ancient-dna-reveals-how-germanic-and-celtic-lang.mp3",
-  "image": {
-   "src": "img/ancient-dna-reveals-how-germanic-and-celtic-lang.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/ancient-dna-rewrites-the-story-of-how-germanic-and-celtic-languages-spread-across-europe",
-   "from_url": "https://www.sciencealert.com/images/2026/11/ScandiAncient-1200x675.png"
-  }
- },
- {
   "id": "historical-milestones-lessons-in-self-directed-l",
   "cat": "news",
   "tags": [
@@ -18393,7 +18392,27 @@
    "license": "© Lifehacker, shown with credit",
    "page": "https://lifehacker.com/tech/what-to-know-about-black-friday-2026-sales",
    "from_url": "https://lifehacker.com/imagery/articles/01M6M9C0FEV5RNYQPDWWT8HYHR/hero-image.fill.size_1200x675.png"
-  }
+  },
+  "sides": [
+   {
+    "title": "The best Black Friday tech deals: laptops, TVs, headphones and accessories, starting at $10",
+    "url": "https://www.foxnews.com/deals/best-black-friday-tech-deals",
+    "outlet": "Fox News",
+    "domain": "foxnews.com",
+    "lean": "R",
+    "leanLabel": "Right-leaning",
+    "publishedAt": "2026-11-18T15:56:17Z"
+   },
+   {
+    "title": "Early Black Friday deals are here, and I’m tracking the 57+ best ones live: Amazon, Apple, PlayStation and more",
+    "url": "https://www.nbcnews.com/select/shopping/best-early-black-friday-deals-2026-rcna609512",
+    "outlet": "NBC News",
+    "domain": "nbcnews.com",
+    "lean": "L",
+    "leanLabel": "Left-leaning",
+    "publishedAt": "2026-11-17T11:54:25Z"
+   }
+  ]
  },
  {
   "id": "a-guide-to-chicago-hot-dogs-and-the-rules-of-ord",
@@ -18466,77 +18485,6 @@
   }
  },
  {
-  "id": "rethinking-workplace-inclusion-and-the-power-of",
-  "cat": "mind",
-  "tags": [
-   "mind",
-   "work",
-   "inclusion",
-   "psychology",
-   "employment"
-  ],
-  "title": "Rethinking Workplace Inclusion and the Power of Meaningful Employment",
-  "snippet": "Goodwill Industries of South Florida demonstrates that work provides more than just a salary; it offers essential structure and confidence. Understanding how organisations support diverse needs can shift our perspective on workplace potential and accommodations.",
-  "bullets": [
-   "Goodwill Industries of South Florida is the 18th-largest employer in its region [1].",
-   "In 2025, the unemployment rate for people with disabilities was 8.3 percent, compared to 4.1 percent for those without [1].",
-   "Meaningful work provides essential structure, confidence, and social connection, according to 2022 World Health Organization guidelines [1]."
-  ],
-  "report": [
-   {
-    "h": "Beyond Retail Operations",
-    "t": "Goodwill does far more than sell used clothing; it provides job training in fields like HVAC and solar installation [1]. They also manufacture apparel and operate commercial laundry services [1]."
-   },
-   {
-    "h": "The Value of Work",
-    "t": "Meaningful employment offers structure and social interaction, which are vital for mental health [1]. The World Health Organization notes that work is a key source of confidence and inclusion [1]."
-   },
-   {
-    "h": "Understanding Accommodations",
-    "t": "The Americans with Disabilities Act requires employers with 15 or more staff to provide reasonable accommodations [1]. Activist Eileen Grubba notes that those with disabilities often have unique skills in adapting and overcoming challenges [1]."
-   }
-  ],
-  "why": "For someone with ADHD, understanding how different workplaces structure tasks and offer accommodations can provide valuable insight into your own career needs and how to support others.",
-  "tryit": "Contact a local charity or employment organisation in your area and ask if you can arrange a brief tour to learn about their training programmes and workplace culture.",
-  "qa": [
-   [
-    "What does Goodwill do besides retail?",
-    "They provide career training in fields like HVAC and solar installation, and offer manufacturing and custodial services [1]."
-   ],
-   [
-    "What is the unemployment rate for people with disabilities?",
-    "In 2025, the rate for people with disabilities aged 16 and older was 8.3 percent [1]."
-   ],
-   [
-    "What does the Americans with Disabilities Act require?",
-    "It requires employers with 15 or more employees to avoid discrimination and provide reasonable accommodations for qualified applicants [1]."
-   ],
-   [
-    "Why is work considered important for mental health?",
-    "According to the World Health Organization, work provides structure, confidence, accomplishment, and inclusion [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psychologytoday.com/us/blog/on-vitality/202611/its-so-much-more-than-used-clothing",
-    "status": 200,
-    "title": "It's So Much More Than Used Clothing",
-    "domain": "psychologytoday.com"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T16:27:41Z",
-  "addedAt": "2026-11-05T12:25:55Z",
-  "audio": "audio/rethinking-workplace-inclusion-and-the-power-of.mp3",
-  "image": {
-   "src": "img/rethinking-workplace-inclusion-and-the-power-of.jpg",
-   "credit": "Psychology Today",
-   "license": "© Psychology Today, shown with credit",
-   "page": "https://www.psychologytoday.com/us/blog/on-vitality/202611/its-so-much-more-than-used-clothing",
-   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/img_9999.jpg?itok=2AEV9cmx"
-  }
- },
- {
   "id": "why-ai-success-now-depends-on-real-world-deploym",
   "cat": "ai",
   "tags": [
@@ -18605,145 +18553,6 @@
    "license": "© Entrepreneur, shown with credit",
    "page": "https://www.entrepreneur.com/business-news/tech/the-ai-race-is-no-longer-about-better-models-heres-where-the-real-value-is-being-created",
    "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/ai-race-real-value-engineers-1026_g2233474240.jpg"
-  }
- },
- {
-  "id": "the-classic-hit-art-garfunkel-almost-refused-to",
-  "cat": "laugh",
-  "tags": [
-   "music",
-   "history",
-   "creativity"
-  ],
-  "title": "The Classic Hit Art Garfunkel Almost Refused To Sing",
-  "snippet": "One of the most famous songs in history almost sounded very different. Paul Simon wrote the hit Bridge Over Troubled Water, but his partner Art Garfunkel initially hesitated to take the lead vocal.",
-  "bullets": [
-   "Paul Simon wrote the song in 1969, drawing inspiration from the gospel group the Swan Silvertones [1].",
-   "When Simon first played the demo, Garfunkel felt Simon should have sung it himself [1].",
-   "Garfunkel later suggested his hesitation was an act of generosity because he believed the song was so good that Simon deserved to lead it [1]."
-  ],
-  "report": [
-   {
-    "h": "A legendary musical partnership",
-    "t": "Paul Simon and Art Garfunkel grew up in Queens and were childhood friends who eventually became one of the most successful musical duos of their time [1]. They released their debut album, Wednesday Morning, 3 A.M., in October 1964 [1]."
-   },
-   {
-    "h": "The song that almost changed",
-    "t": "The title track of their final studio album, Bridge Over Troubled Water, reached number one on the Billboard Hot 100 [1]. However, Simon recalled that when he first played the demo for Garfunkel, his partner did not want to sing it [1]."
-   },
-   {
-    "h": "Generosity or doubt?",
-    "t": "While Simon felt he should have sung it himself, Garfunkel later claimed his reluctance was actually generosity [1]. He felt the song was so strong that his partner deserved the spotlight [1]."
-   }
-  ],
-  "why": "It is a reminder that even the most iconic creative successes often start with doubt, hesitation, and collaborative friction.",
-  "tryit": "Listen to the song Bridge Over Troubled Water today and consider how different perspectives can shape a final creative output.",
-  "qa": [
-   [
-    "When did Simon and Garfunkel release their first album?",
-    "They released their debut studio album, Wednesday Morning, 3 A.M., in October 1964 [1]."
-   ],
-   [
-    "What song inspired Bridge Over Troubled Water?",
-    "Paul Simon took inspiration from the gospel group the Swan Silvertones' number Oh Mary Don't You Weep [1]."
-   ],
-   [
-    "Did the song reach number one?",
-    "Yes, the title track shot to number one on the Billboard Hot 100 [1]."
-   ],
-   [
-    "Why did Garfunkel not want to sing it?",
-    "He initially couldn't hear it for himself and felt Simon should have sung it, though he later said it was an act of generosity [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.mentalfloss.com/entertainment/music/song-paul-simon-wrote-art-garfunkel-didnt-want-sing",
-    "status": 200,
-    "title": "The Song Paul Simon Wrote That Art Garfunkel Initially Didn't Want to Sing",
-    "domain": "mentalfloss.com"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T15:00:00Z",
-  "addedAt": "2026-11-05T12:25:55Z",
-  "audio": "audio/the-classic-hit-art-garfunkel-almost-refused-to.mp3",
-  "image": {
-   "src": "img/the-classic-hit-art-garfunkel-almost-refused-to.jpg",
-   "credit": "Mental Floss",
-   "license": "© Mental Floss, shown with credit",
-   "page": "https://www.mentalfloss.com/entertainment/music/song-paul-simon-wrote-art-garfunkel-didnt-want-sing",
-   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4898,h_2755/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m6f1f8thrjjfvpxjr5.jpg"
-  }
- },
- {
-  "id": "earwax-acts-as-a-natural-and-sophisticated-physi",
-  "cat": "laugh",
-  "tags": [
-   "health",
-   "science",
-   "animals",
-   "nature"
-  ],
-  "title": "Earwax acts as a natural and sophisticated physical defense against insects",
-  "snippet": "New research reveals that earwax is not actually a wax but a complex material that protects your ears from bugs. It uses unique slippery and sticky properties to stop insects like ants from entering the ear canal.",
-  "bullets": [
-   "Earwax is composed of sixty percent dead skin cells along with oils and moisture [1].",
-   "The substance can absorb twice its weight in water to help regulate moisture in the ear [1].",
-   "Ants struggle to climb earwax because it is both sticky and slippery at the same time [1]."
-  ],
-  "report": [
-   {
-    "h": "Natural insect repellent",
-    "t": "Bioengineers found that earwax acts as a physical defense against small arthropods like fire ants [1]. The substance appears to suck moisture from an insect's feet to prevent them from gaining a grip [1]."
-   },
-   {
-    "h": "Self cleaning system",
-    "t": "A layer of cells in the ear canal acts like a conveyor belt to move dry earwax outward over ten weeks [1]. The ear maintains a thin layer because too much wax could actually help insects climb inside using their claws [1]."
-   },
-   {
-    "h": "Future applications",
-    "t": "While there is not enough earwax on Earth to make a commercial repellent, its properties could inspire new non-toxic pest control [1]. These coatings might eventually protect stored food and technology from insects [1]."
-   }
-  ],
-  "why": "This story offers a positive and fascinating look at how your body naturally protects itself. It reframes a common nuisance as a sophisticated biological tool for your health and safety.",
-  "tryit": "Speak to a pharmacist or your GP if you feel your earwax is building up and affecting your hearing.",
-  "qa": [
-   [
-    "What is earwax actually made of?",
-    "It is made of sixty percent dead skin cells, plus some oils and moisture [1]."
-   ],
-   [
-    "How does it stop ants?",
-    "It is both sticky and slippery, causing ants to groom themselves incessantly and lose their grip [1]."
-   ],
-   [
-    "How much earwax does a person have?",
-    "Most people have a volume of earwax roughly equivalent to a grain of rice in each ear [1]."
-   ],
-   [
-    "Does earwax stay in the ear forever?",
-    "No, it usually becomes dry and crumbly in about ten weeks and is moved out by a natural conveyor belt of cells [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencenews.org/article/earwax-slippery-sticky-deters-insects",
-    "status": 200,
-    "title": "Earwax’s surprisingly slippery but sticky properties deters insects",
-    "domain": "sciencenews.org"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T14:30:00Z",
-  "addedAt": "2026-11-05T11:08:41Z",
-  "audio": "audio/earwax-acts-as-a-natural-and-sophisticated-physi.mp3",
-  "image": {
-   "src": "img/earwax-acts-as-a-natural-and-sophisticated-physi.jpg",
-   "credit": "Science News",
-   "license": "© Science News, shown with credit",
-   "page": "https://www.sciencenews.org/article/earwax-slippery-sticky-deters-insects",
-   "from_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102326_LP_earwaxbugrepellant_main.jpg"
   }
  },
  {
@@ -18886,222 +18695,6 @@
    "license": "© Entrepreneur, shown with credit",
    "page": "https://www.entrepreneur.com/building-a-business/how-leaders-can-turn-cultural-misunderstandings-into-stronger-teams",
    "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/strong-teams-1026-g-2277251072.jpg"
-  }
- },
- {
-  "id": "the-knuck-is-the-new-way-to-wear-trousers-and-bo",
-  "cat": "laugh",
-  "tags": [
-   "fashion",
-   "men's aesthetics",
-   "skin",
-   "fitness",
-   "travel"
-  ],
-  "title": "The knuck is the new way to wear trousers and boots this winter",
-  "snippet": "A new fashion trend called the knuck is emerging for winter, offering a practical way to keep your jeans clean while showing off your footwear. It involves a specific tucking technique used by designers like Isabel Marant and Acne Studios.",
-  "bullets": [
-   "The knuck is a portmanteau of the words knee and tuck [1].",
-   "The style involves tucking jeans into boots with a soft gather of fabric just above the boot shaft [1].",
-   "Fashion houses including Dries van Noten and Acne Studios have featured the look in autumn and winter shows [1]."
-  ],
-  "report": [
-   {
-    "h": "The sweet spot",
-    "t": "To achieve the look, you must avoid tucking the whole trouser leg in to prevent looking like a pirate [1]. The goal is a considered silhouette that adds shape to the leg while letting the boots take centre stage [1]."
-   },
-   {
-    "h": "Practical benefits",
-    "t": "Beyond the aesthetic, the move has a functional purpose for winter weather [1]. Applying the knuck before walking through fields or wet areas helps keep mud off the bottom of your jeans [1]."
-   },
-   {
-    "h": "Industry adoption",
-    "t": "The term was coined by Grazia and has since appeared in major fashion press [1]. While it may seem fussy, it has been adopted by several high-end designers for the current season [1]."
-   }
-  ],
-  "why": "As someone interested in men's aesthetics and practical style, this trend offers a simple way to update your look and protect your clothes during UK winter weather.",
-  "tryit": "Try this today by tucking your jeans into your boots and pulling a small amount of fabric back out to create a soft gather rather than a tight tuck.",
-  "qa": [
-   [
-    "What does the name mean?",
-    "It is a portmanteau of the words knee and tuck [1]."
-   ],
-   [
-    "How do I avoid looking like a pirate?",
-    "Do not tuck the entire trouser leg in perfectly; instead, aim for a soft gather of fabric just above the boot [1]."
-   ],
-   [
-    "Which designers are using this?",
-    "It has been seen in shows by Isabel Marant, Acne Studios, and Dries van Noten [1]."
-   ],
-   [
-    "Is there a practical use for it?",
-    "Yes, it is a useful way to keep mud and dirt off your jeans when walking outside [1]."
-   ],
-   [
-    "Who coined the term?",
-    "The term was coined by the fashion publication Grazia [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/fashion/2026/nov/04/the-knuck-trend-how-to-wear-trousers-boots",
-    "status": 200,
-    "title": "The knuck: how to wear trousers and boots – without looking like a pirate",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T16:02:38Z",
-  "addedAt": "2026-11-05T11:08:41Z",
-  "audio": "audio/the-knuck-is-the-new-way-to-wear-trousers-and-bo.mp3",
-  "image": {
-   "src": "img/the-knuck-is-the-new-way-to-wear-trousers-and-bo.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/fashion/2026/nov/04/the-knuck-trend-how-to-wear-trousers-boots",
-   "from_url": "https://i.guim.co.uk/img/media/bbde5efdf323c6c7d7c119faa1765d577b2b78ae/831_0_6108_4889/master/6108.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db69b4da77173a86f03a447110e841bb"
-  }
- },
- {
-  "id": "catherine-breed-becomes-first-person-to-swim-ent",
-  "cat": "calm",
-  "tags": [
-   "calm",
-   "endurance",
-   "mindset",
-   "inspiration",
-   "swimming"
-  ],
-  "title": "Catherine Breed Becomes First Person to Swim Entire California Coastline",
-  "snippet": "Long-distance swimmer Catherine Breed has completed a 900-mile journey along the California coast. Over 111 days, she navigated extreme weather and shark encounters, proving that persistence and presence can overcome immense challenges.",
-  "bullets": [
-   "Catherine Breed became the first person to swim the entire 900-mile California coastline in 111 days [1].",
-   "Her journey required 3 years of preparation and involved navigating 8 separate shark encounters and extreme weather events [1].",
-   "Breed completed her swim on October 19th, aiming to inspire others to pursue unlikely or impossible goals [1]."
-  ],
-  "report": [
-   {
-    "h": "The 900-Mile Journey",
-    "t": "Catherine Breed spent 111 days swimming 900 miles along the California coast [1]. She faced significant obstacles, including 8 shark encounters and the Super El Niño weather event, which brought 7-foot waves that felt like swimming in a washing machine [1]."
-   },
-   {
-    "h": "A Mindset of Surrender",
-    "t": "Breed emphasises that the ocean requires full surrender rather than hubris or rigid expectations [1]. She describes the experience as being completely present, focusing only on the immediate task of putting one arm in front of the other to find peace [1]."
-   },
-   {
-    "h": "Completing the Impossible",
-    "t": "After 3 years of planning, she finished her swim on October 19th, passing the California-Mexico border [1]. She hopes her achievement inspires others to pursue their own ambitious goals [1]."
-   }
-  ],
-  "why": "This story highlights the power of full surrender and presence, which is a useful mindset for managing ADHD overwhelm or anxiety about long-term projects.",
-  "tryit": "Practice full surrender today by identifying one task you are resisting, focusing entirely on the immediate next step, and letting go of the need to control the final outcome.",
-  "qa": [
-   [
-    "How long did the swim take?",
-    "It took 111 days to complete the 900-mile journey [1]."
-   ],
-   [
-    "What challenges did she face?",
-    "She encountered 8 sharks and extreme weather, including 7-foot waves from a Super El Niño event [1]."
-   ],
-   [
-    "How long did she prepare?",
-    "The swim required 3 years of preparation and planning [1]."
-   ],
-   [
-    "When did she finish?",
-    "She completed the swim on October 19th [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/woman-becomes-first-person-to-swim-the-entire-california-coastline/",
-    "status": 200,
-    "title": "Woman Becomes First Person to Swim the Entire California Coastline",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T12:30:19Z",
-  "addedAt": "2026-11-05T11:08:41Z",
-  "audio": "audio/catherine-breed-becomes-first-person-to-swim-ent.mp3",
-  "image": {
-   "src": "img/catherine-breed-becomes-first-person-to-swim-ent.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/woman-becomes-first-person-to-swim-the-entire-california-coastline/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Catherine-Breed-swins-in-the-open-ocean-south-of-the-Golden-Gate-Bridge-credit-Catherine-Breed-press-photo.jpg"
-  }
- },
- {
-  "id": "cold-showers-may-reduce-sick-days-and-improve-yo",
-  "cat": "health",
-  "tags": [
-   "health",
-   "fitness",
-   "longevity",
-   "wellbeing"
-  ],
-  "title": "Cold Showers May Reduce Sick Days and Improve Your Daily Well-being",
-  "snippet": "New research suggests that regular cold showers could lead to fewer days off work due to illness. Participants in a series of trials reported better physical and mental well-being, with many finding they adjusted to the cold temperature over time.",
-  "bullets": [
-   "Participants who took regular cold showers reported 31 percent fewer days off work due to illness compared to those who did not [1].",
-   "The cold shower group experienced a 26 percent reduction in reported illness days compared to those who primarily took warm showers [1].",
-   "Researchers found that participants who stuck with the habit often reported improved psychological well-being during the study [1]."
-  ],
-  "report": [
-   {
-    "h": "The link to health",
-    "t": "A pooled analysis of three randomized controlled trials involving 719 people found a clear reduction in both illness days and sickness absence [1]. While the study did not investigate the specific biological mechanisms, researchers suggest that repeated cold water exposure might boost immune response [1]."
-   },
-   {
-    "h": "Building the habit",
-    "t": "Many participants dropped out during the first two weeks, but the dropout rate declined as people became accustomed to the cold [1]. Among those who persisted, between 77.3 and 90 percent reported taking cold showers in any given week [1]."
-   },
-   {
-    "h": "Holistic benefits",
-    "t": "The findings suggest that cold showers could offer an effective, low-cost method for improving mental and physical health [1]. The data also directly refutes concerns that such an intervention would worsen a participant's comfort or well-being [1]."
-   }
-  ],
-  "why": "This offers a low-cost, accessible way to potentially support your immune system and mental resilience, which is useful for maintaining focus and productivity.",
-  "tryit": "Start by gradually lowering the water temperature at the end of your usual shower, listening to your body and adjusting as you feel comfortable over time.",
-  "qa": [
-   [
-    "Did the study prove cold showers prevent illness?",
-    "The study showed a correlation with fewer sick days and improved well-being, but more research is needed to confirm the exact biological mechanisms [1]."
-   ],
-   [
-    "Is the water supposed to be freezing every day?",
-    "No, the water does not have to be equally cold every day, and you should listen to your body while experimenting [1]."
-   ],
-   [
-    "Are these findings peer-reviewed?",
-    "The findings are from a doctoral dissertation and a preprint paper, meaning they have not yet been peer-reviewed [1]."
-   ],
-   [
-    "What should I do if I want to try this?",
-    "The researcher suggests starting slowly and gradually dropping the temperature over time to stay comfortable [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/people-started-to-take-cold-showers-in-an-experiment-and-a-strange-thing-happened",
-    "status": 200,
-    "title": "People Started to Take Cold Showers in an Experiment, And a Strange Thing Happened",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T14:00:00Z",
-  "addedAt": "2026-11-05T11:08:41Z",
-  "audio": "audio/cold-showers-may-reduce-sick-days-and-improve-yo.mp3",
-  "image": {
-   "src": "img/cold-showers-may-reduce-sick-days-and-improve-yo.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/people-started-to-take-cold-showers-in-an-experiment-and-a-strange-thing-happened",
-   "from_url": "https://www.sciencealert.com/images/2026/11/cold-shower.jpg"
   }
  },
  {
@@ -19248,76 +18841,6 @@
    "license": "© Good News Network, shown with credit",
    "page": "https://www.goodnewsnetwork.org/brazil-expands-protected-area-for-one-of-the-richest-and-most-sensitive-biomes-on-the-planet/",
    "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-Pantanal-landscape-credit-Filipe-Frazao-CC-3.0-BY-SA-1.jpg"
-  }
- },
- {
-  "id": "tech-worker-turns-vintage-truck-into-mobile-book",
-  "cat": "money",
-  "tags": [
-   "money",
-   "business",
-   "side-hustle",
-   "entrepreneurship"
-  ],
-  "title": "Tech worker turns vintage truck into mobile bookstore side hustle",
-  "snippet": "After losing her tech job, Andi Bailey launched Flatbed Fiction by converting a 1961 Studebaker into a mobile bookshop. She now balances a remote job with this creative business that focuses on community connection.",
-  "bullets": [
-   "Andi Bailey converted a 1961 Studebaker Champ into a mobile bookstore called Flatbed Fiction [1].",
-   "The business launched in less than a month with custom shelving built into the truck bed [1].",
-   "Bailey now works remotely five days a week while running the bookstore as a side hustle [1]."
-  ],
-  "report": [
-   {
-    "h": "Creative pivot",
-    "t": "When Andi Bailey was laid off from her tech job, she decided to revisit her dream of owning a bookstore [1]. She purchased a vintage truck on Facebook Marketplace to serve as a unique mobile platform [1]."
-   },
-   {
-    "h": "Rapid launch",
-    "t": "In less than a month, she had shelving installed in the truck bed and debuted at a local coffee shop [1]. The mobile shop now visits farms, artisan markets, and beachside readings [1]."
-   },
-   {
-    "h": "Balanced growth",
-    "t": "Bailey does not chase specific growth targets and uses the business as a way to meet people [1]. She describes the project as a touch-grass escape from her five-day remote work week [1]."
-   }
-  ],
-  "why": "This story shows how a small business can be launched quickly using existing platforms like Facebook Marketplace to create a flexible side hustle.",
-  "tryit": "Search Facebook Marketplace or local listings for a unique vehicle or trailer that could serve as a low-overhead physical base for a niche business idea.",
-  "qa": [
-   [
-    "What kind of truck does she use?",
-    "She uses a 1961 Studebaker Champ [1]."
-   ],
-   [
-    "Where does the bookstore pop up?",
-    "It rolls up at coffee shops, farms, artisan markets, and beachside sunset readings [1]."
-   ],
-   [
-    "What genres does the shop stock?",
-    "The truck is stocked with romance, horror, and thrillers [1]."
-   ],
-   [
-    "How long did it take to launch?",
-    "It took less than a month to build the shelving and debut the business [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.entrepreneur.com/side-hustle/after-she-lost-her-tech-job-she-bought-a-1961-studebaker-on-facebook-marketplace-now-its-a-pop-up-bookstore-on-wheels",
-    "status": 200,
-    "title": "After She Lost Her Tech Job, She Bought a 1961 Studebaker on Facebook Marketplace. Now It’s a Pop-Up Bookstore on Wheels.",
-    "domain": "entrepreneur.com"
-   }
-  ],
-  "date": "2026-11-04",
-  "publishedAt": "2026-11-04T14:00:00Z",
-  "addedAt": "2026-11-04T23:38:36Z",
-  "audio": "audio/tech-worker-turns-vintage-truck-into-mobile-book.mp3",
-  "image": {
-   "src": "img/tech-worker-turns-vintage-truck-into-mobile-book.jpg",
-   "credit": "Entrepreneur",
-   "license": "© Entrepreneur, shown with credit",
-   "page": "https://www.entrepreneur.com/side-hustle/after-she-lost-her-tech-job-she-bought-a-1961-studebaker-on-facebook-marketplace-now-its-a-pop-up-bookstore-on-wheels",
-   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/studebaker-bookshop-on-wheels-1126_g1270301157.jpg"
   }
  },
  {
