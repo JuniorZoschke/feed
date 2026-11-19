@@ -1,5 +1,1337 @@
 [
  {
+  "id": "microsoft-ceo-satya-nadella-explains-why-he-offe",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "agents",
+   "money"
+  ],
+  "title": "Microsoft CEO Satya Nadella Explains Why He Offered 60K Buyouts",
+  "snippet": "Microsoft CEO Satya Nadella offered buyouts to 60,000 employees in October to reorganize the company around AI agents. He believes every worker's job will shift to managing AI rather than doing direct manual tasks [1].",
+  "bullets": [
+   "Microsoft CEO Satya Nadella offered voluntary buyouts to 60,000 employees in October [1].",
+   "He explained that the move aimed to give workers agency during a major AI-first reorganization [1].",
+   "He cited a team of 11 developers building Cowork who use AI to run a software factory instead of writing code directly [1]."
+  ],
+  "report": [
+   {
+    "h": "The Buyout Strategy",
+    "t": "Microsoft CEO Satya Nadella offered buyouts to 60,000 employees to restructure the company for an AI-first workflow [1]. He wanted to give workers the agency to choose if they wanted to adapt to the new operating model [1]."
+   },
+   {
+    "h": "Managing AI Agents",
+    "t": "Nadella states that future jobs will focus on managing AI agents rather than performing direct tasks [1]. He shared an example of 11 developers building the Cowork agent by running an automated software factory [1]."
+   },
+   {
+    "h": "Reducing Workplace Anxiety",
+    "t": "Nadella noted that public talk about the singularity creates anxiety and strips workers of control [1]. He used the buyout to let employees choose whether to embrace the structural changes or move on [1]."
+   }
+  ],
+  "why": "This insight into how tech giants structure teams around AI agents provides a practical blueprint for running efficient, automated micro-businesses.",
+  "tryit": "Review your current workflow and list three repetitive tasks that an AI agent could handle for you this week.",
+  "qa": [
+   [
+    "Why did Microsoft offer buyouts to 60,000 employees?",
+    "The buyout was designed to give workers agency to choose between adapting to an AI-first reorganization or leaving [1]."
+   ],
+   [
+    "How many developers build Cowork?",
+    "The team consists of just 11 developers who use AI to run a software factory [1]."
+   ],
+   [
+    "What does Nadella think future jobs will look like?",
+    "He believes every employee will eventually become a manager of AI agents rather than doing the direct work [1]."
+   ],
+   [
+    "When did Microsoft offer the buyouts?",
+    "The buyouts were offered in October [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "status": 200,
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T00:42:56Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/microsoft-ceo-satya-nadella-explains-why-he-offe.mp3",
+  "image": {
+   "src": "img/microsoft-ceo-satya-nadella-explains-why-he-offe.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/Microsoft-Satya-Nadella.jpg?resize=1200,800"
+  }
+ },
+ {
+  "id": "why-getting-into-ai-rooms-right-now-matters-for",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "negotiation"
+  ],
+  "title": "Why Getting Into AI Rooms Right Now Matters For Future Leadership",
+  "snippet": "AI adoption gaps risk widening leadership divides at a crucial economic moment. Getting close to AI strategy and hands-on tool building builds vital career judgment.",
+  "bullets": [
+   "Women were recently reported adopting AI 25% less than men [1].",
+   "Women hold only about 29% of C-suite roles and make up fewer than one in five decision-makers at venture firms [1].",
+   "Nearly 41% of the almost $74 billion raised in 2025 came from two megadeals [1]."
+  ],
+  "report": [
+   {
+    "h": "The AI Adoption Gap",
+    "t": "AI is a massive market-moving shift that will define our economy for generations. Slower adoption rates risk leaving diverse voices out of critical future leadership decisions [1]."
+   },
+   {
+    "h": "Get Hands-On Early",
+    "t": "The best way to learn is by using AI before feeling entirely ready. Build agents, analyze dense reports, or pressure-test strategies in low-risk moments [1]."
+   },
+   {
+    "h": "Raise Your Hand",
+    "t": "Ask to be in the room where your company determines how it uses new technology. Leaning into hard transformation work positions you for major roles [1]."
+   }
+  ],
+  "why": "This matters if you want to use AI agents to run or scale a business and secure a strong seat at the table during major market shifts.",
+  "tryit": "Pick a low-risk task today like analyzing a dense report or building a simple agent, and start getting your hands dirty with AI before you feel fully ready [1].",
+  "qa": [
+   [
+    "What percentage less were women adopting AI compared to men?",
+    "25% less [1]."
+   ],
+   [
+    "What proportion of C-suite roles do women hold?",
+    "About 29% [1]."
+   ],
+   [
+    "How much capital was raised in 2025 for women-founded startups?",
+    "Almost $74 billion [1]."
+   ],
+   [
+    "What proportion of decision-makers at venture firms are women?",
+    "Fewer than one in five [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/business-news/the-rooms-where-ai-gets-decided-are-filling-up-women-need-to-be-in-them",
+    "status": 200,
+    "title": "The Rooms Where AI Gets Decided Are Filling Up. Women Need to Be in Them",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T20:00:00Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/why-getting-into-ai-rooms-right-now-matters-for.mp3",
+  "image": {
+   "src": "img/why-getting-into-ai-rooms-right-now-matters-for.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/business-news/the-rooms-where-ai-gets-decided-are-filling-up-women-need-to-be-in-them",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/women-in-ai-1126_g2265894423.jpg"
+  }
+ },
+ {
+  "id": "how-scout-motors-uses-real-time-ai-earpieces-for",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "negotiation"
+  ],
+  "title": "How Scout Motors Uses Real-Time AI Earpieces for Factory Training",
+  "snippet": "Scout Motors is using AI earpieces and smart onboarding tools to train factory workers in Blythewood, South Carolina. The system replaces old binders with real-time audio guidance, speeding up production and hiring. [1]",
+  "bullets": [
+   "Scout Motors employs an AI assistant in an earpiece to guide new factory trainees through tasks as they perform them [1].",
+   "The automaker aims to fill over 4,000 roles at its new South Carolina facility by the year 2028 [1].",
+   "The AI system can ingest decades of equipment manuals and documentation to surface instructions in real time [1]."
+  ],
+  "report": [
+   {
+    "h": "AI Earpieces on the Floor",
+    "t": "Scout Motors replaces instructional binders with an AI assistant in an earpiece that guides trainees through tasks like parts picking [1]. Workers repeat the cycle about 15 times to build speed and skill [1]."
+   },
+   {
+    "h": "Smart Hiring and Placement",
+    "t": "An AI system feeds new hires' backgrounds into an algorithm to suggest the best factory placement, such as moving a former forklift driver into logistics [1]. This helps find non-obvious skill connections to fill over 4,000 roles by 2028 [1]."
+   },
+   {
+    "h": "Bidirectional Learning Loops",
+    "t": "The AI learns from how each group responds to instruction and modifies the process for the next cohort [1]. Executives expect each subsequent batch of workers to improve continually as the system dials in [1]."
+   }
+  ],
+  "why": "This shows a practical enterprise model for using AI to codify decades of messy documentation and streamline onboarding, which is useful when scaling a business or training team operations efficiently [1].",
+  "tryit": "Explore how your business or projects can turn static documentation, manuals, or standard operating procedures into an accessible, searchable knowledge base using current AI knowledge-management tools [1].",
+  "qa": [
+   [
+    "How many roles does Scout Motors need to fill by 2028?",
+    "The automaker needs to fill over 4,000 roles to reach full speed ahead by 2028 [1]."
+   ],
+   [
+    "Where is Scout Motors building its new factory?",
+    "The factory is under construction in Blythewood, South Carolina [1]."
+   ],
+   [
+    "What is the simplest example of a task taught by the AI earpiece?",
+    "Parts picking, where a worker walks to 12 boxes, pulls 12 parts, confirms the sequence, and checks for defects [1]."
+   ],
+   [
+    "What future technology is Scout exploring for training?",
+    "The company is exploring vision-based AI training using augmented reality glasses [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cnet.com/home/electric-vehicles/scout-motors-ai-earpieces-factory-workers-training-onboarding/",
+    "status": 200,
+    "title": "Scout Motors Is Using AI Earpieces to Train Factory Workers - CNET",
+    "domain": "cnet.com"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T10:00:04Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/how-scout-motors-uses-real-time-ai-earpieces-for.mp3",
+  "image": {
+   "src": "img/how-scout-motors-uses-real-time-ai-earpieces-for.jpg",
+   "credit": "CNET",
+   "license": "© CNET, shown with credit",
+   "page": "https://www.cnet.com/home/electric-vehicles/scout-motors-ai-earpieces-factory-workers-training-onboarding/",
+   "from_url": "https://www.cnet.com/wp-content/uploads/sites/2/ScoutMotors_Aerial_BlythewoodProductionCenter.jpg"
+  }
+ },
+ {
+  "id": "how-seven-founders-built-anthropic-into-a-multi",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "economics"
+  ],
+  "title": "How Seven Founders Built Anthropic into a Multi-Billion-Dollar AI Giant",
+  "snippet": "Anthropic is floating on the US stock exchange after just five years, turning its seven founders into multi-billionaires. The team behind the Claude AI platform left OpenAI in 2021 to build their own venture focused on safety and scale.",
+  "bullets": [
+   "Anthropic is floating on the US stock exchange and selling its shares at $83 each [1].",
+   "The seven founders left rival OpenAI in 2021 to start the company [1].",
+   "Each founder's shareholding will be worth at least $19.3bn after the float [1]."
+  ],
+  "report": [
+   {
+    "h": "Rapid Rise",
+    "t": "In five years, Anthropic has grown from an unknown start-up into a tech giant worth over a trillion dollars [1]. The firm is floating its business on the US stock exchange at $83 per share [1]."
+   },
+   {
+    "h": "The Founding Team",
+    "t": "The company was formed by seven people in their thirties and forties who left OpenAI in 2021 [1]. Led by Dario Amodei and his sister Daniela, the group includes top researchers, engineers, and former tech journalists [1]."
+   },
+   {
+    "h": "Massive Wealth",
+    "t": "The share sale will make all seven co-founders multi-billionaires on paper [1]. Each founder's stake will be worth at least $19.3bn, or £14.7bn [1]."
+   }
+  ],
+  "why": "It shows how quickly high-impact AI ventures can scale from a small team of founders into trillion-dollar entities.",
+  "tryit": "Research the background of the founders to understand how multidisciplinary skills in physics, literature, and policy shape modern tech companies.",
+  "qa": [
+   [
+    "How much are the founders' shares worth?",
+    "Their shareholdings will be worth at least $19.3bn each [1]."
+   ],
+   [
+    "What is the share price for the float?",
+    "The company will sell its shares at $83 each [1]."
+   ],
+   [
+    "When did the founders leave OpenAI?",
+    "They left OpenAI in 2021 to form Anthropic [1]."
+   ],
+   [
+    "Who is the chief executive of Anthropic?",
+    "Dario Amodei is the chief executive [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
+    "status": 200,
+    "title": "Anthropic: The seven founders about to become multi-billionaires",
+    "domain": "bbc.co.uk"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T23:42:07Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/how-seven-founders-built-anthropic-into-a-multi.mp3",
+  "image": {
+   "src": "img/how-seven-founders-built-anthropic-into-a-multi.jpg",
+   "credit": "BBC News",
+   "license": "© BBC News, shown with credit",
+   "page": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
+   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"
+  }
+ },
+ {
+  "id": "microsoft-introduces-licensed-weights-to-help-bu",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "agents"
+  ],
+  "title": "Microsoft introduces Licensed Weights to help businesses customize models with data",
+  "snippet": "Microsoft announced Licensed Weights at Ignite, letting businesses customize frontier AI models with their own data securely in Azure.",
+  "bullets": [
+   "Microsoft announced new models from Microsoft AI at its Ignite conference on Tuesday [1].",
+   "The new Licensed Weights initiative lets companies customize frontier models securely in Azure [1].",
+   "The coding model MAI Code 2 gives 98% of the performance of GPT 6.1 Sol at just 40% of the cost [1]."
+  ],
+  "report": [
+   {
+    "h": "Customizing Frontier Models",
+    "t": "Microsoft announced a new approach called Licensed Weights at its Ignite conference on Tuesday [1]. It lets customers customize frontier AI models securely in Azure while keeping their data and adaptations entirely private [1]."
+   },
+   {
+    "h": "Affordable Enterprise AI",
+    "t": "The new MAI Code 2 model gives 98% of the performance of GPT 6.1 Sol at 40% of the cost [1]. Against Opus 5.5, it costs 5% of that price while handling everyday enterprise coding tasks [1]."
+   },
+   {
+    "h": "Data Control",
+    "t": "Microsoft stated it will only use customer information to train models if the customer agrees [1]. Companies interested in the initiative must go through their Microsoft account reps to get started [1]."
+   }
+  ],
+  "why": "It offers an affordable way to build and run business AI agents while keeping complete control over your intellectual property.",
+  "tryit": "Contact your Microsoft account representative to ask about getting started with the new Licensed Weights initiative for your business data [1].",
+  "qa": [
+   [
+    "What is Licensed Weights?",
+    "It is an initiative allowing customers to customize Microsoft's frontier models with their own data and run them securely in Azure [1]."
+   ],
+   [
+    "How do companies get started?",
+    "Interested companies need to go through their Microsoft account reps to get started [1]."
+   ],
+   [
+    "Will Microsoft use my data for training?",
+    "Microsoft stated it would only use customers' information to train its models if they agreed [1]."
+   ],
+   [
+    "Who leads Microsoft AI?",
+    "Mustafa Suleyman is the CEO of Microsoft AI [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/innovation/microsoft-licensed-weights-ai-models-ignite-2026/",
+    "status": 200,
+    "title": "Microsoft's new Licensed Weights lets businesses customize AI models with their own data - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T12:56:53Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/microsoft-introduces-licensed-weights-to-help-bu.mp3",
+  "image": {
+   "src": "img/microsoft-introduces-licensed-weights-to-help-bu.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/innovation/microsoft-licensed-weights-ai-models-ignite-2026/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-2.46.59-PM.png"
+  }
+ },
+ {
+  "id": "new-psychology-study-reveals-your-sexual-turn-on",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "health",
+   "mind",
+   "relationships"
+  ],
+  "title": "New psychology study reveals your sexual turn-ons are more fluid than you think",
+  "snippet": "A new study shows that adults generally view their sexual turn-ons as moderately changeable over time and across life experiences. Interestingly, shifting arousal triggers showed no connection to anxiety, depression, or sexual difficulties.",
+  "bullets": [
+   "A study published in Psychology & Sexuality found that adults generally view their sexual turn-ons as moderately changeable over time [1].",
+   "Researchers introduced the concept of turn-on fluidity to describe how what sexually arouses someone shifts across life experiences or relationships [1].",
+   "Having shifting arousal triggers showed no positive or negative connection with anxiety, depression, or sexual difficulties [1]."
+  ],
+  "report": [
+   {
+    "h": "Fluid Arousal Triggers",
+    "t": "What people find sexually arousing does not necessarily stay locked in place throughout adulthood [1]. Adults generally view their turn-ons as moderately changeable over time and across life experiences [1]."
+   },
+   {
+    "h": "Demographic Patterns",
+    "t": "Researchers noted differences across age, race, gender, sexual orientation, education, and religion [1]. Younger adults and bisexual or pansexual participants sometimes reported higher scores on their turn-ons not always being the same [1]."
+   },
+   {
+    "h": "Neutral Well-Being",
+    "t": "None of the five turn-on fluidity items had a statistically significant association with anxiety, depression, sexual distress, sexual dysfunction, or sexual flexibility [1]. This suggests that changes in turn-ons are neutral from a well-being perspective [1]."
+   }
+  ],
+  "why": "It matters to you because understanding that personal preferences naturally evolve without impacting mental health offers great reassurance for self-compassion.",
+  "tryit": "Reflect on how your personal preferences have shifted over time without judgment, and view any changes simply as a normal part of life experience.",
+  "qa": [
+   [
+    "What is turn-on fluidity?",
+    "It is the degree to which what sexually arouses someone shifts over time, through personal experiences, or across relationships [1]."
+   ],
+   [
+    "Was turn-on fluidity linked to anxiety or depression?",
+    "No, researchers found no positive or negative connection between shifting arousal triggers and anxiety, depression, or sexual difficulties [1]."
+   ],
+   [
+    "Did age make a difference in the findings?",
+    "Younger adults tended to score slightly higher than older adults on reporting that their turn-ons had not always been the same [1]."
+   ],
+   [
+    "How was the study conducted?",
+    "The team recruited English-speaking adults through social media ads between November 2022 and January 2023 for a survey on legal, consensual sexual preferences [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/new-psychology-study-suggests-your-sexual-turn-ons-are-far-more-fluid-than-assumed/",
+    "status": 200,
+    "title": "New psychology study suggests your sexual turn-ons are far more fluid than assumed",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T11:00:45Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/new-psychology-study-reveals-your-sexual-turn-on.mp3",
+  "image": {
+   "src": "img/new-psychology-study-reveals-your-sexual-turn-on.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/new-psychology-study-suggests-your-sexual-turn-ons-are-far-more-fluid-than-assumed/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/woman-turned-on-flirting-biting-lower-lip.jpg"
+  }
+ },
+ {
+  "id": "could-future-washing-machines-clean-your-clothes",
+  "cat": "news",
+  "tags": [
+   "science",
+   "technology",
+   "innovation",
+   "environment"
+  ],
+  "title": "Could future washing machines clean your clothes using liquid carbon dioxide?",
+  "snippet": "Industrial liquid CO2 cleaning technology washes and dries clothes without water or heat. Appliance giants LG and Samsung are now exploring how to shrink this bulky machinery for home use.",
+  "bullets": [
+   "Under pressure, CO2 becomes a low-viscosity liquid that penetrates fabrics to carry away oils and grime before reverting to a gas [1].",
+   "Tersus Solutions uses large machines that save roughly 300 gallons of water per load compared with conventional washing [1].",
+   "Appliance giants LG and Samsung are working on patents to tackle design challenges and bring the technology to homes [1]."
+  ],
+  "report": [
+   {
+    "h": "Waterless laundry tech",
+    "t": "Industrial machines use liquid carbon dioxide under pressure to wash and dry garments without using any water or heat [1]. When the cycle ends, the pressure drops and the liquid returns to gas, leaving clothes instantly dry [1]."
+   },
+   {
+    "h": "Scaling for the home",
+    "t": "Major brands like LG and Samsung are developing patents to solve the engineering hurdles of shrinking high-pressure machinery for domestic use [1]. Their work includes tackling stubborn stains and reducing the high operating pressures required [1]."
+   },
+   {
+    "h": "Practical advantages",
+    "t": "The process eliminates water, detergents, and thermal drying while trapping shed fibers to reduce microplastic contamination [1]. Skipping conventional heat tumbling could also help garments last longer by reducing shrinkage and wear [1]."
+   }
+  ],
+  "why": "It is fascinating to see cutting-edge chemical engineering solving everyday chores with zero water waste and less wear on your clothes [1].",
+  "tryit": "Read up on modern heat pump dryers or high-efficiency water-saving front-load washers to see what appliance upgrades are available for your home today [1].",
+  "qa": [
+   [
+    "How does liquid CO2 clean clothes?",
+    "Under pressure, CO2 becomes a low-viscosity liquid capable of penetrating fabrics and carrying away oils and grime before reverting to a gas [1]."
+   ],
+   [
+    "Do these machines use water or detergent?",
+    "No, the core process uses no water, detergent, or heat [1]."
+   ],
+   [
+    "Who is developing home versions of this technology?",
+    "Appliance giants LG and Samsung are working on patents to bring the technology into homes [1]."
+   ],
+   [
+    "What are the main challenges for home units?",
+    "Shrinking bulky machinery, managing high operating pressures, and making the systems affordable and efficient for single-household use [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/",
+    "status": 200,
+    "title": "The Waterless, Hyper-Efficient Machines That Clean Clothes With Carbon Dioxide",
+    "domain": "reasonstobecheerful.world"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T08:00:13Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/could-future-washing-machines-clean-your-clothes.mp3",
+  "image": {
+   "src": "img/could-future-washing-machines-clean-your-clothes.jpg",
+   "credit": "Reasons to be Cheerful",
+   "license": "© Reasons to be Cheerful, shown with credit",
+   "page": "https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/",
+   "from_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/laundry-CO2-carbon-dioxide-clean-clothes-washing-machine.webp"
+  }
+ },
+ {
+  "id": "new-york-city-bodega-cats-are-working-felines-an",
+  "cat": "whoa",
+  "tags": [
+   "animals",
+   "science",
+   "news"
+  ],
+  "title": "New York City Bodega Cats Are Working Felines and Community Beacons",
+  "snippet": "New York City's famous bodega cats work around the clock greeting customers and catching rodents. A new book captures their stories and highlights efforts to legalize them.",
+  "bullets": [
+   "Cleo is a bodega cat in Brooklyn who inspired a Churus and Churros-themed birthday party [1].",
+   "Authors Dan Rimada and Gulce Kilkis visited nearly 250 bodegas across all five boroughs for their book [1].",
+   "A petition launched by Rimada to legalize bodega cats gained more than 14,000 signatures [1]."
+  ],
+  "report": [
+   {
+    "h": "Feline Employees",
+    "t": "Thousands of bodegas in New York City feature resident cats that greet customers at the door and catch rodents in basements [1]."
+   },
+   {
+    "h": "Documenting Lives",
+    "t": "Authors Dan Rimada and Gulce Kilkis traveled across all five boroughs over two years to capture the tales of around 120 cats [1]."
+   },
+   {
+    "h": "Legal Push",
+    "t": "While health codes technically prohibit animals in retail food stores, new legislation aims to establish statewide health and safety standards for shop cats [1]."
+   }
+  ],
+  "why": "It is a surprising, heartwarming look at how local communities weave unique animal companionship into everyday commerce and urban life.",
+  "tryit": "Look up local animal welfare groups or community cat programs to learn how stray and feral cat care is managed in your area.",
+  "qa": [
+   [
+    "Who wrote the book Bodega Cats of New York?",
+    "Author Dan Rimada and photographer Gulce Kilkis created the book [1]."
+   ],
+   [
+    "How many signatures did the petition to legalize bodega cats get?",
+    "More than 14,000 people signed the petition [1]."
+   ],
+   [
+    "When did Hamood Suliman find Cleo?",
+    "He found her on July 17, 2025 [1]."
+   ],
+   [
+    "What did the US government once fund for post offices?",
+    "The post office employed nearly 100 cats and had a special budget for cat food to control rats [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/travel/theyre-not-on-the-payroll-but-bodega-cats-are-some-of-new-york-citys-most-beloved-employees-180989882/",
+    "status": 200,
+    "title": "They’re Not on the Payroll, but Bodega Cats Are Some of New York City’s Most Beloved Employees",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T20:36:12Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/new-york-city-bodega-cats-are-working-felines-an.mp3",
+  "image": {
+   "src": "img/new-york-city-bodega-cats-are-working-felines-an.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/travel/theyre-not-on-the-payroll-but-bodega-cats-are-some-of-new-york-citys-most-beloved-employees-180989882/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/coenCJSHlE1RzZieZrA4Nnk5Oa8=/fit-in/1600x0/filters:focal(1658x1524:1659x1525)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/2d/dd2dfd0e-d2b5-4395-b239-802b546fde7c/prince_-_soho.jpg"
+  }
+ },
+ {
+  "id": "discover-five-new-apple-health-ai-features-arriv",
+  "cat": "health",
+  "tags": [
+   "health",
+   "fitness",
+   "ai",
+   "longevity",
+   "apple"
+  ],
+  "title": "Discover five new Apple Health AI features arriving with iOS 27.3 next month",
+  "snippet": "Apple is updating its Health app in iOS 27.3 with AI features that analyze your data, compare your physical health to your age, and offer training videos.",
+  "bullets": [
+   "The updated Apple Health app launches next month alongside iOS 27.3 [1].",
+   "New tools evaluate physical fitness using your resting heart rate, sleep, and lab results [1].",
+   "Apple Intelligence features require a compatible iPhone model like the iPhone 15 Pro or newer [1]."
+  ],
+  "report": [
+   {
+    "h": "AI Health Insights",
+    "t": "The updated app uses AI to analyze your health stats and offer tailored advice, such as suggesting a walk or sleep articles [1]."
+   },
+   {
+    "h": "Health Age Metric",
+    "t": "A new feature compares your physical health to your actual age using stats like heart rate variability and cholesterol [1]."
+   },
+   {
+    "h": "Movement And Strength",
+    "t": "The app evaluates your balance and strength using your camera and provides free training videos in the Insights section [1]."
+   }
+  ],
+  "why": "This helps you track your fitness, longevity, and health metrics directly from your phone using automated tools.",
+  "tryit": "Check your iPhone model settings today to see if it supports Apple Intelligence features ahead of the iOS 27.3 release.",
+  "qa": [
+   [
+    "When does iOS 27.3 release?",
+    "It launches next month [1]."
+   ],
+   [
+    "What does Health Age measure?",
+    "It compares physical health to your actual age using stats like resting heart rate, sleep, HRV, cholesterol, and A1C [1]."
+   ],
+   [
+    "Which phones support the AI features?",
+    "You need an iPhone 15 Pro or Pro Max, any iPhone 16 or 17, an iPhone 18 Pro or Pro Max, an iPhone Air, or an iPhone Duo [1]."
+   ],
+   [
+    "Are the strength videos free?",
+    "Yes, a comprehensive set of training videos is included in the Insights section without needing an Apple Fitness+ subscription [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/health/apple-health-ios-27-3-ai-features-compatible-iphones/",
+    "status": 200,
+    "title": "5 new Apple Health features you should try in iOS 27.3 - if your phone qualifies - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T18:00:48Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/discover-five-new-apple-health-ai-features-arriv.mp3",
+  "image": {
+   "src": "img/discover-five-new-apple-health-ai-features-arriv.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/health/apple-health-ios-27-3-ai-features-compatible-iphones/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Figure-Top-5-new-AI-features-in-Apples-Health-app.jpg"
+  }
+ },
+ {
+  "id": "why-your-press-page-is-rotting-and-how-to-fix-it",
+  "cat": "money",
+  "tags": [
+   "business",
+   "ai",
+   "money",
+   "negotiation",
+   "economics"
+  ],
+  "title": "Why Your Press Page Is Rotting and How to Fix It Today",
+  "snippet": "Web links decay over time, and your company press page loses value when old media mentions break. Running a yearly audit helps preserve your social proof and keeps you visible to live AI assistants.",
+  "bullets": [
+   "A quarter of the web from the last decade vanished between 2013 and 2023 [1].",
+   "Ahrefs tracked links across more than 2 million websites and found 66.5% of them had rotted [1].",
+   "Restoring an existing mention takes one email, whereas earning a new one takes weeks [1]."
+  ],
+  "report": [
+   {
+    "h": "The Hidden Decay",
+    "t": "Coverage is a depreciating asset that almost no company audits. Links die because domains disappear, sites migrate, or editors strip outbound links from older articles [1]."
+   },
+   {
+    "h": "Impact on AI and Sales",
+    "t": "Dead links destroy social proof for buyers and stop feeding live AI assistants that answer questions today [1]. A logo leading to an error page makes a worse impression than no logo at all [1]."
+   },
+   {
+    "h": "Four Simple Piles",
+    "t": "List your brand mentions and sort broken links into dead domains, dead pages on live sites, removed links, and redirects to handle each effectively [1]."
+   }
+  ],
+  "why": "If you are buying a small business or running one, protecting existing digital assets and brand mentions is a fast way to maintain valuation without extra ad spend.",
+  "tryit": "List every address where your brand appears, run the list through a broken link checker, and sort the results into piles to fix or retire dead links.",
+  "qa": [
+   [
+    "Why do web links die?",
+    "Links die because domains fold, sites migrate, or editors remove outbound links during cleanups [1]."
+   ],
+   [
+    "How many links eventually rot?",
+    "Ahrefs found that 66.5% of links tracked across more than 2 million websites eventually rotted [1]."
+   ],
+   [
+    "What should you do about a dead page on a live site?",
+    "Pull the copy from the Internet Archive's Wayback Machine, send it to the editor, and ask if it can be restored [1]."
+   ],
+   [
+    "How often should you audit your press page?",
+    "You should put a yearly reminder in the calendar to audit your press page and brand mentions [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/business-news/your-press-page-is-rotting-a-yearly-audit-is-the-only-thing-that-stops-it",
+    "status": 200,
+    "title": "Your Press Page is Rotting. A Yearly Audit Is the Only Thing That Stops It.",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T21:00:00Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/why-your-press-page-is-rotting-and-how-to-fix-it.mp3",
+  "image": {
+   "src": "img/why-your-press-page-is-rotting-and-how-to-fix-it.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/business-news/your-press-page-is-rotting-a-yearly-audit-is-the-only-thing-that-stops-it",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/press-page-audit-1126_g2227848468.jpg"
+  }
+ },
+ {
+  "id": "new-study-links-glp-1-weight-loss-drugs-to-reduc",
+  "cat": "health",
+  "tags": [
+   "health",
+   "peptides",
+   "longevity",
+   "science"
+  ],
+  "title": "New Study Links GLP-1 Weight-Loss Drugs to Reduced Alcohol Intake and Better Diets",
+  "snippet": "Adults taking popular diabetes and weight-loss medications reported cutting back on alcohol and sticking to healthier diets over nearly a year. Researchers tracked 135 adults in Spain to see how daily habits shifted during routine medical care.",
+  "bullets": [
+   "Over 44 weeks of therapy, the share of participants drinking zero to one standard unit of alcohol daily rose from 87.7 percent to 96.2 percent [1].",
+   "Adherence to dietary advice climbed from 47.7 percent at the start to 63.2 percent by week 44 [1].",
+   "Roughly 35 percent of patients received dulaglutide, 31 percent took oral semaglutide, 30 percent used injectable semaglutide, and about 4 percent took liraglutide or exenatide [1]."
+  ],
+  "report": [
+   {
+    "h": "Real-world habit shifts",
+    "t": "A study following 135 adults with obesity and type 2 diabetes in Spain tracked how lifestyle habits evolved during routine care [1]. Participants taking GLP-1 receptor agonists showed steady improvements in dietary adherence and lower self-reported alcohol consumption over 44 weeks [1]."
+   },
+   {
+    "h": "Exercise patterns differed",
+    "t": "While eating and drinking habits improved, regular physical activity followed a different path, climbing to 56.1 percent at week 12 before slipping back to 50.4 percent at week 44 [1]. That long-term change in exercise compared to the start of the study was not statistically significant [1]."
+   },
+   {
+    "h": "Brain rewards and caution",
+    "t": "Researchers suggest that metabolic drugs may influence brain regions tied to reward and appetite, though the observational design cannot prove direct cause and effect [1]. The study authors stress that healthy diets and avoiding alcohol remain essential, and these findings are exploratory signals needing controlled trials [1]."
+   }
+  ],
+  "why": "This research explores how modern metabolic peptides interact with everyday habits like alcohol and diet, offering fascinating context if you track longevity and health science.",
+  "tryit": "Talk to a GP or pharmacist to discuss your health goals and review what safe, evidence-based options exist for your personal metabolic wellness plan.",
+  "qa": [
+   [
+    "What medications were included in the study?",
+    "Patients received drugs such as dulaglutide, oral semaglutide, injectable semaglutide, liraglutide, or exenatide [1]."
+   ],
+   [
+    "How many adults participated in the research?",
+    "The study followed 135 adults with both obesity and type 2 diabetes across multiple healthcare centers in Spain [1]."
+   ],
+   [
+    "Did overall physical activity improve significantly?",
+    "No, long-term changes in regular exercise from the start of the study to week 44 were not statistically significant [1]."
+   ],
+   [
+    "What proportion of patients experienced adverse reactions?",
+    "Over the 44-week study period, 43 percent of participants experienced an adverse drug reaction, mainly digestive issues like nausea [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/glp-1-drugs-linked-to-reduced-alcohol-use-and-healthier-eating-in-real-world-study/",
+    "status": 200,
+    "title": "GLP-1 drugs linked to reduced alcohol use and healthier eating in real-world study",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T01:00:54Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/new-study-links-glp-1-weight-loss-drugs-to-reduc.mp3",
+  "image": {
+   "src": "img/new-study-links-glp-1-weight-loss-drugs-to-reduc.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/glp-1-drugs-linked-to-reduced-alcohol-use-and-healthier-eating-in-real-world-study/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/glp-1-injection.jpg"
+  }
+ },
+ {
+  "id": "neanderthal-dna-variant-linked-to-brain-size-and",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "genetics",
+   "brain",
+   "adhd",
+   "health"
+  ],
+  "title": "Neanderthal DNA Variant Linked to Brain Size and Schizophrenia Protection",
+  "snippet": "New research shows a genetic variant inherited from Neanderthals reduces occipital lobe volume while lowering schizophrenia risk. Scientists found no link between this specific variant and ADHD, autism, or intelligence.",
+  "bullets": [
+   "A genetic variant inherited from Neanderthals is associated with a slightly shrunken brain region and lower risk of schizophrenia [1].",
+   "About 20 percent of people of European descent carry at least one copy of the variant upstream of the DAAM1 gene [1].",
+   "Researchers found no link between this fragment of Neanderthal DNA and ADHD, bipolar disorder, depression, or intelligence [1]."
+  ],
+  "report": [
+   {
+    "h": "Neanderthal Heritage",
+    "t": "Tens of thousands of years ago, Homo sapiens interbred with Neanderthals, leaving traces in human DNA that affect traits like metabolism and disease risk [1]. Evolutionary geneticists Hugo Zeberg and Svante Pääbo investigated gene variants affecting the occipital lobe, which processes visual information [1]."
+   },
+   {
+    "h": "Brain Region Impact",
+    "t": "Using U.K. Biobank data, analysts found that having one copy of the variant is associated with a 0.85-cubic-centimeter reduction in occipital lobe volume [1]. Inheriting the variant from both parents doubles that shrinkage [1]."
+   },
+   {
+    "h": "Health Links",
+    "t": "Having two copies of the variant was associated with a nearly 10 percent reduction in schizophrenia risk [1]. Researchers noted no link to ADHD, autism spectrum disorder, or cognitive abilities [1]."
+   }
+  ],
+  "why": "This research explores how ancient genetics shape modern human biology, specifically confirming no direct link between this Neanderthal variant and ADHD.",
+  "tryit": "Read more about current genetic studies using open datasets like the U.K. Biobank to understand how traits are researched today [1].",
+  "qa": [
+   [
+    "What gene does the variant affect?",
+    "The variant affects the DAAM1 gene, which is linked to brain development [1]."
+   ],
+   [
+    "What percentage of people of European descent carry the variant?",
+    "About 20 percent of people of European descent carry at least one copy of the variant [1]."
+   ],
+   [
+    "Is the variant linked to ADHD?",
+    "No, researchers found no link between ADHD and this fragment of Neanderthal DNA [1]."
+   ],
+   [
+    "Who published the study?",
+    "The study was published in the Proceedings of the National Academy of Sciences [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smart-news/a-gene-variant-inherited-from-neanderthals-might-affect-modern-humans-brain-size-and-provide-protection-against-schizophrenia-180989893/",
+    "status": 200,
+    "title": "A Gene Variant Inherited From Neanderthals Might Affect Modern Humans' Brain Size and Provide Protection Against Schizophrenia",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T19:57:20Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/neanderthal-dna-variant-linked-to-brain-size-and.mp3",
+  "image": {
+   "src": "img/neanderthal-dna-variant-linked-to-brain-size-and.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smart-news/a-gene-variant-inherited-from-neanderthals-might-affect-modern-humans-brain-size-and-provide-protection-against-schizophrenia-180989893/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/_QQsg5an_7NKLV06n8_IFSIqzoM=/fit-in/1600x0/filters:focal(2561x1708:2562x1709)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/60/60/6060d5a5-c7d0-4437-862b-4783d2c40b8e/neanderthal-skulls.jpg"
+  }
+ },
+ {
+  "id": "the-hidden-expiry-date-on-smart-home-appliances",
+  "cat": "money",
+  "tags": [
+   "business",
+   "negotiation",
+   "ai",
+   "money",
+   "economics"
+  ],
+  "title": "The Hidden Expiry Date on Smart Home Appliances That Costs You",
+  "snippet": "Many smart home appliances have a hidden software expiry date. Choosing a device with short support can leave your data at risk when security updates stop.",
+  "bullets": [
+   "More than half of washing machines reviewed by Which? now offer smart features [1].",
+   "The PSTI Act of 2022 legally requires brands to publish minimum security update periods [1].",
+   "Support periods vary wildly from just one year up to 10 years or more depending on the brand [1]."
+  ],
+  "report": [
+   {
+    "h": "The Smart Appliance Trap",
+    "t": "Smart appliances offer handy features like checking washing machine cycles from your mobile phone [1]. However, these features rely on ongoing software support that eventually expires [1]."
+   },
+   {
+    "h": "Varying Brand Support",
+    "t": "Brands like BSH (Bosch, Siemens and Neff) and Miele lead with 10-year support policies for many items [1]. Meanwhile, entry-level brands like Candy, Haier and Hoover often offer much shorter support of just one to two years [1]."
+   },
+   {
+    "h": "Handling Unsupported Tech",
+    "t": "If your device loses support, you can often keep it secure by simply disabling its wi-fi or Bluetooth connection [1]. Core features will usually continue to work fine even without the smart connectivity [1]."
+   }
+  ],
+  "why": "When negotiating purchases or upgrading property features, knowing the true lifecycle of smart tech prevents unexpected replacement costs and security vulnerabilities.",
+  "tryit": "Search for your appliance brand and its PSTI software support duration on Google or use AI search to check exact end-of-support dates before buying [1].",
+  "qa": [
+   [
+    "What is the PSTI Act?",
+    "It is a 2022 law that legally requires brands to publish information on minimum security update periods [1]."
+   ],
+   [
+    "Which brands offer the longest support?",
+    "German brands like Bosch, Siemens, Neff (BSH) and Miele offer up to 10 years of security update support on key items [1]."
+   ],
+   [
+    "What happens when an appliance loses support?",
+    "It stops receiving firmware updates and security patches, though core mechanical features usually continue to work [1]."
+   ],
+   [
+    "Can I keep an unsupported appliance safe?",
+    "Yes, you can disable its wi-fi or internet connection where possible if you no longer need the smart features [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/the-costly-mistake-to-avoid-when-buying-a-home-appliance-aYIQI5B7mMMj",
+    "status": 200,
+    "title": "The costly mistake you need to avoid when buying a home appliance - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T00:01:00Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/the-hidden-expiry-date-on-smart-home-appliances.mp3",
+  "image": {
+   "src": "img/the-hidden-expiry-date-on-smart-home-appliances.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/the-costly-mistake-to-avoid-when-buying-a-home-appliance-aYIQI5B7mMMj",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/6cfa3634c389-smart-kitchen.jpg"
+  }
+ },
+ {
+  "id": "new-study-links-heavy-cannabis-use-to-mild-psych",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "health",
+   "mind",
+   "science"
+  ],
+  "title": "New Study Links Heavy Cannabis Use to Mild Psychotic Symptoms",
+  "snippet": "A recent study of psychiatric patients shows that heavy cannabis consumption is linked to higher rates of mild hallucinations, unusual thoughts, and depressive symptoms [1]. Starting cannabis at a younger age also correlates with an increase in these subclinical experiences [1].",
+  "bullets": [
+   "Heavy cannabis users consumed an average of 2.8 grams daily, while occasional users consumed 3.2 grams over a month [1].",
+   "Individuals who began using cannabis before the age of 16.4 years showed elevated symptom scores compared to those who started later [1].",
+   "The study recruited 150 adults between the ages of 18 and 40 from psychiatric clinics in Italy [1]."
+  ],
+  "report": [
+   {
+    "h": "Study Design and Groups",
+    "t": "Researchers divided 150 adults from Italian psychiatric clinics into heavy users, occasional users, and a control group of non-users [1]. Urine toxicology screenings were used to verify self-reported drug habits [1]."
+   },
+   {
+    "h": "Key Findings on Symptoms",
+    "t": "Heavy users reported substantially higher scores for positive symptoms, such as feeling detached from the body, and elevated levels of depressive symptoms [1]. Negative symptoms like a lack of motivation remained consistent across all groups [1]."
+   },
+   {
+    "h": "Potential Mechanisms",
+    "t": "Early introduction of cannabinoids during adolescent brain development might alter neurological development [1]. Additionally, combining cannabis with daily tobacco smoking was linked to higher positive symptom scores [1]."
+   }
+  ],
+  "why": "Understanding how different substances interact with mental health and brain development helps you make informed choices about well-being and daily focus.",
+  "tryit": "Review your wellness habits honestly and speak with a healthcare professional or GP if you have any concerns about mood, focus, or substance use.",
+  "qa": [
+   [
+    "What were the main groups studied?",
+    "The study included 43 heavy users, 47 occasional users, and 60 non-users [1]."
+   ],
+   [
+    "Did the study prove cause and effect?",
+    "No, the observational design prevents establishing cause and effect, and self-medication remains a possible alternative explanation [1]."
+   ],
+   [
+    "What role did tobacco play?",
+    "Heavy cannabis users who also smoked tobacco daily reported higher positive symptom scores than those who used tobacco less frequently [1]."
+   ],
+   [
+    "What age threshold was noted for early use?",
+    "Individuals who began using cannabis before 16.4 years of age showed elevated symptom scores [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/heavy-cannabis-use-linked-to-mild-psychotic-symptoms-and-depressive-thoughts/",
+    "status": 200,
+    "title": "Heavy cannabis use linked to mild psychotic symptoms and depressive thoughts",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T23:00:54Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/new-study-links-heavy-cannabis-use-to-mild-psych.mp3",
+  "image": {
+   "src": "img/new-study-links-heavy-cannabis-use-to-mild-psych.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/heavy-cannabis-use-linked-to-mild-psychotic-symptoms-and-depressive-thoughts/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2025/03/lighting-cannabis-marijuana-joint.jpg"
+  }
+ },
+ {
+  "id": "smithsonian-exhibition-reveals-the-complex-histo",
+  "cat": "health",
+  "tags": [
+   "health",
+   "science",
+   "history"
+  ],
+  "title": "Smithsonian Exhibition Reveals the Complex History of American Medical Innovations",
+  "snippet": "A new Smithsonian exhibition explores centuries of medical breakthroughs alongside the disparities and challenges that have shaped health care access in America.",
+  "bullets": [
+   "The Smithsonian exhibition titled First Do No Harm features items such as Sandra Lindsay's unpolished nursing shoes and Jonas Salk's polio vaccine syringe [1].",
+   "The display highlights medical milestones including Alexander Fleming's penicillin mold sample and the first total artificial heart implanted in 1969 [1].",
+   "It also examines persistent healthcare disparities, noting that in 2023, 90.1 percent of tuberculosis cases in the U.S. occurred among racial and ethnic minorities [1]."
+  ],
+  "report": [
+   {
+    "h": "Milestones on Display",
+    "t": "The new exhibition at the Smithsonian's National Museum of American History spans centuries of medical progress [1]. Visitors can view historical artifacts ranging from early medical tools to a prototype CT scanner developed in the 1960s [1]."
+   },
+   {
+    "h": "Addressing Healthcare Disparities",
+    "t": "Alongside remarkable breakthroughs, the exhibition explores how medical advancements have often bypassed marginalized populations [1]. It examines historical data showing lower vaccination coverage in rural areas and the ongoing impact of diseases like tuberculosis [1]."
+   },
+   {
+    "h": "Personal and Global Impacts",
+    "t": "The displays connect personal narratives, such as those of Reverend Steve Pieters, to broader public health crises [1]. It also touches on environmental challenges, noting that the U.S. health care sector generates 6.5 million tons of waste each year [1]."
+   }
+  ],
+  "why": "Understanding the history of medical breakthroughs and healthcare access helps provide context for modern public health policies and personal wellness choices in the U.S. and UK.",
+  "tryit": "Visit the Smithsonian National Museum of American History website to explore digital resources and online galleries related to the First Do No Harm exhibition.",
+  "qa": [
+   [
+    "Where is the First Do No Harm exhibition located?",
+    "It is on view at the Smithsonian's National Museum of American History [1]."
+   ],
+   [
+    "Who received the first authorized Covid-19 vaccine outside of clinical trials in the U.S.?",
+    "Sandra Lindsay made history as the first person to receive it in December 2020 [1]."
+   ],
+   [
+    "What medical milestone did physicist Allan M. Cormack contribute to?",
+    "He developed a 1960s prototype CT scanner that garnered him a Nobel Prize in 1979 [1]."
+   ],
+   [
+    "How much waste does the U.S. health care sector generate annually?",
+    "It generates 6.5 million tons of waste each year, with plastics making up about 28 percent of that total [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smithsonian-institution/from-penicillin-to-the-polio-vaccine-a-new-exhibition-reveals-how-far-weve-come-with-lifesaving-medical-innovations-and-how-much-further-we-have-to-go-180989892/",
+    "status": 200,
+    "title": "From Penicillin to the Polio Vaccine, a New Exhibition Reveals How Far We’ve Come With Lifesaving Medical Innovations—and How Much Further We Have to Go",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T18:45:41Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/smithsonian-exhibition-reveals-the-complex-histo.mp3",
+  "image": {
+   "src": "img/smithsonian-exhibition-reveals-the-complex-histo.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smithsonian-institution/from-penicillin-to-the-polio-vaccine-a-new-exhibition-reveals-how-far-weve-come-with-lifesaving-medical-innovations-and-how-much-further-we-have-to-go-180989892/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/ti0fI90so4oMrTXGmRQeM7nlnc8=/fit-in/1600x0/filters:focal(1023x633:1024x634)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/52/28/5228e258-957d-4324-82e5-e10b6370f3bd/screenshot_2026-11-18_at_115641am.png"
+  }
+ },
+ {
+  "id": "classic-retro-toys-and-games-are-making-a-massiv",
+  "cat": "news",
+  "tags": [
+   "toys",
+   "games",
+   "nostalgia",
+   "shopping",
+   "gifts"
+  ],
+  "title": "Classic retro toys and games are making a massive comeback today",
+  "snippet": "Classic retro toys are making a major comeback as shoppers swap screens for nostalgic games. Search data shows rising interest in traditional toys like Meccano, Lego and Pokémon cards [1].",
+  "bullets": [
+   "Online searches for Pokémon cards have grown by 50% in the past year [1].",
+   "Meccano construction sets saw a 10% increase in online searches in 2026 compared with the previous year [1].",
+   "A recent consumer survey found that almost half of adults who collect or play with children's toys are motivated by nostalgia [1]."
+  ],
+  "report": [
+   {
+    "h": "The Retro Toy Revival",
+    "t": "Classic toys are experiencing a major resurgence as a refreshing alternative to smartphones and tablets [1]. Major retailers and search data show strong demand for items that encourage problem-solving, patience and creativity [1]."
+   },
+   {
+    "h": "Top Performing Items",
+    "t": "Pokemon cards have seen a 50% surge in searches over the past year [1]. Meanwhile, online searches for Lego grew by 20% compared to the previous year [1]."
+   },
+   {
+    "h": "The Power of Nostalgia",
+    "t": "Nearly half of adults who buy or play with children's toys are driven by positive childhood memories [1]. Retailers note that familiar games offer a great way for families to spend time together away from screens [1]."
+   }
+  ],
+  "why": "It is a fascinating look at how classic toys offer a grounding, screen-free break that helps spark creativity and focus.",
+  "tryit": "Explore local toy shops or online retailers to check out retro board games or construction sets for a fun, screen-free weekend project.",
+  "qa": [
+   [
+    "Which retro toy saw a 50% increase in online searches?",
+    "Pokemon cards saw a 50% surge in online searches over the past year [1]."
+   ],
+   [
+    "What percentage of adults are motivated by nostalgia when buying toys?",
+    "Almost half (49%) of adults who collect or play with children's toys are motivated by nostalgia [1]."
+   ],
+   [
+    "How much did Meccano searches increase?",
+    "Meccano construction sets saw a 10% increase in online searches compared with the previous year [1]."
+   ],
+   [
+    "When did the Rubik's Cube launch?",
+    "The classic Rubik's Cube launched in 1980 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/nostalgic-toys-that-grandkids-will-love-and-you-might-remember-aXTc92J28Rq2",
+    "status": 200,
+    "title": "10 nostalgic toys that grandkids will love (and you might remember) - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T15:12:22Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/classic-retro-toys-and-games-are-making-a-massiv.mp3",
+  "image": {
+   "src": "img/classic-retro-toys-and-games-are-making-a-massiv.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/nostalgic-toys-that-grandkids-will-love-and-you-might-remember-aXTc92J28Rq2",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/d4671420c0be-older-person-playing-lego-with-a-child-1.jpg"
+  }
+ },
+ {
+  "id": "louis-vuitton-turns-keith-haring-art-into-a-new",
+  "cat": "health",
+  "tags": [
+   "health",
+   "travel",
+   "money"
+  ],
+  "title": "Louis Vuitton turns Keith Haring art into a new luxury travel capsule",
+  "snippet": "Louis Vuitton is launching a new collection featuring the art of gay icon Keith Haring. The range includes travel pieces like the Keepall and Horizon suitcase, as well as passport holders and mini trunks.",
+  "bullets": [
+   "In 1984, Keith Haring hand-painted a 1930s Louis Vuitton suitcase with his Radiant Baby motif [1].",
+   "The new Cruise 2027 collection features travel bags drawing on Haring's 1989 Unfinished Painting [1].",
+   "Smaller accessories in the range include pochettes, wallets, and passport holders [1]."
+  ],
+  "report": [
+   {
+    "h": "Art and travel",
+    "t": "Louis Vuitton has taken inspiration from Keith Haring to create a new capsule collection for collectors [1]. The pieces bring the gay art icon's bold linework to luxury travel gear [1]."
+   },
+   {
+    "h": "Design details",
+    "t": "The collection uses cues from Haring's 1989 Unfinished Painting alongside Louis Vuitton's signature Monogram [1]. Scaled-down mini crossbody trunks recreate the look of the suitcase Haring painted in 1984 [1]."
+   },
+   {
+    "h": "Everyday items",
+    "t": "Pochettes, wallets, and passport holders bring the playful linework to items used every day [1]. The items join past artist collaborations that collectors hunt down on the resale market [1]."
+   }
+  ],
+  "why": "This connects to your interest in men's aesthetics, travel accessories, and design pieces that hold their value on the resale market.",
+  "tryit": "Visit louisvuitton.com to discover the collection and explore the passport holders and travel pieces [1].",
+  "qa": [
+   [
+    "Who is the artist featured in the collection?",
+    "Pop art pioneer and gay art icon Keith Haring [1]."
+   ],
+   [
+    "What specific artwork inspired the travel pieces?",
+    "Unfinished Painting, a deliberately incomplete work Haring made in 1989 [1]."
+   ],
+   [
+    "What travel bags are included in the range?",
+    "The Horizon suitcase and the signature Keepall [1]."
+   ],
+   [
+    "Where can the collection be discovered?",
+    "At louisvuitton.com [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.attitude.co.uk/style/louis-vuitton-keith-haring-collection-2026-540073/",
+    "status": 200,
+    "title": "Louis Vuitton gives fans of gay art icon Keith Haring a new way to collect his work",
+    "domain": "attitude.co.uk"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T12:59:32Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/louis-vuitton-turns-keith-haring-art-into-a-new.mp3",
+  "image": {
+   "src": "img/louis-vuitton-turns-keith-haring-art-into-a-new.jpg",
+   "credit": "Attitude",
+   "license": "© Attitude, shown with credit",
+   "page": "https://www.attitude.co.uk/style/louis-vuitton-keith-haring-collection-2026-540073/",
+   "from_url": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2026/11/LOUIS-VUITTON-THE-KEITH-HARING-COLLECTION-DIGITAL-CAMPAIGN-STILL-LIFE-2-2.webp"
+  }
+ },
+ {
+  "id": "does-personality-shape-family-size-across-differ",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "personality",
+   "family",
+   "science",
+   "research"
+  ],
+  "title": "Does Personality Shape Family Size Across Different Cultures?",
+  "snippet": "A new cross-cultural survey of over 15,000 adults across Canada, the United States, and Japan explores how the Big Five personality traits relate to the number of biological children people have. While basic demographics matter most, traits like extraversion and neuroticism show small but noticeable links to family size [1].",
+  "bullets": [
+   "A study of 15,120 adults across Canada, the United States, and Japan examined how personality relates to biological family size [1].",
+   "Basic demographics such as being married, older, and female accounted for about 21 percent of the variation in childbearing [1].",
+   "Participants scoring higher on extraversion and agreeableness tended to have slightly more children, while those higher on neuroticism had slightly fewer [1]."
+  ],
+  "report": [
+   {
+    "h": "The Cross-Cultural Study",
+    "t": "Researchers compared adults across three industrialized nations to see if personality traits predict the number of biological children a person has [1]. The final sample included 5,040 respondents in each country, divided equally by sex and age brackets [1]."
+   },
+   {
+    "h": "Demographics Over Personality",
+    "t": "Basic demographic traits like age, sex, and marital status accounted for about 21 percent of the variation in family size [1]. Adding personality traits did not increase this total explained variation, showing that demographics play the primary role [1]."
+   },
+   {
+    "h": "Global Differences",
+    "t": "Respondents in the United States and Canada reported more children on average than those in Japan [1]. The links between personality and childbearing also varied depending on which country a person lived in [1]."
+   }
+  ],
+  "why": "Understanding how human traits interact with culture and life outcomes offers fascinating insights into behavioral psychology and family patterns [1].",
+  "tryit": "Explore the Big Five personality model by taking a free online inventory to reflect on your own traits, such as extraversion and openness [1].",
+  "qa": [
+   [
+    "How many people participated in the study?",
+    "The final sample totaled 15,120 registered adult users aged 20 or older across three countries [1]."
+   ],
+   [
+    "Which personality traits were linked to having more children?",
+    "Participants who scored higher on extraversion and agreeableness tended to have slightly more biological children [1]."
+   ],
+   [
+    "Did personality outweigh demographics in predicting family size?",
+    "No, demographic realities like marriage, age, and country of residence heavily dwarfed personality in explaining who had children [1]."
+   ],
+   [
+    "Which country had the lowest birth rate estimates in the context?",
+    "Japan showed a lower estimated birth rate of 6.9 births per 1,000 people compared to the US and Canada [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/does-personality-predict-family-size-a-15000-person-study-across-three-countries-weighs-in/",
+    "status": 200,
+    "title": "Does personality predict family size? A 15,000-person study across three countries weighs in",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T21:00:52Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/does-personality-shape-family-size-across-differ.mp3",
+  "image": {
+   "src": "img/does-personality-shape-family-size-across-differ.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/does-personality-predict-family-size-a-15000-person-study-across-three-countries-weighs-in/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/parents-children-family.jpg"
+  }
+ },
+ {
+  "id": "apple-s-new-homeview-breaks-easily-during-teardo",
+  "cat": "news",
+  "tags": [
+   "news",
+   "business",
+   "science"
+  ],
+  "title": "Apple’s New HomeView Breaks Easily During Teardowns But Worry Is Unnecessary",
+  "snippet": "The new Apple HomeView smart display broke apart when iFixit tried to access its components. However, smart displays face fewer environmental risks than mobile phones and do not need batteries replaced.",
+  "bullets": [
+   "The HomeView is held together by stubborn adhesive and snapped a speaker in half during iFixit tests [1].",
+   "Smart displays stay stationary in the home and do not face the same risks as phones and laptops [1].",
+   "An out-of-warranty repair for the HomeView typically costs as much as the $299 smart display itself [1]."
+  ],
+  "report": [
+   {
+    "h": "Tough Adhesives Used",
+    "t": "The HomeView smart display uses the toughest adhesive iFixit has ever encountered in an Apple product [1]. The glue caused a speaker to snap in half and bound the logic board tightly to the chassis [1]."
+   },
+   {
+    "h": "Why Repairs Differ",
+    "t": "Smart displays do not share the same DIY repair needs as phones because they lack replaceable batteries [1]. Furthermore, no aftermarket alternatives exist for the custom 7-inch display [1]."
+   },
+   {
+    "h": "Lower Environmental Risks",
+    "t": "Unlike pocket phones exposed to dust, heat, and drops, the HomeView remains stationary at home [1]. This significantly reduces everyday wear and tear and the need for frequent repairs [1]."
+   }
+  ],
+  "why": "This article offers a reassuring look at tech durability, showing that repair concerns do not apply equally to every device.",
+  "tryit": "Check out the full iFixit report online to see how different smart devices are constructed before making a purchase [1].",
+  "qa": [
+   [
+    "How much does the HomeView cost?",
+    "The smart display costs $299 [1]."
+   ],
+   [
+    "Why is the HomeView difficult to repair?",
+    "It uses extremely tough adhesive and the logic board is bound tightly to the aluminum chassis [1]."
+   ],
+   [
+    "Do smart displays need battery replacements?",
+    "No, smart displays do not have batteries to replace like phones or MacBooks [1]."
+   ],
+   [
+    "What is a bigger concern than repair difficulty?",
+    "The compact 7-inch screen feels cramped for watching video compared to larger Amazon Echo Show displays [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cnet.com/tech/ifixit-apple-homeview-breaks-easily/",
+    "status": 200,
+    "title": "iFixit Says Apple’s HomeView Breaks Easily. Here’s Why I’m Not Worried - CNET",
+    "domain": "cnet.com"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T09:22:07Z",
+  "addedAt": "2026-11-19T10:41:52Z",
+  "audio": "audio/apple-s-new-homeview-breaks-easily-during-teardo.mp3",
+  "image": {
+   "src": "img/apple-s-new-homeview-breaks-easily-during-teardo.jpg",
+   "credit": "CNET",
+   "license": "© CNET, shown with credit",
+   "page": "https://www.cnet.com/tech/ifixit-apple-homeview-breaks-easily/",
+   "from_url": "https://www.cnet.com/wp-content/uploads/sites/2/IFixit-HomeView-Components.jpg"
+  }
+ },
+ {
   "id": "discover-the-top-us-cities-for-a-warm-and-afford",
   "cat": "travel",
   "tags": [
@@ -18598,77 +19930,6 @@
    "license": "© Good News Network, shown with credit",
    "page": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/",
    "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-David-Kinchin-Smith-RSPB.jpg"
-  }
- },
- {
-  "id": "historical-milestones-lessons-in-self-directed-l",
-  "cat": "news",
-  "tags": [
-   "history",
-   "learning",
-   "property",
-   "rights",
-   "mindset"
-  ],
-  "title": "Historical Milestones: Lessons in Self-Directed Learning and Property Rights",
-  "snippet": "Discover historical moments that highlight the power of self-directed learning, property rights, and inclusive philosophies. These stories offer timeless examples of resilience and intellectual ambition.",
-  "bullets": [
-   "Anna Maria van Schurman became the first woman to attend a Dutch university in 1636, eventually mastering 14 languages [1].",
-   "In 1917, the US Supreme Court ruled in Buchanan v. Warley that city ordinances restricting property sales based on race were unconstitutional [1].",
-   "Guru Nanak, born 557 years ago, founded a philosophy centered on equality, service, and meditation [1]."
-  ],
-  "report": [
-   {
-    "h": "The Power of Self-Learning",
-    "t": "Anna Maria van Schurman was a polymath who taught herself complex skills, including a unique wax sculpting technique, because nobody else could teach her [1]. By her mid-30s, she was fluent in 14 languages and became the first female student at a Dutch university in 1636 [1]."
-   },
-   {
-    "h": "Property Rights Precedent",
-    "t": "In 1917, the US Supreme Court unanimously ruled in Buchanan v. Warley that city ordinances prohibiting the sale of property to individuals based on race were unconstitutional [1]. The Court determined that such laws destroyed the individual right to acquire, enjoy, and dispose of property [1]."
-   },
-   {
-    "h": "Philosophy of Equality",
-    "t": "Guru Nanak, born 557 years ago, established a philosophy that denounced discrimination and ritualism [1]. His teachings emphasized that there is one human race and focused on virtues like humility, service, and meditation [1]."
-   }
-  ],
-  "why": "These stories highlight the value of self-directed learning and the importance of understanding legal frameworks regarding property and rights, which can be empowering for your business and personal growth.",
-  "tryit": "Pick one new skill or language you have been meaning to learn and dedicate just 30 minutes to it this week, using the same self-driven curiosity that defined historical polymaths like van Schurman.",
-  "qa": [
-   [
-    "Who was the first woman to attend a Dutch university?",
-    "Anna Maria van Schurman was the first woman to attend a Dutch university in 1636 [1]."
-   ],
-   [
-    "What did the 1917 Buchanan v. Warley ruling decide?",
-    "The Supreme Court ruled that city ordinances prohibiting the sale of property to black individuals in white-majority neighborhoods violated the Fourteenth Amendment [1]."
-   ],
-   [
-    "How many languages did Anna Maria van Schurman speak?",
-    "By her mid-30s, she was fluent in 14 languages [1]."
-   ],
-   [
-    "What is the core philosophy of Sikhism?",
-    "It centers on the belief in one God for all of creation, equality, service, humility, and meditation [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/events061105/",
-    "status": 200,
-    "title": "Good News in History, November 5 - Good News Network",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-11-05",
-  "publishedAt": "2026-11-05T08:00:00Z",
-  "addedAt": "2026-11-05T12:25:55Z",
-  "audio": "audio/historical-milestones-lessons-in-self-directed-l.mp3",
-  "image": {
-   "src": "img/historical-milestones-lessons-in-self-directed-l.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/events061105/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/The-State-Opera-Vienna-from-the-rear-credit-Markus-Leupold-Lowenthal-CC-3.0.jpg"
   }
  },
  {
