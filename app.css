@@ -1,6 +1,7 @@
 :root{--bg:#000;--card:#1C1C1E;--card2:#2C2C2E;--txt:#fff;--body:#C8C8CC;--mut:#8E8E93;--lbl:#8AB4F8;--acc:#20B8CD;--line:#232325;
 --safe-t:env(safe-area-inset-top,0px);--safe-b:env(safe-area-inset-bottom,0px)}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html{overflow-anchor:none}
 html,body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.5 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%}
 body.lock{overflow:hidden}
 button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer}
@@ -220,3 +221,7 @@ ul.bul li::marker{color:var(--mut)}
 
 /* v13: quiet, explicit unseen count in every tab. */
 .unseenCount{font-size:.72em;font-variant-numeric:tabular-nums;opacity:.65;margin-left:.3em}
+
+/* v14: new-stories pill shown after a quiet refresh (feed is never rebuilt under the reader) */
+#newPill{position:fixed;left:50%;top:calc(112px + var(--safe-t));transform:translateX(-50%);z-index:30;border:0;border-radius:20px;padding:9px 16px;background:var(--acc);color:#001318;font:700 14px/1.2 inherit;box-shadow:0 6px 20px #0008;cursor:pointer}
+#newPill[hidden]{display:none}

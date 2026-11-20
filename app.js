@@ -2,7 +2,8 @@
 // Do not let an obsolete page continue an offline pack after navigation (notably WebKit).
 let activePage=true;
 addEventListener("pagehide",()=>{activePage=false;});
-addEventListener("pageshow",e=>{if(e.persisted){activePage=true;refresh(false);}});
+let pagehideAt=0;addEventListener("pagehide",()=>{pagehideAt=Date.now();});
+addEventListener("pageshow",e=>{if(e.persisted){activePage=true;comeBack(pagehideAt?Date.now()-pagehideAt:Infinity);}});
 const CATS={all:"For You",news:"News",money:"Money & Deals",health:"Health",adhd:"ADHD Edge",mind:"Mind",ai:"AI",travel:"Travel & Borders",english:"English",whoa:"Whoa",laugh:"Laugh",calm:"Calm"};
 const CATLBL={news:"News",money:"Money & Deals",health:"Health",adhd:"ADHD Edge",mind:"Mind",ai:"AI",travel:"Travel & Borders",english:"English",whoa:"Whoa fact",laugh:"Laugh",calm:"Calm"};
 const $=s=>document.querySelector(s), esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -159,7 +160,7 @@ function endCard(){if($("#feed .endCard"))return;const n=SEENQ.length;$("#feed")
 function endNote(t){if(t&&!$(".endnote.q"))$("#feed").insertAdjacentHTML("beforeend",`<div class="endnote q">${t}</div>`);}
 function openSeen(btn){btn.setAttribute("aria-expanded","true");btn.classList.add("open");btn.disabled=true;btn.insertAdjacentHTML("afterend",`<div class="secH seenH">Seen</div>`);queue=SEENQ;SEENQ=[];logEv("seenOpen",null);loadMore(6);}
 document.addEventListener("click",e=>{const b=e.target.closest(".seenT");if(b&&!b.disabled)openSeen(b);});
-function resetFeed(){stopSpeak();io.disconnect();Object.keys(imp).forEach(id=>clearTimeout(imp[id]));Object.keys(vis).forEach(id=>delete vis[id]);round=0;SEENQ=[];counts();renderTabs();$("#feed").innerHTML=!query?todayHead():"";shown.clear();rebuild();loadMore(6);scrollTo(0,0);}
+function resetFeed(){stopSpeak();io.disconnect();Object.keys(imp).forEach(id=>clearTimeout(imp[id]));Object.keys(vis).forEach(id=>delete vis[id]);round=0;SEENQ=[];cancelAnchor();releaseFeedHeight(true);hideNewPill();counts();renderTabs();$("#feed").innerHTML=!query?todayHead():"";shown.clear();rebuild();loadMore(6);scrollTo(0,0);}
 /* dwell tracking */
 const vis={},imp={};
 const io=new IntersectionObserver(es=>{es.forEach(e=>{const id=e.target.dataset.id;if(e.target.classList.contains("open"))return;if(e.intersectionRatio>=.6){vis[id]=performance.now();clearTimeout(imp[id]);imp[id]=setTimeout(()=>{if(vis[id]&&!document.hidden)markSeen(id,"view")},1500)}else if(vis[id]){clearTimeout(imp[id]);commitDwell(id,performance.now()-vis[id]);delete vis[id]}})},{threshold:[0,.6]});
@@ -192,7 +193,7 @@ $("#feed").addEventListener("click",e=>{
  if(e.target.closest(".relQ")){openSheet(s,e.target.closest(".relQ").dataset.q);return;}
  if(e.target.closest(".askOpen")){openSheet(s);return;}
  if(e.target.closest(".less")){collapse(card,true);return;}
- if(e.target.closest("[data-tog]")){card.classList.contains("open")?collapse(card,true):expand(card,s);}
+ const tog=e.target.closest("[data-tog]");if(tog){card.classList.contains("open")?collapse(card,true,false,tog):expand(card,s,tog);}
 });
 function toast(t){const el=$("#toast");el.textContent=t;el.hidden=false;clearTimeout(toast.t);toast.t=setTimeout(()=>el.hidden=true,2400);}
 function react(s,v){
@@ -346,19 +347,39 @@ function animH(el,to,done){const from=el.getBoundingClientRect().height;el.style
  void el.offsetHeight;el.style.height=target+"px";let fin=false;const end=()=>{if(fin)return;fin=true;el.removeEventListener("transitionend",onT);if(to==="auto")el.style.height="auto";done&&done();};
  const onT=e=>{if(e.target===el&&e.propertyName==="height")end()};el.addEventListener("transitionend",onT);setTimeout(end,600);}
 const openAt=new WeakMap();
-function expand(card,s){
- document.querySelectorAll(".card.open").forEach(c=>{if(c!==card){const above=c.getBoundingClientRect().top<card.getBoundingClientRect().top;const h0=c.offsetHeight;collapse(c,false,true);if(above)scrollBy(0,c.offsetHeight-h0);}});
+/* v14 tap anchoring: whatever the finger tapped stays exactly where it was on screen.
+ * One mechanism for every engine (native scroll anchoring is off in CSS; iOS Safari and Chrome disagree on it):
+ * measure the anchor, change layout, scroll by the difference, and keep correcting for the length of the
+ * height animation. A new touch/wheel cancels the correction so it never fights the user's own scrolling. */
+let anchorJob=0;
+const cancelAnchor=()=>{anchorJob++;};
+["touchstart","wheel","keydown"].forEach(t=>addEventListener(t,cancelAnchor,{passive:true,capture:true}));
+function holdFeedHeight(){const f=$("#feed");f.style.minHeight=f.offsetHeight+"px";} // stop a collapse from shrinking the page under the finger (scroll clamping)
+function releaseFeedHeight(force){const f=$("#feed");if(!f.style.minHeight)return;const last=f.lastElementChild;
+ if(force||!last||last.getBoundingClientRect().bottom>=innerHeight)f.style.minHeight="";}
+addEventListener("scroll",()=>releaseFeedHeight(false),{passive:true});
+function keepAnchor(el,ms=700){if(!el)return()=>{};const y0=el.getBoundingClientRect().top,job=++anchorJob,t0=performance.now();let expectY=scrollY;
+ const fix=force=>{if(job!==anchorJob||!el.isConnected)return;
+  if(force!==true&&Math.abs(scrollY-expectY)>1){cancelAnchor();return;} // someone else scrolled (user, jumpTo, tab change): stop correcting
+  const d=el.getBoundingClientRect().top-y0;if(Math.abs(d)>=.5)scrollBy(0,d);expectY=scrollY;};
+ const loop=()=>{fix();if(job===anchorJob&&performance.now()-t0<ms)requestAnimationFrame(loop);};
+ requestAnimationFrame(loop);return ()=>fix(true);}
+function expand(card,s,anchor){
+ const others=[...document.querySelectorAll(".card.open")].filter(c=>c!==card);
+ const fix=keepAnchor(anchor||card);if(others.length)holdFeedHeight();
+ others.forEach(c=>collapse(c,false,true));fix();
  const w=card.querySelector(".xwrap");if(!w.firstChild)w.innerHTML=expHTML(s);
  card.classList.add("open");w.setAttribute("aria-hidden","false");openAt.set(card,performance.now());
  animH(w,"auto");st.opened[s.id]=(st.opened[s.id]||0)+1;markSeen(s.id,"open");learn(s,.5,"expand");logEv("open",s.id);
  history.replaceState(null,"","#"+s.id);
 }
-function collapse(card,keepInView,instant){
+function collapse(card,keepInView,instant,anchor){
  const s=byId[card.dataset.id];const w=card.querySelector(".xwrap");if(!card.classList.contains("open"))return;
  const t=openAt.get(card);if(t&&s){const secs=(performance.now()-t)/1000;if(secs>4)learn(s,Math.min(secs/30,1.2),"read "+Math.round(secs)+"s");st.dwell[s.id]=(st.dwell[s.id]||0)+Math.round(secs);save();}
  card.classList.remove("open");w.setAttribute("aria-hidden","true");
+ const fix=anchor?keepAnchor(anchor):null;if(fix)holdFeedHeight();
  if(instant){w.style.height="0px";}else animH(w,0);
- if(keepInView){const top=card.getBoundingClientRect().top;if(top<0)scrollBy({top:top-($("#top").offsetHeight+8),behavior:reduce?"auto":"smooth"});}
+ if(fix)fix();else if(keepInView){const top=card.getBoundingClientRect().top;if(top<0)scrollBy({top:top-($("#top").offsetHeight+8),behavior:reduce?"auto":"smooth"});}
  if(location.hash)history.replaceState(null,"",location.pathname+location.search);rebuild();
 }
 function toggleReport(card,s){const b=card.querySelector(".repT"),r=card.querySelector(".rwrap"),w=card.querySelector(".xwrap");
@@ -465,7 +486,7 @@ async function askLive(s,q){
  learn(s,.6,"ask");logEv("ask",s.id,{q,conf:"live"});}
 function jumpTo(s){let c=$(`.card[data-id="${s.id}"]`);if(!c){const f=$("#feed");const cur=[...f.querySelectorAll(".card")].find(x=>x.getBoundingClientRect().bottom>0);
   const html=cardHTML(s,1);if(cur)cur.insertAdjacentHTML("afterend",html);else f.insertAdjacentHTML("afterbegin",html);shown.add(s.id);observeCard(s.id);c=$(`.card[data-id="${s.id}"]`);}
- expand(c,s);setTimeout(()=>{scrollBy({top:c.getBoundingClientRect().top-($("#top").offsetHeight+8),behavior:reduce?"auto":"smooth"})},60);}
+ expand(c,s);setTimeout(()=>{cancelAnchor();scrollBy({top:c.getBoundingClientRect().top-($("#top").offsetHeight+8),behavior:reduce?"auto":"smooth"})},60);}
 function closeSheet(silent){const sh=$("#sheet");if(sh.hidden)return;sh.hidden=true;document.body.classList.remove("lock");if(!silent&&history.state&&history.state.sheet){skipPop=true;history.back();}}
 /* ---------- wellbeing nudge ---------- */
 let active=0,lastTick=Date.now();
@@ -474,7 +495,7 @@ setInterval(()=>{const now=Date.now();if(!document.hidden&&now-lastAct<60000)act
 let lastAct=Date.now(),nudged=false;["scroll","touchstart","click","keydown"].forEach(ev=>addEventListener(ev,()=>lastAct=Date.now(),{passive:true}));
 function showNudge(){const n=$("#nudge");n.innerHTML=`<div class="box"><div class="orb"></div><h3>You've been here 15 min</h3><p>Take a breath? Breathe in as the circle grows, out as it shrinks.</p><div class="btns"><button class="btn" id="nKeep">Keep going</button><button class="btn pri" id="nDone">I'm good, close</button></div><p style="margin:14px 0 0;font-size:12px"><button id="nOff" style="color:var(--mut);text-decoration:underline">Don't remind me</button></p></div>`;
  n.hidden=false;$("#nKeep").onclick=()=>{n.hidden=true;active=0;nudged=false};$("#nDone").onclick=()=>{n.hidden=true;active=0;nudged=false;toast("Nice. See you later 👋")};$("#nOff").onclick=()=>{st.nudgeOff=true;save();n.hidden=true};logEv("nudge",null);}
-window.__feed={lib:LIB,refresh,isNew:id=>isNew(byId[id]),prevVisit:PREV_VISIT,handoffPrompt:(id,q)=>handoffPrompt(byId[id],q),stories:()=>STORIES,st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,audio:AU,speaking:()=>speaking,chunkText,speechText:id=>speechText(byId[id])};
+window.__feed={lib:LIB,refresh,comeBack,isNew:id=>isNew(byId[id]),prevVisit:PREV_VISIT,handoffPrompt:(id,q)=>handoffPrompt(byId[id],q),stories:()=>STORIES,st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,audio:AU,speaking:()=>speaking,chunkText,speechText:id=>speechText(byId[id])};
 /* ---------- boot ---------- */
 function setData(list){list.filter(isSeen).forEach(x=>{st.seenKeys[eventKey(x)]=st.seenAt[x.id]||Date.now();sessionKeys.add(eventKey(x));});save();list.forEach(x=>{if(st.react[x.id]===1&&!LIB.liked[x.id])LIB.liked[x.id]={s:libCopy(x),t:Date.now()}});saveLib();STORIES=dedupe(prune(list));byId={};STORIES.forEach(x=>byId[x.id]=x);DF=null;NEWEST=Math.max(0,...STORIES.map(tAdded));updStamp();}
 function updStamp(){const el=$("#upd");if(el)el.textContent=NEWEST?"Updated "+ago(NEWEST):"";}
@@ -484,6 +505,21 @@ async function getStories(fresh){let r;
  catch(e){r=await caches.match("data/stories.json",{ignoreSearch:true});}
  return r.json();}
 let refreshing=false;
+/* v14: coming back to the app (after opening a source, sharing, switching apps) must not rebuild the feed under him.
+ * A short trip away, or a story left open, keeps every card where it is; new stories wait behind a "new stories" pill. */
+const KEEP_MS=30*60e3;
+function hideNewPill(){const n=$("#newPill");if(n)n.hidden=true;}
+function showNewPill(k){let n=$("#newPill");if(!n){document.body.insertAdjacentHTML("beforeend",`<button id="newPill" hidden></button>`);n=$("#newPill");n.onclick=()=>{hideNewPill();logEv("newPill",null);resetFeed();};}
+ n.textContent=`↑ ${k} new ${k===1?"story":"stories"}`;n.hidden=false;}
+function tabCounts(){document.querySelectorAll("#tabs .tab").forEach(b=>{const k=b.dataset.k,c=b.querySelector(".unseenCount");if(c)c.textContent=STORIES.filter(s=>(k==="all"||s.cat===k)&&!feedSeen(s)&&!st.hidden[s.id]).length;});}
+async function quietRefresh(){if(refreshing)return;refreshing=true;
+ try{const before=new Set(STORIES.map(x=>x.id)),old=byId;const list=await getStories(true);if(!activePage)return;setData(list);
+  document.querySelectorAll("#feed .card").forEach(c=>{const id=c.dataset.id;if(!byId[id]&&old[id])byId[id]=old[id];}); // cards on screen keep working even if pruned upstream
+  const addL=STORIES.filter(x=>!before.has(x.id)&&!st.hidden[x.id]&&!feedSeen(x));addL.forEach(x=>JUSTIN.add(x.id));
+  if(!$("#feed .endCard"))rebuild(); // refill only what is still below him; nothing on screen moves
+  counts();tabCounts();if(addL.length)showNewPill(addL.length);logEv("refresh",null,{added:addL.length,quiet:1});}
+ catch(e){}finally{refreshing=false;}}
+function comeBack(away){if(document.querySelector("#feed .card.open")||away<KEEP_MS)quietRefresh();else refresh(false);}
 async function refresh(manual){if(refreshing)return;refreshing=true;$("#refreshBtn").classList.add("spin");
  try{const before=new Set(STORIES.map(x=>x.id));const list=await getStories(true);setData(list);
   const addL=STORIES.filter(x=>!before.has(x.id));addL.forEach(x=>JUSTIN.add(x.id));const added=addL.length;
@@ -493,7 +529,7 @@ async function refresh(manual){if(refreshing)return;refreshing=true;$("#refreshB
  catch(e){if(manual)toast("Couldn't refresh. Check your connection");}
  finally{refreshing=false;$("#refreshBtn").classList.remove("spin");}}
 $("#refreshBtn").onclick=()=>refresh(true);
-let hiddenAt=0;document.addEventListener("visibilitychange",()=>{if(document.hidden)hiddenAt=Date.now();else if(hiddenAt&&$("#sheet").hidden&&!speaking){hiddenAt=0;refresh(false);}});
+let hiddenAt=0;document.addEventListener("visibilitychange",()=>{if(document.hidden)hiddenAt=Date.now();else if(hiddenAt&&$("#sheet").hidden&&!speaking){const away=Date.now()-hiddenAt;hiddenAt=0;comeBack(away);}});
 /* pull to refresh */
 (()=>{let y0=null,dy=0;const pt=$("#ptr");
  addEventListener("touchstart",e=>{y0=(scrollY<=0&&$("#sheet").hidden&&e.touches.length===1)?e.touches[0].clientY:null;dy=0;},{passive:true});
