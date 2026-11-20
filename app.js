@@ -7,6 +7,18 @@ addEventListener("pageshow",e=>{if(e.persisted){activePage=true;comeBack(pagehid
 const CATS={all:"For You",news:"News",money:"Money & Deals",health:"Health",adhd:"ADHD Edge",mind:"Mind",ai:"AI",travel:"Travel & Borders",english:"English",whoa:"Whoa",laugh:"Laugh",calm:"Calm"};
 const CATLBL={news:"News",money:"Money & Deals",health:"Health",adhd:"ADHD Edge",mind:"Mind",ai:"AI",travel:"Travel & Borders",english:"English",whoa:"Whoa fact",laugh:"Laugh",calm:"Calm"};
 const $=s=>document.querySelector(s), esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+/* v15.2 image fallback: story photo missing (e.g. an old saved story) → try the publisher's original image once →
+ * otherwise a calm Sunny tile with the category, never the browser's broken-image "?". Favicons just disappear. */
+const CATCH={news:"N",money:"£",health:"+",adhd:"⚡",mind:"◐",ai:"AI",travel:"✈",english:"Aa",whoa:"!",laugh:"☺",calm:"~"};
+const imgAlt=s=>{const u=s&&s.image&&s.image.from_url;return `data-cat="${esc(s&&s.cat||"")}"${typeof u==="string"&&/^https:\/\/[^"'<>\s`]+$/.test(u)?` data-alt="${esc(u)}"`:""}`;};
+function fallbackTile(cat){const l=CATLBL[cat]||"Sunny",g=CATCH[cat]||"S";
+ const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#145450"/><stop offset="1" stop-color="#0A2523"/></linearGradient></defs><rect width="320" height="180" fill="url(#g)"/><circle cx="160" cy="78" r="38" fill="none" stroke="#6FD8C0" stroke-width="7" stroke-linecap="round" stroke-dasharray="183 56" transform="rotate(-20 160 78)"/><circle cx="160" cy="78" r="21" fill="#FFD166"/><text x="160" y="85.5" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="${g.length>1?17:21}" font-weight="700" fill="#0A2523">${esc(g)}</text><text x="160" y="150" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#C7D6D0" letter-spacing="1.5">${esc(l.toUpperCase())}</text></svg>`;
+ return "data:image/svg+xml;charset=utf-8,"+encodeURIComponent(svg);}
+function imgFailed(im){if(im.dataset.alt&&!im.dataset.triedAlt){im.dataset.triedAlt="1";im.referrerPolicy="no-referrer";im.src=im.dataset.alt;return;}
+ if(im.dataset.fb)return;im.dataset.fb="1";im.classList.add("imgFb");im.removeAttribute("srcset");im.src=fallbackTile(im.dataset.cat);
+ const cr=im.parentElement&&im.parentElement.querySelector(".credit");if(cr)cr.hidden=true;}
+document.addEventListener("error",e=>{const im=e.target;if(!im||im.tagName!=="IMG")return;
+ if(im.classList.contains("sImg"))imgFailed(im);else im.style.visibility="hidden";},true);
 const IC={
  listen:'<svg viewBox="0 0 24 24"><path d="M4 10v4M8 7v10M12 4v16M16 8v8M20 11v2"/></svg>',
  more:'<svg viewBox="0 0 24 24"><circle cx="5" cy="12" r="1.3" fill="currentColor"/><circle cx="12" cy="12" r="1.3" fill="currentColor"/><circle cx="19" cy="12" r="1.3" fill="currentColor"/></svg>',
@@ -30,7 +42,7 @@ IC.hide='<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M5.6 5
 const LS="feed.v1";
 const st=Object.assign({cat:{},tag:{},react:{},seen:{},opened:{},dwell:{},hidden:{},sessions:0,nudgeOff:false},JSON.parse(localStorage.getItem(LS)||"{}"));
 st.hidden=st.hidden||{};
-const save=()=>localStorage.setItem(LS,JSON.stringify(st));
+const save=()=>{localStorage.setItem(LS,JSON.stringify(st));syncTouch();};
 /* v7 seen-tracking: impression (>=60% visible for 1.5s) or opened. Legacy dwell counts become "seen" once. */
 if(!st.seenAt){st.seenAt={};Object.keys(st.seen||{}).concat(Object.keys(st.opened||{})).forEach(id=>st.seenAt[id]=1);}
 st.seenKeys=st.seenKeys||{};
@@ -47,7 +59,7 @@ function dedupe(list){const out=[];for(const s of list){const words=new Set(titl
 st.sessions++;save();
 /* library: full story copies of saved + liked items, so they outlive the 14-day prune */
 const LIBK="feed.library";const LIB=Object.assign({saved:{},liked:{}},JSON.parse(localStorage.getItem(LIBK)||"{}"));
-const saveLib=()=>{try{localStorage.setItem(LIBK,JSON.stringify(LIB))}catch(e){toast("Storage full")}};
+const saveLib=()=>{try{localStorage.setItem(LIBK,JSON.stringify(LIB))}catch(e){toast("Storage full")}syncTouch();};
 const libCopy=s=>{const c=Object.assign({},s);delete c._sec;return c;};
 let STORIES=[],byId={},tab="all",query="",queue=[],shown=new Set(),round=0,SEENQ=[],NEWN=0,UNSEENN=0,BONUSN=0;const JUSTIN=new Set(); // stories that arrived via refresh during this session lead the feed
 /* reaction log: only when served by the local Feed server (GitHub Pages is static → no POST, no 405s) */
@@ -138,7 +150,7 @@ document.addEventListener("click",e=>{const b=e.target.closest(".sidesB");if(!b)
 function cardHTML(s,i){
  const hook=s._sec==="hook",bon=s._sec==="bonus";s._sec="";
  return `${bon?`<div class="secH bonusH">Bonus picks · worth your time</div>`:""}<article class="card ${hook?"hook ":""}${st.react[s.id]===1?"liked":""}" data-id="${s.id}" data-cat="${s.cat}">${hook?`<div class="hookK"><span class="spark">●</span> ${!isEver(s)&&Date.now()-tPub(s)<12*3600e3?"Just in":isNew(s)?"New for you":"Fresh for you"} · ${isEver(s)?"Top pick":relT(s)}</div>`:""}
- <div class="ph" data-tog><img class="loading" src="${s.image.src}" alt="${esc(s.title)}" ${i>2?'loading="lazy"':''} decoding="async" width="1200" height="675" onload="this.classList.remove('loading')"><span class="credit">${esc(s.image.credit)}</span></div>
+ <div class="ph" data-tog><img class="loading sImg" src="${esc(s.image.src)}" ${imgAlt(s)} alt="${esc(s.title)}" ${i>2?'loading="lazy"':''} decoding="async" width="1200" height="675" onload="this.classList.remove('loading')"><span class="credit">${esc(s.image.credit)}</span></div>
  <div class="body"><div class="lbl">${isNew(s)?'<span class="newB">New</span>':""}${CATLBL[s.cat]}</div>
  <h2 data-tog>${esc(s.title)}</h2><p class="snip" data-tog>${esc(s.snippet)} <span class="see">See more</span></p>${sidesBtn(s,s.id)}
  <div class="meta"><div class="time"><span>${isEver(s)?"Evergreen":relT(s)}</span><span class="likeMark">· Liked</span></div>
@@ -169,7 +181,7 @@ function commitDwell(id,ms){const s=byId[id];if(!s)return;st.seen[id]=(st.seen[i
  if(ms>2500){const w=Math.min(ms/1000,12)/12*0.6;learn(s,w,"dwell "+Math.round(ms/1000)+"s")}else if(ms<900){learn(s,-0.05,"skip")}else save();}
 new IntersectionObserver(es=>{if(es[0].isIntersecting)loadMore(5)},{rootMargin:"1400px 0px"}).observe($("#sentinel"));
 let st8=0;addEventListener("scroll",()=>{if(st8)return;st8=setTimeout(()=>{st8=0;if(scrollY+innerHeight>document.documentElement.scrollHeight-1600)loadMore(5)},120)},{passive:true});
-addEventListener("keydown",e=>{if(e.key==="Escape"){if(!$("#xfer").hidden){closeXfer();return;}if(!$("#sides").hidden){closeSides();return;}if(!$("#lib").hidden){closeLib();return;}if(!$("#menu").hidden)closeMenu();else if(!$("#sheet").hidden)closeSheet();}});
+addEventListener("keydown",e=>{if(e.key==="Escape"){if(!$("#syncS").hidden){closeSync();return;}if(!$("#xfer").hidden){closeXfer();return;}if(!$("#sides").hidden){closeSides();return;}if(!$("#lib").hidden){closeLib();return;}if(!$("#menu").hidden)closeMenu();else if(!$("#sheet").hidden)closeSheet();}});
 /* ---------- tabs & search ---------- */
 function renderTabs(){$("#tabs").innerHTML=Object.entries(CATS).map(([k,v])=>`<button class="tab" role="tab" data-k="${k}" aria-selected="${k===tab}">${v} <span class="unseenCount" aria-label="unseen">${STORIES.filter(s=>(k==="all"||s.cat===k)&&!feedSeen(s)&&!st.hidden[s.id]).length}</span></button>`).join("");}
 $("#tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(!b)return;tab=b.dataset.k;renderTabs();$(`.tab[data-k="${tab}"]`).scrollIntoView({inline:"center",block:"nearest",behavior:"smooth"});resetFeed();logEv("tab",null,{tab});});
@@ -213,7 +225,7 @@ let libTab="saved";
 function libItems(){const q=$("#libQ").value.trim().toLowerCase();return Object.values(LIB[libTab]).sort((a,b)=>b.t-a.t).map(x=>x.s).filter(s=>!q||[s.title,s.snippet,(s.bullets||[]).join(" "),(s.report||[]).map(r=>r.t).join(" "),CATLBL[s.cat]||s.cat,(s.tags||[]).join(" "),(s.sources||[]).map(x=>x.domain+" "+x.title).join(" ")].join(" ").toLowerCase().includes(q));}
 function renderLib(){const items=libItems(),q=$("#libQ").value.trim(),total=Object.keys(LIB[libTab]).length;
  document.querySelectorAll(".libTabs button").forEach(b=>{b.setAttribute("aria-selected",b.dataset.t===libTab);b.innerHTML=(b.dataset.t==="saved"?"Saved":"Liked")+`<span class="n">${Object.keys(LIB[b.dataset.t]).length}</span>`});
- $("#libList").innerHTML=items.length?items.map(s=>`<li class="li" data-id="${s.id}"><button class="open"><img src="${esc(s.image.src)}" alt="" loading="lazy"><span class="tx"><span class="lt">${esc(s.title)}</span><span class="lm"><b>${esc(CATLBL[s.cat]||s.cat)}</b> · ${esc(s.date?new Date(s.date+"T12:00:00").toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"}):"Evergreen")}</span></span></button><button class="ic rm" aria-label="${libTab==="saved"?"Unsave":"Unlike"}">${IC.x}</button></li>`).join("")
+ $("#libList").innerHTML=items.length?items.map(s=>`<li class="li" data-id="${s.id}"><button class="open"><img class="sImg" src="${esc(s.image.src)}" ${imgAlt(s)} alt="" loading="lazy"><span class="tx"><span class="lt">${esc(s.title)}</span><span class="lm"><b>${esc(CATLBL[s.cat]||s.cat)}</b> · ${esc(s.date?new Date(s.date+"T12:00:00").toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"}):"Evergreen")}</span></span></button><button class="ic rm" aria-label="${libTab==="saved"?"Unsave":"Unlike"}">${IC.x}</button></li>`).join("")
   :`<li class="libEmpty">${total&&q?`<b>No matches</b>Nothing in ${libTab==="saved"?"Saved":"Liked"} matches "${esc(q)}".`:libTab==="saved"?`<b>Nothing saved yet</b>Tap the bookmark on any story to keep it here.`:`<b>No liked stories yet</b>Tap the thumbs-up on stories you enjoy and they'll appear here.`}</li>`;}
 function openLib(){closeMenu();$("#lib").hidden=false;document.body.classList.add("lock");renderLib();logEv("library",null);}
 function closeLib(){$("#lib").hidden=true;document.body.classList.remove("lock");}
@@ -556,7 +568,133 @@ async function pasteSaves(){const ta=$("#xTxt");if(!ta.value.trim()&&navigator.c
 $("#xferBtn").onclick=openXfer;$("#xfer .scrim").onclick=closeXfer;$("#xfer .close").onclick=closeXfer;
 $("#xMake").onclick=makeCode;$("#xGet").onclick=getCode;$("#xCopy").onclick=copySaves;$("#xPaste").onclick=pasteSaves;
 $("#xIn").addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();getCode();}});
-window.__feed={lib:LIB,refresh,comeBack,exportSaves,mergeSaves,parseSaves,savesText,isNew:id=>isNew(byId[id]),prevVisit:PREV_VISIT,handoffPrompt:(id,q)=>handoffPrompt(byId[id],q),stories:()=>STORIES,st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,audio:AU,speaking:()=>speaking,chunkText,speechText:id=>speechText(byId[id])};
+/* ---------- v16 "Sync across devices": no account. The first device makes a long random secret key (256-bit) kept
+ * only on the device; other devices join once with a 6-character link code (valid 24h) or a QR link with the key in the
+ * #hash. The Worker keeps one merged state per key (stored under a hash of it). Every saved/liked/react/hidden item carries
+ * the time of its last change, so an un-save or un-like on one device removes it everywhere: the latest action wins.
+ * The key is never logged, never put in a URL query and only sent in the X-Sync-Key header. ---------- */
+const SYNC_API=ASK_API+"sync",SYK="feed.sync",SYM=globalThis.sunnyMerge,SYNC_KEY_RE=/^[A-Za-z0-9_-]{43}$/;
+const syEmpty=()=>({saved:{},liked:{},react:{},hidden:{},nudgeOff:{v:!!st.nudgeOff,t:0}});
+let SY=(()=>{try{return JSON.parse(localStorage.getItem(SYK)||"null")||{}}catch(e){return {}}})();
+if(!SY.view)SY.view=syEmpty();
+const saveSY=()=>{try{localStorage.setItem(SYK,JSON.stringify(SY))}catch(e){}};
+let syApplying=false,syRecT=0,syPushT=0,syPushDue=0,syBusy=false,syAgain=false,syGen=0;
+window.__syOn=!!SY.key;
+function syncTouch(){if(!window.__syOn||syApplying)return;clearTimeout(syRecT);syRecT=setTimeout(syReconcile,200);}
+const bump=(e,now)=>Math.max(now,((e&&e.t)||0)+1);
+/* local state -> timestamped view (no network). Runs right after every local change, so the time is the action's time. */
+function syReconcile(){clearTimeout(syRecT);if(!SY.key||syApplying)return false;const now=Date.now(),V=SY.view;let ch=false;
+ for(const k of ["saved","liked"]){V[k]=V[k]||{};
+  for(const id in LIB[k]){const e=V[k][id];if(!e||!e.on){V[k][id]={on:1,t:bump(e,now)};ch=true;}else if(e.miss)delete e.miss;}
+  for(const id in V[k]){const e=V[k][id];if(e.on&&!e.miss&&!LIB[k][id]){V[k][id]={on:0,t:bump(e,now)};ch=true;}}}
+ V.react=V.react||{};for(const id of new Set([...Object.keys(st.react),...Object.keys(V.react)])){if(!SAFE_ID.test(id))continue;
+  const r=st.react[id],cur=r===1||r===-1?r:0,e=V.react[id];if((e?e.v:0)!==cur){V.react[id]={v:cur,t:bump(e,now)};ch=true;}}
+ V.hidden=V.hidden||{};for(const id of new Set([...Object.keys(st.hidden),...Object.keys(V.hidden)])){if(!SAFE_ID.test(id))continue;
+  const cur=st.hidden[id]?1:0,e=V.hidden[id];if((e?e.on:0)!==cur){V.hidden[id]={on:cur,t:bump(e,now)};ch=true;}}
+ if(!V.nudgeOff||!!V.nudgeOff.v!==!!st.nudgeOff){V.nudgeOff={v:!!st.nudgeOff,t:bump(V.nudgeOff,now)};ch=true;}
+ const sn=Object.keys(st.seenAt).length;if(sn!==SY.seenN)SY.seenDirty=true;
+ if(ch){SY.dirty=true;syGen++;}saveSY();
+ if(ch)schedulePush(2500);else if(SY.seenDirty)schedulePush(180000);
+ return ch;}
+function schedulePush(ms){const due=Date.now()+ms;if(syPushT&&syPushDue<=due)return;clearTimeout(syPushT);syPushDue=due;syPushT=setTimeout(()=>{syPushT=0;syncNow();},ms);}
+function syLocal(){const V=SY.view,items={saved:{},liked:{},react:V.react||{},hidden:V.hidden||{}};
+ for(const k of ["saved","liked"])for(const id in V[k]){const e=V[k][id];items[k][id]=e.on&&LIB[k][id]?{on:1,t:e.t,s:LIB[k][id].s}:{on:e.on?1:0,t:e.t};}
+ return {v:1,items,seenAt:st.seenAt,seenKeys:st.seenKeys,cat:st.cat||{},tag:st.tag||{},nudgeOff:V.nudgeOff};}
+/* merged state -> local state. Idempotent; never touches anything the merged state doesn't mention. */
+function syApply(M){if(!M||!M.items)return 0;syApplying=true;let n=0;const V=SY.view;
+ try{for(const k of ["saved","liked"]){const nv=Object.assign({},V[k]);
+   for(const [id,e] of Object.entries(M.items[k]||{})){if(!SAFE_ID.test(id))continue;
+    if(e.on){if(LIB[k][id])nv[id]={on:1,t:e.t};else{const s=cleanStory(e.s)||(byId[id]&&libCopy(byId[id]));if(s&&s.id===id){LIB[k][id]={s,t:e.t};n++;nv[id]={on:1,t:e.t};}else nv[id]={on:1,t:e.t,miss:1};}}
+    else{if(LIB[k][id]){delete LIB[k][id];n++;}nv[id]={on:0,t:e.t};}}
+   V[k]=nv;}
+  for(const [id,e] of Object.entries(M.items.react||{})){if(!SAFE_ID.test(id))continue;const r=st.react[id],cur=r===1||r===-1?r:0;
+   if(cur!==e.v){if(e.v)st.react[id]=e.v;else delete st.react[id];n++;}V.react[id]={v:e.v,t:e.t};}
+  for(const [id,e] of Object.entries(M.items.hidden||{})){if(!SAFE_ID.test(id))continue;const cur=st.hidden[id]?1:0;
+   if(cur!==e.on){if(e.on)st.hidden[id]=true;else delete st.hidden[id];n++;}V.hidden[id]={on:e.on,t:e.t};}
+  if(M.nudgeOff&&num(M.nudgeOff.t)!=null&&M.nudgeOff.t>=((V.nudgeOff&&V.nudgeOff.t)||0)){st.nudgeOff=!!M.nudgeOff.v;V.nudgeOff={v:!!M.nudgeOff.v,t:M.nudgeOff.t};}
+  for(const [id,v] of Object.entries(M.seenAt||{}))if(num(v)!=null&&SAFE_ID.test(id)&&!st.seenAt[id])st.seenAt[id]=v;
+  for(const [k,v] of Object.entries(M.seenKeys||{}))if(num(v)!=null&&k.length<300&&!st.seenKeys[k])st.seenKeys[k]=v;
+  for(const f of ["cat","tag"]){st[f]=st[f]||{};for(const [k,v] of Object.entries(M[f]||{}))if(typeof v==="number"&&isFinite(v)&&Math.abs(v)>Math.abs(st[f][k]||0))st[f][k]=v;}
+  save();saveLib();}
+ finally{syApplying=false;}
+ if(n)syRefreshUI();return n;}
+function syRefreshUI(){document.querySelectorAll("#feed .card").forEach(c=>{const id=c.dataset.id,sv=!!LIB.saved[id],lk=st.react[id]===1,ls=st.react[id]===-1;
+  c.classList.toggle("liked",lk);
+  c.querySelectorAll(".saveB").forEach(b=>{b.classList.toggle("on",sv);b.setAttribute("aria-pressed",sv);b.innerHTML=sv?IC.saveF:IC.save;});
+  const lb=c.querySelector(".likeB");if(lb){lb.classList.toggle("on",lk);lb.setAttribute("aria-pressed",lk);lb.innerHTML=lk?IC.upF:IC.up;}
+  const l2=c.querySelector(".lessB");if(l2){l2.classList.toggle("on",ls);l2.setAttribute("aria-pressed",ls);}});
+ if(!$("#lib").hidden)renderLib();try{tabCounts();}catch(e){}}
+async function syncNow(){if(!SY.key)return false;if(syBusy){syAgain=true;return false;}
+ syReconcile();clearTimeout(syPushT);syPushT=0;
+ if(!navigator.onLine){syStatus();return false;}
+ syBusy=true;syStatus();let ok=false;const key=SY.key;
+ try{let M=null;
+  if(!SY.dirty&&!SY.seenDirty){const r=await fetch(SYNC_API,{headers:{"x-sync-key":key},cache:"no-store"});
+   if(r.status===404)SY.dirty=true;else if(!r.ok)throw new Error(r.status);else M=(await r.json()).state;
+   if(SY.key!==key)return false;
+   if(M){const m2=SYM.merge(M,syLocal());syApply(m2);if(!SYM.same(m2,M))SY.dirty=true;}}
+  if(SY.dirty||SY.seenDirty){const g=syGen,body=JSON.stringify(syLocal());
+   const r=await fetch(SYNC_API,{method:"PUT",headers:{"x-sync-key":key,"content-type":"application/json"},body,cache:"no-store"});
+   if(!r.ok)throw new Error(r.status);const j=await r.json();if(SY.key!==key)return false;
+   syReconcile();syApply(SYM.merge(j.state,syLocal()));if(g===syGen)SY.dirty=false;SY.seenDirty=false;SY.seenN=Object.keys(st.seenAt).length;}
+  SY.last=Date.now();SY.err=0;ok=true;}
+ catch(e){SY.err=Date.now();}
+ finally{saveSY();syBusy=false;syStatus();if(syAgain||(ok&&SY.dirty)){syAgain=false;schedulePush(400);}}
+ return ok;}
+/* leaving the app: hand the latest change to the Worker even if the page is about to be frozen */
+function syFlush(){if(!SY.key||!navigator.onLine)return;syReconcile();if(!SY.dirty&&!SY.seenDirty)return;
+ const body=JSON.stringify(syLocal());if(body.length>60000){syncNow();return;}
+ try{fetch(SYNC_API,{method:"PUT",headers:{"x-sync-key":SY.key,"content-type":"application/json"},body,keepalive:true}).catch(()=>{});}catch(e){}}
+function syStatus(){const on=!!SY.key,off=!navigator.onLine,bad=SY.err&&(!SY.last||SY.err>SY.last);
+ const t=!on?"Keep saves the same on your phone and computer":off?"Offline · will sync when back online":syBusy&&!SY.last?"Syncing…":bad?"Couldn't sync · will retry":SY.last?"Synced · "+ago(SY.last):"Syncing…";
+ const a=$("#syncSt");if(a){a.textContent=t;a.classList.toggle("on",on);}
+ const b=$("#syStat");if(b){b.textContent=on?t:"Off";const l=b.closest(".syLine");if(l){l.classList.toggle("off",off);l.classList.toggle("bad",!!bad&&!off);}}}
+setInterval(syStatus,20000);
+const newSyncKey=()=>{const b=crypto.getRandomValues(new Uint8Array(32));let s="";b.forEach(x=>s+=String.fromCharCode(x));return btoa(s).replace(/\+/g,"-").replace(/\//g,"_").replace(/=+$/,"");};
+function syLink(key){SY={key,view:syEmpty(),dirty:true,seenDirty:true,last:0,err:0};window.__syOn=true;saveSY();syReconcile();syShow();return syncNow();}
+function syUnlink(){SY={view:syEmpty()};window.__syOn=false;saveSY();clearTimeout(syPushT);syPushT=0;syShow();syStatus();}
+function syMsg(t,cls){const m=$("#syMsg");m.textContent=t;m.className="xMsg"+(cls?" "+cls:"");}
+function syShow(){const on=!!SY.key;$("#syOff").hidden=on;$("#syOnV").hidden=!on;if(!on){$("#syCodeBox").hidden=true;$("#syQR").innerHTML="";}syStatus();}
+function openSync(){$("#syncS").hidden=false;syMsg("");syShow();logEv("sync_open",null);if(SY.key)syncNow();}
+function closeSync(){$("#syncS").hidden=true;}
+async function syTurnOn(){const b=$("#syOn");b.disabled=true;syMsg("Turning on sync…");
+ try{const ok=await syLink(newSyncKey());syMsg(ok?"Sync is on ✓ Now tap “Show link code” to add your other devices.":"Sync is on. It will finish when you're back online.",ok?"ok":"");logEv("sync_on",null);}
+ finally{b.disabled=false;}}
+async function syJoin(){const code=$("#syIn").value.toUpperCase().replace(/[^A-Z0-9]/g,"");
+ if(code.length!==6){syMsg("The link code has 6 letters and numbers.","bad");return;}
+ const b=$("#syJoin");b.disabled=true;syMsg("Linking…");
+ try{const r=await fetch(SYNC_API+"/link/"+code,{cache:"no-store"});
+  if(r.status===404){syMsg("That code didn't work. It may have expired (24 hours). Make a new one on the other device.","bad");return;}
+  if(r.status===429){syMsg("Too many tries. Wait an hour and try again.","bad");return;}
+  if(!r.ok)throw new Error(r.status);const j=await r.json();if(!SYNC_KEY_RE.test(j.key||""))throw new Error("bad");
+  $("#syIn").value="";const ok=await syLink(j.key);syMsg(ok?"Linked ✓ Your saves from both devices are now together.":"Linked. It will finish syncing when you're back online.",ok?"ok":"");logEv("sync_join",null);}
+ catch(e){syMsg("Couldn't reach Sunny's server. Check you're online and try again.","bad");}
+ finally{b.disabled=false;}}
+function loadQR(){return window.qrcode?Promise.resolve(window.qrcode):new Promise((res,rej)=>{const sc=document.createElement("script");sc.src="qrcode.min.js?v=16";sc.onload=()=>res(window.qrcode);sc.onerror=rej;document.head.appendChild(sc);});}
+async function syShowCode(){if(!SY.key)return;const b=$("#syCode");b.disabled=true;syMsg("Making a link code…");
+ try{const r=await fetch(SYNC_API+"/link",{method:"POST",headers:{"x-sync-key":SY.key},cache:"no-store"});const j=await r.json().catch(()=>({}));
+  if(!r.ok||!j.code)throw new Error(j.error||r.status);
+  $("#syCodeV").textContent=j.code;$("#syCodeBox").hidden=false;syMsg("");logEv("sync_code",null);
+  try{const q=(await loadQR())(0,"M");q.addData(location.origin+location.pathname+"#sync="+SY.key);q.make();$("#syQR").innerHTML=q.createSvgTag({cellSize:4,margin:0,scalable:true});}
+  catch(e){$("#syQR").hidden=true;}}
+ catch(e){syMsg("Couldn't make a code (are you online?). Try again in a moment.","bad");}
+ finally{b.disabled=false;}}
+$("#syncBtn").onclick=openSync;$("#syncS .scrim").onclick=closeSync;$("#syncS .close").onclick=closeSync;
+$("#syOn").onclick=syTurnOn;$("#syJoin").onclick=syJoin;$("#syCode").onclick=syShowCode;
+$("#syNow").onclick=async()=>{syMsg("");const ok=await syncNow();if(!ok)syMsg(navigator.onLine?"Couldn't sync right now. It will retry.":"You're offline. Sunny will sync when you're back online.","bad");};
+$("#syOffB").onclick=()=>{if(!confirm("Unlink this device? Your saves stay here, but changes will stop syncing."))return;syUnlink();syMsg("This device is unlinked. Your saves are still here.","ok");logEv("sync_off",null);};
+$("#syIn").addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();syJoin();}});
+/* QR link: the key arrives in the #hash (never sent to any server); drop it from the address bar straight away */
+function syHashKey(){const m=/^#sync=([A-Za-z0-9_-]{43})$/.exec(location.hash);if(!m)return null;history.replaceState(null,"",location.pathname+location.search);return SY.key===m[1]?null:m[1];}
+function syLinkToast(k){syLink(k).then(ok=>toast(ok?"Linked ✓ This device now syncs your saves":"Linked · will sync when you're back online"));}
+window.__syncFromHash=syHashKey();
+addEventListener("hashchange",()=>{const k=syHashKey();if(k)syLinkToast(k);});
+let syLastPull=0;const syPull=()=>{if(!SY.key||document.hidden)return;if(Date.now()-syLastPull<4000&&!SY.dirty)return;syLastPull=Date.now();syncNow();};
+document.addEventListener("visibilitychange",()=>{if(document.hidden)syFlush();else syPull();});
+addEventListener("focus",syPull);addEventListener("online",()=>{syStatus();syPull();});addEventListener("offline",syStatus);addEventListener("pagehide",syFlush);
+setInterval(()=>{if(!document.hidden)syPull();},90000);
+syStatus();
+window.__feed={act:{react:(id,v)=>react(byId[id],v),save:id=>toggleSave(byId[id],true)},sync:{now:()=>syncNow(),state:()=>({on:!!SY.key,dirty:!!SY.dirty,last:SY.last||0,err:SY.err||0,busy:syBusy}),view:()=>SY.view,merge:SYM},fallbackTile,lib:LIB,refresh,comeBack,exportSaves,mergeSaves,parseSaves,savesText,isNew:id=>isNew(byId[id]),prevVisit:PREV_VISIT,handoffPrompt:(id,q)=>handoffPrompt(byId[id],q),stories:()=>STORIES,st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,audio:AU,speaking:()=>speaking,chunkText,speechText:id=>speechText(byId[id])};
 /* ---------- boot ---------- */
 function setData(list){list.filter(isSeen).forEach(x=>{st.seenKeys[eventKey(x)]=st.seenAt[x.id]||Date.now();sessionKeys.add(eventKey(x));});save();list.forEach(x=>{if(st.react[x.id]===1&&!LIB.liked[x.id])LIB.liked[x.id]={s:libCopy(x),t:Date.now()}});saveLib();STORIES=dedupe(prune(list));byId={};STORIES.forEach(x=>byId[x.id]=x);DF=null;NEWEST=Math.max(0,...STORIES.map(tAdded));updStamp();}
 function updStamp(){const el=$("#upd");if(el)el.textContent=NEWEST?"Updated "+ago(NEWEST):"";}
@@ -631,6 +769,8 @@ async function prefetchOffline(){
  if(byId[hid]){queue=[byId[hid],...queue.filter(x=>x.id!==hid)];}
  loadMore(6);
  if(byId[hid]){const c=$(`.card[data-id="${hid}"]`);if(c)expand(c,byId[hid]);}
+ if(window.__syncFromHash){const k=window.__syncFromHash;delete window.__syncFromHash;syLinkToast(k);}
+ else if(SY.key)syncNow();
  const schedule=()=>{if(activePage)setTimeout(()=>{if(activePage)prefetchOffline();},800);};
  if("serviceWorker" in navigator){navigator.serviceWorker.addEventListener("controllerchange",()=>{if(activePage)prefetchOffline();});navigator.serviceWorker.register("sw.js").then(schedule).catch(schedule);}
  else schedule();
