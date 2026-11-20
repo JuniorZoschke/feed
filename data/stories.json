@@ -1,5 +1,1542 @@
 [
  {
+  "id": "anthropic-shares-drop-towards-initial-price-amid",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "economics"
+  ],
+  "title": "Anthropic shares drop towards initial price amid wider tech market sell off",
+  "snippet": "Anthropic shares fell back towards their initial price after a soaring first day on the stock market as a wider tech sell off deepened. The artificial intelligence company raised a record $81bn in its initial public offering.",
+  "bullets": [
+   "Anthropic shares dropped more than 12% to about $85 by lunchtime on Friday [1].",
+   "The maker of the Claude chatbot raised a record $81bn in its initial public offering [1].",
+   "Both US indexes touched correction territory after falling 10% or more down from a recent high [1]."
+  ],
+  "report": [
+   {
+    "h": "Blockbuster Market Debut",
+    "t": "The artificial intelligence company introduced its stock to the Nasdaq stock exchange on Thursday in a crucial test for the industry [1]. Trading started at $111.50 and the shares peaked at $115 before ending the first day up 17% at $97.17 [1]."
+   },
+   {
+    "h": "Tech Sector Slump",
+    "t": "Anthropic's shares dropped back towards their initial price of $83 as a wider tech sell off deepened on Friday [1]. Other major technology firms including Nvidia, SpaceX, Tesla and Meta also experienced share price falls [1]."
+   },
+   {
+    "h": "Shifting Investor Focus",
+    "t": "Analysts noted that market volatility was to be expected because Anthropic had no direct peers as a frontier artificial intelligence firm [1]. Wall Street is shifting from rewarding growth at any price to demanding stronger cash flow and a clearer path to profitability [1]."
+   }
+  ],
+  "why": "This matters if you follow artificial intelligence market trends, technology investments and shifts in investor demands toward profitability.",
+  "tryit": "Review financial news platforms like AlphaSense or BBC News to track how broader technology market shifts impact artificial intelligence company valuations.",
+  "qa": [
+   [
+    "What was Anthropic's initial public offering price?",
+    "The initial public offering price was $83 [1]."
+   ],
+   [
+    "How much did Anthropic raise in its initial public offering?",
+    "The artificial intelligence company raised a record $81bn [1]."
+   ],
+   [
+    "What happened to Anthropic shares on Friday?",
+    "Shares dropped more than 12% to about $85 by lunchtime [1]."
+   ],
+   [
+    "Which company makes the Claude chatbot?",
+    "Anthropic is the maker of the Claude chatbot [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+    "status": 200,
+    "title": "Anthropic shares fall a day after blockbuster IPO",
+    "domain": "bbc.co.uk"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T17:36:29Z",
+  "addedAt": "2026-11-20T17:41:32Z",
+  "audio": "audio/anthropic-shares-drop-towards-initial-price-amid.mp3",
+  "image": {
+   "src": "img/anthropic-shares-drop-towards-initial-price-amid.jpg",
+   "credit": "BBC News",
+   "license": "© BBC News, shown with credit",
+   "page": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+  }
+ },
+ {
+  "id": "the-uk-pensions-dashboard-gets-a-confirmed-launc",
+  "cat": "money",
+  "tags": [
+   "money",
+   "business",
+   "economics",
+   "tax"
+  ],
+  "title": "The UK Pensions Dashboard Gets A Confirmed Launch Date For 2027",
+  "snippet": "Minister for Pensions Torsten Bell confirmed the first publicly available Pensions Dashboard will launch in summer 2027. The tool will show all your pension pots in one place, helping you track your retirement savings.",
+  "bullets": [
+   "The first publicly available Pensions Dashboard will launch in summer 2027 [1].",
+   "The tool will be hosted on the government-backed MoneyHelper website [1].",
+   "More than 2,400 schemes are now connected, incorporating more than 75 million pension records [1]."
+  ],
+  "report": [
+   {
+    "h": "Dashboard launch date",
+    "t": "Minister for Pensions Torsten Bell confirmed that the first publicly available Pensions Dashboard will launch in summer 2027 [1]. The project began in 2016 and was initially due in 2019, but the longer development period means it will be comprehensive at launch [1]."
+   },
+   {
+    "h": "How the system works",
+    "t": "The Money and Pensions Service has developed the first dashboard, which will be hosted on the government-backed MoneyHelper website [1]. You will log in and enter basic details like your name, date of birth and National Insurance number to search almost all UK pension providers [1]."
+   },
+   {
+    "h": "Scale and connections",
+    "t": "More than 2,400 schemes are now connected, incorporating more than 75 million pension records [1]. Private companies will also be able to launch their own dashboards with extra features once the main version is live [1]."
+   }
+  ],
+  "why": "Managing multiple pots across different jobs is common, and having a single view of your pensions helps you stay on top of your financial future.",
+  "tryit": "Check your old job records today and make a list of any past workplace pension providers so you are ready to match them up when the dashboard launches.",
+  "qa": [
+   [
+    "When will the Pensions Dashboard launch?",
+    "The public launch of the MoneyHelper dashboard is set for summer 2027 [1]."
+   ],
+   [
+    "What details do you need to log in?",
+    "You will need to enter your name, date of birth and National Insurance number [1]."
+   ],
+   [
+    "Where will the dashboard be hosted?",
+    "It will be hosted on the government-backed MoneyHelper website [1]."
+   ],
+   [
+    "How many schemes are currently connected?",
+    "More than 2,400 schemes are now connected, incorporating over 75 million pension records [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/the-pensions-dashboard-gets-the-green-light-aOTri1z5zMQ6",
+    "status": 200,
+    "title": "The Pensions Dashboard gets the green light - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T17:19:21Z",
+  "addedAt": "2026-11-20T17:41:32Z",
+  "audio": "audio/the-uk-pensions-dashboard-gets-a-confirmed-launc.mp3",
+  "image": {
+   "src": "img/the-uk-pensions-dashboard-gets-a-confirmed-launc.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/the-pensions-dashboard-gets-the-green-light-aOTri1z5zMQ6",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/55c0a71cac84-couple-finances1.jpg"
+  }
+ },
+ {
+  "id": "hunter-schafer-explains-why-she-prefers-monogamy",
+  "cat": "mind",
+  "tags": [
+   "relationships",
+   "psychology",
+   "queer",
+   "dating"
+  ],
+  "title": "Hunter Schafer Explains Why She Prefers Monogamy Over Polyamory",
+  "snippet": "Actor and model Hunter Schafer shared in a recent interview that she now prefers monogamy because it feels less complicated and requires less heavy scheduling.",
+  "bullets": [
+   "Hunter Schafer stated in a video interview that she now prefers monogamy after trying open and polyamorous relationships [1].",
+   "She noted that non-monogamy often comes with a lot more work and complicated day-to-day scheduling [1].",
+   "Schafer stressed that while she respects the concept of non-monogamy in theory, the practical reality is much harder [1]."
+  ],
+  "report": [
+   {
+    "h": "Relationship Choices",
+    "t": "Hunter Schafer shared her thoughts on dating preferences during a Blind Date video published on Thursday, 19 November [1]."
+   },
+   {
+    "h": "The Reality of Non-Monogamy",
+    "t": "Schafer explained that while the concept of non-monogamy is appealing, it often involves a lot more work and complex scheduling in practice [1]."
+   },
+   {
+    "h": "Simplicity in Practice",
+    "t": "Ultimately choosing monogamy, she described it as nice, sweet, and significantly less complicated for her lifestyle [1]."
+   }
+  ],
+  "why": "It is a helpful reminder that choosing relationship structures based on your actual capacity and energy levels is a valid form of self-awareness.",
+  "tryit": "Reflect on your own weekly commitments and energy limits before taking on complex scheduling or extra interpersonal obligations.",
+  "qa": [
+   [
+    "What did Hunter Schafer say about monogamy?",
+    "She stated that she now prefers monogamy because it is nice, sweet, and less complicated [1]."
+   ],
+   [
+    "Did she try non-monogamy before?",
+    "Yes, she mentioned doing the open thing and the poly thing within the queer community [1]."
+   ],
+   [
+    "Why does she find non-monogamy difficult?",
+    "She explained that it involves more work and she dislikes scheduling [1]."
+   ],
+   [
+    "Where did she share these thoughts?",
+    "She shared them in Cosmopolitan’s Blind Date video hosted by editor-in-chief Willa Bennett [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.thepinknews.com/2026/11/20/hunter-schafer-monogamy-2026/",
+    "status": 200,
+    "title": "Hunter Schafer Chooses Monogamy Over Polyamory: Here's Why",
+    "domain": "thepinknews.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T14:41:44Z",
+  "addedAt": "2026-11-20T17:41:32Z",
+  "audio": "audio/hunter-schafer-explains-why-she-prefers-monogamy.mp3",
+  "image": {
+   "src": "img/hunter-schafer-explains-why-she-prefers-monogamy.jpg",
+   "credit": "PinkNews",
+   "license": "© PinkNews, shown with credit",
+   "page": "https://www.thepinknews.com/2026/11/20/hunter-schafer-monogamy-2026/",
+   "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/hunter-schafer-poly-monogamy-preference_0eadd5.jpg"
+  }
+ },
+ {
+  "id": "exploring-healthy-masculinity-and-finding-new-wa",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "health",
+   "mental health",
+   "relationships"
+  ],
+  "title": "Exploring Healthy Masculinity And Finding New Ways To Care",
+  "snippet": "Editor Jamie Tabberer introduces the New Masculinity issue of Attitude Uncut, exploring how healthy masculinity can be celebrated and embraced.",
+  "bullets": [
+   "Jamie Tabberer notes that admitting healthy masculinity can be hot as hell is nothing to be ashamed of [1].",
+   "Acupuncturist Gerad Kite shares what caring for dying friends at the height of the AIDS crisis taught him about manhood [1].",
+   "Poet myndstate describes healthy masculinity as showing vulnerability, compassion, respect, and empathy [1]."
+  ],
+  "report": [
+   {
+    "h": "The New Masculinity",
+    "t": "Editor Jamie Tabberer shares how speaking openly about the pull of toxic dating patterns helped loosen their grip on his life [1]. He highlights the launch of the New Masculinity issue, which aims to rebrand and celebrate healthy masculinity [1]."
+   },
+   {
+    "h": "History And Care",
+    "t": "Acupuncturist Gerad Kite reflects on caring for dying friends during the height of the AIDS crisis, noting that gay men learned profound care for one another [1]. Poet myndstate explores men's mental health, defining healthy masculinity through vulnerability, compassion, respect, and empathy [1]."
+   },
+   {
+    "h": "Belonging And Identity",
+    "t": "Mr Gay World hopeful Andrew Akuruka writes about wanting others to see that they can be masculine and gay while belonging to where they come from [1]. The issue also features a transmasc account examining the links between internalised pressures, toxic masculinity, and chemsex addiction [1]."
+   }
+  ],
+  "why": "This piece offers self-compassion and reflection on building healthy relationships and identity as a gay man.",
+  "tryit": "Talk with a close friend today about what healthy, supportive male friendship looks like in your life.",
+  "qa": [
+   [
+    "What is the name of the new issue introduced by Jamie Tabberer?",
+    "It is called The New Masculinity issue of Attitude Uncut [1]."
+   ],
+   [
+    "How does poet myndstate define healthy masculinity?",
+    "He defines it as showing vulnerability, compassion, respect, and empathy [1]."
+   ],
+   [
+    "What did Gerad Kite learn about manhood during the AIDS crisis?",
+    "He learned how to care while doing extraordinarily intimate things for dying friends when nobody else was there [1]."
+   ],
+   [
+    "Where is Attitude Uncut available?",
+    "It is out now on Apple News+ and the Attitude app [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.attitude.co.uk/culture/attitude-uncut-new-masculinity-540166/",
+    "status": 200,
+    "title": "Attitude Uncut editor Jamie Tabberer introduces The New Masculinity issue",
+    "domain": "attitude.co.uk"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T17:12:08Z",
+  "addedAt": "2026-11-20T17:41:32Z",
+  "audio": "audio/exploring-healthy-masculinity-and-finding-new-wa.mp3",
+  "image": {
+   "src": "img/exploring-healthy-masculinity-and-finding-new-wa.jpg",
+   "credit": "Attitude",
+   "license": "© Attitude, shown with credit",
+   "page": "https://www.attitude.co.uk/culture/attitude-uncut-new-masculinity-540166/",
+   "from_url": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2026/11/attitude-uncut-cover.jpg"
+  }
+ },
+ {
+  "id": "anthropic-mathematician-uses-claude-to-crack-fam",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "science"
+  ],
+  "title": "Anthropic mathematician uses Claude to crack famous Millennium Prize problem",
+  "snippet": "An Anthropic mathematician claims he has proved the Riemann hypothesis with the help of Claude. The breakthrough highlights how AI agents are transforming complex scientific research and problem-solving.",
+  "bullets": [
+   "Anthropic mathematician Levent Alpöge claims he used Claude to prove the Riemann hypothesis [1].",
+   "The Riemann hypothesis is one of seven Millennium Prize problems with a $1 million bounty [1].",
+   "Alpöge states that the proof has been published on his website and presented in Lean [1]."
+  ],
+  "report": [
+   {
+    "h": "AI Math Breakthrough",
+    "t": "An Anthropic mathematician claims to have solved the Riemann hypothesis using Claude [1]. The famously difficult puzzle concerns the distribution of prime numbers [1]."
+   },
+   {
+    "h": "Verification Process",
+    "t": "The solution must withstand at least two years of scrutiny and general acceptance before claiming the $1 million prize [1]. Alpöge says the proof also extends to the Generalized Riemann Hypothesis [1]."
+   },
+   {
+    "h": "Growing AI Impact",
+    "t": "This follows other recent artificial intelligence achievements in tackling complex mathematical challenges like the Navier-Stokes problem [1]. Researchers are racing to adapt to this rapidly shifting landscape [1]."
+   }
+  ],
+  "why": "This shows how advanced AI tools and autonomous agents can accelerate complex problem-solving and create new opportunities in technical fields.",
+  "tryit": "Explore how advanced language models can break down complex multi-step logic problems by testing Claude on a research task in your business today.",
+  "qa": [
+   [
+    "What problem was solved?",
+    "The mathematician claims to have proved the Riemann hypothesis with the help of Claude [1]."
+   ],
+   [
+    "Has the solution been independently verified?",
+    "The solution has not yet been publicly accepted by the Clay Mathematics Institute or verified independently [1]."
+   ],
+   [
+    "What is the prize for solving a Millennium Prize problem?",
+    "The Clay Mathematics Institute offers a $1 million bounty for each problem solved [1]."
+   ],
+   [
+    "How long must a solution be scrutinized?",
+    "A proposed solution must withstand at least two years of scrutiny before it can be considered for the prize [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "status": 200,
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "domain": "theverge.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T16:34:13Z",
+  "addedAt": "2026-11-20T17:41:32Z",
+  "audio": "audio/anthropic-mathematician-uses-claude-to-crack-fam.mp3",
+  "image": {
+   "src": "img/anthropic-mathematician-uses-claude-to-crack-fam.jpg",
+   "credit": "The Verge",
+   "license": "© The Verge, shown with credit",
+   "page": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  }
+ },
+ {
+  "id": "apple-is-reportedly-developing-a-new-ai-agent-to",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "focus"
+  ],
+  "title": "Apple is reportedly developing a new AI agent to run your Mac",
+  "snippet": "Apple is hiring a senior engineering manager to build an AI agent that can browse the web, run commands, and write code [1].",
+  "bullets": [
+   "A recent job listing points to Apple building an AI agent that can use a computer like a human [1].",
+   "The tool is designed to move fluidly between apps, browsers, command lines, and APIs [1].",
+   "Apple is also updating macOS 27.3 to add warnings for third-party agents requesting full access [1]."
+  ],
+  "report": [
+   {
+    "h": "New AI Agent",
+    "t": "Apple is working on an in-house AI agent to conduct computer work on behalf of users [1]. A job listing calls for a senior engineering manager to oversee this project [1]."
+   },
+   {
+    "h": "Multi-Step Tasks",
+    "t": "The agent aims to browse the web, work across apps, run commands, and write or debug code [1]. It is designed to choose the right tool for each step of a task [1]."
+   },
+   {
+    "h": "Tightened Controls",
+    "t": "Apple is making it harder for third-party agents to gain total control over its computers [1]. Upcoming software updates will deploy warnings discouraging users from granting full access to external apps [1]."
+   }
+  ],
+  "why": "Understanding how major tech platforms build and restrict AI agents helps you anticipate workflow tools and security changes for your business [1].",
+  "tryit": "Review your current Mac app permissions and watch for upcoming macOS 27.3 security prompts regarding third-party tool access [1].",
+  "qa": [
+   [
+    "What is Apple developing?",
+    "Apple is reportedly working on an AI agent that can use a computer to conduct work like browsing the web and writing code [1]."
+   ],
+   [
+    "How was the project discovered?",
+    "Bloomberg spotted a job listing posted by Apple for a senior engineering manager [1]."
+   ],
+   [
+    "What will happen with third-party agents?",
+    "Apple is making it harder for third-party agents to gain total control over its computers with new macOS warnings [1]."
+   ],
+   [
+    "When might the Apple service arrive?",
+    "Bloomberg writes that Apple has eyed introducing the service as soon as the end of next year, though it remains in early stages [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "status": 200,
+    "title": "Apple may be developing its own AI agent that runs your Mac | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T00:56:01Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/apple-is-reportedly-developing-a-new-ai-agent-to.mp3",
+  "image": {
+   "src": "img/apple-is-reportedly-developing-a-new-ai-agent-to.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
+  }
+ },
+ {
+  "id": "keep-your-google-ai-mode-searches-private-with-n",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "privacy",
+   "google",
+   "search",
+   "technology"
+  ],
+  "title": "Keep your Google AI mode searches private with new temporary threads",
+  "snippet": "Google now offers temporary threads for AI Mode searches, keeping your conversations detached from your account and history.",
+  "bullets": [
+   "Temporary threads detach your searches from your Google account and history [1].",
+   "These chats disappear after 24 hours and are not saved to your chat history [1].",
+   "The new feature is currently rolling out around the world in all languages [1]."
+  ],
+  "report": [
+   {
+    "h": "New Privacy Option",
+    "t": "Google has added temporary threads to its AI Mode searches. This setting keeps your searches detached from your Google account and past preferences [1]."
+   },
+   {
+    "h": "How They Work",
+    "t": "Temporary threads disappear after 24 hours and are not saved to your chat history [1]. They are not used to train Google generative AI models unless you submit feedback [1]."
+   },
+   {
+    "h": "Global Rollout",
+    "t": "The feature is currently rolling out around the world in all languages on both desktop and mobile browsers [1]."
+   }
+  ],
+  "why": "This tool helps you keep your experimental AI prompts, business ideas, or personal queries private and unlinked from your main account.",
+  "tryit": "Head to the regular Google search page, click the AI Mode button, look for the icon with a pen hovering over a dotted circle, and click it to start a temporary thread.",
+  "qa": [
+   [
+    "What happens to temporary threads?",
+    "They do not get saved to your Google account and disappear after 24 hours [1]."
+   ],
+   [
+    "Are temporary threads used for AI training?",
+    "They won't be used to train Google's generative AI models unless you submit feedback or it is necessary for safety purposes [1]."
+   ],
+   [
+    "Where is this feature available?",
+    "It is currently rolling out around the world in all languages to Google search on both desktop and mobile browsers [1]."
+   ],
+   [
+    "Can I use voice or images in a temporary thread?",
+    "Yes, you can select the plus icon to upload an image or file, or select the microphone icon to speak instead of type [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads/",
+    "status": 200,
+    "title": "Your Google AI mode searches can stay private now with 'temporary threads' - here's how - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T17:12:31Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/keep-your-google-ai-mode-searches-private-with-n.mp3",
+  "image": {
+   "src": "img/keep-your-google-ai-mode-searches-private-with-n.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Google-AI-Mode-temporary-thread.jpg"
+  }
+ },
+ {
+  "id": "google-is-losing-its-monopoly-how-to-adapt-your",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "negotiation",
+   "economics"
+  ],
+  "title": "Google Is Losing Its Monopoly: How to Adapt Your Business Strategy",
+  "snippet": "Google is losing its monopoly on human intent as discovery shifts to conversational AI and answer engines. To stay visible, businesses must adapt from traditional keyword SEO to Answer Engine Optimization.",
+  "bullets": [
+   "Google is losing its absolute control over the web front door as discovery decentralizes to conversational interfaces [1].",
+   "Answer Engine Optimization requires primary data, original research, and proprietary case studies instead of commodity definitions [1].",
+   "Modern language models weigh verified public consensus across niche communities, review aggregators, and professional directories [1]."
+  ],
+  "report": [
+   {
+    "h": "The Shift in Discovery",
+    "t": "Consumers are moving away from traditional search bars and ten blue links toward ambient operating systems and vertical AI engines [1]. This behavioral pivot drives massive market shifts and fractures Google absolute control over the web front door [1]."
+   },
+   {
+    "h": "Answer Engine Optimization",
+    "t": "Standard keyword density fails when users type complex, conversational prompts [1]. Winning citation share inside modern language models requires integrated on-page and off-page architecture built around four core pillars [1]."
+   },
+   {
+    "h": "Four Core Pillars",
+    "t": "Success demands information efficiency through primary data, strong off-page brand association, verified public consensus, and multi-engine management [1]. Managing how your brand is perceived across tools like Perplexity, ChatGPT, and Claude is now foundational to enterprise value [1]."
+   }
+  ],
+  "why": "Understanding how AI search engines ingest and attribute sources helps you run your business efficiently and capture new market opportunities as consumer search habits change.",
+  "tryit": "Check if AI search engines currently cite your content by getting your AEO and GEO readiness score for free to see how your website stacks up [1].",
+  "qa": [
+   [
+    "What is replacing standard keyword searches?",
+    "Complex, conversational prompts are replacing rigid keywords as users shift to conversational interfaces [1]."
+   ],
+   [
+    "What does AEO stand for?",
+    "AEO stands for Answer Engine Optimization, which is also referred to as Generative Engine Optimization [1]."
+   ],
+   [
+    "Why do large language models bypass certain content?",
+    "Models bypass content that regurgitates commodity definitions in favor of primary data and original research [1]."
+   ],
+   [
+    "Which engines should businesses manage their brand perception across?",
+    "Businesses should manage visibility across multiple distinct engines such as Perplexity, ChatGPT, Claude, Gemini, and Meta AI [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/building-a-business/seo-isnt-over-but-google-is-losing-its-monopoly-heres-how-to-adapt",
+    "status": 200,
+    "title": "SEO Isn't Over, But Google Is Losing Its Monopoly. Here's How to Adapt.",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T19:30:00Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/google-is-losing-its-monopoly-how-to-adapt-your.mp3",
+  "image": {
+   "src": "img/google-is-losing-its-monopoly-how-to-adapt-your.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/building-a-business/seo-isnt-over-but-google-is-losing-its-monopoly-heres-how-to-adapt",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/google-losing-its-monopoly-1126-g-1250142483.jpg"
+  }
+ },
+ {
+  "id": "could-artificial-intelligence-change-how-lenders",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "economics"
+  ],
+  "title": "Could artificial intelligence change how lenders judge credit scores and affordability?",
+  "snippet": "Traditional credit scores are backward-looking and can disadvantage thin-file applicants. New AI tools and start-ups are exploring whether broader financial data can improve lending decisions.",
+  "bullets": [
+   "Traditional credit scores are backward-looking and do not always predict future affordability [1].",
+   "AI-powered lending firms like Upstart and Zest AI use machine learning to assess thousands of variables [1].",
+   "Experts highlight the need for strong guardrails to prevent AI from replicating past biases [1]."
+  ],
+  "report": [
+   {
+    "h": "The limits of scores",
+    "t": "Traditional credit scores look backward at past actions rather than measuring actual current affordability [1]. This approach can disadvantage young people and recent immigrants who lack a deep credit history [1]."
+   },
+   {
+    "h": "New AI models",
+    "t": "Firms like Upstart and Zest AI use machine learning to analyse thousands of variables and expand access to credit [1]. Major agencies like Experian, Equifax, and TransUnion are also integrating AI tools from companies like OpenAI and Google [1]."
+   },
+   {
+    "h": "Calls for safeguards",
+    "t": "Experts like Professor Sandra Wachter warn that automated systems require strict guardrails to avoid repeating past biases [1]. Consumers also need clear ways to understand and challenge decisions made about them [1]."
+   }
+  ],
+  "why": "Understanding how machine-learning models evaluate financial data helps you navigate modern lending criteria and new financial technology tools.",
+  "tryit": "Review your current credit report across the main reference agencies to check for accuracy and ensure no errors are dragging down your score [1].",
+  "qa": [
+   [
+    "What are the big three credit agencies in the UK?",
+    "Experian, Equifax, and TransUnion [1]."
+   ],
+   [
+    "How many variables do Upstart's machine-learning models look at?",
+    "More than 2,500 variables [1]."
+   ],
+   [
+    "When was Noggin HQ authorised by the FCA?",
+    "In June [1]."
+   ],
+   [
+    "Who founded Noggin HQ in 2021?",
+    "Evangeline Atkinson founded the credit reference agency [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo",
+    "status": 200,
+    "title": "Should AI be judging our credit worthiness?",
+    "domain": "bbc.co.uk"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T07:32:19Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/could-artificial-intelligence-change-how-lenders.mp3",
+  "image": {
+   "src": "img/could-artificial-intelligence-change-how-lenders.jpg",
+   "credit": "BBC News",
+   "license": "© BBC News, shown with credit",
+   "page": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo",
+   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg"
+  }
+ },
+ {
+  "id": "how-ai-and-platform-changes-are-reshaping-produc",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "money",
+   "negotiation"
+  ],
+  "title": "How AI and Platform Changes Are Reshaping Product Recommendations and Business",
+  "snippet": "Platforms like Reddit are using AI-powered product discovery to shorten the journey from recommendation to purchase. Brands must focus on accurate data, community context, and independent customer relationships.",
+  "bullets": [
+   "Reddit is testing AI-powered product discovery to summarize discussions and send shoppers directly to retailers [1].",
+   "TransUnion research found that 71% of U.S. Reddit gamers purchased a gaming product based on platform information [1].",
+   "Reddit's ad revenue grew by 54% in the third quarter of 2026 [1]."
+  ],
+  "report": [
+   {
+    "h": "AI in Discovery",
+    "t": "Platforms are building AI tools that summarize community discussions and guide shoppers to retailers in fewer steps [1]. This changes how products are found and recommended online [1]."
+   },
+   {
+    "h": "The Value of Context",
+    "t": "Community context often proves more valuable than a broad audience count when customers make high-intent decisions [1]. Research shows high conversion rates among users discussing specific products in dedicated communities [1]."
+   },
+   {
+    "h": "Strategy for Brands",
+    "t": "Businesses need accurate product details wherever AI assistants and customers look for information [1]. Companies should build direct relationships beyond platforms to maintain independence [1]."
+   }
+  ],
+  "why": "Understanding how AI search and platform discovery tools shape customer decisions helps you position your business or offers where high-intent buyers are looking.",
+  "tryit": "Audit your business or project online descriptions to ensure product details, pricing, and differentiators are completely accurate wherever AI search tools or directories might look.",
+  "qa": [
+   [
+    "What is Reddit testing for product discovery?",
+    "Reddit is testing AI-powered product discovery that can summarize community discussions, show product information, and send shoppers to a retailer [1]."
+   ],
+   [
+    "How much did Reddit's ad revenue grow?",
+    "Reddit’s ad revenue climbed 54% in the third quarter of 2026 [1]."
+   ],
+   [
+    "What research did Reddit cite regarding gamers?",
+    "Reddit cited TransUnion research finding that 71% of U.S. Reddit gamers had purchased a gaming product based on information found on the platform [1]."
+   ],
+   [
+    "What is a key recommendation for brands?",
+    "Ensure product details, pricing, availability, and differentiators are accurate wherever they appear for AI assistants and customers [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/building-a-business/how-the-race-to-control-product-recommendations-is-changing-the-creator-economy",
+    "status": 200,
+    "title": "How the Race to Control Product Recommendations Is Changing the Creator Economy",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T19:30:00Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/how-ai-and-platform-changes-are-reshaping-produc.mp3",
+  "image": {
+   "src": "img/how-ai-and-platform-changes-are-reshaping-produc.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/building-a-business/how-the-race-to-control-product-recommendations-is-changing-the-creator-economy",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/product-recommendations-1126-g-2281513026.jpg"
+  }
+ },
+ {
+  "id": "mindfulness-therapy-alters-brain-waves-and-impro",
+  "cat": "mind",
+  "tags": [
+   "mind",
+   "psychology",
+   "health",
+   "science"
+  ],
+  "title": "Mindfulness therapy alters brain waves and improves depression symptom relief",
+  "snippet": "Combining mindfulness training with standard antidepressant medication reduces depression symptoms more effectively than medication alone. New research shows this approach also alters electrical activity in brain networks associated with emotional regulation.",
+  "bullets": [
+   "Adding mindfulness-based cognitive therapy to standard medication reduces depression symptoms more effectively than medication alone [1].",
+   "Participants who received mindfulness therapy showed a decrease in theta wave activity and distinct shifts in alpha and beta waves [1].",
+   "The study recruited 66 women diagnosed with major depressive disorder who were prescribed a standard daily dose of citalopram [1]."
+  ],
+  "report": [
+   {
+    "h": "Mindfulness Combined With Medication",
+    "t": "A study published in the journal Mindfulness examined 66 women diagnosed with major depressive disorder [1]. All participants received a standard daily dose of the antidepressant citalopram, while one group also attended an eight-week mindfulness-based cognitive therapy program [1]."
+   },
+   {
+    "h": "Steeper Symptom Reduction",
+    "t": "Both groups experienced fewer symptoms over the eight-week period, but the mindfulness group reported a steeper decline in their depression scores [1]. Statistical analysis confirmed the mindfulness program had a robust effect on reducing symptoms beyond medication alone [1]."
+   },
+   {
+    "h": "Brain Wave Changes",
+    "t": "Electroencephalogram data revealed distinct neurological differences, including decreased theta wave activity and increased upper alpha and low beta wave activity in the mindfulness group [1]. These electrical shifts point to a neurological reorganization that aids emotional regulation [1]."
+   }
+  ],
+  "why": "Understanding how mindfulness physically changes brain wave activity and supports emotional regulation offers concrete validation for incorporating meditation practices into daily mental health routines.",
+  "tryit": "Explore starting a daily mindfulness practice using guided body scans or deep breathing audio recordings to help observe your thoughts without judgment [1].",
+  "qa": [
+   [
+    "What is mindfulness-based cognitive therapy?",
+    "It is a group-based psychosocial treatment combining meditation practices with cognitive behavioral strategies designed to break negative thinking patterns [1]."
+   ],
+   [
+    "How many participants were in the study?",
+    "The study recruited 66 women diagnosed with major depressive disorder [1]."
+   ],
+   [
+    "What medication were the participants prescribed?",
+    "All participants were prescribed a standard daily dose of the antidepressant citalopram [1]."
+   ],
+   [
+    "What brain wave changes were observed in the mindfulness group?",
+    "The mindfulness group showed decreased theta wave activity and increases in upper alpha and low beta wave activity [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/mindfulness-therapy-alters-brain-waves-in-major-depressive-disorder/",
+    "status": 200,
+    "title": "Mindfulness therapy alters brain waves in major depressive disorder",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T12:00:22Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/mindfulness-therapy-alters-brain-waves-and-impro.mp3",
+  "image": {
+   "src": "img/mindfulness-therapy-alters-brain-waves-and-impro.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/mindfulness-therapy-alters-brain-waves-in-major-depressive-disorder/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2025/09/meditation-1.jpg"
+  }
+ },
+ {
+  "id": "montreal-transforms-noisy-city-park-using-soothi",
+  "cat": "calm",
+  "tags": [
+   "science",
+   "psychology",
+   "calm"
+  ],
+  "title": "Montreal Transforms Noisy City Park Using Soothing Ocean Soundscapes",
+  "snippet": "Researchers and artists are using natural audio recordings like ocean waves and bird calls to transform a noisy Montreal pocket park into a calm, welcoming community space.",
+  "bullets": [
+   "Parc des Madelinots sits beside a busy junction and suffered from constant vehicle traffic noise [1].",
+   "An installation of four minimalist speakers plays recordings of coastal waves and bird calls taken on the Magdalen Islands [1].",
+   "A 2024 study found that natural sounds like birdsong and rainfall reduced passenger stress levels by 35 percent [1]."
+  ],
+  "report": [
+   {
+    "h": "Fighting Noise With Nature",
+    "t": "Researchers at McGill University and other partners teamed up to install hidden speakers in a small Montreal pocket park [1]. Instead of trying to silence the heavy traffic, they broadcast recordings of ocean waves and birds to create a soothing atmosphere [1]."
+   },
+   {
+    "h": "Honoring Cultural Heritage",
+    "t": "The audio pays homage to the Magdalen Islands diaspora who relocated to the Verdun district [1]. The sound project helps preserve cultural memory while improving the quality of the urban experience [1]."
+   },
+   {
+    "h": "Real World Results",
+    "t": "Local residents have reported that the rejuvenating sounds transform their experience of the space [1]. The initial pilot project has now become a permanent fixture in the neighborhood [1]."
+   }
+  ],
+  "why": "Discovering how environmental soundscapes can calm the mind offers a fresh, creative way to manage sensory overload and focus in everyday environments.",
+  "tryit": "Notice the background sounds around you today and test playing a short track of natural waves or rainfall through headphones to reset your focus.",
+  "qa": [
+   [
+    "What sounds are played in the Montreal park?",
+    "The speakers play recordings of ocean waves, bird calls, and the crunch of sand [1]."
+   ],
+   [
+    "When was the speaker installation set up?",
+    "The minimalist, mounted speakers were set up in 2023 [1]."
+   ],
+   [
+    "Who helped create the sound project?",
+    "The project was a collaboration involving McGill University researchers, France's Ircam, and the studio Paysages [1]."
+   ],
+   [
+    "What did a 2024 study find about natural sounds?",
+    "A study of 2,000 passengers by South Western Railway found natural sounds reduced stress levels by 35 percent [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
+    "status": 200,
+    "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
+    "domain": "reasonstobecheerful.world"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T08:00:05Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/montreal-transforms-noisy-city-park-using-soothi.mp3",
+  "image": {
+   "src": "img/montreal-transforms-noisy-city-park-using-soothi.jpg",
+   "credit": "Reasons to be Cheerful",
+   "license": "© Reasons to be Cheerful, shown with credit",
+   "page": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
+   "from_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/shutterstock_2774082999-scaled.jpg"
+  }
+ },
+ {
+  "id": "solo-meerkats-navigate-expertly-across-unfamilia",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "animals",
+   "psychology"
+  ],
+  "title": "Solo Meerkats Navigate Expertly Across Unfamiliar Desert Terrain",
+  "snippet": "Researchers discovered that individual meerkats can navigate expertly back home on their own, even when dropped in territory they have not visited for a month.",
+  "bullets": [
+   "Biologists tested individual meerkats by driving them 1.5 kilometers from their pack and releasing them [1].",
+   "Out of 20 meerkats tested, 18 made a direct line back home, to their group, or to the capture site [1].",
+   "Neither age nor individual experience seemed to factor into these impressive homing skills [1]."
+  ],
+  "report": [
+   {
+    "h": "Desert Release Experiment",
+    "t": "Biologists captured meerkats, fitted them with GPS trackers, and released them 1.5 kilometers away from their pack [1]. The goal was to test how well individual animals could find their way back home [1]."
+   },
+   {
+    "h": "Surprising Independence",
+    "t": "While meerkats are famously cooperative, 18 out of 20 solo subjects made a beeline straight back home [1]. Researchers think these animals rely on visual cues, such as scanning the landscape on their hind legs, alongside mental maps [1]."
+   },
+   {
+    "h": "Unfamiliar Territory",
+    "t": "The test animals were dropped into territory they had not visited for at least 30 days to ensure it was not too easy for them [1]. Neither age nor individual tracking experience changed their strong ability to orient themselves [1]."
+   }
+  ],
+  "why": "This fascinating study highlights how built-in mental mapping and spatial awareness allow individuals to solve complex problems independently.",
+  "tryit": "Search online for the Journal of Experimental Biology to read more about animal navigation studies.",
+  "qa": [
+   [
+    "How far were the meerkats driven?",
+    "They were driven 1.5 kilometers from their pack [1]."
+   ],
+   [
+    "How many meerkats successfully returned?",
+    "Out of 20 individual meerkats tested, 18 made a beeline back home [1]."
+   ],
+   [
+    "Did age affect their navigation skills?",
+    "Neither age nor individual experience seemed to factor into the homing skills [1]."
+   ],
+   [
+    "How long had it been since they visited the release territory?",
+    "They had not visited the territory for at least 30 days [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencenews.org/article/solo-meerkats-can-find-their-way-home",
+    "status": 200,
+    "title": "Solo meerkats can find their way back home",
+    "domain": "sciencenews.org"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T23:00:45Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/solo-meerkats-navigate-expertly-across-unfamilia.mp3",
+  "image": {
+   "src": "img/solo-meerkats-navigate-expertly-across-unfamilia.jpg",
+   "credit": "Science News",
+   "license": "© Science News, shown with credit",
+   "page": "https://www.sciencenews.org/article/solo-meerkats-can-find-their-way-home",
+   "from_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/111926_MR_meerkat_main.jpg"
+  }
+ },
+ {
+  "id": "uk-heat-pump-grants-and-solar-panel-rules-explai",
+  "cat": "money",
+  "tags": [
+   "business",
+   "money",
+   "tax",
+   "economics"
+  ],
+  "title": "UK Heat Pump Grants And Solar Panel Rules Explained For Property Owners",
+  "snippet": "New regulations require developers to install heat pumps and solar panels in all new homes in England. Homeowners can also access grants and loans to make properties more energy efficient.",
+  "bullets": [
+   "Developers must install heat pumps and solar panels in all new homes in England [1].",
+   "The Boiler Upgrade Scheme provides a grant of £7,500 towards an air source or ground source heat pump in England and Wales [1].",
+   "The innovation charity Nesta estimates that the average home with a heat pump and solar panels could cut its annual energy bill by nearly £1,000 [1]."
+  ],
+  "report": [
+   {
+    "h": "Grants and Funding",
+    "t": "Homeowners in England and Wales can access a £7,500 grant through the Boiler Upgrade Scheme for heat pumps [1]. Properties no longer need existing loft or cavity wall insulation to qualify, saving around £2,500 in upfront costs [1]."
+   },
+   {
+    "h": "Costs and Savings",
+    "t": "Households typically spend an additional £5,000 on top of the grant, though long term energy bills can fall [1]. Nesta estimates that combining a heat pump with solar panels could cut annual energy bills by nearly £1,000 [1]."
+   },
+   {
+    "h": "Installation Rules",
+    "t": "Planning permission rules requiring a distance of 1m from a neighbour's property have been dropped to encourage uptake [1]. Newer devices must remain below 42db, which is similar to the noise level of a fridge [1]."
+   }
+  ],
+  "why": "Understanding green technology grants and property regulations helps you spot opportunities when evaluating UK property investments or home upgrades.",
+  "tryit": "Check if your property qualifies for the Boiler Upgrade Scheme by reviewing your Energy Performance Certificate and visiting the official government guidance pages.",
+  "qa": [
+   [
+    "How much is the Boiler Upgrade Scheme grant?",
+    "It provides a grant of £7,500 towards the cost of an air source or ground source heat pump for homeowners in England and Wales [1]."
+   ],
+   [
+    "Do you still need loft insulation to qualify for the grant?",
+    "No, properties no longer need to have existing loft or cavity wall insulation to qualify for the grant [1]."
+   ],
+   [
+    "How loud are modern heat pumps?",
+    "Newer devices are quieter and must be below 42db, which is similar to the level of noise produced by a fridge [1]."
+   ],
+   [
+    "What is the VAT rate on heat pump installations?",
+    "Heat pump installations currently benefit from a 0% VAT rate, though this is set to rise to 5% in April 2027 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o",
+    "status": 200,
+    "title": "What are heat pumps, what do they cost and are they noisy?",
+    "domain": "bbc.co.uk"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T10:24:52Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/uk-heat-pump-grants-and-solar-panel-rules-explai.mp3",
+  "image": {
+   "src": "img/uk-heat-pump-grants-and-solar-panel-rules-explai.jpg",
+   "credit": "BBC News",
+   "license": "© BBC News, shown with credit",
+   "page": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o",
+   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3050/live/eba8d700-de8a-11f1-b88b-3f1671ea859d.jpg"
+  }
+ },
+ {
+  "id": "how-to-navigate-pension-drawdown-and-flexible-re",
+  "cat": "money",
+  "tags": [
+   "money",
+   "economics",
+   "business",
+   "tax"
+  ],
+  "title": "How to navigate pension drawdown and flexible retirement options",
+  "snippet": "Pension drawdown offers a flexible way to take income in retirement while keeping your money invested in funds and shares. Learn how it compares to annuities and how you can mix and match options.",
+  "bullets": [
+   "You can enter drawdown or buy an annuity once you reach the age of 55, rising to 57 in April 2028 [1].",
+   "Sales of drawdown plans have increased significantly, with 400,000 plans sold in the last year [1].",
+   "People can end up with about 13 pension pots by the time they come to retirement [1]."
+  ],
+  "report": [
+   {
+    "h": "The basics of drawdown",
+    "t": "Pension drawdown lets you keep your money invested in funds and shares while taking a flexible income as you choose [1]. Ten years ago, strict income rules meant only affluent people used drawdown, but modern pension freedoms have made it much more common [1]."
+   },
+   {
+    "h": "Weighing pros and cons",
+    "t": "Drawdown offers the flexibility to take out tax-free lump sums or adjust your withdrawals for big expenses like house repairs [1]. However, you must manage your investments actively, and drawing out too much too quickly risks depleting your pot [1]."
+   },
+   {
+    "h": "Mixing and matching",
+    "t": "Annuities provide a guaranteed income for life, so choosing between drawdown and annuities is not strictly an either-or decision [1]. Many people combine both approaches or use multiple pension pots to balance security and flexibility [1]."
+   }
+  ],
+  "why": "Understanding pension options helps you plan your long-term wealth strategy and handle multiple retirement pots with confidence.",
+  "tryit": "Review your existing pension pots and check what age you will be eligible to access your defined contribution pensions.",
+  "qa": [
+   [
+    "What is the earliest age you can go into pension drawdown?",
+    "You can go into drawdown at age 55, which is rising to 57 in April 2028 [1]."
+   ],
+   [
+    "What are the main advantages of pension drawdown?",
+    "Drawdown lets you keep your money invested so it can grow, and gives you the flexibility to withdraw money as needed [1]."
+   ],
+   [
+    "Is it possible to combine annuities and drawdown?",
+    "Yes, you can mix and match by having a guaranteed income from an annuity alongside a flexible drawdown pot [1]."
+   ],
+   [
+    "How many pension pots do people typically have by retirement?",
+    "People might end up with about 13 pension pots by the time they come to retirement [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/how-to-navigate-pension-drawdown-when-you-retire-aJi5Z3A3dVL4",
+    "status": 200,
+    "title": "How to navigate pension drawdown when you retire - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T07:28:00Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/how-to-navigate-pension-drawdown-and-flexible-re.mp3",
+  "image": {
+   "src": "img/how-to-navigate-pension-drawdown-and-flexible-re.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/how-to-navigate-pension-drawdown-when-you-retire-aJi5Z3A3dVL4",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/a98f88590675-retirementpodcast.jpg"
+  }
+ },
+ {
+  "id": "walking-england-s-jurassic-coast-solo-offers-pea",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "england",
+   "walking",
+   "nature",
+   "solitude"
+  ],
+  "title": "Walking England's Jurassic Coast Solo Offers Peace And Incredible Scenery",
+  "snippet": "Discover the tranquility of a solo three-day walk along England's South West Coast Path. Experience stunning limestone arches, fossil-rich cliffs, and comfortable village stops.",
+  "bullets": [
+   "The writer walked a three-day solo route along a stretch of England's South West Coast Path known as the Jurassic Coast [1].",
+   "The trail spans picturesque locations from Weymouth to Bournemouth across Dorset, passing famous landmarks like Durdle Door and Old Harry Rocks [1].",
+   "Walking from town to town allows travelers to enjoy the outdoors by day and sleep indoors at local B&Bs by night [1]."
+  ],
+  "report": [
+   {
+    "h": "Coastal Walking Route",
+    "t": "The South West Coast Path is part of the newly created King Charles III England Coast Path network [1]. This route gives walkers access to incredible rock formations and fossil-rich areas shaped by millions of years of waves [1]."
+   },
+   {
+    "h": "Comfortable Solo Travel",
+    "t": "England's dense population makes town-to-town and hotel-to-hotel walking very approachable without needing heavy camping gear [1]. Solo walking feels manageable here because phone service, public transit, and medical care are always close by [1]."
+   },
+   {
+    "h": "Highlights And History",
+    "t": "The journey features historic seaside towns, charming limestone villages, and natural wonders like Durdle Door and Old Harry Rocks [1]. Walkers can finish their trip by taking a short ferry ride and catching a bus back toward London [1]."
+   }
+  ],
+  "why": "Planning a solo trip in the UK offers a refreshing way to unwind, clear your head, and experience stunning landscapes without heavy logistics.",
+  "tryit": "Plan a short weekend coastal walk using local public transport and book a cozy village B&B to enjoy nature by day and a hot shower by night.",
+  "qa": [
+   [
+    "How long was the walking trip?",
+    "It was a three-day solo walking trip [1]."
+   ],
+   [
+    "What is the region called due to its ancient fossils?",
+    "The region is named the Jurassic Coast [1]."
+   ],
+   [
+    "Where did the walk start and end?",
+    "The walk started in Weymouth and finished near Bournemouth [1]."
+   ],
+   [
+    "Where did the writer stay overnight?",
+    "The writer stayed at places like the Old Barn Inn in West Lulworth and Rivendell Guest House in Swanage [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/i-walked-solo-along-englands-rolling-cliffs-for-three-days",
+    "status": 200,
+    "title": "I Walked Solo Along England’s Rolling Cliffs for Three Days",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T21:57:40Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/walking-england-s-jurassic-coast-solo-offers-pea.mp3",
+  "image": {
+   "src": "img/walking-england-s-jurassic-coast-solo-offers-pea.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/i-walked-solo-along-englands-rolling-cliffs-for-three-days",
+   "from_url": "https://media.cntraveler.com/photos/6afdca5e734e873aaa4a3057/16:9/w_1280,c_limit/GettyImages-2293527340%20(1).jpg"
+  }
+ },
+ {
+  "id": "new-plasma-technique-extracts-oxygen-from-simula",
+  "cat": "news",
+  "tags": [
+   "science",
+   "space"
+  ],
+  "title": "New plasma technique extracts oxygen from simulated lunar soil",
+  "snippet": "Researchers used semiconductor manufacturing technology to extract oxygen from simulated lunar soil. This breakthrough could help future space exploration by providing oxygen for breathing and rocket propellant.",
+  "bullets": [
+   "Researchers used semiconductor manufacturing technology to extract oxygen and oxygen-containing products from simulated lunar soil [1].",
+   "Transporting large quantities of oxygen from Earth would be very expensive, so space agencies want to obtain it directly on the Moon [1].",
+   "The team used a lower-temperature approach inspired by plasma-processing, which is already well established in industry [1]."
+  ],
+  "report": [
+   {
+    "h": "Plasma Processing",
+    "t": "Researchers applied a plasma-processing technique, commonly used in semiconductor manufacturing, to artificial moon soil [1]. This method successfully released oxygen and oxygen-containing gaseous products [1]."
+   },
+   {
+    "h": "Overcoming Challenges",
+    "t": "Lunar oxygen is chemically bound within minerals, and extracting it usually requires large amounts of energy [1]. The plasma method offers a dry process with lower operating temperatures than conventional extraction methods [1]."
+   },
+   {
+    "h": "Future Research",
+    "t": "While oxygen yields must increase substantially before practical lunar systems work, the approach builds on decades of existing industrial knowledge [1]. Future studies may also explore extracting other useful elements like silicon, aluminium, and iron [1]."
+   }
+  ],
+  "why": "This surprising crossover between microchip manufacturing and space exploration shows how existing industrial tools can solve entirely new challenges.",
+  "tryit": "Read the article to understand how existing earth-bound technologies can be adapted for entirely new industries.",
+  "qa": [
+   [
+    "Why is extracting oxygen on the Moon important?",
+    "Astronauts need oxygen to breathe, and it is a major component of rocket propellant [1]."
+   ],
+   [
+    "What technology was used to extract the oxygen?",
+    "Researchers used plasma-processing technology commonly employed in semiconductor manufacturing [1]."
+   ],
+   [
+    "What are the practical benefits of this method?",
+    "It is a dry process that avoids handling liquid reagents in space and operates at lower temperatures than conventional methods [1]."
+   ],
+   [
+    "What other elements are found in lunar soil?",
+    "Lunar soil contains useful elements including silicon, aluminium, and iron [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://theconversation.com/a-new-way-to-extract-oxygen-from-lunar-soil-could-support-bases-on-the-moon-295600",
+    "status": 200,
+    "title": "A new way to extract oxygen from lunar soil could support bases on the Moon",
+    "domain": "theconversation.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T10:09:50Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/new-plasma-technique-extracts-oxygen-from-simula.mp3",
+  "image": {
+   "src": "img/new-plasma-technique-extracts-oxygen-from-simula.jpg",
+   "credit": "The Conversation",
+   "license": "© The Conversation, shown with credit",
+   "page": "https://theconversation.com/a-new-way-to-extract-oxygen-from-lunar-soil-could-support-bases-on-the-moon-295600",
+   "from_url": "https://images.theconversation.com/files/770642/original/file-20261108-64-u9jo3p.jpg?ixlib=rb-4.1.1&rect=0%2C348%2C3496%2C1748&q=45&auto=format&w=1356&h=668&fit=crop"
+  }
+ },
+ {
+  "id": "how-to-stack-cashback-and-price-matches-for-blac",
+  "cat": "money",
+  "tags": [
+   "money",
+   "business",
+   "negotiation",
+   "economics"
+  ],
+  "title": "How to stack cashback and price matches for Black Friday savings",
+  "snippet": "Discover practical ways to maximise your savings ahead of 27 November by doubling up on bank rewards, cashback sites, and retail price guarantees.",
+  "bullets": [
+   "Black Friday falls on 27 November, and retailers are already offering early discounts [1].",
+   "You can combine bank rewards and cashback sites like Quidco to earn up to 14% back at retailers like Currys [1].",
+   "John Lewis and AO.com offer price match guarantees that let you claim back the difference if prices drop [1]."
+  ],
+  "report": [
+   {
+    "h": "Bank and card rewards",
+    "t": "Major banks such as Lloyds, Santander, and Barclays offer cashback schemes linked to specific retail partners [1]. You typically need to activate these deals in your banking app before making a purchase [1]."
+   },
+   {
+    "h": "Stacking cashback sites",
+    "t": "Platforms like Quidco and TopCashback let you earn extra money on purchases or gift cards [1]. You can often combine these sites with your bank card to stack rewards [1]."
+   },
+   {
+    "h": "Price match guarantees",
+    "t": "Retailers like John Lewis match prices from a list of 25 other shops and refund differences if spotted within seven days [1]. AO.com and Currys also offer extended price guarantees for the festive period [1]."
+   }
+  ],
+  "why": "This helps you secure the best value on planned purchases by using smart stacking methods.",
+  "tryit": "Open your banking app today to check for activated cashback offers before buying anything.",
+  "qa": [
+   [
+    "When is Black Friday?",
+    "Black Friday falls on 27 November [1]."
+   ],
+   [
+    "How can I stack cashback at Currys?",
+    "Activate the Barclaycard offer and then use your plastic to shop via Quidco to get 14% back in total [1]."
+   ],
+   [
+    "What does the John Lewis price promise cover?",
+    "It pledges to match prices charged by a list of 25 other retailers including Currys and Argos [1]."
+   ],
+   [
+    "Do I need to activate bank deals before spending?",
+    "Typically you have to activate the deals before you spend money, though pending items might still qualify [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/business/2026/nov/20/black-friday-uk-bargain-cashback-gift-cards-savings",
+    "status": 200,
+    "title": "How to get a bigger Black Friday bargain: cashback, price matches and gift cards",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T10:39:26Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/how-to-stack-cashback-and-price-matches-for-blac.mp3",
+  "image": {
+   "src": "img/how-to-stack-cashback-and-price-matches-for-blac.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/business/2026/nov/20/black-friday-uk-bargain-cashback-gift-cards-savings",
+   "from_url": "https://i.guim.co.uk/img/media/a54f19586c57b6b64033675db5e9bf974e42c888/478_0_3833_3067/master/3833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2dbd89d6625360946637870c9d93003d"
+  }
+ },
+ {
+  "id": "on-tour-with-radio-free-alice-life-on-the-road",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "music",
+   "london",
+   "new york",
+   "routines"
+  ],
+  "title": "On Tour with Radio Free Alice: Life on the Road",
+  "snippet": "We talk to Melbourne post-punk band Radio Free Alice about touring life, guerrilla gigs, and keeping routines on the move.",
+  "bullets": [
+   "The Melbourne-based post-punk band Radio Free Alice built an underground reputation on guerrilla gigs in unusual locations [1].",
+   "Vocalist and guitarist Noah Learmonth says he misses having a regular morning swimming or gym exercise routine while on tour [1].",
+   "The band's upcoming North America tour kicks off in San Francisco on February 24, 2027 [1]."
+  ],
+  "report": [
+   {
+    "h": "Life on the Road",
+    "t": "The four-piece post-punk band Radio Free Alice are touring extensively, playing venues from London railway bridges to New York pop-ups [1]. Vocalist Noah Learmonth spends his time travelling in a Sprinter van, watching his bandmates sleep, read, and play video games [1]."
+   },
+   {
+    "h": "Touring Realities",
+    "t": "Life between cities involves staying in budget hotels like Ibis or Travelodge in Europe and Motel 6 locations in America [1]. The band members manage tight schedules managed by their tour manager, Ben, who ensures their live sound hits the mark every night [1]."
+   },
+   {
+    "h": "Missing Routine",
+    "t": "When asked what he misses most off tour, Learmonth admits he misses his daily Melbourne swim or gym session that keeps him focused [1]. Meanwhile, London has left a major impression on the band after a massive sold-out show there [1]."
+   }
+  ],
+  "why": "It shows how creative artists manage chaotic travel schedules and highlights the challenge of maintaining focus and healthy routines when away from home.",
+  "tryit": "Set a simple anchor routine for your next trip by packing one essential grounding item, like a favourite book or reliable headphones, just like the band members do.",
+  "qa": [
+   [
+    "When does the North America tour kick off?",
+    "It kicks off in San Francisco on February 24, 2027 [1]."
+   ],
+   [
+    "What do the band members miss when touring?",
+    "Noah Learmonth misses having a regular exercise routine like morning swimming or going to the gym [1]."
+   ],
+   [
+    "Where do they stay when touring Europe?",
+    "They stay in budget hotels like an Ibis or a Travelodge [1]."
+   ],
+   [
+    "What is Noah Learmonth's preferred seat in the van?",
+    "He prefers the window seat behind the van's little table, facing forward [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/on-tour-australian-indie-darling-radio-free-alice-on-tour-life-guerrilla-gigs-and-american-motels",
+    "status": 200,
+    "title": "On Tour: Australian Indie Darling Radio Free Alice on Tour Life, Guerrilla Gigs, and American Motels",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T21:52:22Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/on-tour-with-radio-free-alice-life-on-the-road.mp3",
+  "image": {
+   "src": "img/on-tour-with-radio-free-alice-life-on-the-road.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/on-tour-australian-indie-darling-radio-free-alice-on-tour-life-guerrilla-gigs-and-american-motels",
+   "from_url": "https://media.cntraveler.com/photos/6aff6124152cb684e8e9ed0b/16:9/w_1280,c_limit/Screenshot%202026-11-11%20at%201.10.26%E2%80%AFPM.jpg"
+  }
+ },
+ {
+  "id": "how-world-toilet-day-is-changing-global-sanitati",
+  "cat": "news",
+  "tags": [
+   "science",
+   "world",
+   "health"
+  ],
+  "title": "How World Toilet Day is changing global sanitation and health",
+  "snippet": "Founded twenty-five years ago by Jack Sim, World Toilet Day aims to break taboos and expand access to safe sanitation. Since 2015, 1.2 billion people have gained access to safely managed sanitation systems [1].",
+  "bullets": [
+   "Jack Sim founded World Toilet Day twenty-five years ago after inspiration from his prime minister [1].",
+   "Since 2015, 1.2 billion people have gained access to safely managed sanitation systems [1].",
+   "Experts suggest community-led funding approaches to create scalable local sanitation solutions [1]."
+  ],
+  "report": [
+   {
+    "h": "Global Sanitation Goals",
+    "t": "World Toilet Day tackles the critical need for clean toilets and proper sewage conveyance to prevent diseases like cholera and polio [1]."
+   },
+   {
+    "h": "Gender Equality Link",
+    "t": "Lack of safe facilities disproportionately affects women and girls, impacting education attendance and exposing them to safety risks [1]."
+   },
+   {
+    "h": "Progress and Solutions",
+    "t": "The United Nations declared safe sanitation a human right, and 1.2 billion people have gained access to managed sanitation since 2015 [1]."
+   }
+  ],
+  "why": "It is a fascinating look at how global public health initiatives solve fundamental infrastructure challenges and improve millions of lives [1].",
+  "tryit": "Pause today to appreciate your access to clean facilities and reflect on how community-led funding can solve big global challenges [1].",
+  "qa": [
+   [
+    "Who founded World Toilet Day?",
+    "Singapore entrepreneur Jack Sim founded it twenty-five years ago [1]."
+   ],
+   [
+    "When did it become an official U.N. day?",
+    "It was enshrined as an official U.N. day in 2013 [1]."
+   ],
+   [
+    "How many people have gained access to managed sanitation since 2015?",
+    "Since 2015, 1.2 billion people have become part of the world of safely managed sanitation systems [1]."
+   ],
+   [
+    "What diseases are linked to sewage?",
+    "Cholera and polio are linked to sewage [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
+    "status": 200,
+    "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
+    "domain": "npr.org"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T12:26:31Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/how-world-toilet-day-is-changing-global-sanitati.mp3",
+  "image": {
+   "src": "img/how-world-toilet-day-is-changing-global-sanitati.jpg",
+   "credit": "NPR",
+   "license": "© NPR, shown with credit",
+   "page": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
+   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2Feb%2F764cabba472e977ee14a47682acb%2Fworld-toilet-day-jack-sim-8884.jpg"
+  }
+ },
+ {
+  "id": "clear-steps-to-cancel-your-amazon-prime-membersh",
+  "cat": "money",
+  "tags": [
+   "money",
+   "business",
+   "economics"
+  ],
+  "title": "Clear Steps to Cancel Your Amazon Prime Membership Fast",
+  "snippet": "Learn how to easily cancel your Amazon Prime subscription through a web browser or mobile app using direct steps.",
+  "bullets": [
+   "You can cancel your Prime subscription via web browser by logging into your account and selecting the Prime Membership option [1].",
+   "Amazon requires multiple clicks to finalize your cancellation to give you chances to change your mind [1].",
+   "You can also cancel via the Amazon Shopping app by tapping Help under the bottom right menu [1]."
+  ],
+  "report": [
+   {
+    "h": "Web Browser Steps",
+    "t": "Hover over the Accounts and Lists menu and select the Prime Membership option to begin [1]. Then tap the End Your Amazon Prime Membership button and click the orange cancel button to finish [1]."
+   },
+   {
+    "h": "Mobile App Steps",
+    "t": "Open the Amazon Shopping app and click the three horizontal lines on the bottom right [1]. Slide the top bar to the end, select Help, and tap the buttons to end your membership [1]."
+   },
+   {
+    "h": "Important Details",
+    "t": "Closing your account will immediately end your access [1]. Amazon also provides an option to pause your benefits and billing temporarily instead of a full cancellation [1]."
+   }
+  ],
+  "why": "Managing subscriptions and recurring expenses helps you keep tight control over your monthly budget and business overhead costs.",
+  "tryit": "Log into your Amazon account right now and navigate to the Prime Membership settings page if you wish to review or cancel your recurring subscription.",
+  "qa": [
+   [
+    "How do I cancel via web browser?",
+    "Hover over Accounts and Lists, select Prime Membership, then follow the prompts to end your subscription [1]."
+   ],
+   [
+    "Can I pause my membership instead?",
+    "Yes, Amazon offers the option to pause your benefits and billing temporarily instead of canceling completely [1]."
+   ],
+   [
+    "Does closing the account stop access right away?",
+    "Yes, closing your account will immediately end your access [1]."
+   ],
+   [
+    "How do I cancel through the mobile app?",
+    "Open the app, tap the three horizontal lines, select Help, and tap the end membership buttons [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://lifehacker.com/how-to-cancel-amazon-prime",
+    "status": 200,
+    "title": "How to Cancel Your Amazon Prime Membership After Black Friday and Cyber Monday",
+    "domain": "lifehacker.com"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T20:00:00Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/clear-steps-to-cancel-your-amazon-prime-membersh.mp3",
+  "image": {
+   "src": "img/clear-steps-to-cancel-your-amazon-prime-membersh.jpg",
+   "credit": "Lifehacker",
+   "license": "© Lifehacker, shown with credit",
+   "page": "https://lifehacker.com/how-to-cancel-amazon-prime",
+   "from_url": "https://lifehacker.com/imagery/articles/01HF2GRAFWZ95BVYWGFVS9A6SE/hero-image.fill.size_1200x675.jpg"
+  }
+ },
+ {
+  "id": "university-students-and-scientists-fight-to-save",
+  "cat": "news",
+  "tags": [
+   "science",
+   "nature",
+   "animals",
+   "business"
+  ],
+  "title": "University Students and Scientists Fight to Save Rare Wildflower From Poachers",
+  "snippet": "Scientists and students at Santa Clara University are successfully breeding a rare, federally endangered succulent called the liveforever to protect it from poachers and habitat loss.",
+  "bullets": [
+   "The Santa Clara Valley dudleya is a rare flowering succulent found only in the Coyote Valley Region [1].",
+   "Scientists collect tiny seeds, check genetic diversity, and breed the plants in captivity for release [1].",
+   "Professor Stephen McCabe created colorful hybrid varieties to sell in nurseries and reduce poaching demand [1]."
+  ],
+  "report": [
+   {
+    "h": "Protecting Rare Plants",
+    "t": "Scientists at Santa Clara University are working hard to save the Santa Clara Valley liveforever from poachers and climate change [1]. This unique succulent is found only in the county near Silicon Valley [1]."
+   },
+   {
+    "h": "Breeding and Genetics",
+    "t": "Dr. Justen Whittall and his students collect tiny seeds to examine genetic diversity in the lab [1]. They successfully breed the plants in captivity so they can later be released safely back into the wild [1]."
+   },
+   {
+    "h": "Market Strategy",
+    "t": "Professor Stephen McCabe hybridized the plant into colorful varieties to sell to local nurseries [1]. This smart approach floods the market to knock down demand for wild, poached specimens [1]."
+   }
+  ],
+  "why": "This story highlights creative market-based problem solving and persistence in conservation, which offers a fresh perspective on tackling tricky challenges.",
+  "tryit": "Read more about local conservation projects in your area to see how universities or community groups protect native species.",
+  "qa": [
+   [
+    "Where is the liveforever plant found?",
+    "It is only found in the Coyote Valley Region of Santa Clara County [1]."
+   ],
+   [
+    "Why is the plant endangered?",
+    "It faces threats from plant poachers, climate change, and habitat loss [1]."
+   ],
+   [
+    "How are scientists breeding the plant?",
+    "Dr. Justen Whittall and his students collect tiny seeds, test their genetic diversity, and breed them in a lab [1]."
+   ],
+   [
+    "What is the market-based strategy to stop poaching?",
+    "Professor Stephen McCabe hybridized the plant into colorful varieties for plant nurseries to flood the market and reduce wild poaching demand [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
+    "status": 200,
+    "title": "Students Fighting to Save Poached Plant Species That Only Exists Near Their Campus",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T19:30:50Z",
+  "addedAt": "2026-11-20T10:36:36Z",
+  "audio": "audio/university-students-and-scientists-fight-to-save.mp3",
+  "image": {
+   "src": "img/university-students-and-scientists-fight-to-save.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Santa-Clara-Valley-Habitat-Authority.jpg"
+  }
+ },
+ {
   "id": "meta-plans-to-price-new-muse-charm-ai-device-at",
   "cat": "ai",
   "tags": [
@@ -17077,145 +18614,6 @@
   }
  },
  {
-  "id": "why-tech-giants-are-cutting-daily-ai-budgets-and",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business"
-  ],
-  "title": "Why Tech Giants Are Cutting Daily AI Budgets and Token Limits",
-  "snippet": "Apple and other major tech companies are tightening internal spending limits on AI tools to lower costs while keeping technology central to their work [1].",
-  "bullets": [
-   "Apple engineers saw their daily AI spending limits fall from $300 to $200 last month [1].",
-   "Non-engineering teams face spending caps that could drop from $100 down to $25 daily [1].",
-   "Other companies like Uber, Meta, and Tesla have also introduced strict token and spending limits for staff [1]."
-  ],
-  "report": [
-   {
-    "h": "Apple Cuts AI Limits",
-    "t": "Apple is tightening internal spending limits on AI tools to lower overall costs [1]. Some engineers saw their daily allowance drop from $300 to $200 last month [1]."
-   },
-   {
-    "h": "Wider Industry Trend",
-    "t": "Other tech giants are also watching their AI spending closely [1]. Uber, Meta, and Tesla have all introduced strict limits on employee token spending [1]."
-   },
-   {
-    "h": "Rising Overall Costs",
-    "t": "Despite cutting internal employee allowances, Apple reported that its research and development spending rose 32% in fiscal year 2026 to reach $45.8 billion [1]."
-   }
-  ],
-  "why": "It shows how major businesses balance powerful AI tools with strict cost control, offering a practical lesson in managing token usage efficiently.",
-  "tryit": "Review your own daily AI token usage and set a clear prompt structure to complete tasks using fewer resources.",
-  "qa": [
-   [
-    "What caused Apple to lower its AI spending limits?",
-    "Apple is tightening internal spending limits as it looks to cut costs and lower expenses [1]."
-   ],
-   [
-    "How much did engineering limits fall to?",
-    "Some Apple engineers saw their daily AI spending limits fall from $300 to $200 last month [1]."
-   ],
-   [
-    "What are tokens?",
-    "Tokens are the pieces of text and other data that AI models process to complete a request [1]."
-   ],
-   [
-    "Which other companies have limited AI spending?",
-    "Uber, Meta, and Tesla have all implemented spending or token limits for their employees [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.entrepreneur.com/business-news/apple-is-reportedly-slashing-ai-budgets-heres-why-employees-are-worried",
-    "status": 200,
-    "title": "Apple Is Reportedly Slashing AI Budgets. Here’s Why Employees Are Worried.",
-    "domain": "entrepreneur.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T15:54:00Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/why-tech-giants-are-cutting-daily-ai-budgets-and.mp3",
-  "image": {
-   "src": "img/why-tech-giants-are-cutting-daily-ai-budgets-and.jpg",
-   "credit": "Entrepreneur",
-   "license": "© Entrepreneur, shown with credit",
-   "page": "https://www.entrepreneur.com/business-news/apple-is-reportedly-slashing-ai-budgets-heres-why-employees-are-worried",
-   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/John-Ternus-1126_g2301899342-new.jpg"
-  }
- },
- {
-  "id": "palo-alto-networks-in-talks-to-buy-ai-security-s",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "negotiation"
-  ],
-  "title": "Palo Alto Networks in Talks to Buy AI Security Startup Clutch for 500M",
-  "snippet": "Palo Alto Networks is negotiating to buy AI agent security startup Clutch Security for 500 million dollars in cash plus milestone payouts. The three-year-old startup has reached close to 10 million dollars in annual recurring revenue.",
-  "bullets": [
-   "Palo Alto Networks is in talks to acquire Clutch Security for 500 million dollars in cash plus milestone payouts [1].",
-   "Clutch was last valued at 85 million dollars when it raised a 20 million dollar Series A round in January 2025 [1].",
-   "The startup is currently approaching 10 million dollars in annual recurring revenue [1]."
-  ],
-  "report": [
-   {
-    "h": "Big Tech Acquisitions",
-    "t": "Palo Alto Networks is in talks to buy AI agent security startup Clutch Security for 500 million dollars in cash plus milestone-based payouts [1]. The cybersecurity giant has ramped up its dealmaking this year in response to rising AI-driven cyberattacks [1]."
-   },
-   {
-    "h": "Rapid Growth Valuation",
-    "t": "Clutch was last valued at 85 million dollars during a 20 million dollar Series A round in January 2025 [1]. The startup is approaching 10 million dollars in annual recurring revenue, pricing the potential deal at about 50 times its ARR [1]."
-   },
-   {
-    "h": "Wider Market Activity",
-    "t": "This is part of a broader wave where competitors like Cyera acquired Oasis Security for 1 billion dollars and Cisco bought Astrix for roughly 400 million dollars [1]. Palo Alto Networks has made multiple acquisitions this year, including Console for 500 million dollars and Embrace for 325 million dollars [1]."
-   }
-  ],
-  "why": "This shows how rapidly the market values specialized AI agent security and software solutions, offering strong commercial opportunities for founders building in the AI infrastructure space.",
-  "tryit": "Explore the security needs of AI agents by researching how companies like Clutch protect automated systems, and map out where similar gaps exist in your own business ideas.",
-  "qa": [
-   [
-    "How much is Palo Alto Networks paying for Clutch?",
-    "The talks are for 500 million dollars in cash plus additional milestone-based payouts [1]."
-   ],
-   [
-    "What is Clutch Security's annual recurring revenue?",
-    "The startup is currently approaching 10 million dollars in annual recurring revenue [1]."
-   ],
-   [
-    "What was Clutch valued at previously?",
-    "Clutch was last valued at 85 million dollars when it raised a 20 million dollar Series A round in January 2025 [1]."
-   ],
-   [
-    "Who led the Series A round for Clutch?",
-    "The round was led by Lightspeed and SignalFire [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-    "status": 200,
-    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T06:28:32Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/palo-alto-networks-in-talks-to-buy-ai-security-s.mp3",
-  "image": {
-   "src": "img/palo-alto-networks-in-talks-to-buy-ai-security-s.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800"
-  }
- },
- {
   "id": "new-psychology-research-challenges-standard-theo",
   "cat": "mind",
   "tags": [
@@ -17423,75 +18821,6 @@
    "license": "© Good News Network, shown with credit",
    "page": "https://www.goodnewsnetwork.org/events061109/",
    "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/Kasparov-after-winning-in-1985-CC-3.0.-BY-SA-The-Kasparov-Agency.jpg"
-  }
- },
- {
-  "id": "scientists-discover-the-first-known-ancient-mari",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "animals",
-   "history"
-  ],
-  "title": "Scientists discover the first known ancient marine amphibian fossil",
-  "snippet": "Researchers found that the ancient armored amphibian Gerrothorax maritimus lived in the ocean 237 million years ago, challenging long-held rules about modern amphibians.",
-  "bullets": [
-   "Gerrothorax maritimus is the first amphibian known to have lived without access to land or freshwater [1].",
-   "Chemical analysis of strontium in the fossil bones proved that the creature ate seafood and drank seawater [1].",
-   "Unlike modern amphibians, this creature retained fishy breathing gills and was covered in bony body armor [1]."
-  ],
-  "report": [
-   {
-    "h": "Ancient Seafloor Dweller",
-    "t": "Scientists found evidence that an ancient amphibian with a flattened body and upturned eyes stalked the seafloor 237 million years ago [1]. Today, more than 8,000 amphibians are known, and none live solely in saltwater [1]."
-   },
-   {
-    "h": "Chemical Proof",
-    "t": "Researchers inspected two well-preserved fossils measuring around 70 centimeters found in what was once a seabed [1]. Levels of strontium in the fossil bones matched the Triassic ocean, confirming the animal lived there [1]."
-   },
-   {
-    "h": "Unique Adaptations",
-    "t": "The creature had bony armor that prevented water loss and retained a fishy breathing strategy suitable for deep life [1]. Its jaw lifted upward like a toilet seat to unleash a suction attack on prey [1]."
-   }
-  ],
-  "why": "This surprising scientific discovery highlights how nature constantly defies expected rules, offering a fascinating look into prehistoric evolution.",
-  "tryit": "Read the full study in Nature Ecology & Evolution to explore how ancient creatures adapted to extreme environments [1].",
-  "qa": [
-   [
-    "When did Gerrothorax maritimus live?",
-    "The creature lived 237 million years ago [1]."
-   ],
-   [
-    "How long was each specimen?",
-    "Each creature measured around 70 centimeters, about as long as a skateboard [1]."
-   ],
-   [
-    "How did scientists prove it lived in the ocean?",
-    "Levels of different forms of strontium in the fossil bones matched those of the Triassic ocean [1]."
-   ],
-   [
-    "How did the creature hunt?",
-    "Its jaw lifted upward like a toilet seat so it could unleash a suction attack on fish and small creatures [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencenews.org/article/first-marine-amphibian-ancient-fossil",
-    "status": 200,
-    "title": "This armored amphibian once lived and hunted on the seafloor",
-    "domain": "sciencenews.org"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T14:00:00Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/scientists-discover-the-first-known-ancient-mari.mp3",
-  "image": {
-   "src": "img/scientists-discover-the-first-known-ancient-mari.jpg",
-   "credit": "Science News",
-   "license": "© Science News, shown with credit",
-   "page": "https://www.sciencenews.org/article/first-marine-amphibian-ancient-fossil",
-   "from_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/103026_AS_marineamphibian_main.jpg"
   }
  },
  {
@@ -17983,74 +19312,6 @@
   }
  },
  {
-  "id": "professional-volleyball-player-alex-ukkelberg-co",
-  "cat": "mind",
-  "tags": [
-   "mind",
-   "psychology"
-  ],
-  "title": "Professional volleyball player Alex Ukkelberg comes out publicly as gay",
-  "snippet": "Professional beach volleyball player Alex Ukkelberg has shared that he is gay in an Instagram Reel, marking his first public statement on his sexuality after more than a decade out to family and friends.",
-  "bullets": [
-   "Alex Ukkelberg posted an Instagram Reel on five November to share that he is gay [1].",
-   "He had previously been out to family and friends for more than 10 years [1].",
-   "Fellow beach volleyball professional Charlie Siragusa congratulated him and noted he is part of a gay athletes group chat called GayVP [1]."
-  ],
-  "report": [
-   {
-    "h": "Public coming out",
-    "t": "Professional beach volleyball player Alex Ukkelberg published an Instagram Reel on five November announcing he is gay [1]. It was the first time he had spoken publicly about his sexuality, despite being out to family and friends for more than 10 years [1]."
-   },
-   {
-    "h": "Overcoming internal conflict",
-    "t": "Growing up in a competitive environment playing sports like basketball and football, Ukkelberg initially thought he could not be gay [1]. After struggling with his mental health for quite a few years, he decided to figure out how to balance his sport and living authentically [1]."
-   },
-   {
-    "h": "Support from peers",
-    "t": "Fellow beach volleyball professional Charlie Siragusa congratulated Ukkelberg and praised his ability to honour different parts of his identity [1]. Both athletes are part of a gay athletes group chat named GayVP [1]."
-   }
-  ],
-  "why": "It matters to you as a reminder of the power of self-acceptance and living authentically, even when public visibility feels daunting.",
-  "tryit": "Reflect on one area of your life where being fully authentic could bring you greater peace.",
-  "qa": [
-   [
-    "When did Alex Ukkelberg come out publicly?",
-    "He posted an Instagram Reel on five November [1]."
-   ],
-   [
-    "How long had he been out to family and friends?",
-    "For more than 10 years [1]."
-   ],
-   [
-    "What sports did he play growing up?",
-    "He played basketball, football, baseball and ran track [1]."
-   ],
-   [
-    "What is the name of the gay athletes group chat he is in?",
-    "It is called GayVP [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.attitude.co.uk/news/pro-beach-volleyball-player-alex-ukkelber-comes-out-gay-539334/",
-    "status": 200,
-    "title": "Pro beach volleyball player Alex Ukkelberg comes out as gay",
-    "domain": "attitude.co.uk"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T16:21:38Z",
-  "addedAt": "2026-11-08T23:32:56Z",
-  "audio": "audio/professional-volleyball-player-alex-ukkelberg-co.mp3",
-  "image": {
-   "src": "img/professional-volleyball-player-alex-ukkelberg-co.jpg",
-   "credit": "Attitude",
-   "license": "© Attitude, shown with credit",
-   "page": "https://www.attitude.co.uk/news/pro-beach-volleyball-player-alex-ukkelber-comes-out-gay-539334/",
-   "from_url": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2026/11/Untitled-06-November-2026-at-16.21.43-1.webp"
-  }
- },
- {
   "id": "air-ambulance-service-rethinks-retention-through",
   "cat": "news",
   "tags": [
@@ -18331,76 +19592,6 @@
   }
  },
  {
-  "id": "why-ai-spending-is-stalling-even-as-token-volume",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "negotiation"
-  ],
-  "title": "Why AI Spending Is Stalling Even As Token Volumes Rise",
-  "snippet": "New data from Ramp shows that corporate AI spending flatlined over late summer despite rising token volumes. Intense price competition and savvier customers are creating a clear buyer's market for AI tools.",
-  "bullets": [
-   "Token spend grew only 1.5% across August and September according to Ramp data [1].",
-   "OpenAI and Anthropic have both cut API prices significantly in an ongoing price war [1].",
-   "Companies are getting thriftier by using routers and budgets to route tasks to cheaper models [1]."
-  ],
-  "report": [
-   {
-    "h": "Spending Flatlines",
-    "t": "A new report from Ramp shows AI spending flatlined over late summer even as token volumes rose [1]. Token spend only grew 1.5% across August and September compared to a 42% jump in July [1]."
-   },
-   {
-    "h": "Price Wars And Thrifty Users",
-    "t": "The slowdown is driven by intense price cuts from major model providers and smarter customers [1]. Companies are learning to use routers and budgets to offload tasks to cheaper light models [1]."
-   },
-   {
-    "h": "A Buyer's Market",
-    "t": "With cheap open-source models and lightweight routing tools like Jev entering the market, it has become a buyer's market [1]. Businesses can now accomplish workloads at a much lower cost [1]."
-   }
-  ],
-  "why": "This matters because falling API costs and intense competition mean you can build or run AI agents and business automation for a fraction of last year's budget.",
-  "tryit": "Review your current software stack and test open-source models or budget-friendly routing tools to cut your monthly AI API costs.",
-  "qa": [
-   [
-    "Why is AI spending stalling?",
-    "Spending is stalling due to fierce price competition, provider discounts, and companies getting better at using cheaper models [1]."
-   ],
-   [
-    "How much do median firms spend on AI per employee?",
-    "Median firms spend $12-$15 per employee per month [1]."
-   ],
-   [
-    "What is Jev?",
-    "Jev is a new lightweight tool for choosing between predetermined outputs that is increasingly among top performers on Ramp [1]."
-   ],
-   [
-    "Did spending recover in October?",
-    "Yes, October data saw token spend up 8.9% from September 23 to October 23 [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "status": 200,
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T15:54:47Z",
-  "addedAt": "2026-11-08T17:31:37Z",
-  "audio": "audio/why-ai-spending-is-stalling-even-as-token-volume.mp3",
-  "image": {
-   "src": "img/why-ai-spending-is-stalling-even-as-token-volume.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779"
-  }
- },
- {
   "id": "new-report-reveals-ai-accelerating-its-own-devel",
   "cat": "ai",
   "tags": [
@@ -18468,75 +19659,6 @@
    "license": "© The Verge, shown with credit",
    "page": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
    "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
-  }
- },
- {
-  "id": "why-companies-hire-externally-for-ai-jobs-despit",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "money"
-  ],
-  "title": "Why companies hire externally for AI jobs despite trusting internal staff",
-  "snippet": "New research shows 92% of HR leaders believe current staff can be trained for AI roles, yet half of companies still hire outside.",
-  "bullets": [
-   "A study by Careerminds reveals that 92% of HR professionals believe existing employees can be reskilled for artificial intelligence roles [1].",
-   "Despite this confidence, 51% of HR professionals and 47% of managers report hiring externally for new AI positions [1].",
-   "External hiring can cost three to five times more than filling comparable roles internally and takes up to 20 days longer [1]."
-  ],
-  "report": [
-   {
-    "h": "The AI Redeployment Gap",
-    "t": "Research published by Careerminds shows a clear disconnect between belief and action in corporate AI hiring [1]. While 88% of people managers agree that internal staff can adapt, many organizations still look outward for new talent [1]."
-   },
-   {
-    "h": "Barriers To Reskilling",
-    "t": "Tracking internal skills proves difficult for many companies, with 43% of HR professionals citing limited visibility as a barrier [1]. This lack of clear skill tracking stops leaders from moving current workers into new roles [1]."
-   },
-   {
-    "h": "Industry Differences",
-    "t": "Response to AI workforce needs varies, with technology and telecom hiring externally 15% more often than redeploying [1]. Meanwhile, media and entertainment focuses more on internal moves, with 56% of HR pros reporting staff redeployment [1]."
-   }
-  ],
-  "why": "Understanding how companies approach AI staffing highlights opportunities to pitch internal automation projects or position your own AI skill set for higher-value internal roles.",
-  "tryit": "Review your current workplace skills and identify one repetitive task you could automate with an AI tool this week, then pitch the efficiency gain to your manager.",
-  "qa": [
-   [
-    "What percentage of HR professionals believe employees can be reskilled for AI roles?",
-    "92% of HR professionals believe employees within their organizations could be reskilled for AI-related roles [1]."
-   ],
-   [
-    "What percentage of HR professionals report that their organizations hire externally for AI positions?",
-    "51% of HR professionals report that their organizations are hiring externally for new AI-related positions [1]."
-   ],
-   [
-    "How many people managers and HR professionals were surveyed in the research?",
-    "The research surveyed 595 US HR professionals and 547 US people managers [1]."
-   ],
-   [
-    "How much more expensive can external hiring be compared to internal filling?",
-    "External hiring can cost three to five times more than filling comparable roles internally [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
-    "status": 200,
-    "title": "92% of HR say staff can train for AI jobs - but half of companies still hire outside - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T15:41:05Z",
-  "addedAt": "2026-11-08T17:31:37Z",
-  "audio": "audio/why-companies-hire-externally-for-ai-jobs-despit.mp3",
-  "image": {
-   "src": "img/why-companies-hire-externally-for-ai-jobs-despit.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1443552841_1ccb6d.jpg"
   }
  },
  {
@@ -18743,143 +19865,6 @@
    "license": "© Mental Floss, shown with credit",
    "page": "https://www.mentalfloss.com/culture/religion/why-diwali-different-dates-every-year",
    "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_46,w_6720,h_3780/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m6pqpe3versk72qnn1.jpg"
-  }
- },
- {
-  "id": "openai-introduces-a-new-gif-generator-feature-in",
-  "cat": "english",
-  "tags": [
-   "ai",
-   "science"
-  ],
-  "title": "OpenAI introduces a new GIF generator feature in ChatGPT",
-  "snippet": "OpenAI has launched a new moving images feature for ChatGPT that lets you turn text prompts or photos into animated GIFs. While complex movements still look strange, it is a fun tool for making lighthearted memes.",
-  "bullets": [
-   "OpenAI introduced a new GIF support feature in ChatGPT as an animation tool [1].",
-   "You can generate a GIF by giving ChatGPT a detailed prompt or by using your own sketches and images as a base [1].",
-   "You can edit the results by asking ChatGPT to make the GIF longer, shorter, or change the style [1]."
-  ],
-  "report": [
-   {
-    "h": "New Animation Tool",
-    "t": "OpenAI has launched GIF support for ChatGPT as its first moving images feature since Sora was shut down [1]. The tool allows users to turn text prompts or still images into animated GIFs within seconds [1]."
-   },
-   {
-    "h": "Editing And Customisation",
-    "t": "Users can refine their creations by asking ChatGPT to make adjustments such as slowing down transitions, removing objects, or altering the style [1]. The feature works well for simple loops and festive graphics, though complex movements can look unnatural [1]."
-   },
-   {
-    "h": "Human Content Stays Best",
-    "t": "While the tool is fun for casual memes, traditional human-made GIFs from real video clips remain the gold standard for capturing intricate details like steam and bubbles [1]. ChatGPT excels when used for lighthearted, fun animations rather than hyper-realistic physical processes [1]."
-   }
-  ],
-  "why": "It is a fun and creative tool to test out when you want to make quick, custom graphics or memes to share in group chats.",
-  "tryit": "Open ChatGPT, write a detailed prompt for a simple loop or upload one of your own sketches, and use follow-up commands to edit the resulting animation.",
-  "qa": [
-   [
-    "What is the new feature in ChatGPT?",
-    "OpenAI added GIF support, allowing users to generate animated GIFs from text prompts, sketches, or still images [1]."
-   ],
-   [
-    "Can you edit the generated GIFs?",
-    "Yes, you can ask ChatGPT to make the GIF longer or shorter, remove objects, change the style, or slow down transitions [1]."
-   ],
-   [
-    "What does ChatGPT do best with this feature?",
-    "It excels at making fun, lighthearted GIFs and memes where you do not look too closely at complex physical details [1]."
-   ],
-   [
-    "What are the limitations of the tool?",
-    "Complex movements and transitions are not fully nailed down, leading to weird hand shifts and objects appearing unexpectedly [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://lifehacker.com/tech/chatgpts-new-gif-generator-is-fun-but-wont-replace-us-humans",
-    "status": 200,
-    "title": "ChatGPT's New GIF Generator Is Fun, but Won't Replace Us Humans (Yet)",
-    "domain": "lifehacker.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T15:00:00Z",
-  "addedAt": "2026-11-07T23:33:40Z",
-  "audio": "audio/openai-introduces-a-new-gif-generator-feature-in.mp3",
-  "image": {
-   "src": "img/openai-introduces-a-new-gif-generator-feature-in.jpg",
-   "credit": "Lifehacker",
-   "license": "© Lifehacker, shown with credit",
-   "page": "https://lifehacker.com/tech/chatgpts-new-gif-generator-is-fun-but-wont-replace-us-humans",
-   "from_url": "https://lifehacker.com/imagery/articles/01M6RKF1WDG308VAAFPCC293XS/hero-image.fill.size_1200x675.jpg"
-  }
- },
- {
-  "id": "tracing-the-real-locations-of-a-new-chile-film",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "chile",
-   "history"
-  ],
-  "title": "Tracing The Real Locations Of A New Chile Film",
-  "snippet": "Follow the trail of a new film from the streets of Santiago to the moai statues of Rapa Nui. Explore historical sites and filming locations across Chile.",
-  "bullets": [
-   "Abercrombie and Kent launched a 9-day itinerary to follow the trail of the film Wild Horse Nine [1].",
-   "Travelers can visit La Moneda Palace and the Salvador Allende Museum of Solidarity in Santiago [1].",
-   "On Rapa Nui, visitors can see iconic sites like the moai statues at Ahu Akivi and the Iorana Hotel [1]."
-  ],
-  "report": [
-   {
-    "h": "Santiago Beginnings",
-    "t": "The journey starts in Santiago, where visitors can view the historic La Moneda Palace and explore the Salvador Allende Museum of Solidarity [1]. These locations offer deep context into the country's turbulent 1970s history [1]."
-   },
-   {
-    "h": "Rapa Nui Explorations",
-    "t": "Flights bring travelers to Rapa Nui, where local guides lead tours past volcanic stone moai statues and wild horses [1]. Visitors can also view the preserved set at the retro Iorana Hotel [1]."
-   },
-   {
-    "h": "Screen Tourism",
-    "t": "Film-inspired travel is growing in popularity, prompting new tour offerings that connect cinema with real-world history and geography [1]. This route lets travelers experience the landscapes seen on screen firsthand [1]."
-   }
-  ],
-  "why": "This offers a practical blueprint for combining cultural exploration with modern screen tourism on your next trip.",
-  "tryit": "Search for the Abercrombie and Kent 9-day Chile itinerary online to review the scheduled stops and plan your own route.",
-  "qa": [
-   [
-    "What is Wild Horse Nine?",
-    "It is a new dark comedy film written and directed by Martin McDonagh, starring Sam Rockwell and John Malkovich [1]."
-   ],
-   [
-    "Where does the film journey take characters?",
-    "The characters travel from their station in Santiago to the Polynesian island of Rapa Nui [1]."
-   ],
-   [
-    "Which hotel features in the film?",
-    "The family-run Iorana Hotel serves as a filming location where the characters stay [1]."
-   ],
-   [
-    "Who operates the new tour itinerary?",
-    "Tour operator Abercrombie and Kent launched a 9-day itinerary to chase the film's trail [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/tracing-wild-horse-nines-route-through-chile-from-santiago-to-rapa-nui",
-    "status": 200,
-    "title": "Tracing Wild Horse Nine's Route Through Chile—From Santiago to Rapa Nui",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T12:00:00Z",
-  "addedAt": "2026-11-07T23:33:40Z",
-  "audio": "audio/tracing-the-real-locations-of-a-new-chile-film.mp3",
-  "image": {
-   "src": "img/tracing-the-real-locations-of-a-new-chile-film.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/tracing-wild-horse-nines-route-through-chile-from-santiago-to-rapa-nui",
-   "from_url": "https://media.cntraveler.com/photos/6aed01511e91bf061a5e6f2d/16:9/w_1280,c_limit/WHN-01464_V1.jpg"
   }
  },
  {
@@ -19231,564 +20216,6 @@
    "license": "© ScienceDaily, shown with credit",
    "page": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
    "from_url": "https://www.sciencedaily.com/images/1920/happy-elderly-man-coffee.webp"
-  }
- },
- {
-  "id": "geothermal-utilities-power-affordable-housing-wi",
-  "cat": "calm",
-  "tags": [
-   "calm",
-   "science",
-   "money"
-  ],
-  "title": "Geothermal Utilities Power Affordable Housing With Big Energy Savings",
-  "snippet": "A natural gas utility in Vermont is launching a community-scale geothermal project to save customers money. Similar projects have cut energy costs significantly and removed unpredictable household expenses [1].",
-  "bullets": [
-   "Vermont Gas partnered with Dandelion Energy to bring efficient geothermal heating and cooling to an affordable housing development [1].",
-   "A New York apartment case study found geothermal heat pumps reduced energy costs by 40.7% across a 72-unit site [1].",
-   "Drilling for the new Vermont project will begin in early 2027, with residents moving in by the end of the year [1]."
-  ],
-  "report": [
-   {
-    "h": "Geothermal Cost Savings",
-    "t": "Geothermal heat pumps can reduce energy costs by 40.7% across apartment complexes [1]. Residents in one New York site saved approximately $24,000 per year, reaching a quarter-million dollars in total savings [1]."
-   },
-   {
-    "h": "Innovative Utility Deals",
-    "t": "Vermont Gas will directly own the geothermal installations and operate them like gas lines [1]. This allows the developer to use favorable financing conditions to fund the project [1]."
-   },
-   {
-    "h": "Individual System Loops",
-    "t": "The project will provide individual loops of buried pipes to each house instead of a single shared system [1]. This lets frugal residents manage their own energy use without paying for neighbors' consumption [1]."
-   }
-  ],
-  "why": "It shows how practical clean energy innovations can lower living costs and create financial stability for households [1].",
-  "tryit": "Read about community geothermal projects online to see how clean energy tech is developing in your region [1].",
-  "qa": [
-   [
-    "What is the new Vermont project?",
-    "Vermont Gas partnered with Dandelion Energy to install geothermal heating and cooling at the Riggs Meadow affordable housing development [1]."
-   ],
-   [
-    "When will drilling start?",
-    "Drilling into heated pockets of water below the Earth will begin in early 2027 [1]."
-   ],
-   [
-    "How much did New York residents save?",
-    "Residents saw average annual cost savings of approximately $24,000 per year [1]."
-   ],
-   [
-    "How deep are the boreholes?",
-    "A New York apartment complex needed holes a mere 250 feet down [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/geothermal-utilities-power-wave-of-us-affordable-housing-with-40-energy-savings/",
-    "status": 200,
-    "title": "Geothermal Utilities Power Wave of US Affordable Housing with 40% Energy Savings",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T12:30:16Z",
-  "addedAt": "2026-11-07T11:09:09Z",
-  "audio": "audio/geothermal-utilities-power-affordable-housing-wi.mp3",
-  "image": {
-   "src": "img/geothermal-utilities-power-affordable-housing-wi.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/geothermal-utilities-power-wave-of-us-affordable-housing-with-40-energy-savings/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Geothermal-boring-at-Riggs-Meadow-Housing-Development-credit-Dandelion-Energy-released.jpg"
-  }
- },
- {
-  "id": "new-research-suggests-full-fat-dairy-may-not-har",
-  "cat": "health",
-  "tags": [
-   "health",
-   "nutrition",
-   "weight",
-   "science"
-  ],
-  "title": "New research suggests full fat dairy may not harm health",
-  "snippet": "A new study reveals that adults eating three servings of full fat dairy daily for 12 weeks did not experience harmful changes in weight or cholesterol. Participants also showed improvements in blood pressure and nutrient intake [1].",
-  "bullets": [
-   "Adults consuming three servings of full fat dairy daily for 12 weeks showed no harmful changes in body weight or cholesterol [1].",
-   "Participants in the higher dairy groups experienced improvements in blood pressure and higher intake of calcium and protein [1].",
-   "The study involved 74 adults with overweight or obesity tested across three different dietary approaches [1]."
-  ],
-  "report": [
-   {
-    "h": "Study on Dairy",
-    "t": "Researchers at the University of Toronto examined 74 adults with overweight or obesity over a 12 week period [1]. Participants were split into groups following different calorie and dairy intake strategies [1]."
-   },
-   {
-    "h": "Unexpected Results",
-    "t": "Results showed no meaningful differences in weight gain, body composition, or blood cholesterol for those eating full fat dairy [1]. Participants also gained more calcium, protein, and vitamin D along with better blood pressure [1]."
-   },
-   {
-    "h": "The Dairy Matrix",
-    "t": "Scientists suggest the physical structure of food and how nutrients interact during digestion plays a major role [1]. This matrix means whole foods can behave differently than predicted by individual nutrients alone [1]."
-   }
-  ],
-  "why": "It shows that common nutrition rules around fats are evolving, offering reassurance if you enjoy full fat dairy in a balanced diet.",
-  "tryit": "Review your current daily nutrition and speak with a GP or registered dietitian if you want to make changes to your fat or dairy intake.",
-  "qa": [
-   [
-    "How long was the study?",
-    "The study lasted for 12 weeks [1]."
-   ],
-   [
-    "How many people participated?",
-    "The study involved 74 adults with overweight or obesity [1]."
-   ],
-   [
-    "Who led the research?",
-    "The study was led by University of Toronto professor Harvey Anderson [1]."
-   ],
-   [
-    "What nutrients increased in the higher dairy groups?",
-    "Participants consumed more calcium, protein, and vitamin D [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm",
-    "status": 200,
-    "title": "For decades, we were told to avoid full-fat dairy. New research says otherwise",
-    "domain": "sciencedaily.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T05:51:36Z",
-  "addedAt": "2026-11-07T11:09:09Z",
-  "audio": "audio/new-research-suggests-full-fat-dairy-may-not-har.mp3",
-  "image": {
-   "src": "img/new-research-suggests-full-fat-dairy-may-not-har.jpg",
-   "credit": "ScienceDaily",
-   "license": "© ScienceDaily, shown with credit",
-   "page": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm",
-   "from_url": "https://www.sciencedaily.com/images/1920/milk-eggs-butter-cheese-dairy.webp"
-  }
- },
- {
-  "id": "why-sensitive-kids-often-get-blamed-for-family-c",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "mind",
-   "adhd",
-   "self-compassion"
-  ],
-  "title": "Why Sensitive Kids Often Get Blamed for Family Chaos",
-  "snippet": "Many sensitive or neurodivergent children become the family scapegoat simply for reacting to home turbulence. Understanding this role helps replace self-blame with true self-compassion.",
-  "bullets": [
-   "Family therapy uses the term identified patient for a struggling child who absorbs household chaos [1].",
-   "Sensitive children and babies often react strongly to hidden family stress because their nervous systems pick it up [1].",
-   "Recognizing that childhood anxiety was a normal reaction to an unsafe environment helps transform self-blame into self-compassion [1]."
-  ],
-  "report": [
-   {
-    "h": "The Scapegoat Role",
-    "t": "In family therapy, the identified patient is often a sensitive or neurodivergent child blamed for household problems [1]. Other relatives claim they are fine while labeling the child as difficult or too sensitive [1]."
-   },
-   {
-    "h": "Why Children React",
-    "t": "Babies and young children lack emotional regulation skills and immature prefrontal cortices, making them sensitive lightning rods for family tension [1]. Highly sensitive nervous systems absorb unexpressed negative energy like a throbbing headache [1]."
-   },
-   {
-    "h": "Finding Self-Compassion",
-    "t": "Uncovering core emotional needs and examining past environments helps people stop blaming themselves for childhood anxiety [1]. Realizing that any child would struggle in a chaotic home allows adults to build healthy boundaries and self-acceptance [1]."
-   }
-  ],
-  "why": "If you grew up as a sensitive or neurodivergent child absorbing family stress, recognizing this pattern helps you drop old self-blame and practice true self-compassion today.",
-  "tryit": "Reflect on a past family label you carried, and write down one way your younger self was simply reacting to a difficult environment rather than doing anything wrong.",
-  "qa": [
-   [
-    "What is an identified patient?",
-    "It is a concept used in family therapy for the person, often a struggling child, who gets blamed as the problem in the family [1]."
-   ],
-   [
-    "Why do sensitive children react so strongly to family stress?",
-    "Their nervous systems pick up all the negative energy in a room, and their prefrontal cortex for emotional regulation is still undeveloped [1]."
-   ],
-   [
-    "What are core emotional needs in childhood?",
-    "They include needs for love, secure attachment, protection from harm, and feeling valued for who you are [1]."
-   ],
-   [
-    "How can someone move past childhood blame?",
-    "Working with a professional to understand the truth of your childhood helps transform self-blame into self-compassion and assertiveness [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psychologytoday.com/us/blog/the-calm-self/202610/did-you-get-blamed-for-everything-in-your-family",
-    "status": 200,
-    "title": "Did You Get Blamed for Everything in Your Family?",
-    "domain": "psychologytoday.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T15:04:51Z",
-  "addedAt": "2026-11-06T17:39:47Z",
-  "audio": "audio/why-sensitive-kids-often-get-blamed-for-family-c.mp3",
-  "image": {
-   "src": "img/why-sensitive-kids-often-get-blamed-for-family-c.jpg",
-   "credit": "Psychology Today",
-   "license": "© Psychology Today, shown with credit",
-   "page": "https://www.psychologytoday.com/us/blog/the-calm-self/202610/did-you-get-blamed-for-everything-in-your-family",
-   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-10/image_-_pointing_1.png.jpg?itok=iJ_u5X64"
-  }
- },
- {
-  "id": "at-91-julie-andrews-keeps-her-brain-sharp-with-o",
-  "cat": "health",
-  "tags": [
-   "health",
-   "psychology",
-   "science"
-  ],
-  "title": "At 91, Julie Andrews Keeps Her Brain Sharp with One Daily Habit",
-  "snippet": "Julie Andrews credits her creative work and lifelong learning for keeping her mind active at age 91 [1]. Research shows that cognitively stimulating jobs and activities can lower dementia risks and protect brain function [1].",
-  "bullets": [
-   "Participants with cognitively stimulating jobs had an 18 percent lower risk of dementia in a 2021 study [1].",
-   "Older adults who learned multiple new skills over three months showed improved cognitive performance matching much younger adults [1].",
-   "A higher lifetime score for cognitive enrichment was associated with a 38 percent lower risk of Alzheimer's disease [1]."
-  ],
-  "report": [
-   {
-    "h": "Lifelong Learning Benefits",
-    "t": "Research involving more than 100,000 people across the United Kingdom, Europe, and the United States linked stimulating work to an 18 percent lower risk of dementia [1]. Scientists note that cognitive function can decline quickly after retirement, suggesting that mental engagement plays a protective role [1]."
-   },
-   {
-    "h": "Learning New Skills",
-    "t": "A 2023 study found that older adults who learned at least three new skills over three months improved their cognitive performance [1]. Their test scores ended up on par with a separate cohort of much younger adults [1]."
-   },
-   {
-    "h": "Building Cognitive Reserve",
-    "t": "Engaging in activities like reading books, visiting museums, or learning foreign languages helps build a cognitive reserve [1]. This mental exercise protects the aging brain and can delay the onset of cognitive decline [1]."
-   }
-  ],
-  "why": "Challenging your mind with creative projects and new skills builds a strong cognitive reserve, supporting long-term focus and brain health as you age [1].",
-  "tryit": "Pick up a new book or start learning a foreign language today to give your brain a fresh mental workout [1].",
-  "qa": [
-   [
-    "What is Julie Andrews' age?",
-    "Julie Andrews is 91 years old [1]."
-   ],
-   [
-    "What did the 2021 study discover about jobs?",
-    "Participants with cognitively stimulating jobs had an 18 percent lower risk of dementia [1]."
-   ],
-   [
-    "How many skills did older adults learn in the 2023 study?",
-    "They learned at least three new skills over the course of three months [1]."
-   ],
-   [
-    "What percentage of dementia cases can be prevented according to the Lancet Commission?",
-    "Around 45 percent of dementia cases worldwide can be prevented or delayed with lifestyle and health changes [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/at-91-julie-andrews-swears-by-one-habit-linked-to-18-lower-dementia-risk",
-    "status": 200,
-    "title": "At 91, Julie Andrews Swears by One Habit Linked to 18% Lower Dementia Risk",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T01:00:00Z",
-  "addedAt": "2026-11-06T17:39:47Z",
-  "audio": "audio/at-91-julie-andrews-keeps-her-brain-sharp-with-o.mp3",
-  "image": {
-   "src": "img/at-91-julie-andrews-keeps-her-brain-sharp-with-o.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/at-91-julie-andrews-swears-by-one-habit-linked-to-18-lower-dementia-risk",
-   "from_url": "https://www.sciencealert.com/images/2026/10/GettyImages-1402055664-2560x1440-1.jpg"
-  }
- },
- {
-  "id": "uk-employers-will-be-forced-to-put-salaries-on-j",
-  "cat": "money",
-  "tags": [
-   "money",
-   "negotiation",
-   "business",
-   "economics"
-  ],
-  "title": "UK Employers Will Be Forced to Put Salaries on Job Adverts",
-  "snippet": "New government plans will make it a legal requirement for UK employers to publish salaries on job adverts. The move aims to end the frustration of hidden pay and help jobseekers negotiate fairly.",
-  "bullets": [
-   "Employers will face a legal requirement to state salaries when listing new jobs [1].",
-   "Campaigners say publicising pay helps employees know if they are being paid fairly compared with others [1].",
-   "Research shows less than a fifth of employers currently always publish specific salaries [1]."
-  ],
-  "report": [
-   {
-    "h": "New Pay Transparency Rules",
-    "t": "The government plans to make it a legal requirement for companies to publish what they pay on all job adverts [1]. Prime Minister Andy Burnham stated that people should know what a job pays before spending time and effort applying [1]."
-   },
-   {
-    "h": "Tackling Pay Frustration",
-    "t": "Union leaders and campaigners welcomed the measure to remove vague terms like competitive salary from listings [1]. Officials noted that open pay details help prevent lower offers for candidates such as women and young people [1]."
-   },
-   {
-    "h": "Consultation and Next Steps",
-    "t": "Ministers consulted on equal pay measures in July, with 93% of businesses responding positively [1]. Final details on enforcement, company sizes, and exact publication requirements have not yet been decided [1]."
-   }
-  ],
-  "why": "Knowing salary details upfront saves time and gives you clear data when negotiating pay or looking at new business opportunities.",
-  "tryit": "Review your current market rate or job listing practices using salary transparency data to ensure you price roles fairly.",
-  "qa": [
-   [
-    "Who announced the new requirement?",
-    "Andy Burnham announced the plan to force employers to put salaries on job adverts [1]."
-   ],
-   [
-    "Why is this measure being introduced?",
-    "It aims to empower jobseekers and employees, helping them know what a job pays before applying and ensuring fairer pay [1]."
-   ],
-   [
-    "How many businesses responded positively to the consultation?",
-    "A total of 93% of businesses responded positively to the consultation [1]."
-   ],
-   [
-    "What did research by the CIPD find?",
-    "Research found that less than a fifth of employers always published specific salaries [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
-    "status": 200,
-    "title": "Employers to be forced to put salaries on job ads, Andy Burnham announces",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T08:54:40Z",
-  "addedAt": "2026-11-06T17:39:47Z",
-  "audio": "audio/uk-employers-will-be-forced-to-put-salaries-on-j.mp3",
-  "image": {
-   "src": "img/uk-employers-will-be-forced-to-put-salaries-on-j.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
-   "from_url": "https://i.guim.co.uk/img/media/7be38b4c9d96e2e92e9362d0d1df716fa0472332/634_0_4426_3543/master/4426.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d22d966bb13429ec9b189e3d0b420b16"
-  }
- },
- {
-  "id": "three-proven-science-based-strategies-to-help-pr",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "health",
-   "adhd",
-   "focus"
-  ],
-  "title": "Three Proven Science-Based Strategies To Help Prevent And Manage Burnout",
-  "snippet": "Small, daily habit changes can help ward off burnout and improve your mood. A client named Jon used morning walks, diet changes, and phone boundaries to feel better in three weeks [1].",
-  "bullets": [
-   "A survey by the American Psychological Association found that 75% of Americans report physical or emotional stress symptoms [1].",
-   "Another study reported in Forbes found that 66% of Americans feel burned out [1].",
-   "Simple daily adjustments like morning walks and removing phones from the bedroom can significantly improve mood and gut health [1]."
-  ],
-  "report": [
-   {
-    "h": "Understand The Stress",
-    "t": "Surveys show that 75% of Americans report physical or emotional stress symptoms, while 66% feel burned out [1]. Feeling a lack of control over major quality-of-life factors leaves people feeling defeated and unmotivated [1]."
-   },
-   {
-    "h": "Try Small Habits",
-    "t": "Science-based strategies can improve how we respond to stress and prevent burnout [1]. A client named Jon improved his mood and gut health by taking early morning walks, shifting toward a Mediterranean diet, and keeping his phone out of the bedroom [1]."
-   },
-   {
-    "h": "Check Your Health",
-    "t": "If you feel burned out, get a physical exam with bloodwork first to rule out vitamin deficiencies or thyroid problems [1]. Once overall health is checked, small changes over time can reap big benefits [1]."
-   }
-  ],
-  "why": "When juggling multiple demands and focus challenges, morning phone habits can wreck cortisol and sleep. Shifting small routines offers a practical way to protect your mental energy.",
-  "tryit": "Keep your mobile phone out of the bedroom tonight and check your work emails only after taking a morning walk.",
-  "qa": [
-   [
-    "What percentage of Americans report feeling burned out?",
-    "A study reported in Forbes found that 66% of Americans feel burned out [1]."
-   ],
-   [
-    "What did Jon do with his cellphone to help his sleep?",
-    "He kept his phone out of the bedroom and checked it only after his morning walk [1]."
-   ],
-   [
-    "What should you check first if you feel burned out?",
-    "It is good to get a physical exam with bloodwork first to rule out physical causes like a vitamin deficiency or thyroid problem [1]."
-   ],
-   [
-    "How long did it take for Jon to notice improvements?",
-    "After three weeks of implementing these new habits, Jon reported a meaningful improvement in his mood [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psychologytoday.com/us/blog/frazzlebrain/202611/3-proven-ways-to-prevent-burnout",
-    "status": 200,
-    "title": "3 Proven Ways to Prevent Burnout",
-    "domain": "psychologytoday.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T01:54:41Z",
-  "addedAt": "2026-11-06T11:02:58Z",
-  "audio": "audio/three-proven-science-based-strategies-to-help-pr.mp3",
-  "image": {
-   "src": "img/three-proven-science-based-strategies-to-help-pr.jpg",
-   "credit": "Psychology Today",
-   "license": "© Psychology Today, shown with credit",
-   "page": "https://www.psychologytoday.com/us/blog/frazzlebrain/202611/3-proven-ways-to-prevent-burnout",
-   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/resume-genius-f2jmvdnarks-unsplash.jpg?itok=l1qFLh6v"
-  }
- },
- {
-  "id": "skip-commercial-airports-entirely-with-new-priva",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "business",
-   "money",
-   "lifestyle"
-  ],
-  "title": "Skip Commercial Airports Entirely With New Private Terminals",
-  "snippet": "A company called PS lets commercial fliers bypass airport crowds completely using private terminals in Dallas and Miami. Guests get private security, luxury suites, and tarmac rides straight to their plane [1].",
-  "bullets": [
-   "The new 12,200-square-foot PS terminal at Dallas Fort Worth International Airport opened on June 1 [1].",
-   "The Miami terminal spans 34,000 square feet and is housed in a restored historic Pan Am building [1].",
-   "Annual memberships range from $1,250 to $4,850, with per-visit fees starting at $895 [1]."
-  ],
-  "report": [
-   {
-    "h": "Private Airport Terminals",
-    "t": "A service called PS allows commercial airline passengers to skip the main airport terminal entirely. Travelers enjoy private suites, caviar, and direct chauffeur rides across the tarmac to their commercial flights [1]."
-   },
-   {
-    "h": "Expanding US Locations",
-    "t": "After starting in Los Angeles and adding Atlanta, PS launched new terminals at Dallas Fort Worth International Airport and Miami International Airport. The Miami location is built inside a restored former Pan Am headquarters [1]."
-   },
-   {
-    "h": "Costs and Membership",
-    "t": "The service operates on a tiered system with annual memberships costing between $1,250 and $4,850, plus per-visit fees for private suites or shared salon access [1]."
-   }
-  ],
-  "why": "If you enjoy smooth logistics and seamless travel days, understanding premium travel alternatives helps you weigh comfort against cost for your next big trip.",
-  "tryit": "Check out the PS website to review their specific membership tiers and airport locations if you are planning a complex multi-leg journey [1].",
-  "qa": [
-   [
-    "How much does an annual PS membership cost?",
-    "Annual memberships range from $1,250 for the entry-level Salon Membership up to $4,850 for the All Access Membership [1]."
-   ],
-   [
-    "Where are the newest PS terminals located?",
-    "New terminals have recently opened at Dallas Fort Worth International Airport and Miami International Airport [1]."
-   ],
-   [
-    "Who is this service best for?",
-    "It makes the most sense for long flights, complicated routes, and travelers with kids, pets, or heavy luggage [1]."
-   ],
-   [
-    "Do you still go through normal security?",
-    "Guests go through a private TSA security screening located directly inside the PS terminal [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/this-swanky-service-lets-commercial-fliers-skip-the-airport-entirely-and-its-now-available-in-dallas-and-miami",
-    "status": 200,
-    "title": "This Swanky Service Lets Commercial Fliers Skip the Airport Entirely—And It's Now Available in Dallas and Miami",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T10:00:00Z",
-  "addedAt": "2026-11-06T11:02:58Z",
-  "audio": "audio/skip-commercial-airports-entirely-with-new-priva.mp3",
-  "image": {
-   "src": "img/skip-commercial-airports-entirely-with-new-priva.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/this-swanky-service-lets-commercial-fliers-skip-the-airport-entirely-and-its-now-available-in-dallas-and-miami",
-   "from_url": "https://media.cntraveler.com/photos/6aecf37c866a246848fd8e43/16:9/w_1280,c_limit/Miami-20260610_JennaPeffley_ReservePS_MIA_Shot1_EXT_0004.jpg"
-  }
- },
- {
-  "id": "global-nature-restoration-reaches-record-scale-a",
-  "cat": "news",
-  "tags": [
-   "science",
-   "nature",
-   "health",
-   "travel"
-  ],
-  "title": "Global Nature Restoration Reaches Record Scale Across 149 Countries",
-  "snippet": "Wildlife habitats are being restored at the fastest rate ever recorded according to a new UN report. Ecosystems equivalent in size to Kazakhstan are being revitalised across 149 countries.",
-  "bullets": [
-   "A new UN report estimates that 252m hectares of land, marine and freshwater habitats are under active restoration [1].",
-   "Barbados has marked a major health milestone by eliminating mother-to-child transmission of HIV [1].",
-   "Infrastructure projects in England must now boost biodiversity by 10% under rules that came into force this week [1]."
-  ],
-  "report": [
-   {
-    "h": "Record Habitat Restoration",
-    "t": "Ecosystems equivalent in size to Kazakhstan are being revitalised across 149 countries. The UN Environment Programme estimates that 252m hectares of land, marine and freshwater habitats are under active restoration [1]."
-   },
-   {
-    "h": "Barbados HIV Milestone",
-    "t": "Barbados has successfully eliminated mother-to-child transmission of HIV following years of collaboration. Universal healthcare ensured that 98% of pregnant women were tested and treated [1]."
-   },
-   {
-    "h": "New Biodiversity Rules",
-    "t": "Infrastructure projects in England must now boost biodiversity by 10% under new Biodiversity Net Gain rules. This regulation aims to prevent up to 10,000 hectares of habitat loss a year [1]."
-   }
-  ],
-  "why": "It is encouraging to see large-scale positive shifts in global environmental restoration and public health milestones.",
-  "tryit": "Read the full UN report summary online to learn more about global ecosystem recovery projects.",
-  "qa": [
-   [
-    "How much land is under active restoration?",
-    "An estimated 252m hectares of land, marine and freshwater habitats are under active restoration across 149 countries [1]."
-   ],
-   [
-    "What health milestone did Barbados achieve?",
-    "Barbados eliminated mother-to-child transmission of HIV through universal healthcare and widespread testing [1]."
-   ],
-   [
-    "What is the new biodiversity rule in England?",
-    "Infrastructure projects must now deliver a 10% biodiversity uplift and maintain it for 30 years [1]."
-   ],
-   [
-    "How much does annual restoration investment need to increase?",
-    "Investment needs to increase more than four-fold from $64bn to $296bn by 2030 [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.positive.news/society/good-news-stories-from-week-45-of-2026/",
-    "status": 200,
-    "title": "What went right this week: the good news that matters - Positive News",
-    "domain": "positive.news"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T05:00:54Z",
-  "addedAt": "2026-11-06T11:02:58Z",
-  "audio": "audio/global-nature-restoration-reaches-record-scale-a.mp3",
-  "image": {
-   "src": "img/global-nature-restoration-reaches-record-scale-a.jpg",
-   "credit": "Positive News",
-   "license": "© Positive News, shown with credit",
-   "page": "https://www.positive.news/society/good-news-stories-from-week-45-of-2026/",
-   "from_url": "https://www.positive.news/wp-content/uploads/2026/11/iStock-1964386233.jpg"
   }
  },
  {
