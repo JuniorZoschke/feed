@@ -169,7 +169,7 @@ function commitDwell(id,ms){const s=byId[id];if(!s)return;st.seen[id]=(st.seen[i
  if(ms>2500){const w=Math.min(ms/1000,12)/12*0.6;learn(s,w,"dwell "+Math.round(ms/1000)+"s")}else if(ms<900){learn(s,-0.05,"skip")}else save();}
 new IntersectionObserver(es=>{if(es[0].isIntersecting)loadMore(5)},{rootMargin:"1400px 0px"}).observe($("#sentinel"));
 let st8=0;addEventListener("scroll",()=>{if(st8)return;st8=setTimeout(()=>{st8=0;if(scrollY+innerHeight>document.documentElement.scrollHeight-1600)loadMore(5)},120)},{passive:true});
-addEventListener("keydown",e=>{if(e.key==="Escape"){if(!$("#sides").hidden){closeSides();return;}if(!$("#lib").hidden){closeLib();return;}if(!$("#menu").hidden)closeMenu();else if(!$("#sheet").hidden)closeSheet();}});
+addEventListener("keydown",e=>{if(e.key==="Escape"){if(!$("#xfer").hidden){closeXfer();return;}if(!$("#sides").hidden){closeSides();return;}if(!$("#lib").hidden){closeLib();return;}if(!$("#menu").hidden)closeMenu();else if(!$("#sheet").hidden)closeSheet();}});
 /* ---------- tabs & search ---------- */
 function renderTabs(){$("#tabs").innerHTML=Object.entries(CATS).map(([k,v])=>`<button class="tab" role="tab" data-k="${k}" aria-selected="${k===tab}">${v} <span class="unseenCount" aria-label="unseen">${STORIES.filter(s=>(k==="all"||s.cat===k)&&!feedSeen(s)&&!st.hidden[s.id]).length}</span></button>`).join("");}
 $("#tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(!b)return;tab=b.dataset.k;renderTabs();$(`.tab[data-k="${tab}"]`).scrollIntoView({inline:"center",block:"nearest",behavior:"smooth"});resetFeed();logEv("tab",null,{tab});});
@@ -495,7 +495,68 @@ setInterval(()=>{const now=Date.now();if(!document.hidden&&now-lastAct<60000)act
 let lastAct=Date.now(),nudged=false;["scroll","touchstart","click","keydown"].forEach(ev=>addEventListener(ev,()=>lastAct=Date.now(),{passive:true}));
 function showNudge(){const n=$("#nudge");n.innerHTML=`<div class="box"><div class="orb"></div><h3>You've been here 15 min</h3><p>Take a breath? Breathe in as the circle grows, out as it shrinks.</p><div class="btns"><button class="btn" id="nKeep">Keep going</button><button class="btn pri" id="nDone">I'm good, close</button></div><p style="margin:14px 0 0;font-size:12px"><button id="nOff" style="color:var(--mut);text-decoration:underline">Don't remind me</button></p></div>`;
  n.hidden=false;$("#nKeep").onclick=()=>{n.hidden=true;active=0;nudged=false};$("#nDone").onclick=()=>{n.hidden=true;active=0;nudged=false;toast("Nice. See you later 👋")};$("#nOff").onclick=()=>{st.nudgeOff=true;save();n.hidden=true};logEv("nudge",null);}
-window.__feed={lib:LIB,refresh,comeBack,isNew:id=>isNew(byId[id]),prevVisit:PREV_VISIT,handoffPrompt:(id,q)=>handoffPrompt(byId[id],q),stories:()=>STORIES,st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,audio:AU,speaking:()=>speaking,chunkText,speechText:id=>speechText(byId[id])};
+/* ---------- v15.1 "Move my saves": carry Saved, Liked, Not-interested, reading history and taste between copies of
+ * Sunny on the same phone (iOS keeps every home-screen copy's storage separate). No account: a 6-character code parked
+ * on our Worker for 24h, or plain text through the clipboard. Import is a merge: union, no duplicates, nothing removed,
+ * and running it twice changes nothing the second time. ---------- */
+const XFER_API=ASK_API+"transfer";
+const XPFX="SUNNY-SAVES-1:";
+const SAFE_ID=/^[\w.:-]{1,160}$/,SAFE_URL=/^(https?:\/\/|img\/|fav\/|audio\/)[^"'<>\s`]*$/;
+function exportSaves(){const pick=k=>st[k]&&typeof st[k]==="object"?st[k]:{};
+ return {kind:"sunny-saves",v:1,at:Date.now(),lib:{saved:LIB.saved,liked:LIB.liked},
+  st:{react:pick("react"),hidden:pick("hidden"),seenAt:pick("seenAt"),seenKeys:pick("seenKeys"),opened:pick("opened"),seen:pick("seen"),dwell:pick("dwell"),cat:pick("cat"),tag:pick("tag"),nudgeOff:!!st.nudgeOff,sessions:st.sessions||0},
+  lastVisit:+localStorage.getItem(VKEY)||0};}
+const b64e=t=>{const u=new TextEncoder().encode(t);let s="";for(let i=0;i<u.length;i+=0x8000)s+=String.fromCharCode.apply(null,u.subarray(i,i+0x8000));return btoa(s);};
+const b64d=t=>new TextDecoder().decode(Uint8Array.from(atob(t),c=>c.charCodeAt(0)));
+function savesText(){return XPFX+b64e(JSON.stringify(exportSaves()));}
+function parseSaves(t){t=String(t||"").trim();const i=t.indexOf(XPFX);let j;
+ try{j=i>=0?JSON.parse(b64d(t.slice(i+XPFX.length).replace(/[^A-Za-z0-9+/=]/g,""))):JSON.parse(t);}catch(e){return null;}
+ return j&&j.kind==="sunny-saves"&&j.v===1?j:null;}
+function cleanStory(s){if(!s||typeof s!=="object"||!SAFE_ID.test(s.id||"")||typeof s.title!=="string"||!CATLBL[s.cat])return null;
+ if(!s.image||!SAFE_URL.test(s.image.src||""))return null;
+ const c=Object.assign({},s);c.sources=(Array.isArray(s.sources)?s.sources:[]).filter(x=>x&&SAFE_URL.test(x.url||"")&&/^[\w.-]{1,100}$/.test(x.domain||""));
+ if(!c.sources.length)return null;["tags","bullets"].forEach(k=>{if(!Array.isArray(c[k]))c[k]=[]});if(!Array.isArray(c.qa))c.qa=[];
+ if(c.audio&&!SAFE_URL.test(c.audio))delete c.audio;if(c.sides&&!Array.isArray(c.sides))delete c.sides;delete c._sec;return c;}
+const num=v=>typeof v==="number"&&isFinite(v)?v:null;
+function mergeSaves(j){const n={saved:0,liked:0,seen:0,hidden:0};if(!j)return null;const L=j.lib||{},S=j.st||{};
+ for(const k of ["saved","liked"])for(const [id,x] of Object.entries(L[k]||{})){if(LIB[k][id]||!SAFE_ID.test(id))continue;const s=cleanStory(x&&x.s);if(!s||s.id!==id)continue;LIB[k][id]={s,t:num(x.t)||Date.now()};n[k]++;}
+ for(const [id,v] of Object.entries(S.react||{}))if(SAFE_ID.test(id)&&(v===1||v===-1)&&!st.react[id])st.react[id]=v;
+ for(const [id,v] of Object.entries(S.hidden||{}))if(SAFE_ID.test(id)&&v&&!st.hidden[id]){st.hidden[id]=true;n.hidden++;}
+ for(const [id,v] of Object.entries(S.seenAt||{}))if(SAFE_ID.test(id)&&num(v)!=null){if(!st.seenAt[id]){st.seenAt[id]=v;n.seen++;}else st.seenAt[id]=Math.min(st.seenAt[id],v)||st.seenAt[id];}
+ for(const [k,v] of Object.entries(S.seenKeys||{}))if(typeof k==="string"&&k.length<300&&num(v)!=null&&!st.seenKeys[k])st.seenKeys[k]=v;
+ for(const f of ["opened","seen","dwell"]){st[f]=st[f]||{};for(const [id,v] of Object.entries(S[f]||{}))if(SAFE_ID.test(id)&&num(v)!=null)st[f][id]=Math.max(st[f][id]||0,v);}
+ for(const f of ["cat","tag"]){st[f]=st[f]||{};for(const [k,v] of Object.entries(S[f]||{}))if(typeof k==="string"&&k.length<80&&num(v)!=null&&Math.abs(v)>Math.abs(st[f][k]||0))st[f][k]=v;}
+ if(S.nudgeOff)st.nudgeOff=true;if(num(S.sessions))st.sessions=Math.max(st.sessions||0,S.sessions);
+ if(num(j.lastVisit)&&j.lastVisit>(+localStorage.getItem(VKEY)||0))localStorage.setItem(VKEY,String(j.lastVisit));
+ save();saveLib();snapshotSeen();logEv("xfer_import",null,n);return n;}
+function afterMerge(n){const m=$("#xMsg");if(!n){m.textContent="That doesn't look like a Sunny saves code or text. Check it and try again.";m.className="xMsg bad";return;}
+ const parts=[n.saved&&`${n.saved} saved`,n.liked&&`${n.liked} liked`,n.seen&&`${n.seen} read`,n.hidden&&`${n.hidden} hidden`].filter(Boolean);
+ m.textContent=parts.length?`Done ✓ Added ${parts.join(" · ")}. Nothing was removed.`:"Already up to date. Nothing new to add.";m.className="xMsg ok";
+ renderLib();resetFeed();}
+function openXfer(){const x=$("#xfer");x.hidden=false;$("#xMsg").textContent="";$("#xCode").hidden=true;logEv("xfer_open",null);}
+function closeXfer(){$("#xfer").hidden=true;}
+async function makeCode(){const b=$("#xMake"),m=$("#xMsg");b.disabled=true;m.className="xMsg";m.textContent="Making a code…";
+ try{const r=await fetch(XFER_API,{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify(exportSaves())});const j=await r.json().catch(()=>({}));
+  if(!r.ok||!j.code)throw new Error(j.error||r.status);
+  $("#xCode").hidden=false;$("#xCodeV").textContent=j.code;m.textContent=`Now open the other Sunny icon → Library → Move my saves, and type this code. It works for 24 hours.`;logEv("xfer_code",null);}
+ catch(e){m.className="xMsg bad";m.textContent="Couldn't make a code (are you online?). Use “Copy as text” instead.";}
+ finally{b.disabled=false;}}
+async function getCode(){const code=$("#xIn").value.toUpperCase().replace(/[^A-Z0-9]/g,""),m=$("#xMsg");
+ if(code.length!==6){m.className="xMsg bad";m.textContent="The code has 6 letters and numbers.";return;}
+ const b=$("#xGet");b.disabled=true;m.className="xMsg";m.textContent="Fetching your saves…";
+ try{const r=await fetch(XFER_API+"/"+code,{cache:"no-store"});if(r.status===404){m.className="xMsg bad";m.textContent="No saves found for that code. It may have expired (24 hours). Make a new one.";return;}
+  if(!r.ok)throw new Error(r.status);afterMerge(mergeSaves(parseSaves(await r.text())));}
+ catch(e){m.className="xMsg bad";m.textContent="Couldn't reach Sunny's server. Check you're online, or use the text option.";}
+ finally{b.disabled=false;}}
+async function copySaves(){const ok=await copyText(savesText()),m=$("#xMsg");m.className=ok?"xMsg ok":"xMsg bad";
+ m.textContent=ok?"Copied ✓ Open the other Sunny icon → Library → Move my saves → Paste text.":"Couldn't copy. Try “Make a code” instead.";logEv("xfer_copy",null);}
+async function pasteSaves(){const ta=$("#xTxt");if(!ta.value.trim()&&navigator.clipboard&&navigator.clipboard.readText){try{ta.value=await navigator.clipboard.readText();}catch(e){}}
+ if(!ta.value.trim()){const m=$("#xMsg");m.className="xMsg bad";m.textContent="Tap the box, choose Paste, then tap Import.";ta.focus();return;}
+ afterMerge(mergeSaves(parseSaves(ta.value)));}
+$("#xferBtn").onclick=openXfer;$("#xfer .scrim").onclick=closeXfer;$("#xfer .close").onclick=closeXfer;
+$("#xMake").onclick=makeCode;$("#xGet").onclick=getCode;$("#xCopy").onclick=copySaves;$("#xPaste").onclick=pasteSaves;
+$("#xIn").addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();getCode();}});
+window.__feed={lib:LIB,refresh,comeBack,exportSaves,mergeSaves,parseSaves,savesText,isNew:id=>isNew(byId[id]),prevVisit:PREV_VISIT,handoffPrompt:(id,q)=>handoffPrompt(byId[id],q),stories:()=>STORIES,st,showNudge,answer:(id,q)=>answer(byId[id],q),queue:()=>queue.map(s=>s.id),tts:TTS,audio:AU,speaking:()=>speaking,chunkText,speechText:id=>speechText(byId[id])};
 /* ---------- boot ---------- */
 function setData(list){list.filter(isSeen).forEach(x=>{st.seenKeys[eventKey(x)]=st.seenAt[x.id]||Date.now();sessionKeys.add(eventKey(x));});save();list.forEach(x=>{if(st.react[x.id]===1&&!LIB.liked[x.id])LIB.liked[x.id]={s:libCopy(x),t:Date.now()}});saveLib();STORIES=dedupe(prune(list));byId={};STORIES.forEach(x=>byId[x.id]=x);DF=null;NEWEST=Math.max(0,...STORIES.map(tAdded));updStamp();}
 function updStamp(){const el=$("#upd");if(el)el.textContent=NEWEST?"Updated "+ago(NEWEST):"";}
