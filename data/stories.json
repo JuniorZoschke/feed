@@ -1,5 +1,357 @@
 [
  {
+  "id": "anthropic-employee-claims-artificial-intelligenc",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "science",
+   "money"
+  ],
+  "title": "Anthropic employee claims artificial intelligence chatbot solved famous maths problem",
+  "snippet": "A mathematician and Anthropic employee claims he used the company's Claude chatbot to create a proof for the Riemann hypothesis over about six weeks.",
+  "bullets": [
+   "Levent Alpoge used a non-public version of Anthropic's Claude chatbot to create the proof [1].",
+   "The complete proof put forward in the computer language Lean is over 250,000 lines long [1].",
+   "Mathematician Terence Tao stated that verification of the proof is still some way off [1]."
+  ],
+  "report": [
+   {
+    "h": "AI Maths Breakthrough Claim",
+    "t": "An Anthropic employee claims he used the Claude chatbot to create a detailed proof of the famous Riemann hypothesis over about six weeks [1]. The hypothesis is a nearly 170-year-old maths problem dealing with prime numbers [1]."
+   },
+   {
+    "h": "Verification Process Needed",
+    "t": "The complete proof is over 250,000 lines long and written in Lean, a computer language used for confirming maths proofs [1]. Prominent mathematician Terence Tao noted that the digestion and verification process will take some time [1]."
+   },
+   {
+    "h": "Wider Industry Trend",
+    "t": "Other AI firms like OpenAI have also announced solutions to major higher maths problems that have eluded scholars for decades [1]. However, some academic scholars have criticised these announcements as detrimental to the science of mathematics [1]."
+   }
+  ],
+  "why": "This matters because advancements in AI reasoning capabilities show how automated tools are expanding into complex intellectual problem solving, opening new business and technical opportunities.",
+  "tryit": "Explore how advanced AI tools can assist with complex logical tasks in your own workflows by testing current frontier models on structured problem-solving prompts.",
+  "qa": [
+   [
+    "What chatbot was used for the proof?",
+    "A non-public version of Anthropic's Claude chatbot was used [1]."
+   ],
+   [
+    "How long did it take to create the proof?",
+    "It took about six weeks [1]."
+   ],
+   [
+    "What computer language was the proof written in?",
+    "It was written in Lean, a computer language used for confirming maths proofs [1]."
+   ],
+   [
+    "How long is the complete proof?",
+    "The complete proof is over 250,000 lines long [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+    "status": 200,
+    "title": "Anthropic may have solved major maths problem Reimann hypothesis",
+    "domain": "bbc.co.uk"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T23:08:57Z",
+  "addedAt": "2026-11-20T23:37:54Z",
+  "audio": "audio/anthropic-employee-claims-artificial-intelligenc.mp3",
+  "image": {
+   "src": "img/anthropic-employee-claims-artificial-intelligenc.jpg",
+   "credit": "BBC News",
+   "license": "© BBC News, shown with credit",
+   "page": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
+  }
+ },
+ {
+  "id": "apple-tests-new-siri-ai-app-actions-and-features",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "apple",
+   "tech",
+   "business",
+   "productivity"
+  ],
+  "title": "Apple Tests New Siri AI App Actions and Features in iOS 27.3",
+  "snippet": "Apple is testing iOS 27.3 with new Siri AI features, including file organization, calendar planning, and entire webpage summaries.",
+  "bullets": [
+   "Apple is currently beta testing iOS 27.3 with several new features and updates [1].",
+   "New Siri AI app actions allow users to organize files, plan events, and schedule messages [1].",
+   "Siri AI in Safari can now read and answer questions about entire webpages beyond what is on-screen [1]."
+  ],
+  "report": [
+   {
+    "h": "Siri AI Actions",
+    "t": "New abilities for Siri AI let users organize files, plan events, and handle messaging tasks across multiple apps [1]. You can ask the assistant to clear out old files or set up calendar events based on your free time [1]."
+   },
+   {
+    "h": "Webpage Summaries",
+    "t": "Siri AI in Safari gains access to entire webpages, including sections not currently visible on your screen [1]. You can ask it to find specific details, such as menu options, from the full text of the site [1]."
+   },
+   {
+    "h": "Audio Intelligence",
+    "t": "Apple is testing Live Rewind and Siri Recap features to provide conversation transcripts and daily summaries [1]. These tools automatically delete text results after a set period unless saved by the user [1]."
+   }
+  ],
+  "why": "This update introduces practical AI workflow tools that can help streamline organization and research tasks for your business.",
+  "tryit": "Check your device compatibility and back up your phone to a Mac or PC before testing any upcoming public beta software [1].",
+  "qa": [
+   [
+    "What can Siri AI do with files?",
+    "Siri AI can organize your Downloads folder or delete files that have not been opened in more than a year [1]."
+   ],
+   [
+    "How does Siri AI help with Safari pages?",
+    "Siri AI can read and answer questions about entire webpages, including parts of the site that are not currently on-screen [1]."
+   ],
+   [
+    "What is Live Rewind?",
+    "Live Rewind lets you double-click the watch crown to pull up a transcript of the last 15 seconds of a conversation [1]."
+   ],
+   [
+    "Are audio recordings stored by Audio Intelligence?",
+    "No, Apple states that Audio Intelligence never records or stores any audio [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://lifehacker.com/tech/whats-new-with-ios-273",
+    "status": 200,
+    "title": "These 14 New Features Are Coming to iOS 27.3",
+    "domain": "lifehacker.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T21:00:00Z",
+  "addedAt": "2026-11-20T23:37:54Z",
+  "audio": "audio/apple-tests-new-siri-ai-app-actions-and-features.mp3",
+  "image": {
+   "src": "img/apple-tests-new-siri-ai-app-actions-and-features.jpg",
+   "credit": "Lifehacker",
+   "license": "© Lifehacker, shown with credit",
+   "page": "https://lifehacker.com/tech/whats-new-with-ios-273",
+   "from_url": "https://lifehacker.com/imagery/articles/01M6HETAHMXZFESNG7KRKSXEV0/hero-image.fill.size_1200x675.jpg"
+  }
+ },
+ {
+  "id": "spotify-founder-daniel-ek-backs-ai-researcher-s",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "science",
+   "energy"
+  ],
+  "title": "Spotify Founder Daniel Ek Backs AI Researcher's New Fusion Startup",
+  "snippet": "Spotify founder Daniel Ek is backing Europa Fusion, a stealthy UK-based fusion startup founded by a former AI researcher. The company plans to take a simulation-heavy approach to developing clean energy.",
+  "bullets": [
+   "Spotify founder Daniel Ek is backing the UK-based startup Europa Fusion [1].",
+   "Founder Nantas Nardelli previously worked at Google DeepMind, Facebook AI Research, and Microsoft Research Cambridge [1].",
+   "The startup will pursue a pulsed-power approach to fusion using simulation and data [1]."
+  ],
+  "report": [
+   {
+    "h": "New Fusion Startup",
+    "t": "Spotify founder Daniel Ek is backing Europa Fusion, a stealthy fusion power startup based in the UK [1]. The company was founded in February by Nantas Nardelli [1]."
+   },
+   {
+    "h": "AI Background",
+    "t": "Nardelli has extensive experience in the AI world, having previously worked at Google DeepMind, Facebook AI Research, and Microsoft Research Cambridge [1]. He was also head of machine learning at Pacific Fusion [1]."
+   },
+   {
+    "h": "Simulation Approach",
+    "t": "Nardelli believes fusion startups should invest in a simulation- and data-heavy approach rather than focusing primarily on hardware [1]. Europa Fusion will pursue a pulsed-power approach to fusion [1]."
+   }
+  ],
+  "why": "It shows how top machine learning and AI talent are applying software and simulation expertise to massive global infrastructure challenges like clean energy.",
+  "tryit": "Read more about how simulation-driven design and data-heavy modelling are being applied to physical engineering problems in your field.",
+  "qa": [
+   [
+    "Who founded Europa Fusion?",
+    "The startup was founded by Nantas Nardelli [1]."
+   ],
+   [
+    "When was the startup founded?",
+    "It was founded in February [1]."
+   ],
+   [
+    "Which investor is backing the startup?",
+    "Spotify founder Daniel Ek is backing Europa Fusion [1]."
+   ],
+   [
+    "What is Nardelli's background?",
+    "He has extensive experience in AI, having worked at Google DeepMind, Facebook AI Research, and Microsoft Research Cambridge [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "status": 200,
+    "title": "Exclusive: Daniel Ek backs AI researcher's fusion power startup. Here's what they're building. | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T19:53:41Z",
+  "addedAt": "2026-11-20T23:37:54Z",
+  "audio": "audio/spotify-founder-daniel-ek-backs-ai-researcher-s.mp3",
+  "image": {
+   "src": "img/spotify-founder-daniel-ek-backs-ai-researcher-s.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812"
+  }
+ },
+ {
+  "id": "how-human-touch-boosts-business-growth-and-clien",
+  "cat": "money",
+  "tags": [
+   "business",
+   "negotiation",
+   "money",
+   "ai"
+  ],
+  "title": "How Human Touch Boosts Business Growth and Client Loyalty",
+  "snippet": "Discover how genuine human interaction, prompt communication, and personal touches can build lasting customer trust and strengthen your business relationships all year round.",
+  "bullets": [
+   "Addressing website inquiries by name and responding quickly helps build immediate personal connections [1].",
+   "Sending handwritten notes or personal follow-ups after invoice payments leaves a lasting positive impression [1].",
+   "Extending holiday appreciation strategies into a twelve-month habit fosters deeper customer loyalty and trust [1]."
+  ],
+  "report": [
+   {
+    "h": "The Power of Connection",
+    "t": "While artificial intelligence accomplishes a lot, it falls short of the magic found in genuine human touch [1]. Incorporating direct communication and empathy helps resolve tough client situations quickly [1]."
+   },
+   {
+    "h": "Practical Personal Steps",
+    "t": "Teams can respond to contact forms rapidly and address clients by their exact names [1]. Asking open-ended questions during phone calls or emails encourages clients to share more information [1]."
+   },
+   {
+    "h": "Beyond the Holidays",
+    "t": "Treating the fourth quarter as a springboard allows business owners to maintain personal connections across all twelve months [1]. Checking in with every customer at least once a quarter solidifies long-term relationships [1]."
+   }
+  ],
+  "why": "This matters when you are running or growing a small business, negotiating with clients, or looking for practical ways to build trust and win repeat customers.",
+  "tryit": "Review your current client communication process and commit to replying to all new inquiries within fifteen minutes today.",
+  "qa": [
+   [
+    "Why is personal interaction important?",
+    "It builds trust and helps forge deeper bonds and lasting appreciation with customers [1]."
+   ],
+   [
+    "How quickly should teams reply to client inquiries?",
+    "Ideally within 15 minutes [1]."
+   ],
+   [
+    "What makes handwritten notes so powerful?",
+    "They take real time, effort, and care compared to printing a form letter [1]."
+   ],
+   [
+    "How often should you check in with customers?",
+    "Make it a goal to check in with every customer at least once a quarter [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/building-a-business/how-to-harness-the-power-of-human-interaction-to-win-customers-over-this-holiday-season",
+    "status": 200,
+    "title": "How to Harness the Power of Human Interaction to Win Customers Over This Holiday Season",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T19:30:00Z",
+  "addedAt": "2026-11-20T23:37:54Z",
+  "audio": "audio/how-human-touch-boosts-business-growth-and-clien.mp3",
+  "image": {
+   "src": "img/how-human-touch-boosts-business-growth-and-clien.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/building-a-business/how-to-harness-the-power-of-human-interaction-to-win-customers-over-this-holiday-season",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/human-interactions-win-customers-1126-g-2189926355.jpg"
+  }
+ },
+ {
+  "id": "uk-tribunal-confirms-secret-surveillance-order-g",
+  "cat": "news",
+  "tags": [
+   "privacy",
+   "encryption",
+   "technology",
+   "uk",
+   "security"
+  ],
+  "title": "UK Tribunal Confirms Secret Surveillance Order Given to Apple",
+  "snippet": "A UK tribunal confirmed the Home Office issued a secret technical capability notice to Apple targeting encrypted iCloud data. Privacy groups continue their legal challenge with a final hearing expected in 2027.",
+  "bullets": [
+   "A UK tribunal confirmed the Home Office issued a secret technical capability notice to Apple [1].",
+   "The order targeted Apple's Advanced Data Protection feature which uses end-to-end encryption [1].",
+   "Civil liberties groups called the judgment a victory for transparency as legal challenges continue [1]."
+  ],
+  "report": [
+   {
+    "h": "Secret Order Confirmed",
+    "t": "A UK tribunal confirmed that the Home Office issued a technical capability notice to Apple [1]. The order compelled companies to build technical capabilities to respond to lawful data requests [1]."
+   },
+   {
+    "h": "Impact on Encryption",
+    "t": "The notice targeted the Advanced Data Protection feature that protects iCloud data with end-to-end encryption [1]. Apple stopped offering this feature for new UK users following the initial reports [1]."
+   },
+   {
+    "h": "Ongoing Legal Battle",
+    "t": "Groups like Liberty and Privacy International brought a claim against the Home Office over the secret order [1]. A final court hearing is expected in 2027 [1]."
+   }
+  ],
+  "why": "Understanding digital privacy and encryption notices helps you stay informed about how personal data and cloud storage security are handled in the UK.",
+  "tryit": "Check your iCloud account settings to ensure your Advanced Data Protection feature is enabled if you are outside the UK.",
+  "qa": [
+   [
+    "What did the UK tribunal confirm?",
+    "The tribunal confirmed that the UK Home Office gave Apple a secret technical capability notice [1]."
+   ],
+   [
+    "What feature did the notice target?",
+    "The notice targeted Apple's Advanced Data Protection feature, which protects iCloud data with end-to-end encryption [1]."
+   ],
+   [
+    "When is the final hearing expected?",
+    "A final court hearing for the challenge is expected in 2027 [1]."
+   ],
+   [
+    "Which groups brought the claim?",
+    "Liberty, Privacy International, and two individuals brought the claim against the Home Office [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reason.com/2026/11/20/a-tribunal-confirms-the-u-k-issued-a-secret-surveillance-order-to-apple-but-the-privacy-fight-is-not-over/",
+    "status": 200,
+    "title": "A Tribunal Confirms the U.K. Issued a Secret Surveillance Order to Apple. But the Privacy Fight Is Not Over.",
+    "domain": "reason.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T21:59:50Z",
+  "addedAt": "2026-11-20T23:37:54Z",
+  "audio": "audio/uk-tribunal-confirms-secret-surveillance-order-g.mp3",
+  "image": {
+   "src": "img/uk-tribunal-confirms-secret-surveillance-order-g.jpg",
+   "credit": "Reason",
+   "license": "© Reason, shown with credit",
+   "page": "https://reason.com/2026/11/20/a-tribunal-confirms-the-u-k-issued-a-secret-surveillance-order-to-apple-but-the-privacy-fight-is-not-over/",
+   "from_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/UK-Big-Brother-Apple-v1-1024x576.jpg"
+  }
+ },
+ {
   "id": "anthropic-shares-drop-towards-initial-price-amid",
   "cat": "ai",
   "tags": [
@@ -18824,75 +19176,6 @@
   }
  },
  {
-  "id": "geologists-rule-out-scotland-as-the-source-of-st",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "history",
-   "archaeology"
-  ],
-  "title": "Geologists Rule Out Scotland as the Source of Stonehenge's Altar Stone",
-  "snippet": "A new study reveals that Stonehenge's mysterious six-ton Altar Stone did not come from northeast Scotland, reopening the scientific hunt for its true birthplace.",
-  "bullets": [
-   "Researchers tested 70 field samples from Scotland's Orcadian Basin but found no match for the Altar Stone [1].",
-   "A 2024 theory had previously linked the 16-foot slab to northeast Scotland, at least 465 miles away [1].",
-   "The search for the origin of the flat sandstone slab now pivots to northern England, other parts of Scotland, or Ireland [1]."
-  ],
-  "report": [
-   {
-    "h": "The Scottish Mystery",
-    "t": "Scientists previously thought a flat six-ton slab at the heart of Stonehenge came from northeast Scotland [1]. A rigorous new study has overturned that conclusion after testing 70 field samples from the region [1]."
-   },
-   {
-    "h": "Building a Fingerprint",
-    "t": "Researchers combined direct examinations with analyses of museum samples to evaluate the stone's sedimentology, geochemistry and mineralogy [1]. This created a detailed geological fingerprint used to test leading origin theories [1]."
-   },
-   {
-    "h": "The Search Continues",
-    "t": "Ruling out northeast Scotland leaves the birthplace of the unique stone a mystery once again [1]. Attention now shifts to alternative formations in northern England, other parts of Scotland, or Ireland [1]."
-   }
-  ],
-  "why": "It is a fascinating archaeological detective story about solving ancient mysteries through modern science and persistent investigation.",
-  "tryit": "Read the full study in the Journal of the Geological Society to learn how geologists build geological fingerprints for ancient rocks.",
-  "qa": [
-   [
-    "Where did scientists previously think the Altar Stone came from?",
-    "They linked it to a potential source in northeast Scotland, at least 465 miles away by land [1]."
-   ],
-   [
-    "How many samples were tested in the Orcadian Basin?",
-    "Researchers took about 70 samples, brought them back to laboratories and tested them [1]."
-   ],
-   [
-    "Who led the new geological study?",
-    "Duncan Pirrie, an emeritus geologist at the University of South Wales, led the study [1]."
-   ],
-   [
-    "Where are researchers looking now?",
-    "The search now pivots to alternative formations in northern England, other parts of Scotland or even Ireland [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.smithsonianmag.com/smart-news/where-did-stonehenges-mysterious-six-ton-altar-stone-really-come-from-geologists-rule-out-the-scottish-hypothesis-as-search-deepens-180989833/",
-    "status": 200,
-    "title": "Where Did Stonehenge's Mysterious, Six-Ton Altar Stone Really Come From? Geologists Rule Out the Scottish Hypothesis as the Search Deepens",
-    "domain": "smithsonianmag.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T21:41:38Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/geologists-rule-out-scotland-as-the-source-of-st.mp3",
-  "image": {
-   "src": "img/geologists-rule-out-scotland-as-the-source-of-st.jpg",
-   "credit": "Smithsonian",
-   "license": "© Smithsonian, shown with credit",
-   "page": "https://www.smithsonianmag.com/smart-news/where-did-stonehenges-mysterious-six-ton-altar-stone-really-come-from-geologists-rule-out-the-scottish-hypothesis-as-search-deepens-180989833/",
-   "from_url": "https://th-thumbnailer.cdn-si-edu.com/On9TUFk6epDyFBrXtHq5aHM-UNc=/fit-in/1600x0/filters:focal(1000x671:1001x672)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/12/d3/12d31303-a522-4eaf-b012-ba89ec6d2332/altar-stone-prof-nick-pearce-aberystwyth-university-reduced.jpg"
-  }
- },
- {
   "id": "why-americans-eat-dinner-so-much-earlier-than-th",
   "cat": "news",
   "tags": [
@@ -18959,76 +19242,6 @@
    "license": "© Mental Floss, shown with credit",
    "page": "https://www.mentalfloss.com/culture/why-americans-eat-dinner-earlier-than-rest-of-world",
    "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_313,w_3000,h_1687/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m68afpp6a1gnqhj2pa.jpg"
-  }
- },
- {
-  "id": "how-to-find-real-bargains-during-early-black-fri",
-  "cat": "money",
-  "tags": [
-   "money",
-   "business",
-   "negotiation",
-   "economics"
-  ],
-  "title": "How to Find Real Bargains During Early Black Friday Sales",
-  "snippet": "Holiday sales start weeks early with many items hitting their lowest prices. Use smart shopping tips to find genuine discounts without buying things you do not need.",
-  "bullets": [
-   "Amazon has already discounted many popular tech and home products ahead of the official holiday sale dates [1].",
-   "Major retailers running sales include Best Buy, Target, Walmart, and Home Depot [1].",
-   "Experts recommend making a list of products you actually want so you avoid buying things you never intended to purchase [1]."
-  ],
-  "report": [
-   {
-    "h": "Early holiday deals",
-    "t": "Holiday sales no longer have a strict beginning or end, with many items discounted weeks before the official dates [1]. Major retailers like Amazon, Walmart, Target, and Best Buy are already offering price cuts on tech and home goods [1]."
-   },
-   {
-    "h": "Verified price drops",
-    "t": "Specific early offers include the WH-1000XM5 headphones discounted to $198 from $399.99 and MacBook Air laptops featuring a $200 discount [1]. Price tracking tools and guides help verify whether these advertised prices truly match their lowest historical levels [1]."
-   },
-   {
-    "h": "Smart shopping rules",
-    "t": "Shoppers can use price alerts on Alexa devices and share Prime memberships with family members [1]. The most important rule is to make a specific list of items you need and stick only to those products [1]."
-   }
-  ],
-  "why": "This helps you secure genuine discounts on tech or gear you actually need while avoiding impulse buys.",
-  "tryit": "Make a strict written list today of exact items you planned to buy anyway, and set up price alerts or trackers before purchasing.",
-  "qa": [
-   [
-    "When does the Amazon Black Friday sale officially start?",
-    "Amazon has not yet officially announced the exact dates for the start of their sale [1]."
-   ],
-   [
-    "What is the discount on the 13-inch MacBook Air?",
-    "It is on sale for $1,099.99, down from its original price of $1,299 [1]."
-   ],
-   [
-    "Which other major retailers are running sales?",
-    "Other major retailers offering sales include Best Buy, Target, Walmart, and Home Depot [1]."
-   ],
-   [
-    "What is the best tip for successful holiday shopping?",
-    "Do not buy anything you were not going to buy anyway by making a list of products you want [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://lifehacker.com/tech/amazon-black-friday-cyber-monday-faq-2026",
-    "status": 200,
-    "title": "Everything You Need to Know About Amazon's 2026 Black Friday and Cyber Monday Sales",
-    "domain": "lifehacker.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T20:30:00Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/how-to-find-real-bargains-during-early-black-fri.mp3",
-  "image": {
-   "src": "img/how-to-find-real-bargains-during-early-black-fri.jpg",
-   "credit": "Lifehacker",
-   "license": "© Lifehacker, shown with credit",
-   "page": "https://lifehacker.com/tech/amazon-black-friday-cyber-monday-faq-2026",
-   "from_url": "https://lifehacker.com/imagery/articles/01M6S8ASVYZDRYTXTZB6C7RDVH/hero-image.fill.size_1200x675.webp"
   }
  },
  {
@@ -19099,76 +19312,6 @@
    "license": "© Condé Nast Traveler, shown with credit",
    "page": "https://www.cntraveler.com/story/the-wonder-and-weirdness-of-exploring-a-national-park-in-the-dark",
    "from_url": "https://media.cntraveler.com/photos/6aee283b792c7191384d0060/16:9/w_1280,c_limit/Zion-GettyImages-613146048.jpg"
-  }
- },
- {
-  "id": "build-a-global-remote-team-without-spending-mone",
-  "cat": "money",
-  "tags": [
-   "business",
-   "money",
-   "ai",
-   "negotiation"
-  ],
-  "title": "Build a global remote team without spending money on recruiters",
-  "snippet": "Discover how a consulting agency founder built a seven-person global team across six countries without spending a single dollar on job ads or recruiters [1]. Learn to source talent through online communities like Reddit using simple intake forms [1].",
-  "bullets": [
-   "The agency founder built a team of seven individuals operating from six different countries [1].",
-   "None of the team members live in the three countries where the business mainly does business, which are the USA, Canada and the UK [1].",
-   "The founder spent zero dollars on advertising job ads or on recruiter fees [1]."
-  ],
-  "report": [
-   {
-    "h": "Global Remote Team",
-    "t": "A consulting agency founder expanded operations by building a seven-person team across six distinct countries [1]. None of the team members reside in the USA, Canada or the UK, where the agency mainly conducts its business [1]."
-   },
-   {
-    "h": "Zero Recruitment Costs",
-    "t": "The founder avoided spending any money on job advertisements or external recruiters by handling the hiring process independently [1]. Initial connections were partly formed through early projects with offshore recruitment agencies and online communities [1]."
-   },
-   {
-    "h": "Using Online Communities",
-    "t": "Instead of traditional resumes, the founder shares requests in relevant online spaces like Reddit and asks candidates to complete a simple intake form [1]. Vetted candidates are then offered extended initial term contracts to test mutual fit [1]."
-   }
-  ],
-  "why": "This offers a practical blueprint for finding international talent and building a remote business team without large upfront overhead or recruiter fees [1].",
-  "tryit": "Identify a relevant online community or niche subreddit where professionals in your industry hang out, and draft a simple intake questionnaire to vet potential collaborators [1].",
-  "qa": [
-   [
-    "How many countries do the team members operate from?",
-    "Six different countries [1]."
-   ],
-   [
-    "What are the main countries where the business operates?",
-    "The USA, Canada and the UK [1]."
-   ],
-   [
-    "How much was spent on job ads and recruiters?",
-    "Zero dollars [1]."
-   ],
-   [
-    "What tool does the founder use instead of asking for resumes?",
-    "A simple intake form asking the right vetting questions [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.entrepreneur.com/building-a-business/how-i-built-a-fully-remote-global-team-without-spending-a-dollar-on-job-ads-or-recruiters",
-    "status": 200,
-    "title": "How I Built a Fully Remote Global Team Without Spending a Dollar on Job Ads or Recruiters",
-    "domain": "entrepreneur.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T18:00:00Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/build-a-global-remote-team-without-spending-mone.mp3",
-  "image": {
-   "src": "img/build-a-global-remote-team-without-spending-mone.jpg",
-   "credit": "Entrepreneur",
-   "license": "© Entrepreneur, shown with credit",
-   "page": "https://www.entrepreneur.com/building-a-business/how-i-built-a-fully-remote-global-team-without-spending-a-dollar-on-job-ads-or-recruiters",
-   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/remote-global-team-1026_g1883230014.jpg"
   }
  },
  {
@@ -20006,76 +20149,6 @@
    "license": "© ScienceAlert, shown with credit",
    "page": "https://www.sciencealert.com/less-than-42-minutes-of-daily-bright-light-is-a-stronger-predictor-of-dementia-than-obesity-study-finds",
    "from_url": "https://www.sciencealert.com/images/2026/11/GettyImages-2198381495-2560x1440-1.jpg"
-  }
- },
- {
-  "id": "practical-ways-couples-can-learn-heal-and-deepen",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "relationships",
-   "mind",
-   "self-compassion"
-  ],
-  "title": "Practical Ways Couples Can Learn, Heal, and Deepen Love Together",
-  "snippet": "Growing together in a relationship can feel vague, but focusing on healing, love, and service offers concrete ways to deepen connection. Couples can learn about each other through shared activities and self-examination [1].",
-  "bullets": [
-   "Shared hobbies add joy, but deep growth happens when couples focus on healing, love, and service [1].",
-   "Remaining compassionate and curious during self-examination helps make the relationship a container for personal growth [1].",
-   "An apprenticeship of love means learning how to be more relational and emotionally intimate over time [1]."
-  ],
-  "report": [
-   {
-    "h": "Focus On Areas",
-    "t": "While shared hobbies like playing tennis or painting the deck bring couples together, deep growth mostly happens when learning focuses on healing, love, and service [1]."
-   },
-   {
-    "h": "Prioritise Healing",
-    "t": "When each person's healing becomes a learning priority, the relationship can become an active container for personal growth [1]. Remaining compassionate and curious without obsessing is key to this process [1]."
-   },
-   {
-    "h": "Apprenticeship Of Love",
-    "t": "Taking on an apprenticeship of love means learning how to be more relational and emotionally intimate [1]. It involves accepting that no one arrives able to give and receive love perfectly [1]."
-   }
-  ],
-  "why": "This helps you see relationships as active spaces for personal growth and emotional intimacy through practical self-examination [1].",
-  "tryit": "Reflect on one area of personal healing or love you can explore with curiosity and compassion this week [1].",
-  "qa": [
-   [
-    "What are the three main areas where deep learning happens for couples?",
-    "Healing, Love, and Service [1]."
-   ],
-   [
-    "What does an apprenticeship of love mean?",
-    "It means learning how to be more relational and emotionally intimate [1]."
-   ],
-   [
-    "What is the ancient Greek definition of psychology mentioned in the article?",
-    "Care of the soul [1]."
-   ],
-   [
-    "What key traits are important when learning more about healing?",
-    "Remaining compassionate as you self-examine and staying curious without obsessing [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202611/when-couples-grow-together",
-    "status": 200,
-    "title": "When Couples Grow Together",
-    "domain": "psychologytoday.com"
-   }
-  ],
-  "date": "2026-11-06",
-  "publishedAt": "2026-11-06T22:37:00Z",
-  "addedAt": "2026-11-07T17:31:41Z",
-  "audio": "audio/practical-ways-couples-can-learn-heal-and-deepen.mp3",
-  "image": {
-   "src": "img/practical-ways-couples-can-learn-heal-and-deepen.jpg",
-   "credit": "Psychology Today",
-   "license": "© Psychology Today, shown with credit",
-   "page": "https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202611/when-couples-grow-together",
-   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/junior-reis-ygxrpe7wvka-unsplash.jpg?h=86b99bcc&itok=KqUmPN85"
   }
  },
  {
