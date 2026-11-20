@@ -1,4 +1,4 @@
-const V="feed-v14";const CORE=["./","index.html","app.css?v=14","app.js?v=14","manifest.webmanifest","data/stories.json","icons/icon-192.png"];
+const V="feed-v15";const CORE=["./","index.html","app.css?v=15","app.js?v=15","manifest.webmanifest","data/stories.json","icons/icon-180.png?v=15","icons/icon-192.png?v=15","icons/icon-32.png?v=15","icons/sunny.svg?v=15","fonts/AtkinsonHyperlegible-Regular.woff2?v=15","fonts/AtkinsonHyperlegible-Bold.woff2?v=15","fonts/AtkinsonHyperlegible-Italic.woff2?v=15","fonts/AtkinsonHyperlegible-BoldItalic.woff2?v=15"];
 const AUDIO="feed-audio-v3"; // listened stories are cached lazily for offline replay (kept across app updates)
 self.addEventListener("install",e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==V&&k!==AUDIO).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});

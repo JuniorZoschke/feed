@@ -284,7 +284,7 @@ AU.addEventListener("playing",()=>{if(speaking&&speaking.mode==="audio"){speakin
 AU.addEventListener("pause",()=>{if(speaking&&speaking.mode==="audio"&&!AU.ended){speaking.paused=true;setPlayerState(false)}});
 AU.addEventListener("ended",()=>{if(speaking&&speaking.mode==="audio"){logEv("listen_done",speaking.id);stopSpeak();}});
 function setMedia(s){if(!("mediaSession" in navigator))return;try{
- navigator.mediaSession.metadata=new MediaMetadata({title:s.title,artist:"Feed · "+(CATLBL[s.cat]||""),album:"Feed",artwork:[{src:new URL(s.image.src,location.href).href,sizes:"1200x675",type:"image/jpeg"},{src:new URL("icons/icon-512.png",location.href).href,sizes:"512x512",type:"image/png"}]});
+ navigator.mediaSession.metadata=new MediaMetadata({title:s.title,artist:"Sunny · "+(CATLBL[s.cat]||""),album:"Sunny",artwork:[{src:new URL(s.image.src,location.href).href,sizes:"1200x675",type:"image/jpeg"},{src:new URL("icons/icon-512.png",location.href).href,sizes:"512x512",type:"image/png"}]});
  navigator.mediaSession.setActionHandler("play",()=>{if(speaking&&speaking.paused)pauseResume()});
  navigator.mediaSession.setActionHandler("pause",()=>{if(speaking&&!speaking.paused)pauseResume()});
  navigator.mediaSession.setActionHandler("stop",()=>stopSpeak());
@@ -453,7 +453,7 @@ function openSheet(s,firstQ){
 function ask(s,q){
  const c=$("#chat");c.insertAdjacentHTML("beforeend",`<div class="msg me">${esc(q)}</div>`);
  const a=answer(s,q);const others=otherStories(s,q);const id="a"+Date.now()+Math.floor(Math.random()*1e3);
- const rel=others.length?`<div class="also">Also in Feed: ${others.map(o=>`<button class="openStory" data-id="${o.id}">${esc(o.title)}</button>`).join("")}</div>`:"";
+ const rel=others.length?`<div class="also">Also in Sunny: ${others.map(o=>`<button class="openStory" data-id="${o.id}">${esc(o.title)}</button>`).join("")}</div>`:"";
  let html;
  if(a.conf==="high")html=`${a.html}<small>From this story's sources</small>${extBtns(q,s)}${rel}`;
  else if(a.conf==="mid")html=`${a.html}<small>Closest match in this story's sources. Want more depth?</small>${extBtns(q,s)}${rel}`;
@@ -573,4 +573,4 @@ async function prefetchOffline(){
  const schedule=()=>{if(activePage)setTimeout(()=>{if(activePage)prefetchOffline();},800);};
  if("serviceWorker" in navigator){navigator.serviceWorker.addEventListener("controllerchange",()=>{if(activePage)prefetchOffline();});navigator.serviceWorker.register("sw.js").then(schedule).catch(schedule);}
  else schedule();
-})().catch(e=>{if(activePage){console.error(e);toast("Couldn't load Feed · reopen to retry");}});
+})().catch(e=>{if(activePage){console.error(e);toast("Couldn't load Sunny · reopen to retry");}});
