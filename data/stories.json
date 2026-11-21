@@ -1,5 +1,1474 @@
 [
  {
+  "id": "text-message-ai-agents-let-you-delegate-everyday",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "productivity"
+  ],
+  "title": "Text Message AI Agents Let You Delegate Everyday Tasks Easily",
+  "snippet": "A growing number of AI assistants can be reached directly through standard text messages, handling tasks like scheduling, reminders, and research without needing a separate app [1].",
+  "bullets": [
+   "Instinct is one of the most prominent text-based AI agents, valued at $10 billion after a recent $1 billion funding round [1].",
+   "Folk runs on its own private cloud computer and can execute multi-step tasks such as tracking flights and handling email [1].",
+   "Fambot functions as an AI chief of staff for families, managing schedules and sending nightly summaries via text [1]."
+  ],
+  "report": [
+   {
+    "h": "Text-Based Assistants",
+    "t": "Instead of downloading another app, many new AI agents can be texted like an ordinary person to coordinate calendars, research trips, or buy groceries [1]."
+   },
+   {
+    "h": "Specialised Tools",
+    "t": "Options range from family-focused planners like Fambot and Ohai to travel assistants like Miso and work-oriented agents like Town [1]."
+   },
+   {
+    "h": "Funding and Growth",
+    "t": "The sector is attracting major investment, highlighted by Instinct securing a $10 billion valuation following a $1 billion funding round [1]."
+   }
+  ],
+  "why": "Using AI agents via text can help you manage business tasks, scheduling, and admin without opening heavy software.",
+  "tryit": "Visit the website of an accessible text-based agent like Ask Proxy or Folk to test out their free beta tools for your daily tasks.",
+  "qa": [
+   [
+    "What is Instinct?",
+    "Instinct is a buzzy AI agent valued at $10 billion that communicates via text or voice to plan trips, buy groceries, and cancel subscriptions [1]."
+   ],
+   [
+    "How much does Ask Proxy cost?",
+    "The personal version of Ask Proxy costs $1 per day, while business pricing starts at $15 per employee per month for large companies [1]."
+   ],
+   [
+    "What does Fambot do?",
+    "Fambot acts as an AI chief of staff for families, combining school communications, meals, and calendars into an organized plan [1]."
+   ],
+   [
+    "What makes Folk different?",
+    "Folk runs on its own private cloud computer and can run code and execute multi-step tasks rather than just responding conversationally [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "status": 200,
+    "title": "Here are the top AI agents that can live in your text messages | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T17:00:00Z",
+  "addedAt": "2026-11-21T17:37:10Z",
+  "audio": "audio/text-message-ai-agents-let-you-delegate-everyday.mp3",
+  "image": {
+   "src": "img/text-message-ai-agents-let-you-delegate-everyday.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
+  }
+ },
+ {
+  "id": "test-pond-an-arch-linux-distribution-with-a-uniq",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "technology"
+  ],
+  "title": "Test Pond, an Arch Linux distribution with a unique UI",
+  "snippet": "Pond is a new Arch Linux distribution that turns the standard user interface on its head with a unique design. It combines elements of a tiling window manager, mobile UI, and GNOME to make computing feel natural.",
+  "bullets": [
+   "Pond uses the Niri window manager to arrange windows in columns along an infinite strip from left to right [1].",
+   "You can install apps easily by opening the launcher, typing install, pressing Enter, and typing the name of the app [1].",
+   "Pond is based on Arch Linux, which means it is a rolling-release distribution [1]."
+  ],
+  "report": [
+   {
+    "h": "Original User Interface",
+    "t": "Pond turns the standard user interface on its head with a desktop environment that feels special and takes only five minutes to fall in love with [1]. It uses the Niri window manager to arrange windows in columns along an infinite strip from left to right [1]."
+   },
+   {
+    "h": "Simple App Installation",
+    "t": "You can install applications by using the launcher and typing the name of the app you want to install [1]. Many apps install via Flatpak, while others use the pacman package manager [1]."
+   },
+   {
+    "h": "Arch Linux Base",
+    "t": "Because Pond is based on Arch Linux, it operates as a rolling-release distribution [1]. It also ships with kernel 7.3.4-3, providing outstanding hardware recognition and performance [1]."
+   }
+  ],
+  "why": "Exploring new operating systems and custom tools can spark workflow ideas for your business systems and automation projects.",
+  "tryit": "Search for the Pond Linux distribution online to read more about its unique interface and installation steps.",
+  "qa": [
+   [
+    "What window manager does Pond use?",
+    "Pond uses the Niri window manager to arrange windows in columns along an infinite strip [1]."
+   ],
+   [
+    "What operating system is Pond based on?",
+    "Pond is based on Arch Linux, which means it is a rolling-release distribution [1]."
+   ],
+   [
+    "How do you open the launcher in Pond?",
+    "You open the launcher using the Super+Space key combination [1]."
+   ],
+   [
+    "Which kernel does Pond ship with?",
+    "Pond ships with kernel 7.3.4-3 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/tech/pond-distro-arch-linux-unique-ui/",
+    "status": 200,
+    "title": "I've tested countless Linux distros, and Pond is unlike anything I've tried - here's why - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T17:30:38Z",
+  "addedAt": "2026-11-21T17:37:10Z",
+  "audio": "audio/test-pond-an-arch-linux-distribution-with-a-uniq.mp3",
+  "image": {
+   "src": "img/test-pond-an-arch-linux-distribution-with-a-uniq.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/tech/pond-distro-arch-linux-unique-ui/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/pondhero.jpg"
+  }
+ },
+ {
+  "id": "find-your-ultimate-travel-companion-with-these-e",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "business",
+   "money"
+  ],
+  "title": "Find Your Ultimate Travel Companion With These Expert-Tested Tote Bags",
+  "snippet": "Discover top editor-approved tote bags that transition seamlessly from daily office commutes to weekend getaways and flights. These versatile carryalls offer smart organization features like laptop sleeves, trolley straps, and secure pockets.",
+  "bullets": [
+   "Editors rely on versatile tote bags for daily commutes, flights, and weekend trips [1].",
+   "Smart features like laptop sleeves, luggage trolley sleeves, and interior pockets keep essentials organized [1].",
+   "Brands like Coach, Cuyana, MZ Wallace, and Calpak offer durable options for every travel style [1]."
+  ],
+  "report": [
+   {
+    "h": "Versatile Travel Companions",
+    "t": "The right tote bag acts as both an everyday work bag and a personal item for flights [1]. Editors note that structured leather and lightweight nylon designs hold everything from laptops to water bottles [1]."
+   },
+   {
+    "h": "Smart Organization Features",
+    "t": "Totes with dedicated interior pockets, laptop sleeves, and key leashes prevent the dreaded bottom-of-the-bag rummage [1]. Brands like Calpak and MZ Wallace also include exterior pockets for easy passport and phone access [1]."
+   },
+   {
+    "h": "Travel-Friendly Additions",
+    "t": "Luggage trolley sleeves allow you to slip your tote securely over a suitcase handle to breeze through airport terminals [1]. Expandable bottoms provide extra room for souvenirs or last-minute packing [1]."
+   }
+  ],
+  "why": "Having a reliable, well-organized personal item makes navigating airports and daily commuting smooth and stress-free.",
+  "tryit": "Check your current daily bag for a dedicated laptop sleeve and luggage strap to see if it meets your travel needs, or research brands like Cuyana and Calpak online for structured organization options.",
+  "qa": [
+   [
+    "What makes a good travel tote bag?",
+    "A good travel tote features durable material, a secure closure, organizational pockets, and a luggage trolley sleeve [1]."
+   ],
+   [
+    "Can these totes fit a laptop?",
+    "Yes, many featured totes include dedicated padded sleeves for 13-inch or 15-inch laptops [1]."
+   ],
+   [
+    "Are there options with extra storage space?",
+    "Some bags, like the Calpak laptop tote, feature an expandable bottom that adds four extra inches of room [1]."
+   ],
+   [
+    "Do these bags work well for airport travel?",
+    "Yes, several options include luggage sleeves that slide over suitcase handles for easy transit through terminals [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/best-tote-bags",
+    "status": 200,
+    "title": "The Right Tote Bag Is the Ultimate Travel Companion—These Are Our Editors’ Favorites",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2020-04-06",
+  "publishedAt": "2020-04-06T13:00:00Z",
+  "addedAt": "2026-11-21T17:37:10Z",
+  "audio": "audio/find-your-ultimate-travel-companion-with-these-e.mp3",
+  "image": {
+   "src": "img/find-your-ultimate-travel-companion-with-these-e.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/best-tote-bags",
+   "from_url": "https://media.cntraveler.com/photos/6aff6e88152cb684e8e9ed31/16:9/w_1280,c_limit/The%20Bag%20That%20Can%20Do%20It%20All.jpg"
+  }
+ },
+ {
+  "id": "new-psychology-study-reveals-how-visual-cues-sha",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "mind",
+   "self-compassion",
+   "science"
+  ],
+  "title": "New psychology study reveals how visual cues shape judgments of forgiveness",
+  "snippet": "A new study explores how people automatically judge individuals with larger bodies as more forgiving. Researchers found this perception links to assumptions of warmth rather than actual personality traits.",
+  "bullets": [
+   "A recent study published in the British Journal of Psychology explored how people judge stranger moral character based on visual cues [1].",
+   "Researchers conducted a series of five experiments to test if body size acts as a shortcut for judging capacity to forgive [1].",
+   "Results showed that participants viewed heavier individuals as warmer, and this perception of warmth predicted higher forgivingness ratings [1]."
+  ],
+  "report": [
+   {
+    "h": "First Impressions and Body Size",
+    "t": "When humans form first impressions, they rely heavily on visual cues to guess moral character. Psychologists use the Stereotype Content Model to evaluate warmth and competence [1]."
+   },
+   {
+    "h": "Experimental Findings on Forgiveness",
+    "t": "A series of five experiments tested automatic biases using computer tasks and altered photographs. Participants consistently rated higher weight targets as more forgiving than thinner targets [1]."
+   },
+   {
+    "h": "The Psychological Mechanism",
+    "t": "Statistical analysis confirmed that the perception of warmth predicted higher ratings of forgivingness, while perceived competence did not act as a bridge [1]."
+   }
+  ],
+  "why": "Understanding how fast visual stereotypes operate helps us practice self-compassion by noticing our own rapid mental shortcuts.",
+  "tryit": "Notice when you make a rapid judgment about someone based on visual cues today, and pause to ask yourself what mental shortcut you are using.",
+  "qa": [
+   [
+    "What framework do psychologists use to understand rapid judgments?",
+    "Psychologists use the Stereotype Content Model to evaluate strangers along dimensions of warmth and competence [1]."
+   ],
+   [
+    "Who led the research study?",
+    "The research was led by Jun Zhang and Xianyou He of South China Normal University [1]."
+   ],
+   [
+    "How many experiments did the research team conduct?",
+    "The research team conducted a series of five experiments [1]."
+   ],
+   [
+    "Did body size affect perceived competence?",
+    "Perceived competence did not act as a bridge between body size and perceived forgivingness [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/people-judge-larger-bodies-as-more-forgiving-study-suggests/",
+    "status": 200,
+    "title": "People judge larger bodies as more forgiving, study suggests",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T17:00:15Z",
+  "addedAt": "2026-11-21T17:37:10Z",
+  "audio": "audio/new-psychology-study-reveals-how-visual-cues-sha.mp3",
+  "image": {
+   "src": "img/new-psychology-study-reveals-how-visual-cues-sha.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/people-judge-larger-bodies-as-more-forgiving-study-suggests/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/overweight-man.jpg"
+  }
+ },
+ {
+  "id": "pub-owner-spends-thousands-on-festive-lights-to",
+  "cat": "calm",
+  "tags": [
+   "news",
+   "business",
+   "travel"
+  ],
+  "title": "Pub Owner Spends Thousands on Festive Lights to Lift Town Spirits",
+  "snippet": "A thoughtful pub owner in North Yorkshire spent thousands on a stunning holiday display to cheer up local residents facing a tough year.",
+  "bullets": [
+   "Christian Ogley spent around $6,000 on materials and electricity to create a festive light display on his two-story pub [1].",
+   "The display features a 5-meter-tall tree as its centerpiece, surrounded by over 10,000 lights [1].",
+   "The lights cost around £2.50 a day to run and are kept on from 12 am to 12 pm [1]."
+  ],
+  "report": [
+   {
+    "h": "Festive Pub Display",
+    "t": "Christian Ogley installed a massive holiday light display on Blind Jack's pub in Knaresborough to cheer up locals [1]. He spent around $6,000 on the project after being inspired by displays in New York City and Ireland [1]."
+   },
+   {
+    "h": "Community Effort",
+    "t": "Seven staff members and regulars helped build and install the design over the course of a week [1]. The centerpiece is a 5-meter-tall tree made from wood and tarpaulin, requiring a cherry picker to set up [1]."
+   },
+   {
+    "h": "Surprising Costs",
+    "t": "The display uses over 10,000 lights and costs roughly £2.50 a day to run [1]. The owner plans to keep the tradition going and add two seven-foot nutcrackers to the pavement [1]."
+   }
+  ],
+  "why": "This uplifting community story shows how a small business owner can use creative projects to boost local morale and bring people together.",
+  "tryit": "Visit the Blind Jack's pub display in Knaresborough or share a positive local photo on social media today.",
+  "qa": [
+   [
+    "How much did the display cost?",
+    "Christian Ogley spent around $6,000 on materials and electricity [1]."
+   ],
+   [
+    "How much does it cost to run daily?",
+    "The lights cost around £2.50 a day to run from 12 am to 12 pm [1]."
+   ],
+   [
+    "What is the centerpiece of the display?",
+    "The centerpiece is a 5-meter-tall tree made from wood and tarpaulin [1]."
+   ],
+   [
+    "When did he buy the pub?",
+    "He bought the pub in 2017 with his wife Alice Ogley [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/pub-owner-spends-thousands-on-stunning-holiday-display-all-to-cheer-up-depressed-locals/",
+    "status": 200,
+    "title": "Pub Owner Spends Thousands on Stunning Holiday Display–All to Cheer Up Depressed Locals",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T15:53:53Z",
+  "addedAt": "2026-11-21T17:37:10Z",
+  "audio": "audio/pub-owner-spends-thousands-on-festive-lights-to.mp3",
+  "image": {
+   "src": "img/pub-owner-spends-thousands-on-festive-lights-to.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/pub-owner-spends-thousands-on-stunning-holiday-display-all-to-cheer-up-depressed-locals/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Christian-Ogley-w-Christmas-lights-on-his-pub-SWNS.jpeg"
+  }
+ },
+ {
+  "id": "how-mild-sleep-loss-subtly-blunts-your-daily-enj",
+  "cat": "adhd",
+  "tags": [
+   "adhd",
+   "health",
+   "psychology",
+   "science"
+  ],
+  "title": "How Mild Sleep Loss Subtly Blunts Your Daily Enjoyment of Art",
+  "snippet": "Getting a couple of hours less sleep for just two nights can dampen morning alertness and subtly reduce how much you enjoy artwork and perceive its beauty. The findings suggest rest plays a quiet role in daily aesthetic experiences.",
+  "bullets": [
+   "Mild sleep restriction lowered participants' overall liking of abstract paintings by a modest amount [1].",
+   "Restricted sleep participants gave average beauty ratings of 4.33 compared to 4.51 when they were well-rested [1].",
+   "Morning sleepiness and reduced positive mood helped explain the link between short sleep and lower art evaluations [1]."
+  ],
+  "report": [
+   {
+    "h": "The Sleep and Art Study",
+    "t": "Researchers at Baylor University studied healthy young adults to test how two nights of mild sleep restriction affected art appreciation [1]. Participants slept an average of 5.19 hours during the restricted stay compared to 8.04 hours when well-rested [1]."
+   },
+   {
+    "h": "Subtle Drop in Ratings",
+    "t": "When sleep-restricted, participants rated abstract paintings slightly lower for overall liking and perceived beauty [1]. However, ratings for colorfulness, creativity, and technical skill did not show statistically significant differences [1]."
+   },
+   {
+    "h": "The Role of Alertness",
+    "t": "Statistical analyses showed that morning alertness and positive mood helped mediate the drop in art evaluations [1]. The researchers noted that a small five percent shift could accumulate across thousands of daily visual and aesthetic experiences [1]."
+   }
+  ],
+  "why": "Protecting your sleep routine supports your day-to-day focus and helps keep your appreciation for creative experiences sharp.",
+  "tryit": "Wind down 30 minutes earlier tonight to protect your morning focus and creative energy.",
+  "qa": [
+   [
+    "How many hours of sleep did participants average when restricted?",
+    "Participants slept an average of 5.19 hours when restricted [1]."
+   ],
+   [
+    "Did sleep loss change ratings for colorfulness or creativity?",
+    "No, differences for perceived colorfulness, creativity, or skill were not statistically significant [1]."
+   ],
+   [
+    "What age group participated in the laboratory study?",
+    "The healthy young adults ranged in age from 18 to 22 [1]."
+   ],
+   [
+    "Did artist names suggesting different races or genders alter the ratings?",
+    "No, ratings did not vary at a statistically significant level based on the fictitious artist names [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/mild-sleep-loss-can-dull-how-much-people-enjoy-art-and-perceive-beauty/",
+    "status": 200,
+    "title": "Mild sleep loss can dull how much people enjoy art and perceive beauty",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T19:00:02Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/how-mild-sleep-loss-subtly-blunts-your-daily-enj.mp3",
+  "image": {
+   "src": "img/how-mild-sleep-loss-subtly-blunts-your-daily-enj.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/mild-sleep-loss-can-dull-how-much-people-enjoy-art-and-perceive-beauty/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/tired-young-woman.jpg"
+  }
+ },
+ {
+  "id": "massive-study-links-timing-of-first-and-last-mea",
+  "cat": "health",
+  "tags": [
+   "health",
+   "longevity",
+   "fitness",
+   "science"
+  ],
+  "title": "Massive Study Links Timing Of First And Last Meals To Longevity",
+  "snippet": "A large study of US adults shows that the time of day you eat your first and last calories may be linked to life expectancy and health outcomes.",
+  "bullets": [
+   "Researchers analyzed data from 31,044 adults aged 40 and older in the US National Health and Nutrition Examination Survey [1].",
+   "Compared with eating between 7 and 8 am, a first meal between 8 and 10 am was associated with a 10 percent higher risk of death from any cause [1].",
+   "Eating after midnight was associated with a 27 percent higher risk of death from any cause and a shorter estimated life expectancy at age 50 [1]."
+  ],
+  "report": [
+   {
+    "h": "Meal Timing And Health",
+    "t": "Scientists examined data from 31,044 adults aged 40 and older to see how meal timing affects mortality risks [1]. Participants reported all food and drink consumed in a 24-hour period, including exact times [1]."
+   },
+   {
+    "h": "First Meal Associations",
+    "t": "A pattern emerged showing that later first meals were linked to higher risks of death from any cause and cardiovascular causes [1]. Eating a first meal between 8 and 10 am raised the risk compared to eating between 7 and 8 am [1]."
+   },
+   {
+    "h": "The Last Meal Curve",
+    "t": "The final meal of the day showed a U-shaped relationship with mortality risks rather than a straight line [1]. Eating before 7 pm or after midnight both showed associations with higher risks of death [1]."
+   }
+  ],
+  "why": "Understanding how meal schedules interact with circadian rhythms offers a simple, practical habit tweak to support your overall health and longevity goals.",
+  "tryit": "Talk to a GP or nutritionist about maintaining regular eating and sleeping routines, and avoid routinely delaying your first meal or eating late at night.",
+  "qa": [
+   [
+    "How many adults were included in the study?",
+    "The study analyzed data from 31,044 adults aged 40 and older [1]."
+   ],
+   [
+    "What was the risk for a first meal between 8 and 10 am?",
+    "It was associated with a 10 percent higher risk of death from any cause compared to eating between 7 and 8 am [1]."
+   ],
+   [
+    "Did the study prove that changing meal times changes your fate?",
+    "No, the findings show an association rather than definitive proof of a direct causal effect [1]."
+   ],
+   [
+    "What did researchers suggest as a practical takeaway?",
+    "People should maintain regular routines and avoid routinely delaying the first meal or eating frequently late at night [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/a-massive-study-links-the-time-you-eat-breakfast-to-how-long-youll-live",
+    "status": 200,
+    "title": "A Massive Study Links The Time You Eat Breakfast to How Long You'll Live",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T09:00:00Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/massive-study-links-timing-of-first-and-last-mea.mp3",
+  "image": {
+   "src": "img/massive-study-links-timing-of-first-and-last-mea.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/a-massive-study-links-the-time-you-eat-breakfast-to-how-long-youll-live",
+   "from_url": "https://www.sciencealert.com/images/2026/11/EggsOnSourdoughToastWithAvo-1200x675.png"
+  }
+ },
+ {
+  "id": "google-updates-its-search-home-page-with-new-dir",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "tools"
+  ],
+  "title": "Google Updates Its Search Home Page With New Direct AI Features",
+  "snippet": "Google is updating its desktop home page with three new buttons for image creation, file analysis, and brainstorming. Users can also manage data privacy settings to opt out of AI training on their activity.",
+  "bullets": [
+   "Three new buttons for Create images, Ask about files, and Brainstorm now appear below the search bar on desktop [1].",
+   "A new collapsible sidebar shows recent AI search threads to help users continue exploring topics [1].",
+   "Users can turn off AI training of their personal data by navigating to Data and Privacy, then Gemini Apps Activity [1]."
+  ],
+  "report": [
+   {
+    "h": "New Home Page Buttons",
+    "t": "Google has replaced the traditional search button on its desktop home page with three new options. Users signed into their accounts can now access tools for creating images, analyzing files, and brainstorming goals directly [1]."
+   },
+   {
+    "h": "Sidebar and Privacy",
+    "t": "A new collapsible sidebar tracks recent AI search threads to help users pick up where they left off. Google uses interactions to train its models, but users can turn this off within their account privacy settings [1]."
+   },
+   {
+    "h": "Wider Ecosystem",
+    "t": "The company has integrated its Gemini models across multiple platforms and apps like Adobe, Shopify, and OpenTable. The Gemini app itself has surpassed one billion users [1]."
+   }
+  ],
+  "why": "Understanding how major search interfaces integrate AI tools helps you streamline daily digital tasks and business workflows.",
+  "tryit": "Check your Google account data settings today by going to Data and Privacy, then My Activity, and Gemini Apps Activity to manage your preferences.",
+  "qa": [
+   [
+    "Where do the new buttons appear?",
+    "They appear below the search bar on the desktop version of Google when you are signed in [1]."
+   ],
+   [
+    "What does the Ask about files button do?",
+    "It lets you analyze documents, rewrite text, answer questions, polish resumes, or draft emails [1]."
+   ],
+   [
+    "How can you turn off AI training on your data?",
+    "You can go to Data and Privacy, My Activity, Other activity, and then Gemini Apps Activity to turn off AI training [1]."
+   ],
+   [
+    "How many users does the Gemini app have?",
+    "It topped 1 billion users over the summer [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cnet.com/tech/services-and-software/google-home-page-new-ai-features/",
+    "status": 200,
+    "title": "Even the Iconic Google Home Page Can’t Survive the Push for More AI - CNET",
+    "domain": "cnet.com"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T00:01:44Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/google-updates-its-search-home-page-with-new-dir.mp3",
+  "image": {
+   "src": "img/google-updates-its-search-home-page-with-new-dir.jpg",
+   "credit": "CNET",
+   "license": "© CNET, shown with credit",
+   "page": "https://www.cnet.com/tech/services-and-software/google-home-page-new-ai-features/",
+   "from_url": "https://www.cnet.com/wp-content/uploads/sites/2/google-gemini-smartphone-logo-GettyImages-2283721154.jpg"
+  }
+ },
+ {
+  "id": "mathematicians-and-ai-agents-join-forces-to-resh",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "science",
+   "psychology"
+  ],
+  "title": "Mathematicians and AI Agents Join Forces to Reshape Research Norms",
+  "snippet": "Artificial intelligence agents are solving decades-old math problems in hours, prompting leading universities to rethink how humans study, curate, and communicate complex knowledge.",
+  "bullets": [
+   "In 2025, Google DeepMind models achieved gold-medal status at the International Mathematical Olympiad [1].",
+   "OpenAI deployed thousands of AI agents to produce a proof related to the Navier-Stokes equation in 88 hours [1].",
+   "Mathematicians are creating experimental journals and video formats, such as Mathematical Discourse, to highlight human exposition [1]."
+  ],
+  "report": [
+   {
+    "h": "The Rise of AI Math",
+    "t": "Artificial intelligence agents are now solving open-ended mathematical research questions that previously had no known answers [1]. In September, OpenAI used thousands of agents in lockstep to tackle a Millennium Prize Problem [1]."
+   },
+   {
+    "h": "Shifting Research Norms",
+    "t": "Leading mathematicians at an MIT panel discussed how AI changes the value of speed and being first to a discovery [1]. Experts suggest that human understanding, communication, and clear exposition are becoming much more vital [1]."
+   },
+   {
+    "h": "New Ways to Learn",
+    "t": "Universities are adapting by fostering experimental peer-reviewed journals and video platforms that capture the human side of problem-solving [1]. Students and researchers are encouraged to explore open ground rather than rely solely on traditional publication metrics [1]."
+   }
+  ],
+  "why": "This shows how rapidly AI agents can automate complex problem-solving, offering practical ways to rethink productivity, communication, and curation in your own ventures.",
+  "tryit": "Visit the preliminary site for Mathematical Discourse or explore a new AI prompting workflow to help curate and explain complex topics in your field.",
+  "qa": [
+   [
+    "What is the mathocalypse?",
+    "It refers to an achievement where companies released manuscripts claiming to use AI entirely to solve many of math's major unsolved problems [1]."
+   ],
+   [
+    "How did Google DeepMind perform in 2025?",
+    "Its AI models achieved gold-medal status at the International Mathematical Olympiad by quickly finding solutions to high school math problems [1]."
+   ],
+   [
+    "What is Mathematical Discourse?",
+    "It is a new peer-reviewed video journal featuring talks that capture the human side of mathematical research [1]."
+   ],
+   [
+    "Why is exposition becoming more important?",
+    "Publications are placing higher value on clear explanations of reasoning to combat AI-generated slop and highlight human understanding [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+    "status": 200,
+    "title": "Following the “mathocalypse,” mathematicians consider the future",
+    "domain": "news.mit.edu"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T15:20:00Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/mathematicians-and-ai-agents-join-forces-to-resh.mp3",
+  "image": {
+   "src": "img/mathematicians-and-ai-agents-join-forces-to-resh.jpg",
+   "credit": "MIT News",
+   "license": "© MIT News, shown with credit",
+   "page": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+   "from_url": "https://news.mit.edu/sites/default/files/images/202611/MIT-Math-AI-01-press.jpg"
+  }
+ },
+ {
+  "id": "severe-pms-may-be-split-into-three-distinct-subt",
+  "cat": "health",
+  "tags": [
+   "health",
+   "psychology",
+   "science"
+  ],
+  "title": "Severe PMS May Be Split Into Three Distinct Subtypes",
+  "snippet": "Researchers at Uppsala University discovered that severe premenstrual syndrome, known as PMDD, may consist of three different symptom subtypes. This new approach could lead to more personalized medical diagnosis and treatment.",
+  "bullets": [
+   "Researchers at Uppsala University in Sweden tracked 90 women with PMDD and 44 without across two consecutive menstrual cycles [1].",
+   "Computer models revealed three distinct subtypes based on when symptoms begin, how severe they become, and how long they last [1].",
+   "During the study, 98 percent of participants with PMDD experienced more than one symptom subtype [1]."
+  ],
+  "report": [
+   {
+    "h": "Three New Subtypes",
+    "t": "Researchers identified three patterns called severe full luteal, severe late luteal, and moderate late luteal [1]. These timelines challenge the assumption that all symptoms follow a single fixed schedule [1]."
+   },
+   {
+    "h": "Tracking Symptoms",
+    "t": "The team followed 90 women with the disorder and 44 without across two consecutive menstrual cycles [1]. Computer models used this self-reported daily data to unveil the distinct patterns [1]."
+   },
+   {
+    "h": "Better Care Ahead",
+    "t": "A personalized approach could lead to better diagnosis and treatment for a condition that affects about 3 to 8 percent of those who regularly menstruate [1]. Integrating dynamic symptom modeling could advance precision in mental health care [1]."
+   }
+  ],
+  "why": "Understanding how researchers use computer modeling to uncover distinct health subtypes can spark ideas for tracking complex, cyclical patterns in your own wellbeing.",
+  "tryit": "Review your daily health tracking methods or apps to see if you can log specific timing and severity details for any recurring physical or mental patterns.",
+  "qa": [
+   [
+    "What percentage of people who regularly menstruate are estimated to be affected by PMDD?",
+    "It is estimated to affect about 3 to 8 percent of those who regularly menstruate [1]."
+   ],
+   [
+    "How many participants were tracked in the study from Sweden?",
+    "The team followed 90 women with PMDD and 44 women without the disorder [1]."
+   ],
+   [
+    "What are the names of the three symptom timelines identified?",
+    "They are called the severe full luteal, the severe late luteal, and the moderate late luteal [1]."
+   ],
+   [
+    "Where was the research published?",
+    "The research has been published in Nature Communications [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/severe-pms-may-actually-be-three-different-subtypes-researchers-suggest",
+    "status": 200,
+    "title": "Severe PMS May Actually Be Three Different Subtypes, Researchers Suggest",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T02:00:00Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/severe-pms-may-be-split-into-three-distinct-subt.mp3",
+  "image": {
+   "src": "img/severe-pms-may-be-split-into-three-distinct-subt.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/severe-pms-may-actually-be-three-different-subtypes-researchers-suggest",
+   "from_url": "https://www.sciencealert.com/images/2026/11/GettyImages-2224657411-2560x1440-1.jpg"
+  }
+ },
+ {
+  "id": "signal-blocks-screenshots-by-default-to-keep-bui",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "privacy",
+   "tech"
+  ],
+  "title": "Signal blocks screenshots by default to keep built-in AI agents from reading private messages",
+  "snippet": "Signal is rolling out a new default setting to block screenshots and stop built-in smartphone AI agents from seeing and saving your private data.",
+  "bullets": [
+   "Signal is rolling out a new default setting to stop built-in smartphone AI agents from seeing and saving your data [1].",
+   "The privacy-focused app is blocking screenshots on iOS 27 and when AI assistants try to capture Android screens by default [1].",
+   "John Strand explains that if an AI agent can see your screen, it can read decrypted messages without breaking encryption [1]."
+  ],
+  "report": [
+   {
+    "h": "Signal blocks AI agents",
+    "t": "Signal is rolling out a new default setting to stop built-in smartphone AI agents from potentially seeing and saving your Signal data [1]. President Meredith Whittaker noted that AI bots scan what is on your screen to get to know you and fulfill requests [1]."
+   },
+   {
+    "h": "Protecting private messages",
+    "t": "Microsoft, Google and Apple are building AI into their operating systems, which Signal says creates a hostile environment for privacy [1]. John Strand of Black Hills Information Security explains that screen-observing AI can read messages after they are decrypted for you to view [1]."
+   },
+   {
+    "h": "User settings and choices",
+    "t": "You can still take screenshots by disabling the new setting, but that leaves your information open to AI agents [1]. Whittaker urges tech companies to provide proper opt-outs so developers can restrict AI data access easily [1]."
+   }
+  ],
+  "why": "This matters because understanding how operating system AI tools interact with privacy settings helps you manage your personal data and device security safely.",
+  "tryit": "Check your messaging app privacy settings today to understand how built-in screen capture protections handle your data.",
+  "qa": [
+   [
+    "What is Signal doing to protect messages?",
+    "Signal is rolling out a new default setting to block screenshots and stop built-in smartphone AI agents from seeing and saving data [1]."
+   ],
+   [
+    "How can AI agents read encrypted messages?",
+    "John Strand explains that AI agents can read messages directly from your screen after they are decrypted for you to view [1]."
+   ],
+   [
+    "Can you still take screenshots in Signal?",
+    "Yes, you can still take screenshots if you disable the setting, but that risks letting AI agents access your information [1]."
+   ],
+   [
+    "What does Meredith Whittaker suggest tech companies should do?",
+    "She suggests tech companies should give developers more choice, such as an opt-out to disable AI agent access [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cnet.com/tech/services-and-software/signal-text-message-screenshots/",
+    "status": 200,
+    "title": "Signal Is Blocking Screenshots to Protect Your Messages from AI Agents - CNET",
+    "domain": "cnet.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T19:48:40Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/signal-blocks-screenshots-by-default-to-keep-bui.mp3",
+  "image": {
+   "src": "img/signal-blocks-screenshots-by-default-to-keep-bui.jpg",
+   "credit": "CNET",
+   "license": "© CNET, shown with credit",
+   "page": "https://www.cnet.com/tech/services-and-software/signal-text-message-screenshots/",
+   "from_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2233012202.jpg"
+  }
+ },
+ {
+  "id": "control-your-privacy-by-changing-default-setting",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "privacy",
+   "business",
+   "tools"
+  ],
+  "title": "Control Your Privacy By Changing Default Settings In Claude AI",
+  "snippet": "Protect your personal information by adjusting default privacy settings on Claude. You can stop model training on your chats, manage location tracking, and clear stored memories easily.",
+  "bullets": [
+   "By default, most AI chatbots have a setting turned on that allows them to be trained on your conversations [1].",
+   "Anthropic will use your device IP address and location when using Claude to improve the product experience [1].",
+   "Claude has a built-in memory feature enabled by default to remember personal preferences across sessions [1]."
+  ],
+  "report": [
+   {
+    "h": "Stop Model Training",
+    "t": "The most important setting to disable is the option that lets Anthropic train Claude on your chats and voice data [1]. Some accounts like Enterprise plans do not automatically collect this user data [1]."
+   },
+   {
+    "h": "Manage Location Settings",
+    "t": "Anthropic uses your IP address to infer your coarse-grained location and ensure compliance, but you can revoke location permissions through your device settings [1]. Turning this off affects location-based queries like local restaurant searches [1]."
+   },
+   {
+    "h": "Control AI Memory",
+    "t": "Claude remembers personal preferences to provide context across different conversations automatically [1]. You can view, edit, or delete specific stored memories directly from the settings or ask Claude in chat what memories it holds [1]."
+   }
+  ],
+  "why": "Managing AI privacy settings keeps your business ideas and personal details secure while you build automated workflows or use AI tools.",
+  "tryit": "Open your Claude settings today and turn off the option that allows Anthropic to train on your chats.",
+  "qa": [
+   [
+    "Can I stop Anthropic from training on my chats?",
+    "Yes, you can disable the setting that lets the company train Claude on your conversations and voice data [1]."
+   ],
+   [
+    "Does Claude use my location?",
+    "Anthropic uses your IP address to infer your city and region, but you can revoke location permission in your device or app settings [1]."
+   ],
+   [
+    "How do I manage what Claude remembers about me?",
+    "You can view, edit, or delete stored memories directly in the web settings section or ask Claude to delete specific memories [1]."
+   ],
+   [
+    "What are incognito chats used for?",
+    "Incognito chats are not saved in your history and are not used to train models, making them ideal for sensitive conversations [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cnet.com/tech/claude-ai-privacy-settings-guide/",
+    "status": 200,
+    "title": "AI Privacy Check: Claude Settings You Should Consider Changing - CNET",
+    "domain": "cnet.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T19:26:13Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/control-your-privacy-by-changing-default-setting.mp3",
+  "image": {
+   "src": "img/control-your-privacy-by-changing-default-setting.jpg",
+   "credit": "CNET",
+   "license": "© CNET, shown with credit",
+   "page": "https://www.cnet.com/tech/claude-ai-privacy-settings-guide/",
+   "from_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2271847602.jpg"
+  }
+ },
+ {
+  "id": "what-decades-of-brain-research-reveal-about-play",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "adhd",
+   "mind",
+   "science"
+  ],
+  "title": "What Decades of Brain Research Reveal About Playing Grand Theft Auto",
+  "snippet": "For years, critics have debated whether playing Grand Theft Auto changes human behavior. Recent long-term studies and brain scans offer surprising insights into anger, empathy, and psychological priming.",
+  "bullets": [
+   "Short-term lab studies show immediate spikes in player anger, particularly when using immersive 3D displays [1].",
+   "A two-month randomized trial by Simone Kühn found no lasting negative psychological impacts or changes in empathy [1].",
+   "Brain-scanning studies by Lukas Leopold Lengersdorff found no evidence of desensitization in empathy-related brain regions [1]."
+  ],
+  "report": [
+   {
+    "h": "Short-Term Anger vs Long-Term Effects",
+    "t": "Early psychological frameworks suggested violent media reinforces aggressive thoughts and temporary anger. Short-term experiments confirm that players often report higher anger immediately after violent gameplay, especially with immersive 3D graphics [1]."
+   },
+   {
+    "h": "Long-Term Brain Scans and Empathy",
+    "t": "Extensive randomized trials using brain scans tracked adults playing violent games for weeks or months. Researchers found no lasting changes in empathy-related brain regions, trait aggression, or emotional discomfort [1]."
+   },
+   {
+    "h": "Individual Differences and Priming",
+    "t": "Temporary emotional shifts largely reflect priming, where recent exposure briefly makes related concepts easier to access [1]. Exploratory scans suggest that individual personality traits may subtly shape how people process emotional cues after gaming [1]."
+   }
+  ],
+  "why": "Understanding how media and intense environments trigger short-term emotional spikes helps you build self-compassion around focus and mental state transitions.",
+  "tryit": "Notice your own emotional state after intense focus sessions or fast-paced tasks by taking a five-minute screen break to reset your baseline.",
+  "qa": [
+   [
+    "Does playing Grand Theft Auto cause long-term aggression?",
+    "Long-term randomized trials and Bayesian statistics favor the absence of a detrimental impact on adult personality and trait aggression [1]."
+   ],
+   [
+    "What causes the immediate anger reported in some lab studies?",
+    "Researchers link it to temporary psychological priming and feelings of high presence in immersive virtual environments [1]."
+   ],
+   [
+    "Did brain scans show reduced empathy after months of play?",
+    "No, longitudinal brain-scanning studies found no evidence of reduced activity in empathy-related brain regions like the anterior insula [1]."
+   ],
+   [
+    "How did scientists test these effects rigorously?",
+    "Teams used randomized controlled trials, longitudinal lab experiments, and functional magnetic resonance imaging to track brain activity [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/what-two-decades-of-psychology-and-neuroscience-research-say-about-playing-grand-theft-auto/",
+    "status": 200,
+    "title": "What two decades of psychology and neuroscience research say about playing Grand Theft Auto",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T11:00:52Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/what-decades-of-brain-research-reveal-about-play.mp3",
+  "image": {
+   "src": "img/what-decades-of-brain-research-reveal-about-play.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/what-two-decades-of-psychology-and-neuroscience-research-say-about-playing-grand-theft-auto/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/grand-theft-auto-gta6.jpg"
+  }
+ },
+ {
+  "id": "new-study-shows-phone-bans-in-schools-improve-te",
+  "cat": "news",
+  "tags": [
+   "science",
+   "animals",
+   "travel",
+   "news"
+  ],
+  "title": "New Study Shows Phone Bans in Schools Improve Test Scores",
+  "snippet": "A new Harvard study reveals that school phone bans lead to modest improvements in math and reading test scores for millions of students [1].",
+  "bullets": [
+   "A Harvard study included 3.3 million students in third through tenth grade to compare test scores [1].",
+   "The study compared math and reading test scores of students at schools with and without strict phone bans [1].",
+   "Schools with phone bans showed modest improvements in student performance [1]."
+  ],
+  "report": [
+   {
+    "h": "Phone Bans Improve Scores",
+    "t": "A new study published by the Center for Education Policy Research at Harvard shows that banning phones in schools leads to modest improvements in test scores [1]."
+   },
+   {
+    "h": "Large Scale Study",
+    "t": "The research included 3.3 million students spanning third through tenth grade across schools with and without strict phone bans [1]."
+   },
+   {
+    "h": "Gradual Progress",
+    "t": "Researchers examined both math and reading scores, finding that gradual improvement is underway when devices are kept out of classrooms [1]."
+   }
+  ],
+  "why": "This research offers a clear data point on how removing digital distractions can improve focus and educational outcomes [1].",
+  "tryit": "Read the full study details from the Center for Education Policy Research at Harvard to explore the impact of digital boundaries on focus [1].",
+  "qa": [
+   [
+    "Who published the study?",
+    "The Center for Education Policy Research at Harvard published the study [1]."
+   ],
+   [
+    "How many students were included?",
+    "The study included 3.3 million students [1]."
+   ],
+   [
+    "Which grades were studied?",
+    "The study looked at students in third through tenth grade [1]."
+   ],
+   [
+    "What subjects were measured?",
+    "The study compared math and reading test scores [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reasonstobecheerful.world/what-were-reading-phone-bans-improving-test-scores/",
+    "status": 200,
+    "title": "What We’re Reading: Phone Bans Are Improving Kids’ Test Scores",
+    "domain": "reasonstobecheerful.world"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T08:00:04Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/new-study-shows-phone-bans-in-schools-improve-te.mp3",
+  "image": {
+   "src": "img/new-study-shows-phone-bans-in-schools-improve-te.jpg",
+   "credit": "Reasons to be Cheerful",
+   "license": "© Reasons to be Cheerful, shown with credit",
+   "page": "https://reasonstobecheerful.world/what-were-reading-phone-bans-improving-test-scores/",
+   "from_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/shutterstock_2752621691-scaled-e1794939205289.jpg"
+  }
+ },
+ {
+  "id": "rare-hilma-af-klint-abstract-painting-sells-for",
+  "cat": "news",
+  "tags": [
+   "art",
+   "history",
+   "culture",
+   "auction"
+  ],
+  "title": "Rare Hilma af Klint Abstract Painting Sells for Millions at Auction",
+  "snippet": "A rare abstract painting by Swedish artist Hilma af Klint sold for $12.7 million at auction, far exceeding its initial estimate. The sale sparked discussions about the artist's original intent to keep her spiritual works together.",
+  "bullets": [
+   "The 1920 painting Ser III No. 5 sold for $12.7 million at auction [1].",
+   "This price was nearly 16 times its estimated worth [1].",
+   "Af Klint amassed more than 1,200 abstract works over her career [1]."
+  ],
+  "report": [
+   {
+    "h": "Record Auction Sale",
+    "t": "A rare abstract painting by Swedish artist Hilma af Klint sold for a staggering $12.7 million at auction [1]. The 1920 piece, Ser III No. 5, raked in nearly 16 times its estimated worth [1]."
+   },
+   {
+    "h": "Spiritual Intentions",
+    "t": "Af Klint created her work as a message for humanity and hoped her paintings would one day fill a temple [1]. She refused to show off her pieces beyond her intimate circle during her lifetime [1]."
+   },
+   {
+    "h": "Rare Market Appearance",
+    "t": "The foundation still owns almost all of her pieces and guards them tightly [1]. Ser III No. 5 is one of the few exceptions to reach the open market [1]."
+   }
+  ],
+  "why": "It is a fascinating look at how overlooked historical artists are rediscovered and valued today, showing the power of persistence and vision.",
+  "tryit": "Read more about Hilma af Klint's life and her 2018 Guggenheim exhibition to understand how her unique abstract style gained global recognition.",
+  "qa": [
+   [
+    "How much did Ser III No. 5 sell for?",
+    "It sold for $12.7 million at auction [1]."
+   ],
+   [
+    "When was the painting created?",
+    "It was painted in 1920 [1]."
+   ],
+   [
+    "How many abstract works did af Klint amass?",
+    "She amassed more than 1,200 abstract works over the course of her career [1]."
+   ],
+   [
+    "Who owns most of her paintings now?",
+    "The Hilma af Klint Foundation still owns almost all of her pieces [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smart-news/one-of-hilma-al-klint-amazingly-rare-abstract-painting-sold-for-a-record-12-million-at-auctionbut-should-it-have-been-on-sale-at-all-180989922/",
+    "status": 200,
+    "title": "One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All?",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T21:24:06Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/rare-hilma-af-klint-abstract-painting-sells-for.mp3",
+  "image": {
+   "src": "img/rare-hilma-af-klint-abstract-painting-sells-for.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smart-news/one-of-hilma-al-klint-amazingly-rare-abstract-painting-sold-for-a-record-12-million-at-auctionbut-should-it-have-been-on-sale-at-all-180989922/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/NsMfe9xPQNO2BHYecdOjNHgpA48=/fit-in/1600x0/filters:focal(797x668:798x669)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2a/38/2a386351-72e8-4e11-9423-744c00f7e56e/hak_xlarge.jpeg"
+  }
+ },
+ {
+  "id": "timing-your-car-insurance-purchase-can-save-you",
+  "cat": "money",
+  "tags": [
+   "money",
+   "business",
+   "negotiation",
+   "economics"
+  ],
+  "title": "Timing Your Car Insurance Purchase Can Save You Money",
+  "snippet": "Buying your car insurance weeks before renewal can save you money compared to waiting until the very last day. Data shows a clear pattern in how prices change as your renewal date approaches.",
+  "bullets": [
+   "Waiting until the last minute to buy car insurance can mean paying around 50% more for cover [1].",
+   "Car insurance bought 26 days before renewal cost £335 on average, while policy start day purchases averaged £498 [1].",
+   "Drivers could fork out an extra £163 by leaving their purchase until the last moment [1]."
+  ],
+  "report": [
+   {
+    "h": "The Sweet Spot",
+    "t": "Data from Go.Compare shows that buying car insurance three to four weeks before your renewal date is the sweet spot for shopping around [1]. The lowest average price was recorded 26 days ahead at £335 [1]."
+   },
+   {
+    "h": "Last Minute Jumps",
+    "t": "Prices creep up as the renewal date approaches with the sharpest rises happening in the final week [1]. The median price jumps from £404 four days ahead to £498 on renewal day, an increase of nearly £100 [1]."
+   },
+   {
+    "h": "Wider Market Trends",
+    "t": "Average annual policy costs fell slightly by £4 to £562 between July and September 2026 compared to the previous three months [1]. However, insurers paid out a record £3.2bn in motor claims during the same quarter [1]."
+   }
+  ],
+  "why": "Understanding timing strategies helps you negotiate better deals and cut routine expenses with minimal effort.",
+  "tryit": "Check your car insurance renewal date today and set a calendar reminder to run quotes 26 days before it starts.",
+  "qa": [
+   [
+    "When is the cheapest day to buy car insurance?",
+    "Data shows the lowest average price was paid 26 days ahead of renewal [1]."
+   ],
+   [
+    "How much can you save by buying early?",
+    "Drivers who waited until renewal day paid an average of £498 compared to £335 at 26 days out, a difference of £163 [1]."
+   ],
+   [
+    "What was the average annual policy cost recently?",
+    "The average cost of an annual policy fell by £4 to £562 between July and September 2026 [1]."
+   ],
+   [
+    "What factors influence individual premiums?",
+    "Your premium depends on factors including your age, car, location, mileage and driving history [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/buying-car-insurance-on-this-day-could-save-you-163-ach7g5g0wIyp",
+    "status": 200,
+    "title": "Buying car insurance on this day could save you £163 - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T15:31:58Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/timing-your-car-insurance-purchase-can-save-you.mp3",
+  "image": {
+   "src": "img/timing-your-car-insurance-purchase-can-save-you.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/buying-car-insurance-on-this-day-could-save-you-163-ach7g5g0wIyp",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/91ab533a29b6-car-insurance-ncb.jpg"
+  }
+ },
+ {
+  "id": "hidden-amazon-prime-benefits-you-can-use-to-save",
+  "cat": "money",
+  "tags": [
+   "money",
+   "business",
+   "negotiation",
+   "health"
+  ],
+  "title": "Hidden Amazon Prime Benefits You Can Use To Save Money Today",
+  "snippet": "Discover lesser-known Amazon Prime perks that go beyond free shipping. Learn about discounted memberships, food delivery extras, and health savings.",
+  "bullets": [
+   "Young adults between the ages of 18 and 24 can get Prime perks for $7.49 per month or $69 annually [1].",
+   "Prime members using the Amazon Prime Visa card get 5% back on Amazon, Whole Foods, and Chase Travel purchases [1].",
+   "Members receive a Grubhub+ and Uber Eats membership for free delivery on eligible orders [1]."
+  ],
+  "report": [
+   {
+    "h": "Membership and Cost Tiers",
+    "t": "The standard Prime membership costs $14.99 per month or $139 per year, but young adults aged 18 to 24 qualify for half price [1]. Sharing benefits with another adult in your household, teens, and children is also possible through Amazon Family [1]."
+   },
+   {
+    "h": "Extra Rewards and Services",
+    "t": "Cardholders of the Amazon Prime Visa card earn 5% back on various purchases to offset membership costs [1]. Members also gain free delivery memberships for food services like Grubhub+ and Uber Eats [1]."
+   },
+   {
+    "h": "Health and Media Perks",
+    "t": "Prime users get access to Amazon Pharmacy for free two-day delivery on medications [1]. Additional entertainment perks include Prime Video, Amazon Music Prime, and unlimited photo storage [1]."
+   }
+  ],
+  "why": "Finding hidden value in subscriptions you already pay for is a smart way to optimize your recurring expenses.",
+  "tryit": "Check your membership settings today to see if you qualify for any shared family perks or discounted student and young adult rates.",
+  "qa": [
+   [
+    "How much does a standard Amazon Prime membership cost?",
+    "It costs $14.99 per month or $139 per year [1]."
+   ],
+   [
+    "Who qualifies for the Amazon Prime for Young Adults program?",
+    "Young adults between the ages of 18 and 24 qualify for half the cost [1]."
+   ],
+   [
+    "What do Prime Visa cardholders get back?",
+    "They get 5% back on Amazon, Whole Foods, Chase Travel, and other purchases [1]."
+   ],
+   [
+    "What storage does Amazon Photos provide?",
+    "It provides unlimited photo storage plus 5 GBs for videos and other files [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://lifehacker.com/money/best-amazon-prime-benefits",
+    "status": 200,
+    "title": "The Best Amazon Prime Benefits You Probably Don't Know About",
+    "domain": "lifehacker.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T20:40:00Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/hidden-amazon-prime-benefits-you-can-use-to-save.mp3",
+  "image": {
+   "src": "img/hidden-amazon-prime-benefits-you-can-use-to-save.jpg",
+   "credit": "Lifehacker",
+   "license": "© Lifehacker, shown with credit",
+   "page": "https://lifehacker.com/money/best-amazon-prime-benefits",
+   "from_url": "https://lifehacker.com/imagery/articles/01JYHYVVF3E2SN8A9K7M43R2V1/hero-image.fill.size_1200x675.png"
+  }
+ },
+ {
+  "id": "discover-new-luxury-lodges-and-ancient-trails-ac",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "islands",
+   "australia",
+   "zealand",
+   "culture",
+   "nature"
+  ],
+  "title": "Discover New Luxury Lodges and Ancient Trails Across Oceania for 2027",
+  "snippet": "Oceania brings fresh travel opportunities in 2027, from the restored wilderness lodges of Australia's East Kimberley to ancient cultural sites in the Cook Islands and quiet stargazing on Stewart Island.",
+  "bullets": [
+   "In the Cook Islands, descendants of Chief Tinomana guide visitors through a 600-year-old mountain settlement on Rarotonga [1].",
+   "Australia's Bullo River Station reopens after a multimillion-dollar transformation across its 400,000 acres [1].",
+   "Stewart Island in New Zealand is an International Dark Sky Sanctuary where native southern brown kiwi can sometimes be spotted in daylight [1]."
+  ],
+  "report": [
+   {
+    "h": "Cook Islands Heritage",
+    "t": "Visitors to Rarotonga can explore a centuries-old mountain settlement guided by descendants of the original Tinomana community [1]. This cultural landscape awaits a UNESCO World Heritage decision, offering deep insight into local traditions and stonework [1]."
+   },
+   {
+    "h": "Australian Wilderness",
+    "t": "The remote East Kimberley region is welcoming luxury investment while preserving its rugged landscape [1]. Restored bush lodges and working cattle stations like Bullo River Station now pair high-end comfort with outdoor adventure and conservation [1]."
+   },
+   {
+    "h": "New Zealand's South",
+    "t": "Stewart Island features fiery sunsets, visible Milky Way displays, and the aurora australis in its protected skies [1]. Fewer than 500 people live here alongside thousands of southern brown kiwi and rich birdlife sanctuaries [1]."
+   }
+  ],
+  "why": "It matters to you because exploring remote wilderness, ancient cultural sites, and new travel destinations provides an inspiring mental reset and broadens your global perspective.",
+  "tryit": "Research flight routes and eco-lodge availability online to plan a future trip to Oceania's newly restored wilderness reserves.",
+  "qa": [
+   [
+    "What is happening in the Cook Islands in 2027?",
+    "A 600-year-old ancestral mountain settlement on Rarotonga will appear before UNESCO's World Heritage Committee for recognition [1]."
+   ],
+   [
+    "When does Bullo River Station reopen?",
+    "It reopens in May 2027 after a multimillion-dollar transformation [1]."
+   ],
+   [
+    "How many people live on Stewart Island?",
+    "Fewer than 500 people live on Stewart Island [1]."
+   ],
+   [
+    "What animal can sometimes be seen in daylight on Stewart Island?",
+    "Southern brown kiwi can sometimes be spotted foraging in daylight [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/best-places-to-go-in-australia-new-zealand-and-the-south-pacific-2027",
+    "status": 200,
+    "title": "The Best Places to Go in Australia, New Zealand, and the South Pacific in 2027",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-11-16",
+  "publishedAt": "2026-11-16T20:41:07Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/discover-new-luxury-lodges-and-ancient-trails-ac.mp3",
+  "image": {
+   "src": "img/discover-new-luxury-lodges-and-ancient-trails-ac.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/best-places-to-go-in-australia-new-zealand-and-the-south-pacific-2027",
+   "from_url": "https://media.cntraveler.com/photos/6af5dd4ca29cb0ce3ea20830/16:9/w_1280,c_limit/Ritz-Carlton%20Lodge-aug26-pr-global16.jpg"
+  }
+ },
+ {
+  "id": "psychiatrists-document-unusual-case-of-late-life",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "health",
+   "anxiety",
+   "mind",
+   "science"
+  ],
+  "title": "Psychiatrists document unusual case of late-life anxiety managed with ropes",
+  "snippet": "A 71-year-old farmer asked relatives to tie him to his bed with ropes to calm severe inner restlessness. Psychiatrists highlight how late-life anxiety can present with atypical physical actions.",
+  "bullets": [
+   "A 71-year-old farmer asked relatives to tie him to his bed with ropes during episodes of severe inner restlessness [1].",
+   "Clinicians diagnosed generalized anxiety disorder with panic attacks after ruling out dementia, delirium, and psychosis [1].",
+   "A four-week multidisciplinary inpatient stay featuring medication and relaxation exercises successfully reduced his anxiety score from 40 to 17 [1]."
+  ],
+  "report": [
+   {
+    "h": "Unusual Anxiety Sign",
+    "t": "A medical case report describes a 71-year-old farmer who asked relatives to tie him to his bed with ropes during episodes of inner distress [1]. Doctors note that severe anxiety in older adults can manifest through physical actions rather than classic emotional complaints [1]."
+   },
+   {
+    "h": "Careful Clinical Diagnosis",
+    "t": "Clinicians conducted mental status and cognitive tests, ruling out conditions like dementia, delirium, and psychosis [1]. His intact cognitive function and normal blood work helped point the clinical team directly toward generalized anxiety disorder with panic attacks [1]."
+   },
+   {
+    "h": "Successful Multidisciplinary Care",
+    "t": "Treatment combined escitalopram, short-term lorazepam, muscle relaxation exercises, and family sessions to address emotional communication [1]. Over four weeks of inpatient care, his anxiety scores dropped significantly and his requests to be tied with ropes stopped [1]."
+   }
+  ],
+  "why": "Understanding atypical presentations of anxiety highlights how emotional distress can show up physically, offering valuable psychological context for managing stress and focus.",
+  "tryit": "Notice if physical tension or restlessness mirrors mental stress, and consider speaking with a GP or mental health professional about structured relaxation exercises if anxiety feels overwhelming.",
+  "qa": [
+   [
+    "What unusual behavior did the patient exhibit?",
+    "He repeatedly asked his relatives to tie him to his bed with ropes to calm his severe inner restlessness [1]."
+   ],
+   [
+    "How was his cognitive function evaluated?",
+    "He scored 28 out of 30 on the Mini-Mental State Examination, indicating intact cognitive function [1]."
+   ],
+   [
+    "What treatments did the clinical team use?",
+    "They used escitalopram, short-term lorazepam, progressive muscle relaxation, occupational therapy, and family sessions [1]."
+   ],
+   [
+    "What was the result after four weeks of care?",
+    "His anxiety rating score fell from 40 to 17, his excessive water intake dropped, and his rope-tying requests stopped [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/psychiatrists-reveal-unusual-case-in-which-71-year-old-farmer-asked-to-be-tied-with-ropes-to-calm-his-severe-anxiety/",
+    "status": 200,
+    "title": "Psychiatrists reveal unusual case in which 71-year-old farmer asked to be tied with ropes to calm his severe anxiety",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T01:00:40Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/psychiatrists-document-unusual-case-of-late-life.mp3",
+  "image": {
+   "src": "img/psychiatrists-document-unusual-case-of-late-life.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/psychiatrists-reveal-unusual-case-in-which-71-year-old-farmer-asked-to-be-tied-with-ropes-to-calm-his-severe-anxiety/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/rope.jpg"
+  }
+ },
+ {
+  "id": "a-potential-dark-matter-signal-sparks-new-hope-i",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "space",
+   "physics"
+  ],
+  "title": "A Potential Dark Matter Signal Sparks New Hope in Physics Labs",
+  "snippet": "An American lab released a preprint paper detailing a single intriguing data point above expected background signals. This potential signal has brought new momentum to physicists hunting for dark matter particles.",
+  "bullets": [
+   "An American lab released a preprint paper detailing a single data point that rose above expected background signals [1].",
+   "The signal came from South Dakota's LUX-ZEPLIN experiment, which is the world's largest WIMP detector [1].",
+   "The finding sparked global headlines, a torrent of preprint papers, and newfound hope for physicists [1]."
+  ],
+  "report": [
+   {
+    "h": "The Dark Matter Hunt",
+    "t": "Scientists have spent decades hunting for dark matter, an invisible substance making up 85 percent of the universe [1]. One primary target has been weakly interacting massive particles, or WIMPs [1]."
+   },
+   {
+    "h": "A Surprising Signal",
+    "t": "An American lab released a preprint paper detailing an intriguing data point that rose above expected background signals [1]. While not a definite discovery, the result brought newfound hope and momentum to physicists [1]."
+   },
+   {
+    "h": "Next Steps and Replication",
+    "t": "Other detectors with similar sensitivity, including one at Gran Sasso, are now rushing to look through their own data to replicate the finding [1]. Teams hope to release further papers in the coming months [1]."
+   }
+  ],
+  "why": "It is a fascinating look at how a single unexpected data point can completely revitalize a struggling scientific field overnight.",
+  "tryit": "Read the full Smithsonian article online to explore how modern physics experiments push the boundaries of detection.",
+  "qa": [
+   [
+    "What is dark matter?",
+    "It is the invisible substance that makes up 85 percent of the matter in our universe [1]."
+   ],
+   [
+    "Where did the potential signal come from?",
+    "The signal came from South Dakota's LUX-ZEPLIN experiment [1]."
+   ],
+   [
+    "What detector is trying to replicate the finding?",
+    "Italy's Gran Sasso National Laboratory and its XENONnT experiment are looking through past data to see if they can replicate the signal [1]."
+   ],
+   [
+    "What are WIMPs?",
+    "They are weakly interacting massive particles, a hypothesized candidate for dark matter [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+    "status": 200,
+    "title": "The Search for a Top Dark Matter Candidate Was Losing Hope. Then Came a Potential Signal. Will It Be Enough to Energize the Struggling Field?",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T20:50:50Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/a-potential-dark-matter-signal-sparks-new-hope-i.mp3",
+  "image": {
+   "src": "img/a-potential-dark-matter-signal-sparks-new-hope-i.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/7uzmk1l7srAp3SUp8ucbHdwbDk0=/fit-in/1600x0/filters:focal(1368x912:1369x913)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/fb/b9fbbcf1-9c5a-4a52-9688-1a24f8954445/laboratori_nazionali_del_gran_sasso_infn_tqb1_2014-02.jpg"
+  }
+ },
+ {
+  "id": "vienna-on-a-plate-local-chefs-share-their-favour",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "food",
+   "vienna",
+   "restaurants",
+   "cafes"
+  ],
+  "title": "Vienna on a plate: local chefs share their favourite spots",
+  "snippet": "Top Viennese chefs reveal their favourite cafes, bakeries, traditional gasthouses and hidden bars across the Austrian capital. Discover local coffee culture, excellent pastries, and great spots for a relaxed meal or drink.",
+  "bullets": [
+   "Grand old-school coffee houses in Vienna function much like a British pub where you can sit and relax for hours [1].",
+   "Traditional Viennese options include a wiener melange, an einspänner with whipped cream, or a cheese sausage at a würstelstand [1].",
+   "Local chefs recommend visiting markets like Brunnenmarkt and Karmelitermarkt for diverse food stalls, fresh produce, and local treats [1]."
+  ],
+  "report": [
+   {
+    "h": "Classic Coffee And Cafes",
+    "t": "Vienna features grand coffee houses like Cafe Prueckel and Cafe Hawelka for a relaxed atmosphere [1]. You can order a traditional wiener melange or try an einspenner with a layer of cold whipped cream [1]."
+   },
+   {
+    "h": "Traditional Food And Markets",
+    "t": "Local chefs recommend classic spots like Reinthaler for a wiener schnitzel or beef goulash [1]. Markets such as Brunnenmarkt and Karmelitermarkt offer everything from fresh bread and cheese to diverse street food stalls [1]."
+   },
+   {
+    "h": "Bars And Day Trips",
+    "t": "For drinks, the tiny Loos American Bar offers incredible early 1900s design and mirrors [1]. If you want a day trip, the Wachau region provides hilly wine country, walking paths, and local apricots [1]."
+   }
+  ],
+  "why": "Planning a trip or just curious about authentic local food scenes abroad gives you fresh ideas for your next getaway.",
+  "tryit": "Search for flight times to Vienna and bookmark one recommended cafe or bakery like Ströck for your itinerary.",
+  "qa": [
+   [
+    "What is an einspanner?",
+    "It is a strong black coffee served in a glass with a layer of cold whipped cream on top [1]."
+   ],
+   [
+    "Which market is known for diverse food stalls?",
+    "Brunnenmarkt in the 16th district is one big street with diverse food stalls from every corner of the world [1]."
+   ],
+   [
+    "What is a traditional Austrian cheese sausage called?",
+    "It is called a kaeskrainer [1]."
+   ],
+   [
+    "What is recommended for a day trip from Vienna?",
+    "The Wachau region is really beautiful, with hilly wine country, places to walk, and apricots [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/food/2026/nov/21/vienna-on-a-plate-a-food-lovers-guide-to-the-austrian-capital",
+    "status": 200,
+    "title": "Vienna on a plate: a food lover’s guide to the Austrian capital",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T10:00:55Z",
+  "addedAt": "2026-11-21T10:44:58Z",
+  "audio": "audio/vienna-on-a-plate-local-chefs-share-their-favour.mp3",
+  "image": {
+   "src": "img/vienna-on-a-plate-local-chefs-share-their-favour.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/food/2026/nov/21/vienna-on-a-plate-a-food-lovers-guide-to-the-austrian-capital",
+   "from_url": "https://i.guim.co.uk/img/media/052b4aab66a00808b7491f6a5d01903cd490f555/0_1785_4480_3584/master/4480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=686b8ce309d94941fc729cf7e1337c87"
+  }
+ },
+ {
   "id": "anthropic-employee-claims-artificial-intelligenc",
   "cat": "ai",
   "tags": [
@@ -18966,145 +20435,6 @@
   }
  },
  {
-  "id": "new-psychology-research-challenges-standard-theo",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "science",
-   "research"
-  ],
-  "title": "New psychology research challenges standard theories on how conspiracy beliefs cluster",
-  "snippet": "A large-scale analysis across 17 countries challenges the idea that a broad conspiracy mentality sits at the center of people's beliefs. The findings show that general suspicion and specific claims often operate as distinct dimensions.",
-  "bullets": [
-   "Psychologists often assume a broad conspiracy mentality drives specific beliefs, but new research challenges this view [1].",
-   "An analysis across 17 country samples and nearly 30,000 participants tested how general mindsets and specific claims connect [1].",
-   "Results showed that general mentality and specific conspiracy beliefs are distinct, with general mentality rarely sitting at the center of the network [1]."
-  ],
-  "report": [
-   {
-    "h": "Testing the Mindset Model",
-    "t": "Researchers analyzed survey responses from nearly 30,000 participants across three comparative studies and 17 national samples to see if a general conspiracy mentality drives specific beliefs [1]. The team used network psychometrics to map how survey responses relate without assuming a single hidden cause [1]."
-   },
-   {
-    "h": "Distinct Dimensions Found",
-    "t": "Across the studies, general conspiracy mentality and specific claims generally formed two distinct dimensions [1]. In most of the national samples tested, the general mentality score did not act as the central hub connecting all other beliefs [1]."
-   },
-   {
-    "h": "Context Matters for Results",
-    "t": "The contrast between different surveys suggests that results depend heavily on how questionnaires measure general mentality versus specific beliefs [1]. Because the data relied on single snapshots in time, the research cannot establish the exact direction of how these beliefs develop [1]."
-   }
-  ],
-  "why": "Understanding how cognitive models and belief structures work helps build self-compassion and better mental frameworks when evaluating complex information.",
-  "tryit": "Review how you approach complex topics by checking if your conclusions are based on distinct evidence rather than broad assumptions.",
-  "qa": [
-   [
-    "What did the new study investigate?",
-    "It tested whether a general conspiracy mentality consistently acts as the underlying cause that generates specific conspiracy beliefs [1]."
-   ],
-   [
-    "How many participants were included in the analysis?",
-    "The team analyzed survey responses from nearly 30,000 participants across three comparative studies [1]."
-   ],
-   [
-    "Did general mentality always sit at the center of the belief network?",
-    "No, in most of the national samples tested, the general mentality score ranked low in connection strength or was falsified as the central hub [1]."
-   ],
-   [
-    "What limitation did the researchers note about the data?",
-    "Because the surveys were cross-sectional snapshots gathered at a single point in time, the research cannot establish how beliefs develop over time [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psypost.org/new-psychology-research-challenges-a-popular-explanation-for-why-conspiracy-theories-cluster-together/",
-    "status": 200,
-    "title": "New psychology research challenges a popular explanation for why conspiracy theories cluster together",
-    "domain": "psypost.org"
-   }
-  ],
-  "date": "2026-11-07",
-  "publishedAt": "2026-11-07T11:00:16Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/new-psychology-research-challenges-standard-theo.mp3",
-  "image": {
-   "src": "img/new-psychology-research-challenges-standard-theo.jpg",
-   "credit": "PsyPost",
-   "license": "© PsyPost, shown with credit",
-   "page": "https://www.psypost.org/new-psychology-research-challenges-a-popular-explanation-for-why-conspiracy-theories-cluster-together/",
-   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/conspiracy-theorist.jpg"
-  }
- },
- {
-  "id": "turn-past-bad-food-habits-around-with-roast-beet",
-  "cat": "mind",
-  "tags": [
-   "food",
-   "cooking",
-   "mind",
-   "psychology"
-  ],
-  "title": "Turn past bad food habits around with roast beetroot and sharp cheese",
-  "snippet": "Transform your view of vegetables by roasting beetroot gently in its own juices. Pair this earthy sweetness with pickled raisins and sharp blue cheese for a balanced dish.",
-  "bullets": [
-   "Roasting beetroot gently in its own juices concentrates its natural sweetness instead of leaching it out [1].",
-   "Pickled raisins require soaking overnight in a spiced apple cider vinegar brine [1].",
-   "Freezing the vegetarian soft blue cheese beforehand allows you to grate it finely over the finished dish [1]."
-  ],
-  "report": [
-   {
-    "h": "Roasting brings out sweetness",
-    "t": "Boiling vegetables can ruin their flavour and create negative associations. Roasting beetroot in sealed tinfoil parcels allows it to cook gently in its own juices and concentrate its rich earthiness [1]."
-   },
-   {
-    "h": "Prepare the pickled raisins",
-    "t": "Simmer apple cider vinegar with spices, garlic, herbs and chillies, then strain the liquor over golden raisins. Leave them to pickle in the fridge overnight before serving [1]."
-   },
-   {
-    "h": "Assemble the final dish",
-    "t": "Toss the warm, peeled and quartered beetroot with the strained raisins and toasted rosemary pumpkin seeds. Finish the dish by grating frozen vegetarian blue cheese all over the top [1]."
-   }
-  ],
-  "why": "Changing how you cook vegetables can shift old food aversions into enjoyable, creative kitchen experiments.",
-  "tryit": "Pickle a batch of golden raisins overnight using apple cider vinegar, peppercorns, allspice, bay leaves, shallots, chillies, garlic and oregano [1].",
-  "qa": [
-   [
-    "How long do the raisins need to pickle?",
-    "They need to pickle overnight in the fridge [1]."
-   ],
-   [
-    "What temperature should the oven be set to for roasting the beetroot?",
-    "Heat the oven to 200C, or 180C fan [1]."
-   ],
-   [
-    "How should the blue cheese be prepared?",
-    "The vegetarian soft blue cheese should be frozen so it can be finely grated over the top [1]."
-   ],
-   [
-    "How long do the pumpkin seeds take to toast?",
-    "They toast in the oven for 12-15 minutes [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/food/2026/nov/07/vegetarian-roast-beetroot-recipe-pickled-raisins-blue-cheese-jackson-boxer",
-    "status": 200,
-    "title": "Jackson Boxer’s vegetarian recipe for roast beetroot with pickled raisins and blue cheese",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-07",
-  "publishedAt": "2026-11-07T06:00:04Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/turn-past-bad-food-habits-around-with-roast-beet.mp3",
-  "image": {
-   "src": "img/turn-past-bad-food-habits-around-with-roast-beet.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/food/2026/nov/07/vegetarian-roast-beetroot-recipe-pickled-raisins-blue-cheese-jackson-boxer",
-   "from_url": "https://i.guim.co.uk/img/media/259a9b03174038c104b7033b110682316457e8bf/171_443_5163_4127/master/5163.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=befee41b1acb4973b516bf3e02143901"
-  }
- },
- {
   "id": "historical-milestones-from-chess-dominance-to-wi",
   "cat": "whoa",
   "tags": [
@@ -19312,77 +20642,6 @@
    "license": "© Condé Nast Traveler, shown with credit",
    "page": "https://www.cntraveler.com/story/the-wonder-and-weirdness-of-exploring-a-national-park-in-the-dark",
    "from_url": "https://media.cntraveler.com/photos/6aee283b792c7191384d0060/16:9/w_1280,c_limit/Zion-GettyImages-613146048.jpg"
-  }
- },
- {
-  "id": "finland-is-inviting-sixteen-international-single",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "finland",
-   "singles",
-   "dinner",
-   "sauna"
-  ],
-  "title": "Finland Is Inviting Sixteen International Singles for an Epic Blind Dinner Date",
-  "snippet": "Finland is flying out sixteen international singles this February for a blind group date featuring tasting menus crafted by local celebrity chefs. Participants will experience local Finnish food and the chance to meet new people and local single Finns [1].",
-  "bullets": [
-   "Finland is flying out sixteen international singles this February for a blind group date [1].",
-   "The dinners will take place in capital city Helsinki and Tampere located in Finland’s Lakeland region [1].",
-   "Applicants must apply by November 10, 2026 at 11:59 AM Finnish time by submitting a video [1]."
-  ],
-  "report": [
-   {
-    "h": "The Love Campaign",
-    "t": "Finland has announced a campaign called Love At First Bite to fly out sixteen international singles in February [1]. The singles will join group dates in Helsinki and Tampere to discover local food and meet new people [1]."
-   },
-   {
-    "h": "Local Cuisine",
-    "t": "Participants will enjoy candlelit tasting menus crafted by local celebrity chefs alongside local single Finns [1]. The menu features wild trout, reindeer, chanterelle mushrooms, and sea buckthorn [1]."
-   },
-   {
-    "h": "How to Enter",
-    "t": "To get invited, interested travelers can apply by November 10, 2026 at 11:59 AM Finnish time [1]. Applicants need to make a video answering what they would serve on a dinner date and why [1]."
-   }
-  ],
-  "why": "It is a fun and unusual travel opportunity if you enjoy exploring new cultures, trying local foods, and visiting unique destinations like the world's sauna capital [1].",
-  "tryit": "Submit your application video answering what you would serve on a dinner date before November 10, 2026 at 11:59 AM Finnish time [1].",
-  "qa": [
-   [
-    "How many international singles are being flown out?",
-    "Sixteen international singles are being flown out for the event [1]."
-   ],
-   [
-    "When is the application deadline?",
-    "The deadline to apply is November 10, 2026 at 11:59 AM Finnish time [1]."
-   ],
-   [
-    "Where will the dinner dates take place?",
-    "They will take place in Helsinki and Tampere [1]."
-   ],
-   [
-    "What do applicants need to submit?",
-    "Applicants need to make a video answering what they would serve on a dinner date and why [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/finland-is-throwing-an-epic-dinner-party-for-16-singles-heres-how-to-get-invited",
-    "status": 200,
-    "title": "Finland Is Throwing an Epic Dinner Party for 16 Singles—Here's How to Get Invited",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2026-11-07",
-  "publishedAt": "2026-11-07T10:00:00Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/finland-is-inviting-sixteen-international-single.mp3",
-  "image": {
-   "src": "img/finland-is-inviting-sixteen-international-single.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/finland-is-throwing-an-epic-dinner-party-for-16-singles-heres-how-to-get-invited",
-   "from_url": "https://media.cntraveler.com/photos/6aee040b8ffd3b5014ecef8e/16:9/w_1280,c_limit/CNT-NEWS-FINLAND-291006-6.jpg"
   }
  },
  {
@@ -19596,76 +20855,6 @@
   }
  },
  {
-  "id": "google-takes-over-unfinished-wyoming-data-center",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "money",
-   "economics"
-  ],
-  "title": "Google Takes Over Unfinished Wyoming Data Center Project From Crusoe",
-  "snippet": "Crusoe sold its unfinished Wyoming data center project to Google after construction and cost hurdles. Google now plans to invest $17 billion into developing the campus.",
-  "bullets": [
-   "Crusoe confirmed it sold an unfinished data center project in southeastern Wyoming to Google [1].",
-   "Google plans to invest $17 billion to develop the data center campus [1].",
-   "Crusoe continues to develop other major data center projects for companies like Microsoft, Oracle, and OpenAI [1]."
-  ],
-  "report": [
-   {
-    "h": "Wyoming Project Sale",
-    "t": "Crusoe sold an unfinished data center project in southeastern Wyoming to Google [1]. Google took over the development after raising concerns about construction timelines and costs [1]."
-   },
-   {
-    "h": "Massive Investment",
-    "t": "Google announced plans to invest $17 billion to develop the data center campus [1]. Despite this setback, Crusoe recently raised a $3.9 billion funding round [1]."
-   },
-   {
-    "h": "Ongoing AI Growth",
-    "t": "Crusoe makes money by leasing data center space, renting GPUs, and selling compute power for AI inference [1]. Its other projects include large campuses built for Microsoft, Oracle, and OpenAI [1]."
-   }
-  ],
-  "why": "It shows how major tech players navigate massive infrastructure hurdles and capital demands in the booming AI sector.",
-  "tryit": "Review how infrastructure bottlenecks affect scaling timelines when planning your own technology projects or investments.",
-  "qa": [
-   [
-    "Who bought the Wyoming data center project?",
-    "Google took over the development from Crusoe [1]."
-   ],
-   [
-    "How much does Google plan to invest in the campus?",
-    "Google announced plans to invest $17 billion [1]."
-   ],
-   [
-    "What is Crusoe's valuation?",
-    "Crusoe was recently valued at $30.9 billion [1]."
-   ],
-   [
-    "Who founded Crusoe?",
-    "It was founded by Chase Lochmiller and Cully Cavness [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "status": 200,
-    "title": "Crusoe sells troubled Wyoming data center project to Google | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-07",
-  "publishedAt": "2026-11-07T01:40:28Z",
-  "addedAt": "2026-11-08T17:31:37Z",
-  "audio": "audio/google-takes-over-unfinished-wyoming-data-center.mp3",
-  "image": {
-   "src": "img/google-takes-over-unfinished-wyoming-data-center.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800"
-  }
- },
- {
   "id": "scientists-discover-a-potential-blood-biomarker",
   "cat": "health",
   "tags": [
@@ -19732,76 +20921,6 @@
    "license": "© ScienceAlert, shown with credit",
    "page": "https://www.sciencealert.com/scientists-identified-a-biological-signature-of-tinnitus-and-its-in-your-blood",
    "from_url": "https://www.sciencealert.com/images/2026/11/tinnitus-ear.jpg"
-  }
- },
- {
-  "id": "new-report-reveals-ai-accelerating-its-own-devel",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "science"
-  ],
-  "title": "New Report Reveals AI Accelerating Its Own Development Inside Anthropic",
-  "snippet": "A new report from safety organization METR shows Anthropic using AI to speed up its own research, with models improving twice as fast as a year ago. Employees reported being around 12 times more productive when using the company's advanced internal models.",
-  "bullets": [
-   "Anthropic models are improving roughly twice as quickly as they were a year ago, with benchmark scores showing two years of historical progress in one year [1].",
-   "Employees using the most capable internal model reported being around 12 times as productive at their work compared to working without AI assistance [1].",
-   "Over the past six months, Anthropic finished training three unreleased models codenamed Model 2, Model 3, and Model 4 [1]."
-  ],
-  "report": [
-   {
-    "h": "Rapid AI Acceleration",
-    "t": "Independent research organization METR published a report detailing how AI is speeding up research inside Anthropic [1]. The findings show that most of the acceleration is driven by AI itself rather than just more computing power [1]."
-   },
-   {
-    "h": "Massive Productivity Boosts",
-    "t": "Internal polls and interviews show staff using advanced AI models feel they are about 12 times as productive as they would be without help [1]. This increase is roughly double what employees reported a few months prior [1]."
-   },
-   {
-    "h": "Secretive Models and Redactions",
-    "t": "Anthropic has finished training three new unreleased models over the past six months named Model 2, Model 3, and Model 4 [1]. The company heavily redacted the final public report to protect commercial interests and avoid handing out a development roadmap [1]."
-   }
-  ],
-  "why": "Understanding how fast frontier labs use AI to boost productivity helps you spot emerging workflow tools and business automation opportunities early.",
-  "tryit": "Review your weekly workflow and identify one repetitive research or drafting task to test with a frontier AI model today.",
-  "qa": [
-   [
-    "How much faster are Anthropic models improving?",
-    "They are improving roughly twice as quickly as they were a year ago [1]."
-   ],
-   [
-    "What productivity gains did employees report?",
-    "Staff reported being around 12 times as productive at their work when using the most capable internal model [1]."
-   ],
-   [
-    "Who published the report?",
-    "The report was published by the AI safety research organization METR following an 11-week investigation [1]."
-   ],
-   [
-    "What unreleased models were identified?",
-    "METR identified three unreleased models codenamed Model 2, Model 3, and Model 4, plus an older 2022 model [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-    "status": 200,
-    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-    "domain": "theverge.com"
-   }
-  ],
-  "date": "2026-11-07",
-  "publishedAt": "2026-11-07T12:30:00Z",
-  "addedAt": "2026-11-08T17:31:37Z",
-  "audio": "audio/new-report-reveals-ai-accelerating-its-own-devel.mp3",
-  "image": {
-   "src": "img/new-report-reveals-ai-accelerating-its-own-devel.jpg",
-   "credit": "The Verge",
-   "license": "© The Verge, shown with credit",
-   "page": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
   }
  },
  {
@@ -19943,74 +21062,6 @@
   }
  },
  {
-  "id": "why-the-festival-of-lights-lands-on-different-da",
-  "cat": "english",
-  "tags": [
-   "science",
-   "history"
-  ],
-  "title": "Why the Festival of Lights Lands on Different Dates Each Year",
-  "snippet": "Discover why Diwali changes its date annually. It follows a complex lunisolar calendar instead of the standard western one [1].",
-  "bullets": [
-   "Diwali is known as the festival of lights and spans five days of celebrations [1].",
-   "The date changes because the Hindu calendar integrates both solar and lunar time [1].",
-   "The main day falls on Kartik Amavasya, which is a sacred day in the Hindu month of Kartik [1]."
-  ],
-  "report": [
-   {
-    "h": "The Festival of Lights",
-    "t": "Diwali involves decorating buildings with lamps, candles, and fairy lights [1]. It is an important celebration in Hinduism, Sikhism, and Jainism [1]."
-   },
-   {
-    "h": "A Lunisolar Calendar",
-    "t": "The festival date changes because it follows the Hindu calendar rather than the Gregorian western calendar [1]. This calendar is known as the Panchanga and integrates both solar and lunar time [1]."
-   },
-   {
-    "h": "Timing the Celebration",
-    "t": "The most important day of Diwali is Kartik Amavasya, the darkest day of the month [1]. This ensures the lights contrast strongly with the night sky [1]."
-   }
-  ],
-  "why": "Understanding different cultural calendars shows how time and language connect across different global traditions [1].",
-  "tryit": "Read more about how lunisolar calendars work by checking an online cultural calendar guide today [1].",
-  "qa": [
-   [
-    "What does the word Diwali originate from?",
-    "It originates from the Sanskrit word dipavali, which means a row of lights [1]."
-   ],
-   [
-    "Why does the date of Diwali change?",
-    "It changes because it follows the Hindu lunisolar calendar rather than the western Gregorian calendar [1]."
-   ],
-   [
-    "When does the most important day of Diwali take place?",
-    "It takes place on Kartik Amavasya, the darkest day of the month [1]."
-   ],
-   [
-    "What is the Hindu calendar called?",
-    "It is known as the Panchanga [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.mentalfloss.com/culture/religion/why-diwali-different-dates-every-year",
-    "status": 200,
-    "title": "Why Is Diwali Celebrated on Different Dates Every Year?",
-    "domain": "mentalfloss.com"
-   }
-  ],
-  "date": "2026-11-07",
-  "publishedAt": "2026-11-07T17:00:00Z",
-  "addedAt": "2026-11-08T11:09:01Z",
-  "audio": "audio/why-the-festival-of-lights-lands-on-different-da.mp3",
-  "image": {
-   "src": "img/why-the-festival-of-lights-lands-on-different-da.jpg",
-   "credit": "Mental Floss",
-   "license": "© Mental Floss, shown with credit",
-   "page": "https://www.mentalfloss.com/culture/religion/why-diwali-different-dates-every-year",
-   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_46,w_6720,h_3780/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m6pqpe3versk72qnn1.jpg"
-  }
- },
- {
   "id": "simple-habits-of-confident-people-to-stay-balanc",
   "cat": "mind",
   "tags": [
@@ -20149,146 +21200,6 @@
    "license": "© ScienceAlert, shown with credit",
    "page": "https://www.sciencealert.com/less-than-42-minutes-of-daily-bright-light-is-a-stronger-predictor-of-dementia-than-obesity-study-finds",
    "from_url": "https://www.sciencealert.com/images/2026/11/GettyImages-2198381495-2560x1440-1.jpg"
-  }
- },
- {
-  "id": "can-smart-thermostats-and-ai-really-cut-your-hou",
-  "cat": "money",
-  "tags": [
-   "money",
-   "ai",
-   "business",
-   "negotiation",
-   "economics"
-  ],
-  "title": "Can smart thermostats and AI really cut your household heating bills?",
-  "snippet": "A two-year test reveals how an AI-governed heating system reduced gas usage by 18 percent while keeping a home warmer and more comfortable.",
-  "bullets": [
-   "The author spent two years comparing manual heating control to an AI-governed smart system in a 1930s solid-brick house [1].",
-   "The full Tado X hardware setup tested cost about 930 pounds, with an additional 80 pounds for professional boiler wiring labour [1].",
-   "The AI-controlled setup used 11,735.7 kWh of energy, saving 2,581 kWh and about 205.70 pounds compared to manual control [1]."
-  ],
-  "report": [
-   {
-    "h": "Testing manual control",
-    "t": "In the winter of 2024, a basic manual schedule and standard radiator valves consumed 14,316.7 kilowatt hours of gas across 213 days [1]. This miserly approach kept bills low, but required constant adjustments and caused friction at home [1]."
-   },
-   {
-    "h": "Upgrading to smart tech",
-    "t": "In the summer of 2025, the author installed a Tado X system featuring 13 smart radiator thermostats and wireless room sensors [1]. An optional AI subscription costing 3.99 pounds a month automates room temperatures, window detection, and geofencing [1]."
-   },
-   {
-    "h": "Surprising energy savings",
-    "t": "Despite keeping the house generally warmer and more comfortable, the AI-governed system used 18 percent less gas than the manual approach [1]. This reduction equaled a saving of 205.70 pounds based on the energy price cap ending on 31 December [1]."
-   }
-  ],
-  "why": "Exploring home efficiency upgrades offers practical ways to trim recurring household costs and leverage automation for daily savings.",
-  "tryit": "Check your current boiler documentation or contact the manufacturer to see if your system supports the OpenTherm protocol [1].",
-  "qa": [
-   [
-    "How much did the tested hardware cost?",
-    "The full setup tested cost about 930 pounds, plus roughly 80 pounds in labour for wiring by a heating engineer [1]."
-   ],
-   [
-    "How much does the AI subscription cost?",
-    "The subscription costs 3.99 pounds a month or 29.99 a year, and can be paused when you are not using the heating [1]."
-   ],
-   [
-    "How much gas was saved using the AI system?",
-    "It used 2,581 kWh less energy than manual control, equating to a saving of 205.70 pounds at the current energy price cap [1]."
-   ],
-   [
-    "What extra data do the sensors measure?",
-    "Each temperature sensor and smart thermostat also measures humidity to help spot when rooms need ventilation [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
-    "status": 200,
-    "title": "Can AI really save you money on your heating bill? I spent two years testing to find out",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-07",
-  "publishedAt": "2026-11-07T07:00:07Z",
-  "addedAt": "2026-11-07T17:31:41Z",
-  "audio": "audio/can-smart-thermostats-and-ai-really-cut-your-hou.mp3",
-  "image": {
-   "src": "img/can-smart-thermostats-and-ai-really-cut-your-hou.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
-   "from_url": "https://i.guim.co.uk/img/media/a602f8453b41164785519bbae64ff4051677f8c0/857_0_4341_3471/master/4341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb8c764f4d9a3015bc3f65adaff02b4e"
-  }
- },
- {
-  "id": "drinking-two-to-three-cups-of-coffee-linked-to-l",
-  "cat": "health",
-  "tags": [
-   "health",
-   "longevity",
-   "science"
-  ],
-  "title": "Drinking Two to Three Cups of Coffee Linked to Lower Dementia Risk",
-  "snippet": "A long-running study of US adults shows that drinking two to three cups of caffeinated coffee daily is associated with a substantially lower risk of dementia and better cognitive health over time [1].",
-  "bullets": [
-   "Higher amounts of caffeinated coffee were linked to 141 dementia cases annually per 100,000 people, compared to 330 cases for those who rarely or never drank it [1].",
-   "Drinking two to three cups of caffeinated coffee each day showed the strongest association with favorable brain health outcomes [1].",
-   "Decaffeinated coffee did not show the same benefits, raising questions about whether caffeine itself is involved [1]."
-  ],
-  "report": [
-   {
-    "h": "Lower Dementia Rates",
-    "t": "Researchers found that adults consuming higher amounts of caffeinated coffee developed dementia at considerably lower rates than non-drinkers [1]. Specifically, regular coffee drinkers recorded 141 dementia cases annually per 100,000 people, while non-drinkers recorded 330 cases [1]."
-   },
-   {
-    "h": "Cognitive Decline and Genetics",
-    "t": "Participants drinking more caffeinated coffee were also less likely to report subjective cognitive decline [1]. Notably, this positive association remained apparent regardless of the participants' genetic risk of developing dementia [1]."
-   },
-   {
-    "h": "Coffee and Tea Amounts",
-    "t": "Drinking two to three cups of caffeinated coffee per day offered the most favorable outcomes, and higher amounts did not provide additional protection [1]. For tea, the strongest associations appeared among participants consuming one to two cups per day [1]."
-   }
-  ],
-  "why": "This long-term study offers encouraging, practical insight into how everyday lifestyle habits like moderate coffee intake relate to long-term brain health and longevity [1].",
-  "tryit": "Pour yourself a fresh cup of caffeinated coffee or tea, keeping your daily intake to the two to three cup range highlighted in the research [1].",
-  "qa": [
-   [
-    "How many cups of coffee showed the best results?",
-    "Drinking two to three cups of caffeinated coffee each day was associated with the most favorable outcomes [1]."
-   ],
-   [
-    "Did decaffeinated coffee show the same benefits?",
-    "No, decaffeinated coffee did not demonstrate the same benefits as regular caffeinated coffee [1]."
-   ],
-   [
-    "What were the dementia rates for coffee drinkers versus non-drinkers?",
-    "Regular coffee drinkers recorded 141 dementia cases annually per 100,000 people, compared to 330 cases for those who rarely or never drank it [1]."
-   ],
-   [
-    "Did tea consumption show any positive association?",
-    "Yes, drinking one to two cups of tea daily was also linked to lower dementia risk and better cognitive functioning [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
-    "status": 200,
-    "title": "Drinking 2â3 cups of coffee a day linked to dramatically lower dementia risk",
-    "domain": "sciencedaily.com"
-   }
-  ],
-  "date": "2026-11-07",
-  "publishedAt": "2026-11-07T10:16:19Z",
-  "addedAt": "2026-11-07T11:09:09Z",
-  "audio": "audio/drinking-two-to-three-cups-of-coffee-linked-to-l.mp3",
-  "image": {
-   "src": "img/drinking-two-to-three-cups-of-coffee-linked-to-l.jpg",
-   "credit": "ScienceDaily",
-   "license": "© ScienceDaily, shown with credit",
-   "page": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
-   "from_url": "https://www.sciencedaily.com/images/1920/happy-elderly-man-coffee.webp"
   }
  },
  {
