@@ -1,5 +1,704 @@
 [
  {
+  "id": "what-is-effective-altruism-and-how-did-it-shape",
+  "cat": "adhd",
+  "tags": [
+   "psychology",
+   "money",
+   "business",
+   "science"
+  ],
+  "title": "What Is Effective Altruism And How Did It Shape FTX?",
+  "snippet": "Explore the philosophy behind effective altruism, its core principles of doing the most good, and its surprising link to Sam Bankman-Fried.",
+  "bullets": [
+   "Effective altruism uses research and evidence to identify major global problems and find strategies to solve them [1].",
+   "The movement encourages people to dedicate their careers to social issues or earn money to donate to charity [1].",
+   "Sam Bankman-Fried was introduced to the movement at MIT and cited it as a reason for entering the crypto industry [1]."
+  ],
+  "report": [
+   {
+    "h": "Defining Effective Altruism",
+    "t": "Effective altruism is both a philosophy and social movement based on using reason and logic to solve major global problems [1]. It relies on scientific evidence and careful reasoning to find the best ways to help others [1]."
+   },
+   {
+    "h": "Origins And Ideas",
+    "t": "The movement draws inspiration from philosopher Peter Singer and encourages an earn-to-give approach to maximize charitable donations [1]. Proponents aim to dedicate time or make as much money as possible to give away [1]."
+   },
+   {
+    "h": "The FTX Connection",
+    "t": "Sam Bankman-Fried met movement founder William MacAskill at MIT and later promised to donate his net worth [1]. Leaders in the movement have since condemned his actions after his company collapsed [1]."
+   }
+  ],
+  "why": "Examining how fixation on a future outcome can distract from present integrity is a useful reflection for managing intense focus and goals.",
+  "tryit": "Reflect on a current goal today by writing down one practical step you can take right now with complete honesty and integrity.",
+  "qa": [
+   [
+    "What is effective altruism?",
+    "It is a philosophy and social movement that uses reason and evidence to find the best ways to help others [1]."
+   ],
+   [
+    "Who inspired the movement?",
+    "The movement draws much of its inspiration from the philosopher Peter Singer [1]."
+   ],
+   [
+    "How did Sam Bankman-Fried get involved?",
+    "He met movement founder William MacAskill while an undergraduate at MIT [1]."
+   ],
+   [
+    "What did the Centre for Effective Altruism say about Bankman-Fried?",
+    "They stated his behavior went against values central to effective altruism like honesty and integrity [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.mentalfloss.com/history/philosophy/effective-altruism-ftx-sam-bankman-fried",
+    "status": 200,
+    "title": "What Is Effective Altruism? The Philosophy That Shaped FTX's Founder, Explained",
+    "domain": "mentalfloss.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T00:00:00Z",
+  "addedAt": "2026-11-22T10:44:13Z",
+  "audio": "audio/what-is-effective-altruism-and-how-did-it-shape.mp3",
+  "image": {
+   "src": "img/what-is-effective-altruism-and-how-did-it-shape.jpg",
+   "credit": "Mental Floss",
+   "license": "© Mental Floss, shown with credit",
+   "page": "https://www.mentalfloss.com/history/philosophy/effective-altruism-ftx-sam-bankman-fried",
+   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4000,h_2250/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m7trn4mtpwt6xjhj4j.jpg"
+  }
+ },
+ {
+  "id": "new-research-shows-scientists-disagree-on-what-s",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "science",
+   "psychology",
+   "business"
+  ],
+  "title": "New research shows scientists disagree on what science is, raising questions for AI",
+  "snippet": "New research reveals that scientists disagree about the meaning of science even more than the public does. This divergence highlights a key challenge as artificial intelligence systems begin to perform scientific investigations.",
+  "bullets": [
+   "A study examined 18 different descriptions of science and found that researchers rarely agreed on any of them without reservations [1].",
+   "The survey included 91 scientists and 99 members of the public to assess how different groups understand scientific work [1].",
+   "Researchers warn that automated AI systems built around a single approach could overlook other valuable methods of discovery [1]."
+  ],
+  "report": [
+   {
+    "h": "Diverging views on science",
+    "t": "New research reveals that scientists disagree about the nature and purpose of science even more than the general public does [1]. The study examined 18 different descriptions of science and found that researchers rarely embraced any of them without reservations [1]."
+   },
+   {
+    "h": "Public versus experts",
+    "t": "Members of the public expressed more consistent views, often regarding science as a dependable way to discover objective truths [1]. In contrast, scientists held strikingly different perspectives, differing on whether progress relies on established procedures or creative adaptation [1]."
+   },
+   {
+    "h": "Risks for artificial intelligence",
+    "t": "These differences point to a potential challenge as artificial intelligence becomes increasingly involved in scientific discovery [1]. If AI systems are built around one particular approach to research, other valuable methods could receive less attention [1]."
+   }
+  ],
+  "why": "Understanding how different approaches shape automated systems helps when evaluating AI tools and building diverse agent workflows.",
+  "tryit": "Review your current AI tool workflows to ensure you are not relying on just a single prompt style or method for problem-solving.",
+  "qa": [
+   [
+    "How many scientists and members of the public were surveyed?",
+    "The researchers surveyed 91 scientists and 99 members of the public [1]."
+   ],
+   [
+    "Who led the research project?",
+    "The research was led by Marina Dubova while working as a postdoctoral researcher at the Santa Fe Institute [1]."
+   ],
+   [
+    "What concern does Marina Dubova raise about AI?",
+    "She is concerned that automation could favor a limited conception of how science should work if AI systems are built around one particular approach [1]."
+   ],
+   [
+    "Which general public views closely resembled scientists in physics and biology?",
+    "The general public's understanding of science more closely resembled the views expressed by physicists and biologists than those of social scientists [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
+    "status": 200,
+    "title": "Even scientists can't agree on what science actually is",
+    "domain": "sciencedaily.com"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T13:55:11Z",
+  "addedAt": "2026-11-22T10:44:13Z",
+  "audio": "audio/new-research-shows-scientists-disagree-on-what-s.mp3",
+  "image": {
+   "src": "img/new-research-shows-scientists-disagree-on-what-s.jpg",
+   "credit": "ScienceDaily",
+   "license": "© ScienceDaily, shown with credit",
+   "page": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
+   "from_url": "https://www.sciencedaily.com/images/1920/scientists-chemists-disagree.webp"
+  }
+ },
+ {
+  "id": "surprising-study-links-childhood-screen-time-to",
+  "cat": "news",
+  "tags": [
+   "science",
+   "psychology",
+   "health"
+  ],
+  "title": "Surprising Study Links Childhood Screen Time To Better Teen Brain Function",
+  "snippet": "An eight-year study of 260 children reveals that cumulative screen time is linked to higher overall cognition and faster reaction times in adolescence.",
+  "bullets": [
+   "Researchers analyzed eight years of data collected from 260 children who took part in the Finnish PANIC study [1].",
+   "Participants who reported more cumulative screen time tended to perform better on cognitive tests as adolescents [1].",
+   "The findings suggest that screen time can support children and adolescents in their cognitive processing [1]."
+  ],
+  "report": [
+   {
+    "h": "Eight Year Study",
+    "t": "Researchers analyzed eight years of data from 260 children beginning when they were about eight years old until they reached approximately 16 [1]. Data was sourced from questionnaires and wearable activity trackers [1]."
+   },
+   {
+    "h": "Cognitive Testing",
+    "t": "Participants completed a series of tests assessing memory, attention, and reaction time at the final follow-up session [1]. Higher cumulative screen time was linked to higher overall cognition scores and faster reaction times on working memory tasks [1]."
+   },
+   {
+    "h": "Quality Matters",
+    "t": "Researchers note that screen time can support cognitive processing depending on the kinds of activities involved [1]. Certain screen activities like video games, alongside reading and homework, may offer cognitive benefits [1]."
+   }
+  ],
+  "why": "Understanding how cognitive performance connects to daily habits offers fresh perspective on modern routines and focus.",
+  "tryit": "Reflect on how you choose digital tools and tasks for your daily focus, noting which specific activities genuinely sharpen your mental processing.",
+  "qa": [
+   [
+    "How many children took part in the study?",
+    "The study analyzed data collected from 260 children, consisting of 136 boys and 124 girls [1]."
+   ],
+   [
+    "At what ages were the participants tracked?",
+    "The study began when the children were about eight years old and ended when they were approximately 16 [1]."
+   ],
+   [
+    "What did higher screen time link to in teens?",
+    "It linked to higher overall cognition scores and faster reaction times on two working memory tasks [1]."
+   ],
+   [
+    "Who led the commentary on the findings?",
+    "Exercise researcher Petri Jalanko from the University of Jyväskylä in Finland commented on the findings [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/screen-time-in-childhood-is-linked-to-a-surprising-brain-benefit-in-teens-8-year-study-finds",
+    "status": 200,
+    "title": "Screen Time in Childhood Is Linked to a Surprising Brain Benefit in Teens, 8-Year Study Finds",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T21:00:00Z",
+  "addedAt": "2026-11-22T10:44:13Z",
+  "audio": "audio/surprising-study-links-childhood-screen-time-to.mp3",
+  "image": {
+   "src": "img/surprising-study-links-childhood-screen-time-to.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/screen-time-in-childhood-is-linked-to-a-surprising-brain-benefit-in-teens-8-year-study-finds",
+   "from_url": "https://www.sciencealert.com/images/2026/11/child-on-tablet.jpg"
+  }
+ },
+ {
+  "id": "google-updates-gemini-to-let-you-opt-out-of-ai-t",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "privacy",
+   "business",
+   "agents"
+  ],
+  "title": "Google updates Gemini to let you opt out of AI training without losing chat history",
+  "snippet": "Google is splitting its Keep Activity setting into two options, letting you keep past chats while opting out of AI model training.",
+  "bullets": [
+   "Google is overhauling its privacy settings so you can stop AI model training without deleting your chat history [1].",
+   "The new update replaces Keep Activity with separate controls for saving history and training the AI [1].",
+   "Other platforms like ChatGPT, Microsoft Copilot, and Claude already let you keep history while opting out of training [1]."
+  ],
+  "report": [
+   {
+    "h": "New Privacy Controls",
+    "t": "Google is introducing two separate settings to replace the old Keep Activity option [1]. You will be able to choose how long to save your history independently of whether your chats are used for training [1]."
+   },
+   {
+    "h": "How Default Settings Work",
+    "t": "If your Keep Activity setting is currently off, both new settings will default to off [1]. If it is on, both will default to on, requiring you to manually update your preferences [1]."
+   },
+   {
+    "h": "Industry Standard Alignment",
+    "t": "Google was previously the only major AI player forcing users to delete chat history to avoid training [1]. Other tools like ChatGPT, Microsoft Copilot, and Claude already allow users to retain history while opting out [1]."
+   }
+  ],
+  "why": "Protecting your data and privacy when using AI tools is essential when running a business or handling client information.",
+  "tryit": "Check your Gemini settings once the rollout reaches your account to separate your chat history retention from model training preferences.",
+  "qa": [
+   [
+    "What was the previous limitation with Gemini privacy?",
+    "Previously, the only way to opt out of model training was to delete your entire chat history [1]."
+   ],
+   [
+    "What will replace the Keep Activity setting?",
+    "Google is replacing it with two new settings to independently control history saving and model training [1]."
+   ],
+   [
+    "How do other AIs handle this?",
+    "ChatGPT, Microsoft Copilot, and Claude all allow users to opt out of training while keeping their conversation history [1]."
+   ],
+   [
+    "What happens if your Keep Activity setting is currently off?",
+    "Both new settings will be off when the change is made [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/",
+    "status": 200,
+    "title": "Google is making it easier to opt out of Gemini AI model training - here's how - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T18:01:38Z",
+  "addedAt": "2026-11-22T10:44:13Z",
+  "audio": "audio/google-updates-gemini-to-let-you-opt-out-of-ai-t.mp3",
+  "image": {
+   "src": "img/google-updates-gemini-to-let-you-opt-out-of-ai-t.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Gemini-Keep-Activity-setting.jpg"
+  }
+ },
+ {
+  "id": "how-an-ai-supertelescope-could-combine-data-from",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "science",
+   "space",
+   "business"
+  ],
+  "title": "How an AI supertelescope could combine data from three giant observatories",
+  "snippet": "Astronomers are calling to combine data from the Vera C. Rubin Observatory, Euclid, and the Nancy Grace Roman Space Telescope using artificial intelligence. Processing these overlapping observations together could create a virtual fourth observatory that reveals hidden cosmic details.",
+  "bullets": [
+   "Public investment in the Rubin, Euclid, and Roman telescopes has already amounted to more than six billion dollars [1].",
+   "Artificial intelligence and cloud computing are essential for processing the petabytes of overlapping data generated by these observatories [1].",
+   "Combining these datasets could improve our understanding of dark matter, track asteroids near Earth, and help discover exoplanets [1]."
+  ],
+  "report": [
+   {
+    "h": "Uniting Three Telescopes",
+    "t": "Astronomers propose using artificial intelligence to fuse data from the Vera C. Rubin Observatory, the Euclid space telescope, and the Nancy Grace Roman Space Telescope [1]. Public investment in these three machines has already reached more than six billion dollars, yet their data streams are not fully unified [1]."
+   },
+   {
+    "h": "Massive Data Volumes",
+    "t": "The three observatories will produce petabytes of overlapping information that far exceed human processing limits [1]. Researchers note that using artificial intelligence makes annotating and analyzing this massive scale of data almost instant [1]."
+   },
+   {
+    "h": "New Cosmic Discoveries",
+    "t": "Combining these views at a high resolution could improve studies on dark energy, track potential near-Earth asteroids, and find exoplanets and their moons [1]. Some teams have already begun building initial software to jointly process images between specific telescopes [1]."
+   }
+  ],
+  "why": "Why it matters to you: This shows how advanced artificial intelligence and large-scale data systems can solve complex bottlenecks that human effort alone cannot tackle [1].",
+  "tryit": "Try this today: Explore open-source AI datasets or tools on platforms like Hugging Face to see how automated data-fusion models handle complex multi-source inputs.",
+  "qa": [
+   [
+    "What are the three telescopes involved in the proposal?",
+    "They are the Vera C. Rubin Observatory, the Euclid space telescope, and the Nancy Grace Roman Space Telescope [1]."
+   ],
+   [
+    "Why is artificial intelligence needed for this project?",
+    "The observatories will generate petabytes of data that are too vast for human teams to process alone [1]."
+   ],
+   [
+    "How much have public investments reached for these telescopes?",
+    "Public investment has already amounted to more than six billion dollars [1]."
+   ],
+   [
+    "What practical benefit does combining the data offer for our solar system?",
+    "Combining views from different telescopes provides parallax data to help find and track asteroids that could come near Earth [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/",
+    "status": 200,
+    "title": "An AI-powered ‘supertelescope’ could revolutionize astronomy—provided someone builds it",
+    "domain": "scientificamerican.com"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T14:00:00Z",
+  "addedAt": "2026-11-22T10:44:13Z",
+  "audio": "audio/how-an-ai-supertelescope-could-combine-data-from.mp3",
+  "image": {
+   "src": "img/how-an-ai-supertelescope-could-combine-data-from.jpg",
+   "credit": "Scientific American",
+   "license": "© Scientific American, shown with credit",
+   "page": "https://www.scientificamerican.com/article/the-ai-supertelescope-that-could-transform-the-universe/",
+   "from_url": "https://static.scientificamerican.com/dam/asset/fd452486-ec97-4e89-a463-9d47de619d49/messier-81-close.jpg?m=1795096579.174&w=1200"
+  }
+ },
+ {
+  "id": "drone-captures-whale-breath-to-sequence-full-gen",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "animals",
+   "health"
+  ],
+  "title": "Drone captures whale breath to sequence full genome without any physical disturbance",
+  "snippet": "Researchers used a small aerial drone with sterile petri dishes to collect blow samples from humpback whales. This non-invasive method successfully completed a full genome sequence for the first time without using physical darts or biopsies.",
+  "bullets": [
+   "Researchers from the University of St. Andrews used a small aerial drone to collect breath samples from humpback whales [1].",
+   "Around 84% of the DNA collected in the blow samples came directly from the whale itself [1].",
+   "The non-invasive method avoided using traditional physical interventions like darts or biopsies that disturb the animals [1]."
+  ],
+  "report": [
+   {
+    "h": "Innovative Drone Collection",
+    "t": "Researchers attached sterile petri dishes to a small drone and flew it through the exhaled breaths of humpback whales. They collected 58 blow samples from 26 individual humpback whales in northern British Columbia [1]."
+   },
+   {
+    "h": "First Genome Sequencing",
+    "t": "This marks the first time a whole genome has been sequenced using samples from whale breath without physical interventions. Around a third of the samples required no boat at all, being flown directly from land [1]."
+   },
+   {
+    "h": "Microbiome Insights",
+    "t": "The team discovered that about 16% of the DNA in each blow sample comes from microbes in the whale airways. This single breath provides a potential window into the respiratory health of the animal [1]."
+   }
+  ],
+  "why": "It is a fascinating scientific breakthrough showing how smart, non-invasive technology can solve difficult data collection challenges.",
+  "tryit": "Read the published study details in Molecular Ecology Resources to learn more about how non-invasive drone technology is advancing wildlife conservation research today.",
+  "qa": [
+   [
+    "How was the whale breath collected?",
+    "Researchers attached sterile petri dishes to a small drone and flew it through the exhaled breaths of humpback whales [1]."
+   ],
+   [
+    "Where did the study take place?",
+    "The team collected samples in the Kitimat Fjord System in northern British Columbia, Canada [1]."
+   ],
+   [
+    "How much DNA in the sample came from the whale?",
+    "Around 84% of the DNA in the blow came from the whale itself [1]."
+   ],
+   [
+    "What else can the breath samples reveal?",
+    "About 16% of the DNA comes from microbes living in the whale airways, offering a window into respiratory health [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/",
+    "status": 200,
+    "title": "Breath of a Whale Captured by Drone Allows Full Genome Sequencing Without Intrusion",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T17:30:30Z",
+  "addedAt": "2026-11-22T10:44:13Z",
+  "audio": "audio/drone-captures-whale-breath-to-sequence-full-gen.mp3",
+  "image": {
+   "src": "img/drone-captures-whale-breath-to-sequence-full-gen.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Whale-spout-by-NorthCoastCetaceanSociety-via-SWNS-.jpeg"
+  }
+ },
+ {
+  "id": "discover-seven-oldfashioned-words-that-describe",
+  "cat": "english",
+  "tags": [
+   "english",
+   "words",
+   "history"
+  ],
+  "title": "Discover Seven OldFashioned Words That Describe Beauty and Allure",
+  "snippet": "Explore a collection of vintage words from history that describe beauty, attraction, and appearance with unique charm.",
+  "bullets": [
+   "Society has always had shifting standards of beauty across oceans and cultures [1].",
+   "Many older terms for beauty have nearly disappeared from modern vocabulary [1].",
+   "These vintage words describe physical appearance, love, confidence, impressiveness, and vanity [1]."
+  ],
+  "report": [
+   {
+    "h": "Shifting Beauty Standards",
+    "t": "Society constantly shifts its ideals of beauty across decades and cultures [1]. Physical appearance has historically been linked to power, wealth, and identity [1]."
+   },
+   {
+    "h": "Vintage Vocabulary",
+    "t": "Words that once described beauty have often been replaced by modern terms like hot, pretty, and cool [1]. Rediscovering old terms brings vintage charm back into conversation [1]."
+   },
+   {
+    "h": "Subjective Qualities",
+    "t": "True beauty remains subjective and in the eye of the beholder [1]. Definitions range from pleasing appearances to hints of allure and deception [1]."
+   }
+  ],
+  "why": "Learning forgotten descriptive words expands your vocabulary and adds vintage charm to your everyday writing and conversation.",
+  "tryit": "Pick one unusual word from historical vocabulary and use it in a descriptive sentence today.",
+  "qa": [
+   [
+    "What is the definition of beauty?",
+    "Beauty is the quality or group of qualities in a person or thing that gives pleasure to the senses or the mind [1]."
+   ],
+   [
+    "Why have many beauty words disappeared?",
+    "They have been replaced in modern vocabulary by terms like hot, pretty, and cool [1]."
+   ],
+   [
+    "What do synonyms for beauty describe?",
+    "They describe the physical appearance of a person or place, sometimes with hints of allure and deception [1]."
+   ],
+   [
+    "Who was a defining historical example of beauty and power?",
+    "Cleopatra is a defining example of beauty and attention being synonymous with power, wealth, and identity [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.mentalfloss.com/language/words/old-fashioned-words-describe-beauty",
+    "status": 200,
+    "title": "7 Old-Fashioned Words That Describe Beauty",
+    "domain": "mentalfloss.com"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T01:00:00Z",
+  "addedAt": "2026-11-22T10:44:13Z",
+  "audio": "audio/discover-seven-oldfashioned-words-that-describe.mp3",
+  "image": {
+   "src": "img/discover-seven-oldfashioned-words-that-describe.jpg",
+   "credit": "Mental Floss",
+   "license": "© Mental Floss, shown with credit",
+   "page": "https://www.mentalfloss.com/language/words/old-fashioned-words-describe-beauty",
+   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_1301,w_5400,h_3037/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m7t774c4tj0yh4245g.jpg"
+  }
+ },
+ {
+  "id": "why-madrid-in-winter-offers-a-vibrant-festive-at",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "spain",
+   "madrid",
+   "winter"
+  ],
+  "title": "Why Madrid in winter offers a vibrant festive atmosphere and rich local traditions",
+  "snippet": "Discover Madrid's bustling winter charm, from festive markets in Plaza Mayor to historic taverns serving sherry since 1922.",
+  "bullets": [
+   "Madrid features festive markets in Plaza Mayor and ice rinks in Plaza de España and Plaza Colón [1].",
+   "Historic taverns like La Venencia have served sherry straight from the casks since 1922 [1].",
+   "King Felipe II built El Escorial circa 1580 near forest trails in the Sierra de Guadarrama [1]."
+  ],
+  "report": [
+   {
+    "h": "Festive Street Life",
+    "t": "The Spanish capital comes alive with outdoor dining, giant Christmas trees, and markets filling the cobbled core of Plaza Mayor [1]. Locals embrace the festive spirit by wearing novelty hats while shopping [1]."
+   },
+   {
+    "h": "Traditional Warmth",
+    "t": "Civic life continues outdoors under lap blankets and patio heaters, while vintage taverns offer mulled wine and sherry poured straight from casks [1]. Signature local stew cocido madrileño is served in three courses of huge abundance [1]."
+   },
+   {
+    "h": "Mountain Views",
+    "t": "Forest trails near El Escorial, built circa 1580, lead to mountain lookouts offering views of faraway Madrid [1]. Mid-November and mid-January offer quieter times to enjoy indoor sights like Goya's La Nevada at the Prado [1]."
+   }
+  ],
+  "why": "This winter guide provides a constructive look at travel opportunities and local culture in a major European capital.",
+  "tryit": "Plan a winter city break to Madrid and explore the historic taverns and rooftop terraces mentioned in the article [1].",
+  "qa": [
+   [
+    "What year was La Venencia established?",
+    "Sherry has been the only thing served there since 1922 [1]."
+   ],
+   [
+    "When did Storm Filomena hit Madrid?",
+    "It brought a blizzard of the century in 2021 [1]."
+   ],
+   [
+    "Who built El Escorial?",
+    "King Felipe II built it circa 1580 [1]."
+   ],
+   [
+    "What is cocido madrileño?",
+    "It is the region's signature stew of chickpeas, noodles, cabbage and pork meats [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/travel/2026/nov/22/why-i-love-madrid-in-winter-christmas-shopping",
+    "status": 200,
+    "title": "Why I love Madrid in winter: ‘Locals get into the spirit by doing their shopping in novelty hats’",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T07:00:22Z",
+  "addedAt": "2026-11-22T10:44:13Z",
+  "audio": "audio/why-madrid-in-winter-offers-a-vibrant-festive-at.mp3",
+  "image": {
+   "src": "img/why-madrid-in-winter-offers-a-vibrant-festive-at.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/travel/2026/nov/22/why-i-love-madrid-in-winter-christmas-shopping",
+   "from_url": "https://i.guim.co.uk/img/media/e5ed3a1d35c081328228de6c44273da92c9de726/0_1445_4057_3246/master/4057.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f46c8c9e7dcc4e6e842562d52376b3e4"
+  }
+ },
+ {
+  "id": "turn-your-novel-ideas-into-reality-with-these-cl",
+  "cat": "mind",
+  "tags": [
+   "writing",
+   "books",
+   "creativity",
+   "focus",
+   "psychology"
+  ],
+  "title": "Turn Your Novel Ideas Into Reality With These Classic Writing Guides",
+  "snippet": "Staring at a blank page and deleting your first sentence? Ten classic books on the craft of writing offer practical tools to help you build characters, structure plots, and manage creative doubt.",
+  "bullets": [
+   "Stephen King combines his personal story with a practical account of vocabulary, grammar, and revision [1].",
+   "Anne Lamott suggests taking projects piece by piece to reduce overwhelm and accept messy drafts [1].",
+   "Natalie Goldberg encourages keeping the hand moving through repetition to quiet your inner judgment [1]."
+  ],
+  "report": [
+   {
+    "h": "Break Down the Task",
+    "t": "Starting a big project can trigger overwhelm when faced with a blank page [1]. Practical guides suggest taking work piece by piece rather than tackling an impossible whole at once [1]."
+   },
+   {
+    "h": "Focus on Internal Struggle",
+    "t": "Great stories rely on how unusual events affect a character's unique worldview [1]. Placing internal struggles at the center connects incidents through changing interiority [1]."
+   },
+   {
+    "h": "Embrace the Revision Process",
+    "t": "Drafting and rewriting are distinct stages that benefit from specific, manageable actions [1]. Breaking revision into layers helps strengthen a manuscript without overwhelming the writer [1]."
+   }
+  ],
+  "why": "When big creative projects feel too large or overwhelming to start, breaking the work down into bite-sized parts can help quiet self-doubt and maintain focus.",
+  "tryit": "Pick one book from the list, such as Anne Lamott's Bird by Bird or Natalie Goldberg's Writing Down the Bones, and read the first chapter today to get words flowing.",
+  "qa": [
+   [
+    "How many novels has Stephen King published?",
+    "He has published over 60 novels and sold more than 350 million copies globally [1]."
+   ],
+   [
+    "What does the LOCK framework stand for?",
+    "It stands for lead, objective, confrontation, and knockout [1]."
+   ],
+   [
+    "How long is the style manual by William Strunk Jr. and E. B. White?",
+    "It is short, about 100 pages [1]."
+   ],
+   [
+    "What is the central approach in Anne Lamott's book?",
+    "To attend to one manageable piece at a time, taking things bird by bird [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/building-a-business/want-to-write-your-first-novel-here-are-10-books-to-read-before-picking-up-your-pen",
+    "status": 200,
+    "title": "Want to Write Your First Novel? Here Are 10 Books to Read Before Picking Up Your Pen.",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T21:53:52Z",
+  "addedAt": "2026-11-22T10:44:13Z",
+  "audio": "audio/turn-your-novel-ideas-into-reality-with-these-cl.mp3",
+  "image": {
+   "src": "img/turn-your-novel-ideas-into-reality-with-these-cl.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/building-a-business/want-to-write-your-first-novel-here-are-10-books-to-read-before-picking-up-your-pen",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/writing-a-novel-GettyImages-2289365218.jpg"
+  }
+ },
+ {
+  "id": "goldie-hawn-s-free-mindfulness-lesson-plans-brin",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "mindfulness",
+   "history",
+   "books",
+   "self-compassion"
+  ],
+  "title": "Goldie Hawn's Free Mindfulness Lesson Plans Bring Calm to Families",
+  "snippet": "Actor Goldie Hawn shifted focus to her nonprofit's MindUP program, releasing free mindfulness lesson plans online during lockdown to help families reduce stress and anxiety. Her approach builds emotional skills for healthier lives.",
+  "bullets": [
+   "Goldie Hawn produced and starred in Private Benjamin, breaking the glass ceiling for women-led blockbuster films [1].",
+   "Her Foundation's MindUP program provides school programs to improve student performance in 11 countries [1].",
+   "She released her lesson plan for free online to families during lockdown [1]."
+  ],
+  "report": [
+   {
+    "h": "Mindfulness in Schools",
+    "t": "Goldie Hawn shifted her focus from acting to family and her nonprofit Foundation's MindUP program [1]. The initiative provides school programs to improve student performance for millions of kids across 11 countries through mindfulness training [1]."
+   },
+   {
+    "h": "Free Resources",
+    "t": "During lockdown, Hawn released her mindfulness lesson plan for free online to support families [1]. This built upon the practical framework shared in her 2012 book, 10 Mindful Minutes [1]."
+   },
+   {
+    "h": "Reducing Stress",
+    "t": "The program focuses on giving children and adults the social and emotional skills needed to reduce stress and anxiety [1]. The goal is to foster happier, healthier lives through simple daily practices [1]."
+   }
+  ],
+  "why": "It matters because simple, evidence-based mindfulness tools can help quiet a busy mind and lower everyday stress without taking up hours of your day.",
+  "tryit": "Search online for Goldie Hawn's MindUP framework or her book 10 Mindful Minutes to pick one simple breathing exercise you can try today.",
+  "qa": [
+   [
+    "What is the name of Goldie Hawn's foundation program?",
+    "It is called the MindUP program [1]."
+   ],
+   [
+    "How many countries does the MindUP program operate in?",
+    "It operates in 11 countries [1]."
+   ],
+   [
+    "When did Goldie Hawn release her lesson plan online for free?",
+    "She released it for free online to families during lockdown [1]."
+   ],
+   [
+    "What is the title of her 2012 book?",
+    "It is titled 10 Mindful Minutes: Giving Our Children–and Ourselves–the Social and Emotional Skills to Reduce Stress and Anxiety for Healthier, Happy Lives [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/events061121/",
+    "status": 200,
+    "title": "325 Years Ago Today, Voltaire – the Inspiration for the American and French Revolutions – was Born",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T08:00:00Z",
+  "addedAt": "2026-11-22T10:44:13Z",
+  "audio": "audio/goldie-hawn-s-free-mindfulness-lesson-plans-brin.mp3",
+  "image": {
+   "src": "img/goldie-hawn-s-free-mindfulness-lesson-plans-brin.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/events061121/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/11/Files-pixabay.jpg"
+  }
+ },
+ {
   "id": "mathematician-claims-ai-software-helped-crack-th",
   "cat": "ai",
   "tags": [
@@ -20645,76 +21344,6 @@
   }
  },
  {
-  "id": "ten-healthy-diets-linked-to-slower-biological-ag",
-  "cat": "health",
-  "tags": [
-   "health",
-   "longevity",
-   "science",
-   "fitness"
-  ],
-  "title": "Ten Healthy Diets Linked To Slower Biological Aging In New Study",
-  "snippet": "A new study reveals that following any of 10 established healthy diets is linked to slower biological aging. Researchers analysed data for 6,470 participants aged 30 and over, connecting dietary habits to blood biomarkers.",
-  "bullets": [
-   "Researchers analyzed data for 6,470 participants aged 30 and over to compare diet guidelines with biological age [1].",
-   "The study highlighted 10 specific diet regimes, including the Mediterranean diet, the DASH diet, and the MIND diet [1].",
-   "Researchers used three different epigenetic clocks to read biological aging from DNA methylation across about 850,000 sites [1]."
-  ],
-  "report": [
-   {
-    "h": "Ten Diets Linked To Slower Aging",
-    "t": "A study published in Nature Communications highlights 10 diet regimes linked to slower biological aging [1]. Researchers analyzed data for 6,470 participants aged 30 and over to see how eating habits affect blood biomarkers [1]."
-   },
-   {
-    "h": "Flexible Choices For Better Health",
-    "t": "The studied diets include the Mediterranean, Nordic, DASH, and MIND diets, leaving room for personal preferences and budget [1]. Hardly any participants hit high health scores on every set of guidelines, meaning you only need to pick one [1]."
-   },
-   {
-    "h": "Cellular Pathways And DNA",
-    "t": "Scientists used epigenetic clocks to read biological aging from DNA methylation across about 850,000 sites [1]. More than 70 percent of the affected biological pathways involved cell structure, signaling, and metabolism [1]."
-   }
-  ],
-  "why": "This matters because you do not need a perfect diet or a single restrictive plan to support your long-term health and longevity [1].",
-  "tryit": "Review the 10 diets mentioned in the study, such as the Mediterranean or DASH diets, and pick one small adjustment to try this week [1].",
-  "qa": [
-   [
-    "How many diet regimes were linked to slower biological aging?",
-    "The study highlighted 10 diet regimes linked to slower biological aging [1]."
-   ],
-   [
-    "How many participants were in the study?",
-    "Researchers analyzed data for 6,470 participants aged 30 and over in the main group [1]."
-   ],
-   [
-    "Do you need to follow every diet guideline to see benefits?",
-    "Hardly any participants hit high health scores on every set of guidelines, and you only need to pick one [1]."
-   ],
-   [
-    "What did researchers look at to measure biological age?",
-    "Researchers looked at DNA methylation patterns using three different approaches called epigenetic clocks [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/scientists-identified-10-healthy-diets-linked-to-slower-biological-aging",
-    "status": 200,
-    "title": "Scientists Identified 10 Healthy Diets Linked to Slower Biological Aging",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-08",
-  "publishedAt": "2026-11-08T02:00:00Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/ten-healthy-diets-linked-to-slower-biological-ag.mp3",
-  "image": {
-   "src": "img/ten-healthy-diets-linked-to-slower-biological-ag.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/scientists-identified-10-healthy-diets-linked-to-slower-biological-aging",
-   "from_url": "https://www.sciencealert.com/images/2026/11/HealthyDiet-1200x675.jpg"
-  }
- },
- {
   "id": "historical-milestones-from-chess-dominance-to-wi",
   "cat": "whoa",
   "tags": [
@@ -21064,77 +21693,6 @@
   }
  },
  {
-  "id": "swiss-researchers-teach-robotic-hands-to-walk-in",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "robotics",
-   "automation",
-   "hardware",
-   "innovation"
-  ],
-  "title": "Swiss Researchers Teach Robotic Hands to Walk Independently Like Thing",
-  "snippet": "Researchers at ETH Zurich trained a standard robotic hand to walk on its fingertips, recover from falls, and operate keyboards independently. The complete setup carries its own battery and computing hardware, weighing 818 grams [1].",
-  "bullets": [
-   "Researchers at ETH Zurich taught a robotic hand to walk on its fingertips, recover from falls, and press keyboard keys [1].",
-   "The team added a battery, a small computer, and a motion sensor to a commercial hand, creating an 818 gram portable unit [1].",
-   "Using reinforcement learning in simulation, the software learned to coordinate the uneven fingers into a stable walking gait [1]."
-  ],
-  "report": [
-   {
-    "h": "Fingertip Locomotion",
-    "t": "Engineers developed software that lets a robotic hand walk on its fingers without needing an arm to carry it [1]. By using reinforcement learning, the system learned to shift its weight across unequal fingers and a thumb [1]."
-   },
-   {
-    "h": "Hardware and Testing",
-    "t": "The complete setup weighs 818 grams, carrying its own power and computing hardware on its back [1]. It successfully crawled across 14 surfaces, including grass, gravel, metal grating, and wooden floors [1]."
-   },
-   {
-    "h": "Task Execution",
-    "t": "Separate controllers enabled the hand to press correct keyboard arrow keys and push a cube toward a target [1]. Future goals include combining these skills and adding onboard vision for autonomous navigation [1]."
-   }
-  ],
-  "why": "This breakthrough highlights how simulation and reinforcement learning can unlock advanced dexterity in compact robotic hardware, offering new automation possibilities.",
-  "tryit": "Explore the arXiv preprint server to read original robotics engineering papers and study how researchers apply reinforcement learning to physical hardware.",
-  "qa": [
-   [
-    "How much does the complete robotic hand setup weigh?",
-    "The complete setup weighs 818 grams, or about 1.8 pounds [1]."
-   ],
-   [
-    "What surfaces was the hand tested on?",
-    "It crawled across 14 surfaces, including wooden floors, metal grating, grass, and gravel [1]."
-   ],
-   [
-    "How were the robot's movements trained?",
-    "The researchers trained its control software in simulation using reinforcement learning before transferring the skills to real hardware [1]."
-   ],
-   [
-    "What can the hand do besides walking?",
-    "It can right itself after a fall, press keyboard arrow keys, and push a cube toward a target [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck",
-    "status": 200,
-    "title": "This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-08",
-  "publishedAt": "2026-11-08T10:00:00Z",
-  "addedAt": "2026-11-08T23:32:56Z",
-  "audio": "audio/swiss-researchers-teach-robotic-hands-to-walk-in.mp3",
-  "image": {
-   "src": "img/swiss-researchers-teach-robotic-hands-to-walk-in.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck",
-   "from_url": "https://www.sciencealert.com/images/2026/11/WalkingHand-1200x675.png"
-  }
- },
- {
   "id": "scientists-discover-a-potential-blood-biomarker",
   "cat": "health",
   "tags": [
@@ -21201,144 +21759,6 @@
    "license": "© ScienceAlert, shown with credit",
    "page": "https://www.sciencealert.com/scientists-identified-a-biological-signature-of-tinnitus-and-its-in-your-blood",
    "from_url": "https://www.sciencealert.com/images/2026/11/tinnitus-ear.jpg"
-  }
- },
- {
-  "id": "historical-milestones-from-murano-glass-to-the-b",
-  "cat": "news",
-  "tags": [
-   "history",
-   "books",
-   "art",
-   "music",
-   "science"
-  ],
-  "title": "Historical Milestones from Murano Glass to the Bodleian Library",
-  "snippet": "Explore fascinating historical moments on this day, including the founding of Murano glassmaking, the reopening of Oxford's Bodleian Library, and the release of Led Zeppelin's iconic fourth album.",
-  "bullets": [
-   "The Republic of Venice confined its glassmaking industry to the island of Murano 735 years ago today [1].",
-   "The Bodleian Library at Oxford University reopened permanently 424 years ago today with over 13 million printed items [1].",
-   "Led Zeppelin released their fourth album 55 years ago today, which eventually shipped over 37 million copies worldwide [1]."
-  ],
-  "report": [
-   {
-    "h": "Murano Glass Tradition",
-    "t": "In 1291, the Republic of Venice confined glassmaking to the island of Murano to protect trade secrets [1]. Artisans must maintain extreme physical endurance, working up to 16 hours straight to keep the glass pliable [1]. Today, the craft has evolved into fine art and sculpture, adapting successfully to modern European energy prices [1]."
-   },
-   {
-    "h": "Oxford Library Treasures",
-    "t": "The Bodleian Library at Oxford University reopened permanently in 1602 under founder Sir Thomas Bodley [1]. It houses priceless treasures including J.R.R. Tolkien's manuscripts and one of the four surviving copies of the Magna Carta [1]. It stands today as the second-largest library in Britain after the British Library [1]."
-   },
-   {
-    "h": "Led Zeppelin IV Success",
-    "t": "Recorded informally in an English country house, Led Zeppelin's fourth album was released 55 years ago [1]. Despite warnings of professional suicide for using four symbols instead of text, it rose to No.1 on the UK chart within days [1]. It became the band's best-selling record, shipping over 37 million copies worldwide [1]."
-   }
-  ],
-  "why": "Looking at historical milestones and creative persistence offers a refreshing perspective on long-term projects and mastery.",
-  "tryit": "Visit the Bodleian Library website online to browse their digital collections and historical manuscripts.",
-  "qa": [
-   [
-    "When was the death penalty abolished for almost all crimes in the UK?",
-    "The Murder Act of 1965 abolished the death penalty for almost all crimes in the UK [1]."
-   ],
-   [
-    "What famous manuscripts are kept in the Bodleian Library?",
-    "The library holds many of J.R.R. Tolkien's manuscripts, a copy of the Magna Carta, and a Gutenberg Bible [1]."
-   ],
-   [
-    "How many copies of Led Zeppelin's fourth album were shipped worldwide?",
-    "The album shipped over 37 million copies worldwide [1]."
-   ],
-   [
-    "Who was the first African-American elected to the US Senate?",
-    "Edward Brooke was elected to the US Senate in 1966 [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/events061108/",
-    "status": 200,
-    "title": "Good News in History, November 8 - Good News Network",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-11-08",
-  "publishedAt": "2026-11-08T08:00:00Z",
-  "addedAt": "2026-11-08T11:09:01Z",
-  "audio": "audio/historical-milestones-from-murano-glass-to-the-b.mp3",
-  "image": {
-   "src": "img/historical-milestones-from-murano-glass-to-the-b.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/events061108/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/Palaec-of-Westminster-UK-Parliament-credit-Terr-Ott-CC-2.0.jpg"
-  }
- },
- {
-  "id": "laugh-your-way-through-dinner-with-these-simple",
-  "cat": "laugh",
-  "tags": [
-   "laugh"
-  ],
-  "title": "Laugh Your Way Through Dinner With These Simple Holiday Jokes",
-  "snippet": "Studies show that laughing for 10 to 15 minutes can burn up to 40 calories. Prepping a few holiday jokes is a great way to break any awkward silence at the dinner table.",
-  "bullets": [
-   "Studies show that 10 to 15 minutes of laughing can burn up to 40 calories [1].",
-   "Prepping a few jokes is the best defense against a dead-silent dinner table [1].",
-   "Jokes can help break an awkward silence before politics come up [1]."
-  ],
-  "report": [
-   {
-    "h": "Burn Calories Laughing",
-    "t": "Studies show that 10 to 15 minutes of laughing can burn up to 40 calories [1]. After a large meal, you might want to double that dose [1]."
-   },
-   {
-    "h": "Break The Silence",
-    "t": "Prepping a few jokes is your best defense against a dead-silent dinner table [1]. It helps break an awkward silence before politics come up [1]."
-   },
-   {
-    "h": "Simple Holiday Puns",
-    "t": "Simple questions and dad jokes can give your core a workout [1]. For instance, one joke asks why the turkey passed on the pumpkin pie, with the answer being that he was stuffed [1]."
-   }
-  ],
-  "why": "A quick laugh is a great way to shift your focus and lighten the mood during a busy day.",
-  "tryit": "Read a short joke out loud to share a quick smile with someone near you today.",
-  "qa": [
-   [
-    "How many calories can laughing burn?",
-    "Laughing for 10 to 15 minutes can burn up to 40 calories [1]."
-   ],
-   [
-    "Why did the turkey pass on the pumpkin pie?",
-    "He was stuffed [1]."
-   ],
-   [
-    "What happens when potatoes drink too much?",
-    "They get mashed [1]."
-   ],
-   [
-    "What is the difference between a turkey and a bad joke?",
-    "One gets dressed, and the other gets roasted [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.mentalfloss.com/holidays/thanksgiving/thanksgiving-jokes",
-    "status": 200,
-    "title": "110 Thanksgiving Jokes That Are Surprisingly Easy to Digest",
-    "domain": "mentalfloss.com"
-   }
-  ],
-  "date": "2026-11-08",
-  "publishedAt": "2026-11-08T00:00:00Z",
-  "addedAt": "2026-11-08T11:09:01Z",
-  "audio": "audio/laugh-your-way-through-dinner-with-these-simple.mp3",
-  "image": {
-   "src": "img/laugh-your-way-through-dinner-with-these-simple.jpg",
-   "credit": "Mental Floss",
-   "license": "© Mental Floss, shown with credit",
-   "page": "https://www.mentalfloss.com/holidays/thanksgiving/thanksgiving-jokes",
-   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1199,h_674/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01m6ps1jnq6zmzvd1vk0.jpg"
   }
  },
  {
