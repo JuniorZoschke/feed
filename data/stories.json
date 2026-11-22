@@ -1,5 +1,359 @@
 [
  {
+  "id": "fda-approved-drug-may-offer-actual-cure-for-horm",
+  "cat": "health",
+  "tags": [
+   "health",
+   "science",
+   "medicine"
+  ],
+  "title": "FDA-Approved Drug May Offer Actual Cure for Hormone-Driven High Blood Pressure",
+  "snippet": "A new study reveals that an FDA-approved drug called baxdrostat can reverse hormone-induced high blood pressure, offering lasting relief after a short course of treatment.",
+  "bullets": [
+   "Just under a quarter of patients came off all treatment and had completely normal blood pressure [1].",
+   "The FDA-approved drug baxdrostat targets excess production of the hormone aldosterone [1].",
+   "Benefits persisted for up to two years after treatment ended without needing lifelong medication [1]."
+  ],
+  "report": [
+   {
+    "h": "New Drug Trial Results",
+    "t": "Doctors were stunned by a study of patients taking the FDA-approved drug baxdrostat, which reversed high blood pressure caused by hormones [1]. The treatment targets excess aldosterone production, which is a common cause of hypertension [1]."
+   },
+   {
+    "h": "Lasting Relief Found",
+    "t": "The treatment involves taking the new class of drugs for 6-12 months [1]. Researchers found that benefits persisted for up to two years after treatment ended, unlike conventional daily treatments [1]."
+   },
+   {
+    "h": "Potential Permanent Cure",
+    "t": "The main marker of excess aldosterone production remained 99 per cent lower than before treatment, and blood pressure averaged 25 points lower [1]. Almost a quarter of participants had normal blood pressure without taking any other medication [1]."
+   }
+  ],
+  "why": "This medical discovery highlights how targeted treatments can permanently resolve underlying root causes rather than just managing symptoms long-term [1].",
+  "tryit": "Talk to a GP or pharmacist if you want to learn more about managing high blood pressure and current treatment options [1].",
+  "qa": [
+   [
+    "What is the name of the FDA-approved drug?",
+    "The drug is called baxdrostat or baxfendy [1]."
+   ],
+   [
+    "How long does the treatment course last?",
+    "The treatment involves taking the new class of drugs for 6-12 months [1]."
+   ],
+   [
+    "What percentage of patients stopped all treatment?",
+    "Just under a quarter of the patients came off all treatment and had completely normal blood pressure [1]."
+   ],
+   [
+    "How long did the benefits last after treatment ended?",
+    "The benefits persisted for up to two years after treatment had ended [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/drug-may-actually-cure-high-blood-pressure-caused-by-hormones/",
+    "status": 200,
+    "title": "‘Extraordinary’ Drug May Actually Cure High Blood Pressure Caused by Hormones, And it’s FDA-Approved",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T14:58:57Z",
+  "addedAt": "2026-11-22T17:41:45Z",
+  "audio": "audio/fda-approved-drug-may-offer-actual-cure-for-horm.mp3",
+  "image": {
+   "src": "img/fda-approved-drug-may-offer-actual-cure-for-horm.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/drug-may-actually-cure-high-blood-pressure-caused-by-hormones/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Doctor-takes-blood-pressure-by-Vitaly-Gariev-NDOYHZ_98Rw-unsplash.jpeg"
+  }
+ },
+ {
+  "id": "nvidia-faces-executive-drama-and-strict-new-chip",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "negotiation"
+  ],
+  "title": "Nvidia faces executive drama and strict new chip export rules in China",
+  "snippet": "Nvidia reports soaring revenue and halts H200 chip sales in China amid tighter U.S. export controls. Meanwhile, tech figures push for former CEO Jensen Huang to return.",
+  "bullets": [
+   "Nvidia announced it will no longer sell its H200 chips in China [1].",
+   "Critics estimate that 20 percent of Nvidia's business comes indirectly from China [1].",
+   "Tech executives including Elon Musk have circulated a petition pushing for Jensen Huang to return as CEO [1]."
+  ],
+  "report": [
+   {
+    "h": "Earnings and leadership drama",
+    "t": "Nvidia reported strong guidance and soaring revenue while current executives insisted they have everything under control [1]. At the same time, tech figures like Elon Musk pushed for former CEO Jensen Huang to return, with Huang stating he is prepared to come back [1]."
+   },
+   {
+    "h": "China export restrictions",
+    "t": "Interim CEO Colette Kress confirmed that Nvidia will no longer sell H200 chips in China [1]. This coincides with Trump administration efforts to close remote access loopholes used by data centers in countries like Malaysia [1]."
+   },
+   {
+    "h": "Potential bottom-line impact",
+    "t": "Critics estimate that up to 20 percent of Nvidia's business relies on chips ultimately reaching Chinese companies through intermediaries [1]. Although current financials remain strong, these tightening export controls could pose a significant future challenge [1]."
+   }
+  ],
+  "why": "Understanding major shifts in AI infrastructure giants helps you anticipate market changes and spot economic opportunities.",
+  "tryit": "Read the full TechCrunch podcast transcript to analyze how hardware restrictions shift AI development timelines.",
+  "qa": [
+   [
+    "Will Nvidia continue selling H200 chips in China?",
+    "No, interim CEO Colette Kress stated that Nvidia will no longer sell its H200 chips in China [1]."
+   ],
+   [
+    "Who is pushing for Jensen Huang to return?",
+    "Tech figures including Elon Musk have circulated a petition to bring Jensen Huang back [1]."
+   ],
+   [
+    "What percentage of business do critics estimate comes from China?",
+    "Critics estimate that 20 percent of Nvidia's business comes from China [1]."
+   ],
+   [
+    "What is Jensen Huang's stance on returning?",
+    "Jensen Huang has stated that he is prepared to come back [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "status": 200,
+    "title": "A tale of two Nvidias | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T21:07:42Z",
+  "addedAt": "2026-11-22T17:41:45Z",
+  "audio": "audio/nvidia-faces-executive-drama-and-strict-new-chip.mp3",
+  "image": {
+   "src": "img/nvidia-faces-executive-drama-and-strict-new-chip.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
+  }
+ },
+ {
+  "id": "how-a-dorm-room-startup-grew-into-a-billion-doll",
+  "cat": "money",
+  "tags": [
+   "business",
+   "money",
+   "negotiation",
+   "economics",
+   "ai"
+  ],
+  "title": "How a Dorm Room Startup Grew Into a Billion-Dollar Business",
+  "snippet": "Co-founded in 1992 with self-funding and credit cards, TransPerfect grew into a multi-billion dollar enterprise by listening to clients and embracing new technology.",
+  "bullets": [
+   "Phil Shawe and Liz Elting co-founded TransPerfect in 1992 from an NYU dorm room without large financial backers [1].",
+   "The company generated about $400,000 in revenue in its first year and broke even [1].",
+   "Today, TransPerfect brings in $1.32 billion in annual revenue and employs more than 10,000 people [1]."
+  ],
+  "report": [
+   {
+    "h": "Starting with Brute Force",
+    "t": "The founders began by cold-calling clients, sending faxes, and mailing brochures to drum up early business [1]. They built a network of linguists as projects came in and kept spending below what they brought in [1]."
+   },
+   {
+    "h": "Learning Costly Lessons",
+    "t": "An early mistake involved investing heavily in an Atlanta office based on a verbal promise rather than a binding contract, which almost put the company out of business [1]. Shawe advises young founders to secure proper contractual protection and raise as little outside money as possible [1]."
+   },
+   {
+    "h": "Adapting Through Technology",
+    "t": "The firm expanded into areas like electronic discovery and technology consulting by listening to client needs [1]. Shawe believes in disrupting their own business with new software tools, even if it cuts short-term billable hours to secure long-term client loyalty [1]."
+   }
+  ],
+  "why": "This shows how bootstrapping, rigorous customer retention, and adapting to new technology can scale a small service business into a major enterprise.",
+  "tryit": "Review your current client agreements today to ensure you have binding commitments in writing before making major capital investments.",
+  "qa": [
+   [
+    "How much does TransPerfect generate in annual revenue now?",
+    "The operation generates $1.32 billion in annual revenue [1]."
+   ],
+   [
+    "What was Phil Shawe's biggest mistake as a founder?",
+    "Investing heavily in a venture without adequate contractual protection after a client changed course [1]."
+   ],
+   [
+    "What advice does Shawe give to young founders?",
+    "He advises them to raise as little money as possible and show real revenues as much as they can [1]."
+   ],
+   [
+    "How many employees does TransPerfect currently have?",
+    "The company has more than 10,000 employees [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/building-a-business/he-started-a-company-in-his-nyu-dorm-room-34-years-later-it-brings-in-more-than-1-billion-a-year",
+    "status": 200,
+    "title": "He Started a Company in His NYU Dorm Room. 34 Years Later, It Brings In More Than $1 Billion a Year.",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T20:23:33Z",
+  "addedAt": "2026-11-22T17:41:45Z",
+  "audio": "audio/how-a-dorm-room-startup-grew-into-a-billion-doll.mp3",
+  "image": {
+   "src": "img/how-a-dorm-room-startup-grew-into-a-billion-doll.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/building-a-business/he-started-a-company-in-his-nyu-dorm-room-34-years-later-it-brings-in-more-than-1-billion-a-year",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Phil-Shawe-speaking.-Credit-TransPerfect.jpg"
+  }
+ },
+ {
+  "id": "discovering-the-vibrant-contradictions-and-hidde",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "italy",
+   "naples",
+   "art",
+   "food",
+   "history"
+  ],
+  "title": "Discovering the Vibrant Contradictions and Hidden Gems of Naples in Three Days",
+  "snippet": "Explore the multi-layered city of Naples with a practical three-day itinerary. Experience ancient history, world-class art, and incredible local food from morning espresso to rooftop cocktails.",
+  "bullets": [
+   "Naples is safer, cleaner, and more tourist-friendly than ever, featuring a state-of-the-art metro system designed by renowned artists [1].",
+   "Visitors can tour the city's impressive underground art stations for just the price of a metro ticket, which is just over $2 [1].",
+   "Key historic highlights include the 1753 marble Cristo Velato and ongoing excavations under San Lorenzo Maggiore revealing a 2,000-year-old Greco-Roman city [1]."
+  ],
+  "report": [
+   {
+    "h": "Start With Classic Cafes",
+    "t": "Begin your first day at Gran Caffè Gambrinus for espresso and a warm cornetto standing shoulder to shoulder with locals [1]. Just across the square sits the imposing Palazzo Reale and the prestigious Teatro San Carlo opera house [1]."
+   },
+   {
+    "h": "Explore Underground Art",
+    "t": "The Toledo metro station offers full immersion in a public art project with jaw-dropping mosaics by Oscar Tusquets Blanca [1]. You can tour all these underground art stations for just over $2 using a standard metro ticket [1]."
+   },
+   {
+    "h": "Uncover Ancient History",
+    "t": "Beneath the 13th-century church of San Lorenzo Maggiore, excavations have revealed astonishing Greco-Roman city remains dating back 2,000 years [1]. Nearby, the Cappella Sansevero houses Giuseppe Sammartino’s sublime 1753 marble Cristo Velato [1]."
+   }
+  ],
+  "why": "Why it matters to you: A quick European city break offers a refreshing reset, blending rich history, stellar food, and inspiring urban design.",
+  "tryit": "Try this today: Plan a budget-friendly cultural itinerary using local public transport apps to map out gallery and museum stops.",
+  "qa": [
+   [
+    "How much does it cost to tour the metro art stations?",
+    "You can tour them all for just the price of a metro ticket, which is just over $2 [1]."
+   ],
+   [
+    "Where can you see Banksy's Madonna with a Pistol?",
+    "It appeared on the back right-hand wall of crumbling Piazza San Girolamini in 2004 [1]."
+   ],
+   [
+    "What museum is recommended if you only visit one?",
+    "Naples’ Archaeological Museum, also known as Mann, houses one of the world's great collections of ancient art and artefacts [1]."
+   ],
+   [
+    "When was Omega glove workshop opened?",
+    "Omega is a family glove business that first opened in 1923 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/how-to-spend-3-perfect-days-in-naples",
+    "status": 200,
+    "title": "How to Spend 3 Perfect Days in Naples",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T12:00:00Z",
+  "addedAt": "2026-11-22T17:41:45Z",
+  "audio": "audio/discovering-the-vibrant-contradictions-and-hidde.mp3",
+  "image": {
+   "src": "img/discovering-the-vibrant-contradictions-and-hidde.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/how-to-spend-3-perfect-days-in-naples",
+   "from_url": "https://media.cntraveler.com/photos/6afdfa15aca72ab1d201f88a/16:9/w_1280,c_limit/naples-GettyImages-1990476465.jpg"
+  }
+ },
+ {
+  "id": "young-authors-in-johannesburg-township-publish-i",
+  "cat": "news",
+  "tags": [
+   "education",
+   "reading",
+   "children",
+   "inspiration",
+   "writing",
+   "community"
+  ],
+  "title": "Young Authors in Johannesburg Township Publish Inspiring New Story Collection",
+  "snippet": "Children from a grassroots literacy program in Johannesburg have written and published their own book of short stories. The project highlights creativity, community spirit, and the power of storytelling to overcome real-life challenges.",
+  "bullets": [
+   "Children participating in a free weekend literacy program in Johannesburg wrote and published a self-published anthology titled From Gomora to the World. Stories from Alex [1].",
+   "Thirteen-year-old Fiona Mogane contributed a story about a young character overcoming hardship through baking and entering a modeling contest [1].",
+   "The grassroots Read Alex program offers weekend reading clubs, spelling bees, and public speaking competitions to help combat national literacy challenges [1]."
+  ],
+  "report": [
+   {
+    "h": "Grassroots Literacy Success",
+    "t": "A community-led reading club in the Alexandra township of Johannesburg is helping children build confidence through books and writing [1]. Launched by a local athletics club, the program has about 50 participants who engage in spelling bees, public speaking, and now book publishing [1]."
+   },
+   {
+    "h": "Children Telling Their Stories",
+    "t": "The newly published anthology features seven stories written by young authors drawing directly on their daily lives and personal challenges [1]. Thirteen-year-old Fiona Mogane wrote about resilience and goal-setting, while other participants explored dreams of becoming scientists and marine biologists [1]."
+   },
+   {
+    "h": "Wider Educational Impact",
+    "t": "Teachers report a noticeable increase in reading ability and classroom confidence among students involved in the writing project [1]. Organizers note that the youth demonstrate deep maturity and a strong natural talent for storytelling despite local infrastructural hurdles [1]."
+   }
+  ],
+  "why": "It is a wonderful reminder of how creative expression and small community initiatives can completely shift a child's confidence and perspective.",
+  "tryit": "Search online for a local community reading charity or youth mentoring project near you and commit one hour this week to supporting youth literacy.",
+  "qa": [
+   [
+    "What is the name of the literacy program mentioned?",
+    "The grassroots program is called Read Alex [1]."
+   ],
+   [
+    "What is the title of the children's published book?",
+    "The collection is entitled From Gomora to the World. Stories from Alex [1]."
+   ],
+   [
+    "How old is author Fiona Mogane?",
+    "Fiona Mogane is 13 years old [1]."
+   ],
+   [
+    "What are some activities offered by the Read Alex club?",
+    "Activities include an annual public speaking competition, two spelling bees, and a book drive on Mandela Day [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+    "status": 200,
+    "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+    "domain": "npr.org"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T17:34:20Z",
+  "addedAt": "2026-11-22T17:41:45Z",
+  "audio": "audio/young-authors-in-johannesburg-township-publish-i.mp3",
+  "image": {
+   "src": "img/young-authors-in-johannesburg-township-publish-i.jpg",
+   "credit": "NPR",
+   "license": "© NPR, shown with credit",
+   "page": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4279x2407+0+223/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F15%2F59%2F95b504774415bbb8064ed9e42c16%2F20261114-read-alex-21-21.jpg"
+  }
+ },
+ {
   "id": "what-is-effective-altruism-and-how-did-it-shape",
   "cat": "adhd",
   "tags": [
@@ -21484,76 +21838,6 @@
   }
  },
  {
-  "id": "discovering-utah-s-national-and-state-parks-afte",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "nature",
-   "science",
-   "animals"
-  ],
-  "title": "Discovering Utah’s National and State Parks After Dark",
-  "snippet": "Exploring Southern Utah's parks at night reveals glowing scorpions, quiet trails, and moonlit reservoirs. Stepping out after sunset transforms familiar desert landscapes into a brand new world of nocturnal adventure.",
-  "bullets": [
-   "Utah boasts the highest concentration of certified International Dark Sky Places in the world [1].",
-   "Dead Horse State Park offers evening scorpion searches where the creatures glow a brilliant blue under UV light [1].",
-   "Sand Hollow State Park hosts monthly full-moon kayak paddles on its large reservoir from April through September [1]."
-  ],
-  "report": [
-   {
-    "h": "Embracing the Dark",
-    "t": "Southern Utah parks are embracing night-centric recreation as millions of visitors flock to the area during scorching summer days [1]. Nighttime brings cooler temperatures, peaceful silence, and starry skies across certified dark sky parks [1]."
-   },
-   {
-    "h": "Nocturnal Exploration",
-    "t": "Guided night hikes at Capitol Reef reveal ancient petroglyphs and sandstone bridges lit entirely by moonlight and stars [1]. Meanwhile, parks like Dead Horse feature evening programmes including astronomy talks and biofluorescent scorpion searches [1]."
-   },
-   {
-    "h": "Water Under Moonlight",
-    "t": "Sand Hollow State Park offers popular monthly full-moon kayak paddles allowing visitors to float on the reservoir after moonrise [1]. These evening water sessions offer a serene way to experience the landscape alongside night fishers and swimmers [1]."
-   }
-  ],
-  "why": "This shows how shifting your timing can completely transform a familiar environment, offering fresh wonder and quiet adventure away from daytime crowds.",
-  "tryit": "Plan an evening visit to a local park, nature reserve, or dark sky site near you after sunset to experience familiar surroundings in a completely new way.",
-  "qa": [
-   [
-    "Why do people visit Utah parks at night?",
-    "Temperatures cool off, most crowds head back, stars shine brightly, and parks offer unique nocturnal activities [1]."
-   ],
-   [
-    "Why do scorpions glow under UV light?",
-    "Scorpions are biofluorescent, meaning they emit a visible bluish glow when a UV light shines directly on them [1]."
-   ],
-   [
-    "When does the full-moon paddle take place at Sand Hollow State Park?",
-    "It takes place monthly from April through September, depending on the weather, starting right at moonrise [1]."
-   ],
-   [
-    "How long is the Hickman Bridge hike in Capitol Reef?",
-    "It is a 1.8-mile round-trip hike that takes about 1.5 hours in daylight [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/the-wonder-and-weirdness-of-exploring-a-national-park-in-the-dark",
-    "status": 200,
-    "title": "The Wonder—and Weirdness—of Exploring a National Park in the Dark",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2026-11-08",
-  "publishedAt": "2026-11-08T12:00:00Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/discovering-utah-s-national-and-state-parks-afte.mp3",
-  "image": {
-   "src": "img/discovering-utah-s-national-and-state-parks-afte.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/the-wonder-and-weirdness-of-exploring-a-national-park-in-the-dark",
-   "from_url": "https://media.cntraveler.com/photos/6aee283b792c7191384d0060/16:9/w_1280,c_limit/Zion-GettyImages-613146048.jpg"
-  }
- },
- {
   "id": "decoding-the-fascinating-slang-and-high-society",
   "cat": "english",
   "tags": [
@@ -21620,145 +21904,6 @@
    "license": "© Mental Floss, shown with credit",
    "page": "https://www.mentalfloss.com/language/slang/gilded-age-society-slang-decoded",
    "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_42,y_0,w_1119,h_629/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01m6qgeg74cshv6q9pmg.jpg"
-  }
- },
- {
-  "id": "air-ambulance-service-rethinks-retention-through",
-  "cat": "news",
-  "tags": [
-   "health",
-   "business",
-   "psychology",
-   "science"
-  ],
-  "title": "Air Ambulance Service Rethinks Retention Through Training and Mental Health",
-  "snippet": "LifeFlight of Maine has tackled severe industry staffing shortages by raising pay equity, offering in-house mental health support, and introducing a comprehensive training academy.",
-  "bullets": [
-   "In 2025, LifeFlight crews flew 3,031 flights, which is more than one every three hours [1].",
-   "The cost of training a new staff member into the organization is about $100,000 [1].",
-   "LifeFlight raised paramedics' pay to match flight nurses' compensation, a rare move in the industry [1]."
-  ],
-  "report": [
-   {
-    "h": "Rising Medical Flight Demand",
-    "t": "Demand for medical flights in Maine has doubled since 2015, driven by rural hospital closures and strained ground ambulance stations [1]. This year, demand has risen by another 10%, putting intense pressure on flight clinicians like nurses and paramedics [1]."
-   },
-   {
-    "h": "Combating Burnout With Support",
-    "t": "Emergency medical services workers face mental health burdens with rates of post-traumatic stress injury, anxiety, and depression over five times higher than the average American's [1]. To combat this, LifeFlight hired a full-time mental health counselor to support staff [1]."
-   },
-   {
-    "h": "Innovative Retention Models",
-    "t": "Under CEO Joe Kellner, the nonprofit launched a six- to eight-month Critical Care Academy and equalised pay between paramedics and nurses [1]. These steps helped the organisation become nearly fully staffed for the first time in nine years [1]."
-   }
-  ],
-  "why": "This shows how investing in staff retention, fair pay, and dedicated mental health resources can turn around high-turnover, high-stress industries.",
-  "tryit": "Review your own workplace or business processes to identify where targeted training programs or peer support could reduce burnout and save onboarding costs.",
-  "qa": [
-   [
-    "How many flights did LifeFlight crews fly in 2025?",
-    "LifeFlight crews flew 3,031 flights in 2025 [1]."
-   ],
-   [
-    "What is the estimated cost to train a new worker at LifeFlight?",
-    "The cost of training a new employee into the organisation is about $100,000 [1]."
-   ],
-   [
-    "How much higher are PTSD rates in EMS workers compared to the average American?",
-    "Rates of post-traumatic stress injury, anxiety, and depression are more than five times higher than the average American's [1]."
-   ],
-   [
-    "Who is the CEO of LifeFlight of Maine?",
-    "Joe Kellner became CEO in 2023 [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
-    "status": 200,
-    "title": "One air ambulance service rethinks what it takes to practice medicine in the sky",
-    "domain": "npr.org"
-   }
-  ],
-  "date": "2026-11-08",
-  "publishedAt": "2026-11-08T11:00:00Z",
-  "addedAt": "2026-11-08T23:32:56Z",
-  "audio": "audio/air-ambulance-service-rethinks-retention-through.mp3",
-  "image": {
-   "src": "img/air-ambulance-service-rethinks-retention-through.jpg",
-   "credit": "NPR",
-   "license": "© NPR, shown with credit",
-   "page": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
-   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3875x2180+0+202/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2Fb0%2F3f6e14cb4c33b4c784b12013ff0a%2Flifeflight-7086.jpg"
-  }
- },
- {
-  "id": "scientists-discover-a-potential-blood-biomarker",
-  "cat": "health",
-  "tags": [
-   "health",
-   "science",
-   "research"
-  ],
-  "title": "Scientists Discover a Potential Blood Biomarker for Tinnitus",
-  "snippet": "Researchers have identified a blood protein called prestin that is linked to persistent ringing in the ears. This discovery offers a promising first step toward future diagnostic blood tests and treatments.",
-  "bullets": [
-   "Scientists studied 82 adults, half of whom experienced tinnitus, and found a link to a blood protein named prestin [1].",
-   "Participants with tinnitus showed blood concentrations of prestin that were about 50 percent higher than those without the condition [1].",
-   "Prestin is a motor protein found in the membranes of outer hair cells in the cochlea that helps amplify sounds [1]."
-  ],
-  "report": [
-   {
-    "h": "New Biological Clue",
-    "t": "Scientists have found what could be the strongest evidence yet of a biomarker candidate for tinnitus in the blood [1]. The study looked at 82 adults to see how an ear protein relates to persistent ringing sounds [1]."
-   },
-   {
-    "h": "The Prestin Protein",
-    "t": "People with tinnitus had blood concentrations of prestin that were about 50 percent higher than participants without the condition [1]. Prestin is a motor protein in outer hair cells that helps amplify sounds and is crucial for sensitive hearing [1]."
-   },
-   {
-    "h": "Future Treatments",
-    "t": "While the biomarker cannot yet be used reliably for a clinical diagnosis, researchers hope this is a first step toward developing drugs to manage tinnitus [1]. Future research will help clear up how other factors might also contribute to the condition [1]."
-   }
-  ],
-  "why": "This research highlights how emerging scientific discoveries in blood biomarkers could soon transform subjective health complaints into measurable conditions.",
-  "tryit": "Speak with a GP or a qualified health professional if you experience persistent ringing in your ears to discuss management strategies.",
-  "qa": [
-   [
-    "What protein was linked to tinnitus in the study?",
-    "A protein called prestin was found to be linked to the condition [1]."
-   ],
-   [
-    "How much higher were prestin levels in people with tinnitus?",
-    "Blood concentrations of prestin were about 50 percent higher in participants with tinnitus [1]."
-   ],
-   [
-    "How many adults took part in the experiment?",
-    "The experiment involved 82 adults, half of whom experienced tinnitus [1]."
-   ],
-   [
-    "Can prestin currently be used as a reliable diagnostic tool?",
-    "A separate diagnostic accuracy analysis suggested the biomarker cannot yet reliably be used as a tool to diagnose tinnitus [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/scientists-identified-a-biological-signature-of-tinnitus-and-its-in-your-blood",
-    "status": 200,
-    "title": "Scientists Identified a Biological Signature of Tinnitus, And It's in Your Blood",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-08",
-  "publishedAt": "2026-11-08T11:00:00Z",
-  "addedAt": "2026-11-08T17:31:37Z",
-  "audio": "audio/scientists-discover-a-potential-blood-biomarker.mp3",
-  "image": {
-   "src": "img/scientists-discover-a-potential-blood-biomarker.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/scientists-identified-a-biological-signature-of-tinnitus-and-its-in-your-blood",
-   "from_url": "https://www.sciencealert.com/images/2026/11/tinnitus-ear.jpg"
   }
  },
  {
