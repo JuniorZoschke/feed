@@ -1,5 +1,354 @@
 [
  {
+  "id": "your-wear-os-smartwatch-just-got-an-automatic-ba",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "health"
+  ],
+  "title": "Your Wear OS Smartwatch Just Got an Automatic Battery Saving Update",
+  "snippet": "Google has released a new update for Google Play Services that helps extend battery life on Wear OS smartwatches during outdoor workouts by using your phone for location tracking.",
+  "bullets": [
+   "The v26.45 update helps extend the battery life of Wear OS smartwatches [1].",
+   "Users can now use their phone's location system to track outdoor workouts instead of draining the watch [1].",
+   "Popular brands using this software include Google, Samsung, and OnePlus [1]."
+  ],
+  "report": [
+   {
+    "h": "Battery Saving Update",
+    "t": "Google released an updated version of Google Play Services on Tuesday that helps extend smartwatch battery life [1]. The update outsources location tracking during outdoor workouts to your smartphone [1]."
+   },
+   {
+    "h": "How It Works",
+    "t": "Constantly communicating with satellites during workouts drains battery power quickly [1]. This new update works quietly under the hood without requiring you to change any settings [1]."
+   },
+   {
+    "h": "More New Features",
+    "t": "Another recent update lets users view a larger preview of watch faces directly on their phone before installing them [1]. Both updates improve the overall experience of using popular Android smartwatches [1]."
+   }
+  ],
+  "why": "Optimising your daily tech gadgets saves you focus and micro-interruptions during busy work days.",
+  "tryit": "Check your smartwatch for system updates to ensure you have the latest version of Google Play Services running.",
+  "qa": [
+   [
+    "What update helps save battery life?",
+    "Google released an updated version of Google Play Services."
+   ],
+   [
+    "How does the new battery feature work?",
+    "It uses your phone's Global Navigation Satellite System for outdoor workouts instead of draining the watch."
+   ],
+   [
+    "Do I need to change any settings?",
+    "No, the update works quietly under the hood without requiring user action."
+   ],
+   [
+    "Which brands use Wear OS?",
+    "Popular brands include Google, Samsung, and OnePlus."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/tech/wear-os-smartwatches-update-save-battery-life-galaxy-pixel/",
+    "status": 200,
+    "title": "Your Wear OS smartwatch just got a new way to save battery life - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T16:24:20Z",
+  "addedAt": "2026-11-22T23:36:03Z",
+  "audio": "audio/your-wear-os-smartwatch-just-got-an-automatic-ba.mp3",
+  "image": {
+   "src": "img/your-wear-os-smartwatch-just-got-an-automatic-ba.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/tech/wear-os-smartwatches-update-save-battery-life-galaxy-pixel/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00138_8b66e2.jpg"
+  }
+ },
+ {
+  "id": "escape-the-cold-with-these-eleven-warm-weather-w",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "destinations",
+   "vacation",
+   "winter"
+  ],
+  "title": "Escape the Cold With These Eleven Warm Weather Winter Destinations",
+  "snippet": "Beat the winter blues by jetting off to warm destinations offering comfortable temperatures, festive happenings, and off-peak advantages. From sunny beaches in Puerto Rico to cultural spots in Marrakech, these sunny locations offer a great seasonal escape.",
+  "bullets": [
+   "Winter travel destinations offer comfortable temperatures, off-peak advantages, and festive events [1].",
+   "January brings humpback whale sightings and lush landscapes to places like Maui [1].",
+   "From December to March, Puerto Rico experiences its dry season, ideal for outdoor adventures [1]."
+  ],
+  "report": [
+   {
+    "h": "Sunny Winter Escapes",
+    "t": "The best winter vacation spots offer comfortable temperatures and off-peak advantages to help travelers beat the cold [1]. From Puerto Rico to Belize, these locations provide sunny days and outdoor adventures [1]."
+   },
+   {
+    "h": "Whale Watching And Nature",
+    "t": "January is an ideal time to spot humpback whales in Maui or off the coast of Punta Cana [1]. Travelers can also explore lush rainforests like El Yunque in Puerto Rico during the dry winter season [1]."
+   },
+   {
+    "h": "Festivals And Culture",
+    "t": "Winter months bring lively events such as the San Sebastian Street Festival in Puerto Rico and Art Basel in Miami [1]. Visitors can also enjoy mild weather while exploring local markets and historic sites [1]."
+   }
+  ],
+  "why": "Planning a winter trip to a warm destination is a great way to recharge, change your environment, and enjoy a break from darker, colder days.",
+  "tryit": "Research flight prices for a warm-weather destination like Puerto Rico or San Diego for travel after the holiday rush.",
+  "qa": [
+   [
+    "When is the best time to visit Puerto Rico for dry weather?",
+    "From December to March, visitors can take advantage of the island's dry season [1]."
+   ],
+   [
+    "Where can you spot humpback whales in January?",
+    "You can spot humpback whales from Papawai Point in Maui or off the coast of the Peninsula de Samana in Punta Cana [1]."
+   ],
+   [
+    "What is the average winter temperature in San Diego?",
+    "San Diego enjoys mild, mid-60-degree temperatures during the winter months [1]."
+   ],
+   [
+    "What event takes place in Miami in December?",
+    "Art Basel Miami takes place in December [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/warm-places-to-visit-winter",
+    "status": 200,
+    "title": "11 Warm-Weather Destinations to Flock to This Winter",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2025-09-26",
+  "publishedAt": "2025-09-26T20:56:14Z",
+  "addedAt": "2026-11-22T23:36:03Z",
+  "audio": "audio/escape-the-cold-with-these-eleven-warm-weather-w.mp3",
+  "image": {
+   "src": "img/escape-the-cold-with-these-eleven-warm-weather-w.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/warm-places-to-visit-winter",
+   "from_url": "https://media.cntraveler.com/photos/6aff73e6628bb37be5ee68c5/16:9/w_1280,c_limit/Screenshot%202026-11-19%20at%205.10.33%E2%80%AFPM.png"
+  }
+ },
+ {
+  "id": "navigating-medicare-open-enrollment-changes-and",
+  "cat": "health",
+  "tags": [
+   "health",
+   "money",
+   "insurance",
+   "retirement",
+   "us"
+  ],
+  "title": "Navigating Medicare open enrollment changes and choices for 2027",
+  "snippet": "Annual Medicare open enrollment runs through Dec. 7, bringing important updates to health and prescription drug plans. Doing your research now helps avoid unexpected premium hikes or coverage gaps next year.",
+  "bullets": [
+   "Medicare open enrollment started on Oct. 15 and ends on Dec. 7 [1].",
+   "Roughly 70 million people rely on Medicare for health insurance [1].",
+   "The cap on out-of-pocket expenses for prescription drugs in 2027 will be $2,400 [1]."
+  ],
+  "report": [
+   {
+    "h": "Enrollment Deadlines",
+    "t": "Open enrollment runs through Dec. 7, and chosen plans take effect on Jan. 1 for the full calendar year [1]. Roughly half of beneficiaries use traditional Medicare while the other half opt for managed-care Medicare Advantage plans [1]."
+   },
+   {
+    "h": "Cost and Coverage Shifts",
+    "t": "While average Part D premiums will see modest overall shifts, a KFF analysis shows many enrollees staying in their prescription drug plan could see a 50% increase from $34 to $51 [1]. Furthermore, about 4 million people are in Medicare Advantage plans that will not be offered in 2027 [1]."
+   },
+   {
+    "h": "Getting Free Help",
+    "t": "Every state has a federally funded State Health Insurance Assistance Program providing free, unbiased plan counseling [1]. You can access support online at shiphelp.org/open-enrollment or by calling 877-839-2675 [1]."
+   }
+  ],
+  "why": "Understanding US health coverage changes helps you support older family members or navigate cross-border care logistics with confidence.",
+  "tryit": "Visit shiphelp.org/open-enrollment or call the SHIP National Technical Assistance Center at 877-839-2675 to access free, unbiased plan counseling [1].",
+  "qa": [
+   [
+    "When does Medicare open enrollment end?",
+    "It ends on December 7 [1]."
+   ],
+   [
+    "What is the out-of-pocket prescription drug cap for 2027?",
+    "The cap will be $2,400 [1]."
+   ],
+   [
+    "How can I get free, unbiased help choosing a plan?",
+    "You can use your state's State Health Insurance Assistance Program by visiting shiphelp.org/open-enrollment [1]."
+   ],
+   [
+    "What document should enrollees review every fall?",
+    "Enrollees should review the Annual Notice of Change sent by insurers [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+    "status": 200,
+    "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+    "domain": "npr.org"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T13:11:04Z",
+  "addedAt": "2026-11-22T23:36:03Z",
+  "audio": "audio/navigating-medicare-open-enrollment-changes-and.mp3",
+  "image": {
+   "src": "img/navigating-medicare-open-enrollment-changes-and.jpg",
+   "credit": "NPR",
+   "license": "© NPR, shown with credit",
+   "page": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Ffb%2F9b0e40024a808c235b8149eeb6bb%2Fgettyimages-1734347077.jpg"
+  }
+ },
+ {
+  "id": "three-deregulation-success-stories-show-how-arge",
+  "cat": "money",
+  "tags": [
+   "business",
+   "economics",
+   "travel"
+  ],
+  "title": "Three deregulation success stories show how Argentina transformed rents, internet, and airfares",
+  "snippet": "Argentina's recent deregulation reforms have boosted housing supply, expanded satellite internet to remote farms, and lowered domestic airfares through increased market competition.",
+  "bullets": [
+   "By June 2024, rental housing supply in the Buenos Aires metropolitan area increased by 212 percent after rent controls were repealed [1].",
+   "Livestock farmer Pedro Gassiebayle upgraded his farm's internet connection to 250 Mbps for the same monthly cost using Starlink [1].",
+   "Domestic airfares across Argentina dropped 14 percent in 2025 compared to 2024, with much larger drops on previously restricted routes [1]."
+  ],
+  "report": [
+   {
+    "h": "Rental Market Surge",
+    "t": "Following the repeal of rigid rental laws, real rent prices decreased by almost 27 percent and housing supply rose significantly [1]. The market has since stabilized, with average rents tracking inflation closely [1]."
+   },
+   {
+    "h": "Satellite Internet Expansion",
+    "t": "Removing state monopolies on satellite communications allowed companies like Starlink to enter rural areas [1]. Farms and remote mining operations now enjoy high-speed internet access that improves efficiency and safety [1]."
+   },
+   {
+    "h": "Aviation Liberalisation",
+    "t": "Ending state monopolies on domestic flights and ground handling brought new regional carriers into smaller cities [1]. Passengers benefit from shorter travel times and lower ticket prices in real terms [1]."
+   }
+  ],
+  "why": "Why it matters to you: Understanding how targeted deregulation and open markets drive efficiency and lower costs offers practical economic insights for business ventures and investments.",
+  "tryit": "Try this today: Research a small business market or sector you follow to identify where regulatory red tape currently creates bottlenecks or inflated costs.",
+  "qa": [
+   [
+    "What caused the rental supply to increase in Buenos Aires?",
+    "The repeal of the 2020 rental control law by an executive order signed in December 2023 [1]."
+   ],
+   [
+    "How did satellite internet change farming operations in rural areas?",
+    "It provided high-speed connectivity up to 250 Mbps across entire farms, allowing employees to communicate easily during emergencies [1]."
+   ],
+   [
+    "What happened to domestic airfares in Argentina after deregulation?",
+    "Domestic airfares dropped 14 percent in 2025 compared to the previous year, or 42 percent when adjusted for inflation [1]."
+   ],
+   [
+    "Which new airline serves smaller regional cities in Argentina?",
+    "A commuter airline called Humming Airways flies small aircraft carrying up to 19 passengers to regional cities [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reason.com/2026/11/22/mileis-deregulatory-success-stories/",
+    "status": 200,
+    "title": "Rents, internet speeds, and airfares: 3 deregulation success stories from Milei's Argentina",
+    "domain": "reason.com"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T11:30:47Z",
+  "addedAt": "2026-11-22T23:36:03Z",
+  "audio": "audio/three-deregulation-success-stories-show-how-arge.mp3",
+  "image": {
+   "src": "img/three-deregulation-success-stories-show-how-arge.jpg",
+   "credit": "Reason",
+   "license": "© Reason, shown with credit",
+   "page": "https://reason.com/2026/11/22/mileis-deregulatory-success-stories/",
+   "from_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/deregulation.jpg"
+  }
+ },
+ {
+  "id": "explore-six-tiny-european-countries-that-make-mu",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "visas",
+   "citizenship",
+   "europe"
+  ],
+  "title": "Explore Six Tiny European Countries That Make Multi-Country Trips Easy",
+  "snippet": "Discover tiny European nations where you can easily visit multiple countries in a single trip. From Vatican City to Liechtenstein and Monaco, these compact destinations offer unique travel opportunities.",
+  "bullets": [
+   "Vatican City covers 0.44 square kilometers and sits entirely inside Rome [1].",
+   "Liechtenstein shares a border with Switzerland and Austria, allowing a three-country train journey [1].",
+   "Luxembourg offers free public transportation for everybody on all trains, trams, and buses [1]."
+  ],
+  "report": [
+   {
+    "h": "Vatican And San Marino",
+    "t": "Vatican City covers 0.44 square kilometers inside Rome and houses 673 citizens [1]. San Marino covers 61.19 square kilometers near Italy and allows tourists to get a visa for five Euros [1]."
+   },
+   {
+    "h": "Monaco And Liechtenstein",
+    "t": "Monaco spans 2.08 square kilometers on the French Riviera with trains leaving from Nice every 20 minutes [1]. Liechtenstein covers 160 square kilometers and uses the Swiss franc as its official currency [1]."
+   },
+   {
+    "h": "Andorra And Luxembourg",
+    "t": "Andorra measures 468 square kilometers in the high mountains with regular bus services from Barcelona and Toulouse [1]. Luxembourg spans 2,586 square kilometers and features free public transport for all visitors [1]."
+   }
+  ],
+  "why": "This matters to you as an inspiring way to plan efficient, multi-destination travel itineraries across Europe.",
+  "tryit": "Check train schedules from Nice to Monaco or book a bus from Barcelona to Andorra for your next trip.",
+  "qa": [
+   [
+    "How small is Vatican City?",
+    "Vatican City covers 0.44 square kilometers, which is about 109 acres [1]."
+   ],
+   [
+    "How do you get to San Marino?",
+    "The tourist board directs visitors to take the train to Rimini and then a bus to San Marino [1]."
+   ],
+   [
+    "What currency does Liechtenstein use?",
+    "Liechtenstein uses the Swiss franc as its official currency [1]."
+   ],
+   [
+    "Is public transport free in Luxembourg?",
+    "Public transportation is free for everybody, including tourists, on trains, trams, and buses [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.mentalfloss.com/geography/wanderlust/european-countries-so-small-visit-multiple-one-trip",
+    "status": 200,
+    "title": "6 European Countries So Small You Can Visit Multiple in One Trip",
+    "domain": "mentalfloss.com"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T20:00:00Z",
+  "addedAt": "2026-11-22T23:36:03Z",
+  "audio": "audio/explore-six-tiny-european-countries-that-make-mu.mp3",
+  "image": {
+   "src": "img/explore-six-tiny-european-countries-that-make-mu.jpg",
+   "credit": "Mental Floss",
+   "license": "© Mental Floss, shown with credit",
+   "page": "https://www.mentalfloss.com/geography/wanderlust/european-countries-so-small-visit-multiple-one-trip",
+   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_775,w_7436,h_4182/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m7qsjpwxdmjje7b52v.jpg"
+  }
+ },
+ {
   "id": "fda-approved-drug-may-offer-actual-cure-for-horm",
   "cat": "health",
   "tags": [
@@ -21766,144 +22115,6 @@
    "license": "© Good News Network, shown with credit",
    "page": "https://www.goodnewsnetwork.org/events061109/",
    "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/Kasparov-after-winning-in-1985-CC-3.0.-BY-SA-The-Kasparov-Agency.jpg"
-  }
- },
- {
-  "id": "why-americans-eat-dinner-so-much-earlier-than-th",
-  "cat": "news",
-  "tags": [
-   "travel",
-   "health",
-   "science"
-  ],
-  "title": "Why Americans Eat Dinner So Much Earlier Than the Rest of the World",
-  "snippet": "Discover why the United States eats dinner between 5:00 and 6:00 pm, while other countries eat much later due to work schedules, sunlight, and culture [1].",
-  "bullets": [
-   "Many Americans eat dinner early between 5:00 and 6:00 pm because they prioritize it as their heartiest meal after lighter breakfasts and lunches [1].",
-   "Countries like Mexico, Spain, and South American nations enjoy longer midday breaks for a filling lunch, delaying evening hunger [1].",
-   "In Spain, the sun sets as late as 9 or 10 pm, meaning daily schedules and dinner times adapt to daylight hours [1]."
-  ],
-  "report": [
-   {
-    "h": "Work and Meals",
-    "t": "Americans work from 9 to 5 with a quick break for lunch, leaving little time to focus on meals until after the workday ends [1]. Other countries break up their work hours with longer midday breaks, allowing time to enjoy a big meal without rushing [1]."
-   },
-   {
-    "h": "Global Schedules",
-    "t": "In France, primetime television series do not start until nearly 9 pm to ensure dinner is not rushed [1]. Countries like the U.K. and Australia plan an afternoon snack called tea time to help push their evening meal later [1]."
-   },
-   {
-    "h": "Health Trends",
-    "t": "Health and wellness TikToks cite studies saying that eating dinner early is better for digestion and sleep [1]. These studies suggest eating three hours before bedtime is best, with Gen Z influencers supporting dinner by 8 and bed by 9 [1]."
-   }
-  ],
-  "why": "Understanding different cultural schedules and meal structures gives you fresh insight into international work-life balances and travel timing [1].",
-  "tryit": "Observe your own evening routine and test eating dinner three hours before bedtime to see how it affects your sleep and digestion [1].",
-  "qa": [
-   [
-    "Why do Americans eat dinner earlier than people in other countries?",
-    "Americans often eat light breakfasts and lunches, saving their biggest meal for dinnertime and making them hungry earlier [1]."
-   ],
-   [
-    "How do work schedules affect meal times in the United States?",
-    "Americans typically work from 9 to 5 with a quick lunch break, revolving their day around work rather than mealtimes [1]."
-   ],
-   [
-    "Why do people in Spain eat dinner later?",
-    "The sun sets as late as 9 or 10 pm in Spain, so daily schedules adapt to keep working during daylight hours [1]."
-   ],
-   [
-    "What role does social media play in American dinner times?",
-    "Health influencers on TikTok cite studies saying early dinners improve digestion and sleep, promoting trends like dinner by 8 [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.mentalfloss.com/culture/why-americans-eat-dinner-earlier-than-rest-of-world",
-    "status": 200,
-    "title": "Why Americans Eat Dinner So Much Earlier Than the Rest of the World",
-    "domain": "mentalfloss.com"
-   }
-  ],
-  "date": "2026-11-08",
-  "publishedAt": "2026-11-08T20:00:00Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/why-americans-eat-dinner-so-much-earlier-than-th.mp3",
-  "image": {
-   "src": "img/why-americans-eat-dinner-so-much-earlier-than-th.jpg",
-   "credit": "Mental Floss",
-   "license": "© Mental Floss, shown with credit",
-   "page": "https://www.mentalfloss.com/culture/why-americans-eat-dinner-earlier-than-rest-of-world",
-   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_313,w_3000,h_1687/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m68afpp6a1gnqhj2pa.jpg"
-  }
- },
- {
-  "id": "decoding-the-fascinating-slang-and-high-society",
-  "cat": "english",
-  "tags": [
-   "english",
-   "history",
-   "science"
-  ],
-  "title": "Decoding the fascinating slang and high-society secrets of the Gilded Age",
-  "snippet": "Explore the colourful vernacular of late 19th-century New York society, from dollar princesses to the Four Hundred. Learn how historical terms evolved and discover the real meanings behind period drama slang.",
-  "bullets": [
-   "In late 1800s-speak, the alum was a slangy word for the best possible outcome or situation [1].",
-   "Dollar princesses were the eligible debutante daughters of newly wealthy American industrialists married to UK aristocrats [1].",
-   "The Four Hundred was Mrs. Caroline Astor's sought-after list of the 400 most important high-society figures [1]."
-  ],
-  "report": [
-   {
-    "h": "Colourful Period Slang",
-    "t": "Late 19th-century vernacular included clever terms like the alum for a great outcome and beeswax as a name for bores [1]. These phrases added unique flavour to everyday speech during periods of rapid industrial growth [1]."
-   },
-   {
-    "h": "Dollar Princesses",
-    "t": "Wealthy American industrialist families married their debutante daughters to cash-strapped British aristocrats [1]. This solved cash crises for the nobility while giving the brides social cachet [1]."
-   },
-   {
-    "h": "The Four Hundred",
-    "t": "Mrs. Caroline Astor used this famous list to separate established elite families from the nouveau riche [1]. The number supposedly matched the maximum capacity of her Fifth Avenue ballroom [1]."
-   }
-  ],
-  "why": "It is a fascinating linguistic look at how language and social rules evolved during periods of massive economic shifts.",
-  "tryit": "Use an old-fashioned idiom or phrase in your conversation today to test how language shifts meaning over time.",
-  "qa": [
-   [
-    "What does the alum mean?",
-    "It was a slangy word for the best possible outcome or situation [1]."
-   ],
-   [
-    "Who were dollar princesses?",
-    "They were the eligible debutante daughters of America's newly wealthy families married off to English aristocrats [1]."
-   ],
-   [
-    "What was the Four Hundred?",
-    "It was Mrs. Caroline Astor's list of the 400 most important high-society figures of the day [1]."
-   ],
-   [
-    "Why was whiskey called 40 rods?",
-    "It was a jokey term for whiskey so strong it could kill you at a distance of 40 rods [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.mentalfloss.com/language/slang/gilded-age-society-slang-decoded",
-    "status": 200,
-    "title": "From 'Dollar Princess' to 'The Four Hundred,' Decoding the Gilded Age's High-Society Slang",
-    "domain": "mentalfloss.com"
-   }
-  ],
-  "date": "2026-11-08",
-  "publishedAt": "2026-11-08T23:00:01Z",
-  "addedAt": "2026-11-08T23:32:56Z",
-  "audio": "audio/decoding-the-fascinating-slang-and-high-society.mp3",
-  "image": {
-   "src": "img/decoding-the-fascinating-slang-and-high-society.jpg",
-   "credit": "Mental Floss",
-   "license": "© Mental Floss, shown with credit",
-   "page": "https://www.mentalfloss.com/language/slang/gilded-age-society-slang-decoded",
-   "from_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_42,y_0,w_1119,h_629/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01m6qgeg74cshv6q9pmg.jpg"
   }
  },
  {
