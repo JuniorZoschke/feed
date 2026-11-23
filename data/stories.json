@@ -1,5 +1,1194 @@
 [
  {
+  "id": "openai-chief-scientist-proposes-using-perplexity",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "economics"
+  ],
+  "title": "OpenAI Chief Scientist Proposes Using Perplexity to Measure AI Speed",
+  "snippet": "A new blog post from OpenAI chief scientist Jakub Pachocki suggests perplexity could serve as a shared measurement to limit AI development. By tracking how well a model predicts the next token, companies might agree on common safety limits.",
+  "bullets": [
+   "OpenAI chief scientist Jakub Pachocki discusses potential limits on AI development using a measurement called perplexity [1].",
+   "Perplexity measures how well a model predicts the next token on average, where lower perplexity means better predictions [1].",
+   "Pachocki notes that GPT-4 scored around 0.91, while newer losses have fallen below 0.8 [1]."
+  ],
+  "report": [
+   {
+    "h": "Measuring AI Speed",
+    "t": "A blog post by OpenAI chief scientist Jakub Pachocki suggests perplexity could act as a shared benchmark for general intelligence [1]. This measurement tracks how well a model predicts the next token on average [1]."
+   },
+   {
+    "h": "Tracking Model Losses",
+    "t": "The post features a chart showing how model perplexity has dropped since GPT-3.5 [1]. GPT-4 reached roughly 0.91, and losses have now dropped below 0.8 [1]."
+   },
+   {
+    "h": "Setting Common Limits",
+    "t": "Using perplexity as a standard measurement could help AI companies establish common limits and safety standards [1]. Companies could commit not to cross specific thresholds until monitoring capabilities catch up [1]."
+   }
+  ],
+  "why": "Understanding how industry leaders measure and propose limits on AI development helps you anticipate shifts in the AI tools you might use for business or automation.",
+  "tryit": "Read the original TechCrunch article to see how AI model losses and perplexity scores are tracked across different versions.",
+  "qa": [
+   [
+    "What is perplexity in the context of AI?",
+    "It measures how well a model predicts the next token on average, where lower perplexity means better predictions [1]."
+   ],
+   [
+    "What was the score for GPT-4?",
+    "GPT-4 scored at around 0.91 [1]."
+   ],
+   [
+    "Who wrote the blog post about perplexity?",
+    "It was written by OpenAI's chief scientist, Jakub Pachocki [1]."
+   ],
+   [
+    "What capabilities emerged below 0.8 loss?",
+    "Transformative capabilities in fields like cybersecurity and mathematics emerged [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "status": 200,
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T21:14:07Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/openai-chief-scientist-proposes-using-perplexity.mp3",
+  "image": {
+   "src": "img/openai-chief-scientist-proposes-using-perplexity.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+  }
+ },
+ {
+  "id": "photographer-rankin-explores-ai-art-and-returns",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "photography",
+   "art",
+   "business",
+   "tech"
+  ],
+  "title": "Photographer Rankin Explores AI Art and Returns to Real Human Contact",
+  "snippet": "After spending nine months exploring generative AI for a conceptual art project, photographer Rankin returned to real-world photography and published a new book of celebrity contact sheets celebrating human connection [1].",
+  "bullets": [
+   "Photographer Rankin spent nine months working on an AI conceptual art project and magazine named Faik [1].",
+   "His deep dive into AI technology ultimately inspired him to return to real photography and publish his book Contact [1].",
+   "Rankin predicts that AI will transform the industry and replace jobs such as image retouching within less than a year [1]."
+  ],
+  "report": [
+   {
+    "h": "The AI Experiment",
+    "t": "Prompted by Damien Hirst, photographer Rankin spent nine months creating AI-generated images for a conceptual project called Faik [1]. He explored billboards and magazine covers featuring artificial portraits to understand the technology firsthand [1]."
+   },
+   {
+    "h": "Return To Real Craft",
+    "t": "Rather than embracing limitless tech possibilities, his exploration sent him running back to traditional photography [1]. This led to his book Contact, which features unedited contact sheets of legendary figures like David Bowie and Oasis [1]."
+   },
+   {
+    "h": "Industry Predictions",
+    "t": "Rankin expects AI to transform the creative medium and disrupt commercial roles like retouching agencies and styling within less than a year [1]. Despite his dislike for the technology, he remains inquisitive about its future evolution [1]."
+   }
+  ],
+  "why": "Why it matters to you: Understanding how creative industries and businesses adapt to AI tools helps you spot emerging market shifts and practical opportunities.",
+  "tryit": "Try this today: Visit thefaik.com to view Rankin's AI conceptual art project and examine how artists are critically engaging with new generative tools [1].",
+  "qa": [
+   [
+    "Who introduced Rankin to generative AI?",
+    "The artist Damien Hirst introduced Rankin to the possibilities of generative AI in 2021 [1]."
+   ],
+   [
+    "What is the name of Rankin's AI conceptual art project?",
+    "His AI conceptual art project and magazine is called Faik [1]."
+   ],
+   [
+    "What is the title of Rankin's new book of contact sheets?",
+    "His new book containing images taken between 1987 and 2006 is titled Contact [1]."
+   ],
+   [
+    "How long did Rankin work on his AI project?",
+    "Rankin worked on his AI conceptual art project for nine months [1]."
+   ],
+   [
+    "What industry jobs does Rankin predict AI will replace?",
+    "He predicts AI will replace jobs ranging from image-retouching agencies to hair, makeup, and styling within less than a year [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/artanddesign/2026/nov/23/rankin-photographer-interview-contact-david-bowie-oasis",
+    "status": 200,
+    "title": "Dapper Liam and Noel, experimental Björk, and Bowie ‘cuddling himself’: Rankin reveals his never-before-seen shots of the stars",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T08:00:50Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/photographer-rankin-explores-ai-art-and-returns.mp3",
+  "image": {
+   "src": "img/photographer-rankin-explores-ai-art-and-returns.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/artanddesign/2026/nov/23/rankin-photographer-interview-contact-david-bowie-oasis",
+   "from_url": "https://i.guim.co.uk/img/media/0ea2ef6c794663a88261eeaa216cc1c9f547aa65/154_3_2211_1768/master/2211.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7eb565dfdfbf8d1a32dcb3387ce1a4bf"
+  }
+ },
+ {
+  "id": "early-life-sugar-exposure-linked-to-younger-biol",
+  "cat": "health",
+  "tags": [
+   "health",
+   "longevity",
+   "science",
+   "fitness"
+  ],
+  "title": "Early Life Sugar Exposure Linked To Younger Biological Profile In 50s",
+  "snippet": "A new study reveals that adults whose earliest development coincided with Britain's sugar rationing show a younger biological age in their 50s. Researchers found longer exposure correlated with lower risks of certain age-related conditions.",
+  "bullets": [
+   "A study of 54,201 adults found that early exposure to sugar rationing correlated with a lower biological age in their 50s [1].",
+   "Participants with the longest exposure had a biological age around five months lower than unexposed participants [1].",
+   "The same group also showed lower risks of cataracts and chronic kidney disease later in life [1]."
+  ],
+  "report": [
+   {
+    "h": "Historical Rationing Study",
+    "t": "Researchers examined UK Biobank data for people born between October 1951 and March 1956 to study early nutrition [1]. They compared adults whose early development overlapped with Britain's sugar rationing to those conceived after restrictions ended in September 1953 [1]."
+   },
+   {
+    "h": "Biological Age Markers",
+    "t": "Scientists used a method called PhenoAge combining nine blood measurements to estimate biological age [1]. Exposure before birth alone was associated with a biological age measure approximately 0.26 years lower than unexposed participants [1]."
+   },
+   {
+    "h": "Health Outcomes",
+    "t": "Extended exposure into the first two years of life was linked to a 17 percent lower risk of age-related cataract [1]. It was also linked to a 22 percent lower risk of chronic kidney disease [1]."
+   }
+  ],
+  "why": "Understanding how early nutrition connects to long-term health metrics offers fascinating context for modern dietary choices and longevity science.",
+  "tryit": "Review your current daily sugar intake with a healthcare professional or pharmacist if you want to optimize your long-term metabolic health markers.",
+  "qa": [
+   [
+    "When did British sugar rationing end?",
+    "Household sugar restrictions lifted in September 1953 [1]."
+   ],
+   [
+    "How many adults were included in the study?",
+    "The study examined information from 54,201 adults [1]."
+   ],
+   [
+    "What database did the researchers use?",
+    "The team examined information from UK Biobank, a large health database [1]."
+   ],
+   [
+    "What specific health risks were lower in the most exposed group?",
+    "This group had lower risks of cataracts and chronic kidney disease later in life [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/people-exposed-to-sugar-rationing-in-early-life-appear-biologically-younger-in-their-50s",
+    "status": 200,
+    "title": "People Exposed to Sugar Rationing in Early Life Appear Biologically Younger in Their 50s",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T15:00:00Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/early-life-sugar-exposure-linked-to-younger-biol.mp3",
+  "image": {
+   "src": "img/early-life-sugar-exposure-linked-to-younger-biol.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/people-exposed-to-sugar-rationing-in-early-life-appear-biologically-younger-in-their-50s",
+   "from_url": "https://www.sciencealert.com/images/2026/11/SugarFallingOffSpoonInGoldTones-1200x675.png"
+  }
+ },
+ {
+  "id": "deep-sea-scientists-hunting-a-shipwreck-found-wa",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "ocean",
+   "history",
+   "discovery"
+  ],
+  "title": "Deep Sea Scientists Hunting A Shipwreck Found Washing Machines Instead",
+  "snippet": "A deep-sea expedition in the Gulf of Mexico expecting a historic shipwreck instead discovered a bizarre underwater graveyard of white goods lost from a shipping container.",
+  "bullets": [
+   "Scientists from NOAA used a remotely operated vehicle to investigate a sonar target located 1.5 kilometers beneath the surface of the Gulf of Mexico [1].",
+   "The target turned out to be a crumpled red shipping container filled with a lost payload of fridges, freezers, and washing machines [1].",
+   "World Shipping Council data shows that a few hundred to over 1,000 containers are lost at sea each year [1]."
+  ],
+  "report": [
+   {
+    "h": "Unexpected Deep Sea Discovery",
+    "t": "In 2017, a NOAA expedition aboard the Okeanos Explorer used sonar to locate an unknown structure in the Gulf of Mexico [1]. Instead of an archaeological treasure, the team found a field of washing machines and freezers [1]."
+   },
+   {
+    "h": "Lost Cargo At Sea",
+    "t": "The appliances spilled from a crumpled red shipping container with the container ID number ITLU733016 [1]. Crew members speculated that the container likely fell off a ship during stormy weather [1]."
+   },
+   {
+    "h": "Bizarre Benthic Home",
+    "t": "Corals and hydroids now cling to the metal structures of the appliances in the deep ocean [1]. A large fish was also spotted sheltering in the shadows of the container [1]."
+   }
+  ],
+  "why": "It is a fascinating look at how deep-sea exploration uncovers surprising things hidden beneath the waves, reminding us of the weird intersections of human industry and nature.",
+  "tryit": "Search online for the NOAA Okeanos Explorer video archives to watch fascinating raw footage of deep-sea dives and marine discoveries.",
+  "qa": [
+   [
+    "How deep down was the container found?",
+    "It was found more than 5,000 feet, or about 1.5 kilometers, beneath the surface [1]."
+   ],
+   [
+    "Where did the appliances likely come from?",
+    "A sticker on one appliance suggested it originated at General Electric's Appliance Park in Louisville, Kentucky [1]."
+   ],
+   [
+    "What did the crew name the site?",
+    "The NOAA crew nicknamed the wreck Deep Clean [1]."
+   ],
+   [
+    "How many containers are lost at sea each year?",
+    "According to World Shipping Council data, a few hundred to over 1,000 containers are lost annually [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/deep-sea-scientists-hunting-a-shipwreck-accidentally-stumbled-across-the-oceans-backrooms",
+    "status": 200,
+    "title": "Deep-Sea Scientists Hunting a Shipwreck Accidentally Stumbled Across The Ocean's Backrooms",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T11:00:00Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/deep-sea-scientists-hunting-a-shipwreck-found-wa.mp3",
+  "image": {
+   "src": "img/deep-sea-scientists-hunting-a-shipwreck-found-wa.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/deep-sea-scientists-hunting-a-shipwreck-accidentally-stumbled-across-the-oceans-backrooms",
+   "from_url": "https://www.sciencealert.com/images/2026/11/OceanBackroomsWashingMachines--1200x675.png"
+  }
+ },
+ {
+  "id": "ai-pioneer-anthropic-hits-stock-market-with-hist",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "economics"
+  ],
+  "title": "AI pioneer Anthropic hits stock market with historic multi-trillion valuation",
+  "snippet": "Artificial intelligence company Anthropic has debuted on the Nasdaq exchange, achieving a valuation of roughly $1.76 trillion in a first-of-its-kind public offering.",
+  "bullets": [
+   "Anthropic shares began trading on the Nasdaq stock exchange, reaching a valuation of roughly $1.76 trillion [1].",
+   "The stock rose during its first day of trading, closing at $97.17 after starting at an allocation price of $83 [1].",
+   "The company is the maker of the popular AI chatbot Claude and started just five years ago [1]."
+  ],
+  "report": [
+   {
+    "h": "Record stock market debut",
+    "t": "Anthropic has become one of the most valuable public companies in the world after its shares began trading on the Nasdaq stock exchange [1]. The company's valuation reached roughly $1.76 trillion, representing a major test for the wider artificial intelligence industry [1]."
+   },
+   {
+    "h": "Wild price swings",
+    "t": "The share price rose immediately to $111.53 before falling by the end of the day to close at $97.17 [1]. Some investors noted that shares still rose roughly 17% during the day, even as the broader tech market fell [1]."
+   },
+   {
+    "h": "Uncharted market territory",
+    "t": "As the first purely artificial intelligence company to go public, Anthropic has no obvious peer to compare it to on the stock market [1]. Economists and investors remain uncertain about how the massive spending behind artificial intelligence will unfold [1]."
+   }
+  ],
+  "why": "Understanding major shifts in artificial intelligence markets helps you spot emerging industry trends and investment opportunities in the tech sector.",
+  "tryit": "Research how major artificial intelligence companies are structuring their public offerings and market debuts to inform your own tech sector understanding.",
+  "qa": [
+   [
+    "What is the valuation of Anthropic after its stock market debut?",
+    "Its valuation reached roughly $1.76 trillion."
+   ],
+   [
+    "What is the name of the artificial intelligence chatbot created by Anthropic?",
+    "It is called Claude."
+   ],
+   [
+    "What was the initial allocation price for Anthropic shares?",
+    "The allocation price was $83 each."
+   ],
+   [
+    "How many years ago did Anthropic start?",
+    "The company started just five years ago."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+    "status": 200,
+    "title": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO",
+    "domain": "bbc.co.uk"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T23:33:51Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/ai-pioneer-anthropic-hits-stock-market-with-hist.mp3",
+  "image": {
+   "src": "img/ai-pioneer-anthropic-hits-stock-market-with-hist.jpg",
+   "credit": "BBC News",
+   "license": "© BBC News, shown with credit",
+   "page": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
+  }
+ },
+ {
+  "id": "nvidia-is-rewiring-ai-networks-with-light-to-spe",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "science",
+   "economics"
+  ],
+  "title": "Nvidia is rewiring AI networks with light to speed up data",
+  "snippet": "Nvidia is moving optics next to chips using co-packaged optics to clear data bottlenecks in AI data centers. This shift from copper to light helps thousands of AI chips act as one huge computer.",
+  "bullets": [
+   "Nvidia designs around 85 percent of the graphics chips used globally for artificial intelligence [1].",
+   "U.S. data center servers used more than 100 terawatt-hours of electricity in 2025 [1].",
+   "The new co-packaged optics design achieves at least a 10-times improvement in mean time between interruptions [1]."
+  ],
+  "report": [
+   {
+    "h": "The Data Bottleneck",
+    "t": "Modern artificial intelligence requires thousands of computer chips to work together, making data movement a major speed hurdle [1]. Copper wires suffer from signal noise and resistance over long distances, requiring massive amounts of power [1]."
+   },
+   {
+    "h": "Enter Silicon Photonics",
+    "t": "Nvidia's newest switches bring electronics and photons together in a single package called co-packaged optics [1]. Photons carry information using light with negligible loss and far less heat than traditional transceivers [1]."
+   },
+   {
+    "h": "The Industry Race",
+    "t": "Competitors like Broadcom, Advanced Micro Devices and Intel are also pursuing similar optical technologies [1]. Nvidia uses its market position to fund and secure manufacturing partnerships for photonic circuits and lasers [1]."
+   }
+  ],
+  "why": "Understanding how major infrastructure shifts happen helps you spot broader tech and market opportunities early.",
+  "tryit": "Look up how silicon photonics and co-packaged optics are changing hardware efficiency to better understand future tech stock trends.",
+  "qa": [
+   [
+    "What percentage of AI graphics chips does Nvidia design?",
+    "Nvidia designs around 85 percent of the graphics chips the world uses for artificial intelligence [1]."
+   ],
+   [
+    "What is co-packaged optics?",
+    "It is a design where electronic chips and photonic chips are packaged together to let electrons hand off bits directly to photons [1]."
+   ],
+   [
+    "How much electricity did U.S. data centers use in 2025?",
+    "U.S. data center servers used more than 100 terawatt-hours of electricity in 2025 [1]."
+   ],
+   [
+    "Which company bought networking specialist Mellanox in 2020?",
+    "Nvidia bought Mellanox in 2020 to expand further into networking [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.scientificamerican.com/article/why-nvidia-is-betting-on-silicon-photonics-to-scale-ai/",
+    "status": 200,
+    "title": "Nvidia already sells most AI chips. Now it’s rewiring the networks between them with light",
+    "domain": "scientificamerican.com"
+   }
+  ],
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T11:00:00Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/nvidia-is-rewiring-ai-networks-with-light-to-spe.mp3",
+  "image": {
+   "src": "img/nvidia-is-rewiring-ai-networks-with-light-to-spe.jpg",
+   "credit": "Scientific American",
+   "license": "© Scientific American, shown with credit",
+   "page": "https://www.scientificamerican.com/article/why-nvidia-is-betting-on-silicon-photonics-to-scale-ai/",
+   "from_url": "https://static.scientificamerican.com/dam/asset/34fde3a6-3621-48ab-920c-bf89549c985a/saw1226_0127Indu01.jpg?m=1793730128.139&w=1200"
+  }
+ },
+ {
+  "id": "how-artificial-intelligence-is-changing-mathemat",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "science",
+   "psychology"
+  ],
+  "title": "How Artificial Intelligence Is Changing Mathematics and What We Learn From It",
+  "snippet": "Mathematician Ken Ono shares how AI tools like Claude and ChatGPT are solving centuries-old problems, formalising proofs, and transforming research. Despite big changes and valid concerns, human judgment and mentorship remain essential for the next generation.",
+  "bullets": [
+   "Levent Alpöge proved the Riemann hypothesis working with Claude [1].",
+   "Axiom Math uses AI to formalise, verify and extend mathematical proofs in Lean [1].",
+   "Fields Medalists and other mathematicians have signed a declaration warning about rushed announcements and attribution [1]."
+  ],
+  "report": [
+   {
+    "h": "AI solving old problems",
+    "t": "Advanced AI models are now tackling massive mathematical challenges, such as computing elliptic curve moments and proving the Riemann hypothesis [1]. Mathematicians are watching language models accelerate research at unprecedented speeds [1]."
+   },
+   {
+    "h": "Formalising proofs in Lean",
+    "t": "Projects at Axiom Math use AI to produce millions of lines of Lean code, helping to verify proofs and spot errors in published work [1]. Human judgment is still vital to check that the formal statements match what was intended [1]."
+   },
+   {
+    "h": "The human side of math",
+    "t": "Leading mathematicians have raised concerns about transparency, credit, and the loss of deep understanding [1]. Mentors emphasize that using AI tools cannot replace the personal struggle and originality required to truly learn mathematics [1]."
+   }
+  ],
+  "why": "It matters because AI agents are rapidly transforming complex knowledge work, offering new leverage for business and problem-solving while demanding careful human oversight.",
+  "tryit": "Explore an AI coding or proof assistant tool like Lean today to see how formal logic verification works in practice.",
+  "qa": [
+   [
+    "What is the Riemann hypothesis?",
+    "It is a 167-year-old problem about the distribution of prime numbers [1]."
+   ],
+   [
+    "What does Axiom Math do?",
+    "They use AI to formalise, verify and extend mathematical proofs in Lean [1]."
+   ],
+   [
+    "Who signed the declaration on AI in mathematics?",
+    "Terry Tao and other Fields Medalists signed the declaration warning about rushed announcements and attribution [1]."
+   ],
+   [
+    "What role does human judgment play?",
+    "Human judgment remains essential to check that formal statements say what was intended [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+    "status": 200,
+    "title": "Why I won’t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
+    "domain": "theguardian.com"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T11:00:26Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/how-artificial-intelligence-is-changing-mathemat.mp3",
+  "image": {
+   "src": "img/how-artificial-intelligence-is-changing-mathemat.jpg",
+   "credit": "The Guardian",
+   "license": "© The Guardian, shown with credit",
+   "page": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+   "from_url": "https://i.guim.co.uk/img/media/df6c16bf913288657abe83afff8969abdd383bad/581_0_4307_3445/master/4307.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=91ea4a4ff3ca2da76a016f63e3049ab6"
+  }
+ },
+ {
+  "id": "how-one-spanish-city-quietly-reclaimed-its-stree",
+  "cat": "news",
+  "tags": [
+   "news",
+   "travel",
+   "economics"
+  ],
+  "title": "How One Spanish City Quietly Reclaimed Its Streets From Cars",
+  "snippet": "Pontevedra pioneered pedestrian-first urban planning decades ago, slashing car trips in the center by 97 percent and boosting local business.",
+  "bullets": [
+   "In 1999, Pontevedra began removing on-street parking and restricting non-essential vehicle access in its historic center [1].",
+   "Car trips in the city center have fallen by 97 percent, and CO2 emissions have dropped by about 70 percent [1].",
+   "The city is thriving economically, generating more jobs per capita than any other city in the region [1]."
+  ],
+  "report": [
+   {
+    "h": "The Pedestrian Pioneer",
+    "t": "Long before modern low-traffic zones were popular, Pontevedra's mayor launched an effort to reclaim the city's streets in 1999 [1]. Within one month, 300,000 square meters of the city center were pedestrianized [1]."
+   },
+   {
+    "h": "Stunning Safety Results",
+    "t": "There have been zero traffic deaths in the city since 2011, compared to 30 deaths between 1996 and 2006 [1]. Furthermore, 80 percent of children aged 6 to 12 now walk to school alone [1]."
+   },
+   {
+    "h": "Economic Growth",
+    "t": "By prioritizing small independent businesses over peripheral shopping malls, the city has become the fastest-growing in the region of Galicia [1]. It has attracted 15,000 new inhabitants and generates top-tier jobs per capita [1]."
+   }
+  ],
+  "why": "It shows how clever urban design can create calmer, safer neighborhoods while boosting local economic opportunity.",
+  "tryit": "Walk through your local high street today and note which independent businesses you could support instead of ordering online.",
+  "qa": [
+   [
+    "When did Pontevedra start its pedestrian-first policy?",
+    "The city technically began its war on cars in 1999 [1]."
+   ],
+   [
+    "How much have car trips dropped in the city center?",
+    "Car trips in the city center have fallen by 97 percent according to official municipal figures [1]."
+   ],
+   [
+    "Are cars completely banned from the city?",
+    "No, essential vehicles, public services, emergency transport, and residents with garaged parking are still permitted [1]."
+   ],
+   [
+    "How many traffic deaths has the city seen since 2011?",
+    "There have been no traffic deaths in the city since 2011 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://reasonstobecheerful.world/pontevedra-car-free-city/",
+    "status": 200,
+    "title": "The City That Kicked Out Cars Before It Was Cool",
+    "domain": "reasonstobecheerful.world"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T08:00:33Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/how-one-spanish-city-quietly-reclaimed-its-stree.mp3",
+  "image": {
+   "src": "img/how-one-spanish-city-quietly-reclaimed-its-stree.jpg",
+   "credit": "Reasons to be Cheerful",
+   "license": "© Reasons to be Cheerful, shown with credit",
+   "page": "https://reasonstobecheerful.world/pontevedra-car-free-city/",
+   "from_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/shutterstock_2220850897-scaled.jpg"
+  }
+ },
+ {
+  "id": "chris-colfer-finds-healing-in-surprise-london-gl",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "self-compassion",
+   "lgbtq"
+  ],
+  "title": "Chris Colfer Finds Healing in Surprise London Glee Reunion",
+  "snippet": "Chris Colfer reflected on how a surprise stage reunion with Darren Criss in London helped heal old wounds from his time on Glee.",
+  "bullets": [
+   "Chris Colfer and Darren Criss performed together at the Royal Albert Hall on 18 October [1].",
+   "Colfer received an unexpected standing ovation from the crowd [1].",
+   "Colfer is currently in conversations about potentially returning for a Glee reboot [1]."
+  ],
+  "report": [
+   {
+    "h": "Royal Albert Hall Reunion",
+    "t": "Chris Colfer joined Darren Criss on stage on 18 October to perform together in London at the Royal Albert Hall [1]."
+   },
+   {
+    "h": "Healing and Recognition",
+    "t": "The warm response and standing ovation helped Colfer reconnect with how much his character Kurt Hummel meant to fans after facing early hatred [1]."
+   },
+   {
+    "h": "Potential Reboot",
+    "t": "A Glee reboot has been greenlit for Disney+ and Hulu, and Colfer has discussed a possible return for the character [1]."
+   }
+  ],
+  "why": "It shows how positive community feedback and unexpected moments of connection can help heal past hurts and shift our perspective on our own impact.",
+  "tryit": "Reflect on a past creative project or professional goal where you made a positive difference, and reach out to someone who appreciated your work.",
+  "qa": [
+   [
+    "Where did the reunion take place?",
+    "The reunion took place at the Royal Albert Hall in London [1]."
+   ],
+   [
+    "When did the performance happen?",
+    "It happened on 18 October [1]."
+   ],
+   [
+    "What role did Chris Colfer play?",
+    "He played Kurt Hummel on Glee [1]."
+   ],
+   [
+    "Is a reboot planned?",
+    "A Glee reboot has been greenlit for Disney+ and Hulu [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.thepinknews.com/2026/11/23/chris-colfer-glee-reunion-darren-criss/",
+    "status": 200,
+    "title": "Chris Colfer reflects on Glee's impact after 'homophobia'",
+    "domain": "thepinknews.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T10:33:23Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/chris-colfer-finds-healing-in-surprise-london-gl.mp3",
+  "image": {
+   "src": "img/chris-colfer-finds-healing-in-surprise-london-gl.jpg",
+   "credit": "PinkNews",
+   "license": "© PinkNews, shown with credit",
+   "page": "https://www.thepinknews.com/2026/11/23/chris-colfer-glee-reunion-darren-criss/",
+   "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/chris-colfer-homophobia-hatred-glee-kurt-impact.jpg"
+  }
+ },
+ {
+  "id": "how-poet-myndstate-turned-personal-struggle-and",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "mind",
+   "health"
+  ],
+  "title": "How poet myndstate turned personal struggle and coming out into creative art",
+  "snippet": "Discover how gay poet myndstate navigated the closet, found his voice through writing, and turned his toughest years into powerful spoken word art.",
+  "bullets": [
+   "The artist spent a year abroad in Munich where he could be himself and finally started getting with guys [1].",
+   "His darkest days were right before coming out properly, but writing and putting his thoughts on paper acted as a form of therapy [1].",
+   "After lockdown and by his mid-twentieth years, he started performing spoken word poetry and sharing his story [1]."
+  ],
+  "report": [
+   {
+    "h": "Finding Freedom Abroad",
+    "t": "Growing up in a straight friendship group, the artist tried to fit in with girlfriends before spending a year abroad in Munich [1]. With no one to answer to, he explored his identity and found himself getting with guys [1]."
+   },
+   {
+    "h": "The Weight Lifted",
+    "t": "After coming out to his sister and then his parents, who noted he had not been himself for seven or eight years, a heavy weight lifted [1]. His darkest days were right before coming out fully when he felt lost and scared [1]."
+   },
+   {
+    "h": "Turning Art into Therapy",
+    "t": "Writing down lyrics and diary entries became a vital form of therapy that untangled his thoughts and kept him out of dark spaces [1]. By his mid-twenties, he began performing spoken word poetry based on what he had been through [1]."
+   }
+  ],
+  "why": "It shows how creative expression and writing can help untangle complex personal struggles and serve as a powerful mental release.",
+  "tryit": "Grab a pen and try scribbling down your thoughts or diary entries to clear your mind when feeling overwhelmed.",
+  "qa": [
+   [
+    "When did the artist first know he was different?",
+    "He knew he was different from fourteen or fifteen years old [1]."
+   ],
+   [
+    "How did his parents react when he came out?",
+    "His parents were relieved and said he had not been himself for seven or eight years [1]."
+   ],
+   [
+    "What helped him through his darkest days?",
+    "Writing, putting things on paper, lyrics, and diaries acted as therapy and kept him out of that space [1]."
+   ],
+   [
+    "When did he start performing spoken word poetry?",
+    "He started performing spoken word poetry by his mid-twenties, after lockdown [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.attitude.co.uk/culture/myndstate-interview-uncut-2026-540349/",
+    "status": 200,
+    "title": "Getting to know myndstate, the gay poet who turned coming out into art",
+    "domain": "attitude.co.uk"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T10:38:11Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/how-poet-myndstate-turned-personal-struggle-and.mp3",
+  "image": {
+   "src": "img/how-poet-myndstate-turned-personal-struggle-and.jpg",
+   "credit": "Attitude",
+   "license": "© Attitude, shown with credit",
+   "page": "https://www.attitude.co.uk/culture/myndstate-interview-uncut-2026-540349/",
+   "from_url": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2026/11/myndatate.jpg"
+  }
+ },
+ {
+  "id": "growth-mindset-and-supportive-peers-help-disadva",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "mind",
+   "focus",
+   "science"
+  ],
+  "title": "Growth Mindset and Supportive Peers Help Disadvantaged Students Beat the Odds",
+  "snippet": "A large study of over 600,000 students found that a growth mindset helps disadvantaged youth achieve academic success. This resilience is even stronger when their peers share the same belief [1].",
+  "bullets": [
+   "Researchers analyzed data from more than 600,000 15-year-olds across 79 countries [1].",
+   "Students with a growth mindset were more likely to reach solid proficiency levels in reading, math, and science despite socioeconomic obstacles [1].",
+   "The positive link between an individual growth mindset and resilience was strongest when surrounded by schoolmates with similar beliefs [1]."
+  ],
+  "report": [
+   {
+    "h": "The Power of Mindset",
+    "t": "An analysis of data from more than 600,000 15-year-olds in 79 countries explored how students overcome socioeconomic obstacles [1]. Researchers found that students who believe intelligence can be developed through effort showed greater academic resilience [1]."
+   },
+   {
+    "h": "The Peer Environment",
+    "t": "The benefits of a growth mindset depend heavily on the surrounding social environment [1]. Resilience was most common among students with a growth mindset who attended schools where peers shared those same positive beliefs [1]."
+   },
+   {
+    "h": "Important Study Limits",
+    "t": "Study authors noted that growth mindsets are not a cure-all and must be combined with structural support [1]. The research was also cross-sectional, meaning it cannot prove that mindset directly causes resilience [1]."
+   }
+  ],
+  "why": "Understanding how individual beliefs and peer environments interact can help you cultivate supportive communities for your own focus, business goals, and personal growth.",
+  "tryit": "Surround yourself with growth-oriented peers today by joining an online community, mastermind group, or workspace where people actively share your ambition and belief in continuous skill development.",
+  "qa": [
+   [
+    "What data did the researchers analyze?",
+    "They analyzed data from the 2018 Programme for International Student Assessment, which included 606,191 students from 21,562 schools [1]."
+   ],
+   [
+    "How was academic resilience defined in the study?",
+    "Students were classified as academically resilient if they were in the bottom 25% of their country by socioeconomic status but reached proficiency level 3 or higher in reading, math, and science [1]."
+   ],
+   [
+    "Who authored the study?",
+    "The paper was authored by Ronnel B. King, Jiajing Li, and Yi Wang [1]."
+   ],
+   [
+    "Did the study prove that mindset causes resilience?",
+    "No, the study was cross-sectional, so it cannot establish causality; it is possible that succeeding academically leads students to adopt a growth mindset [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/disadvantaged-students-with-a-growth-mindset-are-more-likely-to-beat-the-odds-especially-when-their-peers-share-it/",
+    "status": 200,
+    "title": "Disadvantaged students with a growth mindset are more likely to beat the odds, especially when their peers share it",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T19:00:02Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/growth-mindset-and-supportive-peers-help-disadva.mp3",
+  "image": {
+   "src": "img/growth-mindset-and-supportive-peers-help-disadva.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/disadvantaged-students-with-a-growth-mindset-are-more-likely-to-beat-the-odds-especially-when-their-peers-share-it/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/students-in-classroom.jpg"
+  }
+ },
+ {
+  "id": "new-ball-and-socket-thumb-implant-transforms-sev",
+  "cat": "health",
+  "tags": [
+   "health",
+   "fitness",
+   "science"
+  ],
+  "title": "New ball-and-socket thumb implant transforms severe arthritis treatment and recovery",
+  "snippet": "A new Swiss-designed thumb implant uses hip replacement technology to treat severe arthritis without removing bones, allowing for much faster recovery.",
+  "bullets": [
+   "The new CMC Touch 1 prosthesis uses a ball-and-socket design to replace the saddle joint in the thumb [1].",
+   "Traditional surgery requires removing the trapezium bone and a recovery period lasting six to nine months [1].",
+   "The outpatient procedure takes about 45 minutes and patients can go home the same day [1]."
+  ],
+  "report": [
+   {
+    "h": "Modern Joint Replacement",
+    "t": "A new thumb implant is transforming hand function for people with advanced arthritis by using a ball-and-socket design [1]. Developed by KeriMedical, the Swiss-designed prosthesis does not require any anatomy changes and uses a familiar surgical approach [1]."
+   },
+   {
+    "h": "Faster Recovery Times",
+    "t": "Traditional thumb reconstruction requires removing a small bone at the base of the thumb and can involve a lengthy recovery of six to nine months [1]. With the new TOUCH prosthesis, patients leave the operating room with just an ACE bandage and avoid bone removal [1]."
+   },
+   {
+    "h": "Long-Term Durability",
+    "t": "The outpatient surgery takes about 45 minutes and allows patients to go home the same day [1]. For most patients, the implant is expected to last the rest of their life while allowing regular activities like workouts and sports [1]."
+   }
+  ],
+  "why": "Understanding modern joint health and medical advances helps you stay informed on cutting-edge treatments for mobility and longevity.",
+  "tryit": "Talk to a GP or orthopedic specialist if you suffer from chronic joint pain to discuss conservative options like bracing, therapy, or injections before considering surgical alternatives.",
+  "qa": [
+   [
+    "What is the new thumb implant called?",
+    "It is the Swiss-designed CMC Touch 1 prosthesis, developed by KeriMedical [1]."
+   ],
+   [
+    "How long does the outpatient surgery take?",
+    "The outpatient surgery takes about 45 minutes and lets patients go home the same day [1]."
+   ],
+   [
+    "Does the procedure require removing any bones?",
+    "No, unlike traditional methods, the bone is not removed with this new implant [1]."
+   ],
+   [
+    "How long is the implant expected to last?",
+    "For most patients, the thumb implant will last the rest of their life [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/new-way-to-treat-severe-thumb-arthritis-with-joint-replacement/",
+    "status": 200,
+    "title": "New Method Treats Severe Thumb Arthritis With Joint Replacement – Just like a New Hip or Shoulder",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T01:55:12Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/new-ball-and-socket-thumb-implant-transforms-sev.mp3",
+  "image": {
+   "src": "img/new-ball-and-socket-thumb-implant-transforms-sev.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/new-way-to-treat-severe-thumb-arthritis-with-joint-replacement/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/TOUCH-Thumb-transplant-RELEASED.jpeg"
+  }
+ },
+ {
+  "id": "a-brain-region-famous-for-listening-is-also-cruc",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "brain",
+   "research"
+  ],
+  "title": "A brain region famous for listening is also crucial for speaking",
+  "snippet": "New research shows a small spot inside Wernicke’s area becomes active just before we speak. This discovery could help improve speech restoration implants.",
+  "bullets": [
+   "A small spot in Wernicke’s area becomes active about a quarter of a second before a word is spoken [1].",
+   "Researchers measured brain activity in 28 people before they had surgery for epilepsy or tumors [1].",
+   "Electrical stimulation to this specific brain bit disrupted speech production when delivered just prior to speaking [1]."
+  ],
+  "report": [
+   {
+    "h": "The Wernicke Discovery",
+    "t": "Scientists found that a small bit of Wernicke’s area activates just before a word is spoken [1]. Every word spoken begins in that small part above the left ear about a quarter of a second before it is said [1]."
+   },
+   {
+    "h": "Measuring Brain Activity",
+    "t": "Researchers measured brain activity in 28 people before surgery for epilepsy or tumors [1]. Cells in this region showed preferences for certain sorts of words, such as longer words [1]."
+   },
+   {
+    "h": "Restoring Human Voices",
+    "t": "This discovery offers an additional spot to consider for implanted devices that help restore speech [1]. Experimental brain implants in two volunteers with paralysis detected both what they heard and what they tried to say [1]."
+   }
+  ],
+  "why": "This surprising neuroscience finding highlights how complex and adaptable human brain regions are, offering fascinating context for how we communicate.",
+  "tryit": "Read more about how brain computer interfaces are developing by searching for recent neuroscience updates from the Society for Neuroscience.",
+  "qa": [
+   [
+    "Which brain region is involved in speaking?",
+    "A small spot inside a larger area called Wernicke’s area, specifically the left posterior superior temporal gyrus, is involved [1]."
+   ],
+   [
+    "How long before speaking does this brain region activate?",
+    "It becomes active about a quarter of a second before a word is spoken [1]."
+   ],
+   [
+    "How many people were measured in the study?",
+    "Scientists measured brain activity in 28 people before they had surgery for epilepsy or tumors [1]."
+   ],
+   [
+    "What did electrical stimulation do to this brain area?",
+    "Electrical stimulation to this small bit of brain interfered with people’s ability to talk [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie",
+    "status": 200,
+    "title": "A brain region known for listening helps us speak",
+    "domain": "sciencenews.org"
+   }
+  ],
+  "date": "2026-11-19",
+  "publishedAt": "2026-11-19T19:00:00Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/a-brain-region-famous-for-listening-is-also-cruc.mp3",
+  "image": {
+   "src": "img/a-brain-region-famous-for-listening-is-also-cruc.jpg",
+   "credit": "Science News",
+   "license": "© Science News, shown with credit",
+   "page": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie",
+   "from_url": "https://media.sciencenews.org/wp-content/uploads/sites/2/2026/11/111926_LS_brain-speech_main.jpg"
+  }
+ },
+ {
+  "id": "scientists-discover-hidden-living-microbes-all-o",
+  "cat": "news",
+  "tags": [
+   "science",
+   "history",
+   "art",
+   "microbes"
+  ],
+  "title": "Scientists Discover Hidden Living Microbes All Over Rembrandt's The Night Watch",
+  "snippet": "Researchers in Amsterdam are cataloging the surface microbiome of Rembrandt's 1642 masterpiece, revealing a hidden world of bacteria. The project is part of a sweeping conservation initiative at the Rijksmuseum.",
+  "bullets": [
+   "Scientists are collecting 60 samples from 10 different areas of Rembrandt's painting to catalog its surface microbiome [1].",
+   "Early laboratory cultures found common skin and soil bacteria alongside a puzzling outlier originally identified at a sugar refinery in Japan [1].",
+   "The ongoing investigation is featured in an exhibition running through May 2027 at ARTIS-Micropia [1]."
+  ],
+  "report": [
+   {
+    "h": "Microbial Census",
+    "t": "Researchers from the Rijksmuseum and ARTIS-Micropia are collecting 60 samples from 10 different areas of The Night Watch to catalog its surface microbiome [1]. Early cultures found common human skin and soil bacteria, plus a surprising species first identified in a Japanese sugar refinery [1]."
+   },
+   {
+    "h": "Historical Protection",
+    "t": "Long before microorganisms were discovered, Rembrandt applied a layer of lead-laden oil beneath the primer to shield his work against moisture and mold [1]. The painting has since undergone numerous conservation treatments and deep cleanings roughly once every 50 years [1]."
+   },
+   {
+    "h": "Public Exhibition",
+    "t": "The investigation is currently featured in an exhibition running through May 2027 that showcases living bacterial colonies growing in Petri dishes [1]. Researchers expect to complete all 60 samples by February [1]."
+   }
+  ],
+  "why": "It is a fascinating scientific look at how modern biology intersects with historical art preservation, offering a surprising glimpse into the microscopic world living on a famous masterpiece.",
+  "tryit": "Visit the Rijksmuseum website or plan a trip to Amsterdam to see the ongoing conservation work and the exhibition running through May 2027.",
+  "qa": [
+   [
+    "How many samples are researchers collecting from the painting?",
+    "Researchers are collecting 60 samples from 10 different areas of the painting [1]."
+   ],
+   [
+    "When does the exhibition at ARTIS-Micropia run until?",
+    "The exhibition runs through May 2027 [1]."
+   ],
+   [
+    "What unusual bacterium was found on the canvas?",
+    "Scientists found Microbacterium saccharophilum, a species first identified at a sugar refinery in Japan [1]."
+   ],
+   [
+    "When was Operation Night Watch launched?",
+    "Operation Night Watch was launched in 2019 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smart-news/rembrandt-night-watch-is-teeming-with-life-researchers-reveal-a-hidden-world-of-microbes-all-over-the-masterpiece-180989917/",
+    "status": 200,
+    "title": "Rembrandt's 'Night Watch' Is Teeming With Life. Researchers Reveal a Hidden World of Microbes All Over the Masterpiece",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-20",
+  "publishedAt": "2026-11-20T19:22:35Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/scientists-discover-hidden-living-microbes-all-o.mp3",
+  "image": {
+   "src": "img/scientists-discover-hidden-living-microbes-all-o.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smart-news/rembrandt-night-watch-is-teeming-with-life-researchers-reveal-a-hidden-world-of-microbes-all-over-the-masterpiece-180989917/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/ZexF5OS4UKDtiXWtU9fagZR29OI=/fit-in/1600x0/filters:focal(943x575:944x576)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/72/ea/72ea9a01-babf-4508-8e33-cbcd0fce540f/r1.jpg"
+  }
+ },
+ {
+  "id": "tennis-legend-billie-jean-king-shares-candid-lif",
+  "cat": "mind",
+  "tags": [
+   "mind",
+   "psychology",
+   "health"
+  ],
+  "title": "Tennis Legend Billie Jean King Shares Candid Life Story in New Documentary",
+  "snippet": "Tennis champion Billie Jean King hopes her new documentary, Give Me the Ball!, will help gay and trans youth by offering an honest look at her life. The film covers her fight for equality, personal struggles, and her message for younger generations.",
+  "bullets": [
+   "Billie Jean King hopes her new documentary will help any gay or trans kid [1].",
+   "The film Give Me the Ball! is an ESPN 30 for 30 documentary that premiered at the Sundance Film Festival in January [1].",
+   "King won 39 Grand Slam titles and played in the famous 1973 Battle of the Sexes match [1]."
+  ],
+  "report": [
+   {
+    "h": "Candid New Film",
+    "t": "Tennis champion Billie Jean King features in a new documentary titled Give Me the Ball! [1]. The project features candid interviews and never-before-seen footage to give an honest look at her life [1]."
+   },
+   {
+    "h": "Overcoming Hardships",
+    "t": "The documentary details how King risked her career and public standing while fighting for equality [1]. It also covers her navigating her sexual identity, concealing an eating disorder, and confronting misogyny [1]."
+   },
+   {
+    "h": "Supporting Youth",
+    "t": "King expressed a desire to touch the hearts and minds of younger generations [1]. She believes older generations have a responsibility to support young people as they shape the future [1]."
+   }
+  ],
+  "why": "It is an inspiring look at resilience from an LGBTQ+ icon who paved the way for modern equality, offering a reminder of the power of self-compassion and staying true to oneself.",
+  "tryit": "Watch the documentary Give Me the Ball! on ESPN to reflect on personal resilience and finding your own sense of purpose.",
+  "qa": [
+   [
+    "What is the name of Billie Jean King's documentary?",
+    "It is called Give Me the Ball! [1]."
+   ],
+   [
+    "Where is the documentary streaming?",
+    "It is streaming on ESPN [1]."
+   ],
+   [
+    "How many Grand Slam titles did King win?",
+    "She won 39 Grand Slam titles [1]."
+   ],
+   [
+    "When did she experience an epiphany about making the world better?",
+    "She had an epiphany when she was 12 years old [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.thepinknews.com/2026/11/23/billie-jean-king-documentary-2026/",
+    "status": 200,
+    "title": "Billie Jean King’s Documentary Aims to Inspire LGBTQ+ Youth",
+    "domain": "thepinknews.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T10:32:47Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/tennis-legend-billie-jean-king-shares-candid-lif.mp3",
+  "image": {
+   "src": "img/tennis-legend-billie-jean-king-shares-candid-lif.jpg",
+   "credit": "PinkNews",
+   "license": "© PinkNews, shown with credit",
+   "page": "https://www.thepinknews.com/2026/11/23/billie-jean-king-documentary-2026/",
+   "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/recap-Billie-Jean-King.jpg"
+  }
+ },
+ {
+  "id": "new-study-reveals-how-people-judge-intellect-and",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "personality",
+   "science"
+  ],
+  "title": "New Study Reveals How People Judge Intellect and Political Liberalism",
+  "snippet": "Experimental research shows that boosting perceived intellect in personality profiles tends to lower perceived liberalism. The findings suggest that grouping these traits into a single openness score may obscure distinct underlying dimensions.",
+  "bullets": [
+   "When participants evaluated fictional individuals, descriptions that boosted perceived intellect tended to lower perceived liberalism [1].",
+   "A 2025 analysis examined self-report personality surveys from roughly 619,000 people and found openness violated single-dimension requirements widely [1].",
+   "The main experiment included 113 participants with an average age of 28 who read six brief written profiles [1]."
+  ],
+  "report": [
+   {
+    "h": "Personality Traits Diverge",
+    "t": "Experimental research demonstrates that impressions of how politically liberal and how intellectual another person is do not behave like a single broad trait [1]. When participants evaluated brief personality profiles, descriptions that boosted perceived intellect tended to lower perceived liberalism [1]."
+   },
+   {
+    "h": "Testing Single Dimensions",
+    "t": "Standard personality research usually evaluates trait structure with correlations, but researchers used state-trace analysis to test strict monotonicity [1]. A 2025 analysis of roughly 619,000 people found that openness violated this single-dimension requirement far more widely than any other Big Five domain [1]."
+   },
+   {
+    "h": "Experimental Results",
+    "t": "The main experiment recruited 113 German-speaking adults who read profiles describing a fictional woman named Ms. N. [1]. State-trace testing indicated that a single underlying dimension could not adequately explain participants' judgments of liberalism and intellect [1]."
+   }
+  ],
+  "why": "Understanding how people subconsciously link and separate traits like intellect and politics can sharpen your own communication and self-awareness in negotiations or daily social interactions.",
+  "tryit": "Notice when you make quick assumptions about someone's wider beliefs based on a single trait, and pause to separate those impressions.",
+  "qa": [
+   [
+    "What did the experimental research discover about intellect and liberalism?",
+    "Descriptions that boosted perceived intellect tended to lower perceived liberalism [1]."
+   ],
+   [
+    "How many participants were in the final sample for the main experiment?",
+    "The final sample included 113 participants [1]."
+   ],
+   [
+    "What method did researchers use to test trait structure directly?",
+    "They used state-trace analysis, a mathematical method developed in cognitive psychology [1]."
+   ],
+   [
+    "What was the average age of the participants in the main study?",
+    "The average age was 28 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/traits-that-make-someone-seem-more-intellectual-can-also-make-them-seem-less-liberal-study-suggests/",
+    "status": 200,
+    "title": "Traits that make someone seem more intellectual can also make them seem less liberal, study suggests",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T17:00:02Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/new-study-reveals-how-people-judge-intellect-and.mp3",
+  "image": {
+   "src": "img/new-study-reveals-how-people-judge-intellect-and.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/traits-that-make-someone-seem-more-intellectual-can-also-make-them-seem-less-liberal-study-suggests/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2022/09/woman-wearing-glasses.jpg"
+  }
+ },
+ {
+  "id": "world-first-childrens-museum-inside-hospital-ful",
+  "cat": "news",
+  "tags": [
+   "science",
+   "animals",
+   "psychology",
+   "travel",
+   "calm"
+  ],
+  "title": "World First Childrens Museum Inside Hospital Fulfills Dying Boys Wish",
+  "snippet": "A new 15000 square foot museum built inside a childrens hospital fulfills a young boys dream of bringing play and joy to sick patients. The imaginative space features local themes, interactive art, and accessible games for children with diverse medical needs.",
+  "bullets": [
+   "Walkers Imaginarium is the world's first museum incorporated into a children's hospital [1].",
+   "The 15,000-square-foot space includes interactive Louisiana themes, a bayou, and a Mardi Gras parade [1].",
+   "The museum was funded entirely through philanthropic support and donations raised by the community [1]."
+  ],
+  "report": [
+   {
+    "h": "A Childs Dream",
+    "t": "Before he died from pediatric brain cancer, a nine-year-old boy named Walker Beery and his family started a foundation to raise money for hospital play [1]. Five years later, his vision became the world's first museum built inside a children's hospital [1]."
+   },
+   {
+    "h": "Designed For Healing",
+    "t": "Walkers Imaginarium covers 15,000 square feet and features rooms with unique local themes like cajun music, a bayou, and a Mardi Gras parade [1]. The design accommodates various physical and sensory needs so kids in wheelchairs can easily play [1]."
+   },
+   {
+    "h": "Joy And Community",
+    "t": "The project was funded entirely through community donations and support raised by the Kids Join The Fight foundation [1]. The museum will be open seven days a week for patients and limited outside visitors to experience play-based healing [1]."
+   }
+  ],
+  "why": "This story highlights how community vision and personal resilience can turn difficult life moments into lasting, positive spaces for others.",
+  "tryit": "Visit the Kids Join The Fight foundation website to learn more about community-led healthcare support and pediatric hospital initiatives.",
+  "qa": [
+   [
+    "What is Walkers Imaginarium?",
+    "It is the world's first museum incorporated into a children's hospital, designed for play-based healing [1]."
+   ],
+   [
+    "How large is the museum?",
+    "It is a 15,000-square-foot children's museum located in the Children's Hospital of New Orleans [1]."
+   ],
+   [
+    "Who funded the project?",
+    "The project was funded entirely through philanthropic support and community donations [1]."
+   ],
+   [
+    "What features are included in the museum?",
+    "It includes cajun music, a bayou, a Mardi Gras parade, an animated fish tank, and accessible mini-golf [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/the-first-museum-built-in-a-childrens-hospital-fulfills-dying-boys-wish/",
+    "status": 200,
+    "title": "World’s First Museum Built in a Children’s Hospital Fulfills Dying Boy’s Wish For Playtime During Chemo",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-22",
+  "publishedAt": "2026-11-22T18:41:56Z",
+  "addedAt": "2026-11-23T10:38:35Z",
+  "audio": "audio/world-first-childrens-museum-inside-hospital-ful.mp3",
+  "image": {
+   "src": "img/world-first-childrens-museum-inside-hospital-ful.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/the-first-museum-built-in-a-childrens-hospital-fulfills-dying-boys-wish/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Music-dance-stage-display-in-kids-museum-Walkers-Imaginarium-released-by-Manning-Family-Childrens.jpeg"
+  }
+ },
+ {
   "id": "your-wear-os-smartwatch-just-got-an-automatic-ba",
   "cat": "ai",
   "tags": [
@@ -66,76 +1255,6 @@
    "license": "© ZDNET, shown with credit",
    "page": "https://www.zdnet.com/tech/wear-os-smartwatches-update-save-battery-life-galaxy-pixel/",
    "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00138_8b66e2.jpg"
-  }
- },
- {
-  "id": "escape-the-cold-with-these-eleven-warm-weather-w",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "destinations",
-   "vacation",
-   "winter"
-  ],
-  "title": "Escape the Cold With These Eleven Warm Weather Winter Destinations",
-  "snippet": "Beat the winter blues by jetting off to warm destinations offering comfortable temperatures, festive happenings, and off-peak advantages. From sunny beaches in Puerto Rico to cultural spots in Marrakech, these sunny locations offer a great seasonal escape.",
-  "bullets": [
-   "Winter travel destinations offer comfortable temperatures, off-peak advantages, and festive events [1].",
-   "January brings humpback whale sightings and lush landscapes to places like Maui [1].",
-   "From December to March, Puerto Rico experiences its dry season, ideal for outdoor adventures [1]."
-  ],
-  "report": [
-   {
-    "h": "Sunny Winter Escapes",
-    "t": "The best winter vacation spots offer comfortable temperatures and off-peak advantages to help travelers beat the cold [1]. From Puerto Rico to Belize, these locations provide sunny days and outdoor adventures [1]."
-   },
-   {
-    "h": "Whale Watching And Nature",
-    "t": "January is an ideal time to spot humpback whales in Maui or off the coast of Punta Cana [1]. Travelers can also explore lush rainforests like El Yunque in Puerto Rico during the dry winter season [1]."
-   },
-   {
-    "h": "Festivals And Culture",
-    "t": "Winter months bring lively events such as the San Sebastian Street Festival in Puerto Rico and Art Basel in Miami [1]. Visitors can also enjoy mild weather while exploring local markets and historic sites [1]."
-   }
-  ],
-  "why": "Planning a winter trip to a warm destination is a great way to recharge, change your environment, and enjoy a break from darker, colder days.",
-  "tryit": "Research flight prices for a warm-weather destination like Puerto Rico or San Diego for travel after the holiday rush.",
-  "qa": [
-   [
-    "When is the best time to visit Puerto Rico for dry weather?",
-    "From December to March, visitors can take advantage of the island's dry season [1]."
-   ],
-   [
-    "Where can you spot humpback whales in January?",
-    "You can spot humpback whales from Papawai Point in Maui or off the coast of the Peninsula de Samana in Punta Cana [1]."
-   ],
-   [
-    "What is the average winter temperature in San Diego?",
-    "San Diego enjoys mild, mid-60-degree temperatures during the winter months [1]."
-   ],
-   [
-    "What event takes place in Miami in December?",
-    "Art Basel Miami takes place in December [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/warm-places-to-visit-winter",
-    "status": 200,
-    "title": "11 Warm-Weather Destinations to Flock to This Winter",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2025-09-26",
-  "publishedAt": "2025-09-26T20:56:14Z",
-  "addedAt": "2026-11-22T23:36:03Z",
-  "audio": "audio/escape-the-cold-with-these-eleven-warm-weather-w.mp3",
-  "image": {
-   "src": "img/escape-the-cold-with-these-eleven-warm-weather-w.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/warm-places-to-visit-winter",
-   "from_url": "https://media.cntraveler.com/photos/6aff73e6628bb37be5ee68c5/16:9/w_1280,c_limit/Screenshot%202026-11-19%20at%205.10.33%E2%80%AFPM.png"
   }
  },
  {
@@ -21834,287 +22953,6 @@
    "license": "© ScienceAlert, shown with credit",
    "page": "https://www.sciencealert.com/animal-protein-is-linked-to-lower-testosterone-in-middle-aged-men-surprising-study-finds",
    "from_url": "https://www.sciencealert.com/images/2026/11/GettyImages-1140203141-2560x1440-1.jpg"
-  }
- },
- {
-  "id": "how-leadership-judgment-and-psychology-shape-hig",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "business",
-   "ai",
-   "economics"
-  ],
-  "title": "How Leadership Judgment and Psychology Shape High Stakes Crises",
-  "snippet": "Yale professor Jeffrey Sonnenfeld analyzes the severe governance and judgment challenges facing Nvidia CEO Jensen Huang. The situation highlights how social psychology and accumulated goodwill influence executive survival during crises.",
-  "bullets": [
-   "Nvidia announced an independent investigation after CEO Jensen Huang disclosed an extramarital relationship with an executive whom U.S. officials believe is a Chinese spy [1].",
-   "Yale management professor Jeffrey Sonnenfeld estimates Huang's chances of surviving the leadership crisis at about a fifty-fifty split [1].",
-   "Social psychologists refer to accumulated workplace goodwill as idiosyncrasy credits, which grant leaders latitude when mistakes happen [1]."
-  ],
-  "report": [
-   {
-    "h": "The Core Dilemma",
-    "t": "Nvidia faces an independent board investigation following revelations regarding CEO Jensen Huang and national security concerns [1]. The crisis places immense pressure on the central pillar of the global artificial intelligence economy [1]."
-   },
-   {
-    "h": "Idiosyncrasy Credits",
-    "t": "Professor Jeffrey Sonnenfeld notes that Huang relies on decades of accumulated goodwill known as idiosyncrasy credits to weather executive scrutiny [1]. However, extreme recklessness can rapidly deplete this relational capital [1]."
-   },
-   {
-    "h": "Unprecedented Structure",
-    "t": "Unlike peers who transitioned smoothly after scandals, Huang has no direct corporate equivalent because Nvidia is his foundational company [1]. The flat management hierarchy with roughly sixty direct reports leaves the board with limited internal succession options [1]."
-   }
-  ],
-  "why": "Understanding how leaders maintain or lose trust under pressure offers a fascinating look at high-stakes organizational psychology and decision-making.",
-  "tryit": "Reflect on your own professional boundaries by reviewing how you build trust and maintain clear separation between personal and professional domains this week.",
-  "qa": [
-   [
-    "What led to the independent investigation at Nvidia?",
-    "The board launched an investigation after CEO Jensen Huang revealed an extramarital relationship with an executive suspected of intelligence-gathering [1]."
-   ],
-   [
-    "How does Jeffrey Sonnenfeld view Huang's chances?",
-    "Professor Jeffrey Sonnenfeld estimates the odds of Huang surviving the leadership crisis are about fifty-fifty [1]."
-   ],
-   [
-    "What is an idiosyncrasy credit?",
-    "It is a concept from social psychology describing how individuals earn latitude in a group by showing competence and following rules over time [1]."
-   ],
-   [
-    "Does Nvidia have an established internal succession bench?",
-    "Nvidia lacks a traditional succession hierarchy because Huang maintained a flat structure with about sixty direct reports [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-    "status": 200,
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50” | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T05:26:29Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/how-leadership-judgment-and-psychology-shape-hig.mp3",
-  "image": {
-   "src": "img/how-leadership-judgment-and-psychology-shape-hig.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
-  }
- },
- {
-  "id": "why-larger-dogs-age-faster-and-what-it-reveals-a",
-  "cat": "health",
-  "tags": [
-   "health",
-   "longevity",
-   "science",
-   "aging",
-   "fitness"
-  ],
-  "title": "Why Larger Dogs Age Faster And What It Reveals About Mammalian Longevity",
-  "snippet": "New research suggests that larger dog breeds age faster due to a loss of epigenetic control over jumping genes. Scientists hope these insights into canine aging could eventually lead to new anti-aging therapies for humans.",
-  "bullets": [
-   "Researchers analyzed data from 894 dogs enrolled in the Dog Aging Project to study DNA methylation patterns across genomes [1].",
-   "Larger dog breeds lost about 35 percent more LINE1 jumping gene methylation annually than smaller breeds [1].",
-   "Scientists found that dogs with epigenetic ages older than expected showed an elevated risk of mortality [1]."
-  ],
-  "report": [
-   {
-    "h": "Dog Size and Lifespan",
-    "t": "While larger mammals generally live longer than small ones, the opposite happens within single species like dogs, where smaller breeds routinely outlive larger ones [1]. Large dogs grow faster, face a higher risk of age-related diseases, and die younger [1]."
-   },
-   {
-    "h": "The Role of Jumping Genes",
-    "t": "Researchers analyzed data from 894 dogs in the Dog Aging Project and found a broad decline in DNA methylation as dogs aged [1]. Specifically, mobile DNA sequences called LINE1s lost methylation much faster in larger breeds than in smaller ones [1]."
-   },
-   {
-    "h": "Implications for Mammals",
-    "t": "This loss of epigenetic control over jumping genes may drive faster aging in big dogs [1]. Scientists believe targeting these transposable elements could one day help extend health spans across other mammals, including humans [1]."
-   }
-  ],
-  "why": "This fascinating study connects biological aging mechanics with mammalian size trade-offs, offering a peek into longevity research that may soon influence human health and health span therapies.",
-  "tryit": "Read more about the ongoing findings from the Dog Aging Project online to track how shared environments and companion animal health research continue to inform human longevity studies.",
-  "qa": [
-   [
-    "How many dogs were analyzed in the new study?",
-    "Researchers analyzed data from 894 dogs enrolled in the Dog Aging Project [1]."
-   ],
-   [
-    "What are LINE1s?",
-    "LINE1s are mobile DNA sequences, or jumping genes, that can move around within a genome or send out copies of themselves [1]."
-   ],
-   [
-    "How much faster did larger breeds lose LINE1 methylation?",
-    "Larger breeds lost about 35 percent more LINE1 methylation annually than smaller breeds did [1]."
-   ],
-   [
-    "Where was the research published?",
-    "The research has been published in Science [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/larger-dogs-age-faster-and-scientists-may-finally-know-why",
-    "status": 200,
-    "title": "Larger Dogs Age Faster, And Scientists May Finally Know Why",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T03:00:00Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/why-larger-dogs-age-faster-and-what-it-reveals-a.mp3",
-  "image": {
-   "src": "img/why-larger-dogs-age-faster-and-what-it-reveals-a.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/larger-dogs-age-faster-and-scientists-may-finally-know-why",
-   "from_url": "https://www.sciencealert.com/images/2026/11/GoldenRetrieverDogWithTongueOutInAFieldOfFlowers-1200x675.png"
-  }
- },
- {
-  "id": "why-the-world-s-biggest-sand-sea-had-no-ancient",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "history",
-   "travel"
-  ],
-  "title": "Why the World's Biggest Sand Sea Had No Ancient Humans",
-  "snippet": "Researchers trekking across the massive Rub' al Khali desert found many ancient lake beds but zero signs of early human tools. New findings reveal that water alone wasn't enough; ancient humans needed access to knappable stone for survival tools.",
-  "bullets": [
-   "The Rub' al Khali stretches for 1,000 kilometers of endless sand across the Arabian Peninsula [1].",
-   "Researchers found evidence of ancient lakes at 55 of the 125 locations investigated [1].",
-   "Out of 125 locations surveyed, only 10 sites featured geological deposits of knappable stone [1]."
-  ],
-  "report": [
-   {
-    "h": "The Empty Quarter Mystery",
-    "t": "Researchers trekked approximately 1,500 kilometers across the world's largest continuous sand desert looking for signs of ancient human settlement [1]. Despite finding dozens of ancient lake beds dating back approximately 122,000 to 67,000 years ago, they found nothing made by human hands [1]."
-   },
-   {
-    "h": "Water Was Not Enough",
-    "t": "While ancient freshwater lakes provided vital hydration, the central basin's surface geology lacked suitable stone for manufacturing tools [1]. Out of 125 locations surveyed, only 10 sites on the outer margins of the desert had knappable stone [1]."
-   },
-   {
-    "h": "A Lithic Archipelago",
-    "t": "The researchers developed a model showing that 57 percent of terrain accessible to water in prehistoric Arabia lacked suitable stone for tool-making [1]. This created a tethering effect where tool-dependent populations were bound to raw material sources rather than water alone [1]."
-   }
-  ],
-  "why": "It is a fascinating look at how ancient survival required a combination of resources rather than just a single element like water.",
-  "tryit": "Read more about prehistoric archaeology or explore Open Access studies in Nature to satisfy your curiosity about ancient human migration patterns.",
-  "qa": [
-   [
-    "How long is the Rub' al Khali?",
-    "It stretches for 1,000 kilometers across the Arabian Peninsula [1]."
-   ],
-   [
-    "How many locations were investigated in the study?",
-    "Researchers investigated 125 locations across approximately 1,500 kilometers [1]."
-   ],
-   [
-    "What percentage of water-accessible terrain lacked suitable stone?",
-    "According to the researchers' calculations, 57 percent of the terrain lacked suitable stone for tool-making [1]."
-   ],
-   [
-    "How old were the lake deposits dated in the region?",
-    "Previous research dated lake deposits in the region to approximately 122,000 to 67,000 years ago [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/the-worlds-biggest-sea-of-sand-shows-no-trace-of-ancient-humans-heres-why",
-    "status": 200,
-    "title": "The World's Biggest Sea of Sand Shows No Trace of Ancient Humans. Here's Why.",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T01:00:00Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/why-the-world-s-biggest-sand-sea-had-no-ancient.mp3",
-  "image": {
-   "src": "img/why-the-world-s-biggest-sand-sea-had-no-ancient.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/the-worlds-biggest-sea-of-sand-shows-no-trace-of-ancient-humans-heres-why",
-   "from_url": "https://www.sciencealert.com/images/2026/11/empty-quarter.jpg"
-  }
- },
- {
-  "id": "historical-milestones-from-chess-dominance-to-wi",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "history",
-   "fitness",
-   "technology",
-   "mind"
-  ],
-  "title": "Historical Milestones from Chess Dominance to Wi-Fi Origins",
-  "snippet": "Explore remarkable historical milestones, including Gary Kasparov's chess triumph, Hedy Lamarr's invention of frequency-hopping technology, and Lou Ferrigno's inspiring fitness journey.",
-  "bullets": [
-   "Gary Kasparov won his first Chess World Championship in Moscow at just 22 years of age [1].",
-   "Hedy Lamarr and George Antheil developed a frequency-hopping radio system that led to Wi-Fi and Bluetooth [1].",
-   "Lou Ferrigno began weight training at age 13 using a broomstick and pails filled with cement [1]."
-  ],
-  "report": [
-   {
-    "h": "Chess and Tech Triumphs",
-    "t": "Gary Kasparov secured the world chess crown in Moscow by a score of 13-11, becoming the youngest champion in history [1]. Meanwhile, Hollywood star Hedy Lamarr helped design a frequency-hopping signal to prevent torpedo guidance systems from being jammed [1]."
-   },
-   {
-    "h": "Foundations of Modern Wi-Fi",
-    "t": "Lamarr and composer George Antheil created a system where radio signals transmitted over constantly changing frequencies [1]. This breakthrough put scientists on track to develop cellular communications, Wi-Fi, and Bluetooth [1]."
-   },
-   {
-    "h": "Resilience and Strength",
-    "t": "Fitness icon Lou Ferrigno overcame major hearing loss and bullying by turning to comic books and weight training [1]. He later underwent cochlear implant surgery at 69, bringing the star to tears of joy [1]."
-   }
-  ],
-  "why": "This story highlights how personal challenges and diverse interests can fuel extraordinary creative and physical achievements.",
-  "tryit": "Channel your focus into building a new skill today by setting a timer for deep work on a single project.",
-  "qa": [
-   [
-    "How old was Gary Kasparov when he won his first championship?",
-    "He was just 22 years of age [1]."
-   ],
-   [
-    "What invention did Hedy Lamarr contribute to?",
-    "She developed a frequency-hopping signal that paved the way for Wi-Fi and Bluetooth [1]."
-   ],
-   [
-    "How did Lou Ferrigno start weight training as a teenager?",
-    "He used a broomstick and pails filled with cement because he could not afford to buy weights [1]."
-   ],
-   [
-    "When did Lou Ferrigno undergo cochlear implant surgery?",
-    "He underwent the surgery in 2020 at 69 years of age [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/events061109/",
-    "status": 200,
-    "title": "Good News in History, November 9 - Good News Network",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T08:00:00Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/historical-milestones-from-chess-dominance-to-wi.mp3",
-  "image": {
-   "src": "img/historical-milestones-from-chess-dominance-to-wi.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/events061109/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/Kasparov-after-winning-in-1985-CC-3.0.-BY-SA-The-Kasparov-Agency.jpg"
   }
  },
  {
