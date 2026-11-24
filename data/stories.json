@@ -1,5 +1,426 @@
 [
  {
+  "id": "experimental-nose-drops-use-mrna-technology-to-r",
+  "cat": "health",
+  "tags": [
+   "health",
+   "science",
+   "longevity",
+   "research",
+   "brain"
+  ],
+  "title": "Experimental nose drops use mRNA technology to restore youthful memory in mice",
+  "snippet": "Researchers created non-invasive nose drops using mRNA technology that restored youthful memory in older mice and prevented cognitive decline in models of Alzheimer's disease.",
+  "bullets": [
+   "Researchers at the University of Sydney developed experimental nose drops using mRNA technology to improve memory in aging mice [1].",
+   "The treatment delivers genetic instructions in lipid nanoparticles to stimulate production of brain-derived neurotrophic factor [1].",
+   "Treated mice showed memory performance comparable to young animals without reducing amyloid plaques [1]."
+  ],
+  "report": [
+   {
+    "h": "mRNA Nose Drops",
+    "t": "Scientists at the University of Sydney used mRNA technology enclosed in lipid nanoparticles to target the brain via the nasal cavity [1]. This non-invasive method acts as a drug-producing factory in nasal tissue to manufacture therapeutic proteins [1]."
+   },
+   {
+    "h": "Cognitive Recovery",
+    "t": "Older mice given the treatment twice a week showed learning and memory improvements that returned their cognition to a youthful prime [1]. The therapy also prevented cognitive decline in mice engineered to develop Alzheimer's-like disease [1]."
+   },
+   {
+    "h": "Future Trials",
+    "t": "The team hopes to move through requisite animal safety studies and begin human clinical trials within the next two years [1]. Researchers note that human noses differ from mouse noses, so human testing is essential [1]."
+   }
+  ],
+  "why": "It is fascinating to see how rapidly medical technology adapts platforms like mRNA to new areas of neurology and healthy aging [1].",
+  "tryit": "Read the University of Sydney news release to follow ongoing updates about this mRNA nasal delivery research [1].",
+  "qa": [
+   [
+    "How does the treatment reach the brain?",
+    "The therapy uses a non-invasive nasal delivery system that bypasses the blood-brain barrier [1]."
+   ],
+   [
+    "What protein does the mRNA stimulate?",
+    "The mRNA stimulates production of brain-derived neurotrophic factor, or BDNF [1]."
+   ],
+   [
+    "Did the treatment clear amyloid plaques?",
+    "No, the researchers found no reduction in amyloid plaques, suggesting the therapy works by supporting neuron health instead [1]."
+   ],
+   [
+    "When do researchers hope to start human trials?",
+    "The team hopes to trial the treatment in humans in the next two years after completing animal safety studies [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+    "status": 200,
+    "title": "New nose drops restore youthful memory and fight Alzheimerâs in aging mice",
+    "domain": "sciencedaily.com"
+   }
+  ],
+  "date": "2026-11-24",
+  "publishedAt": "2026-11-24T23:31:52Z",
+  "addedAt": "2026-11-24T23:45:35Z",
+  "audio": "audio/experimental-nose-drops-use-mrna-technology-to-r.mp3",
+  "image": {
+   "src": "img/experimental-nose-drops-use-mrna-technology-to-r.jpg",
+   "credit": "ScienceDaily",
+   "license": "© ScienceDaily, shown with credit",
+   "page": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+   "from_url": "https://www.sciencedaily.com/images/1920/senior-man-nasal-spray-nose-drops.webp"
+  }
+ },
+ {
+  "id": "a-major-study-reveals-changing-sexual-habits-and",
+  "cat": "health",
+  "tags": [
+   "health",
+   "relationships",
+   "psychology"
+  ],
+  "title": "A major study reveals changing sexual habits and rising digital behaviors across Britain",
+  "snippet": "A new Natsal survey reveals that a third of 16 to 24-year-olds in Britain have never had sex, while adults under 45 are having less frequent sex overall.",
+  "bullets": [
+   "A third of 16 to 24-year-olds have never had sex, which is up from a fifth in the study 12 years ago [1].",
+   "Adults under 45 now have sex twice a month on average, down from once a week in 1990 [1].",
+   "Half of people aged 16 to 24 have sent or received sexual images on their phone in the last year [1]."
+  ],
+  "report": [
+   {
+    "h": "Changing British Sex Habits",
+    "t": "The National Survey of Sexual Attitudes and Lifestyles found that young adults are having less in-person sex than past generations [1]. Adults under 45 now average sex twice a month instead of once a week [1]."
+   },
+   {
+    "h": "Rise in Digital Behaviors",
+    "t": "Half of young people aged 16 to 24 sent or received sexual images on their phone in the past year [1]. High proportions of young men and women also report viewing pornography [1]."
+   },
+   {
+    "h": "Potential Contributing Factors",
+    "t": "Researchers point to factors like young people drinking less alcohol, living at home longer, and rising mental health conditions [1]. Open discussions about consent may also help young people choose when to have sex [1]."
+   }
+  ],
+  "why": "Understanding shifting public health trends and social behaviors helps maintain an informed and compassionate view of modern relationships.",
+  "tryit": "Speak with a healthcare professional or visit a sexual health clinic if you have any questions regarding safe sex and personal wellbeing.",
+  "qa": [
+   [
+    "What proportion of 16 to 24-year-olds have never had sex?",
+    "A third of this age group have never had sex [1]."
+   ],
+   [
+    "How often do adults under 45 have sex on average now?",
+    "They do it twice a month on average [1]."
+   ],
+   [
+    "What is the average number of sexual partners in a lifetime?",
+    "The average number of sexual partners in a lifetime is five [1]."
+   ],
+   [
+    "How many adults surveyed had sex in the past year?",
+    "Three-quarters of adults have had sex in the past year [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo",
+    "status": 200,
+    "title": "One in three 16 to 24-year-olds in Britain have never had sex",
+    "domain": "bbc.co.uk"
+   }
+  ],
+  "date": "2026-11-24",
+  "publishedAt": "2026-11-24T23:38:39Z",
+  "addedAt": "2026-11-24T23:45:35Z",
+  "audio": "audio/a-major-study-reveals-changing-sexual-habits-and.mp3",
+  "image": {
+   "src": "img/a-major-study-reveals-changing-sexual-habits-and.jpg",
+   "credit": "BBC News",
+   "license": "© BBC News, shown with credit",
+   "page": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo",
+   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc18/live/8aec72e0-deb3-11f1-8fb5-a771a656a227.jpg"
+  }
+ },
+ {
+  "id": "how-gemini-wallet-integration-can-instantly-help",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "travel"
+  ],
+  "title": "How Gemini Wallet integration can instantly help you track and save money",
+  "snippet": "Google added Wallet integration to Personal Intelligence in AI Mode, letting you learn spending habits, plan budgets, and maximize credit card rewards.",
+  "bullets": [
+   "Google announced that Personal Intelligence for Search is expanding to apps including Wallet and Drive [1].",
+   "Gemini can show where you spend the most, spot hidden recurring subscriptions, and suggest the best credit card for travel [1].",
+   "Cutting down on fast food and specialty coffees to two times a week can save about $30 a week, or $1,500 a year [1]."
+  ],
+  "report": [
+   {
+    "h": "Connecting Your Wallet",
+    "t": "Go to gemini.google.com, click the Settings gear icon, select Personal Intelligence, choose Connected Apps, and turn on Wallet [1]. You might need to log in to your bank account to access it fully, and it takes a few minutes to sync [1]."
+   },
+   {
+    "h": "Analyzing Your Spending",
+    "t": "You can ask simple queries like a quick way to save money based on your spending [1]. Gemini can break down your monthly recurring subscriptions into an easy-to-see chart with the name, price, category, card charged, and timeframe [1]."
+   },
+   {
+    "h": "Smart Card Recommendations",
+    "t": "Gemini analyses your card benefits, such as rewards and built-in travel insurance, to recommend the best cards to use for airfare and hotels [1]. The system relies on receipts in your inbox or your Wallet transaction history for its information [1]."
+   }
+  ],
+  "why": "This AI tool gives you a practical way to audit your finances, track spending habits, and optimize business or travel card rewards using simple search queries.",
+  "tryit": "Visit gemini.google.com today, click the Settings gear icon, select Personal Intelligence, choose Connected Apps, and turn on Wallet to sync your transaction history.",
+  "qa": [
+   [
+    "Can Google move or manage any money?",
+    "No, Google can't move or manage any money, but it gives you tailored, personalized search results about your finances [1]."
+   ],
+   [
+    "Where does Gemini get its financial information?",
+    "The information comes from receipts in your inbox or from your Wallet transaction history [1]."
+   ],
+   [
+    "How much can you save by cutting down fast food and specialty coffee?",
+    "Gemini explained you would save about $30 a week, or $1,500 a year [1]."
+   ],
+   [
+    "How do you turn on the feature?",
+    "Go to gemini.google.com, click the Settings gear icon, and select Personal Intelligence and Connected Apps [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/innovation/gemini-wallet-personal-intelligence/",
+    "status": 200,
+    "title": "I gave Gemini access to my Wallet, and it immediately started saving me money - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-24",
+  "publishedAt": "2026-11-24T20:38:08Z",
+  "addedAt": "2026-11-24T23:45:35Z",
+  "audio": "audio/how-gemini-wallet-integration-can-instantly-help.mp3",
+  "image": {
+   "src": "img/how-gemini-wallet-integration-can-instantly-help.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/innovation/gemini-wallet-personal-intelligence/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GoogleWallet_72b775.jpg"
+  }
+ },
+ {
+  "id": "three-major-llm-inflection-points-transformed-so",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "science"
+  ],
+  "title": "Three major LLM inflection points transformed software development in twelve months",
+  "snippet": "Software development has transformed dramatically as new models like Claude Opus 4.5, Fable class models, and Opus 5.5 make coding faster and more reliable.",
+  "bullets": [
+   "Claude Opus 4.5 marked an inflection point where coding agents became reliable enough to use as daily drivers [1].",
+   "Claude Fable 5 introduced proactive agents that can independently solve complex debugging and development tasks [1].",
+   "Opus 5.5 demonstrated advanced capabilities by successfully redesigning game mechanics to make gameplay deeply entertaining [1]."
+  ],
+  "report": [
+   {
+    "h": "Reliable Coding Agents",
+    "t": "The release of Claude Opus 4.5 made coding agents genuinely reliable for daily work without constant hand-holding [1]. A similar effect was seen with OpenAI releasing GPT-5.1 Instant and Codex models [1]."
+   },
+   {
+    "h": "Proactive Fable Models",
+    "t": "Fable class models showed unprecedented proactiveness by spinning up their own tools and servers to resolve bugs [1]. These proactive agents represent the new baseline for what to expect from frontier models [1]."
+   },
+   {
+    "h": "Understanding Game Fun",
+    "t": "Opus 5.5 took game development further by successfully balancing gameplay and making projects genuinely entertaining overnight [1]. Frontier LLMs over the past four months also got really good at 3D modeling and spatial awareness [1]."
+   }
+  ],
+  "why": "This matters because powerful new AI coding agents can dramatically accelerate building software products or automating business tools.",
+  "tryit": "Pick a small software tool or script you have been procrastinating on, and use a modern frontier LLM to build it by clearly describing your goal.",
+  "qa": [
+   [
+    "What was significant about Claude Opus 4.5?",
+    "It was the first model where the default coding result from Claude Code was generally the right thing [1]."
+   ],
+   [
+    "Why was Claude Fable placed under export controls?",
+    "The US government temporarily restricted it due to its improved cybersecurity capabilities [1]."
+   ],
+   [
+    "What new capability did frontier models gain over a four-month period?",
+    "They got really good at 3D modeling and spatial awareness [1]."
+   ],
+   [
+    "How did Opus 5.5 handle game design?",
+    "It successfully playtested new features and rebalanced gameplay to make a boring game deeply entertaining [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+    "status": 200,
+    "title": "Three LLM inflection points in twelve months",
+    "domain": "simonwillison.net"
+   }
+  ],
+  "date": "2026-11-24",
+  "publishedAt": "2026-11-24T23:02:07Z",
+  "addedAt": "2026-11-24T23:45:35Z",
+  "audio": "audio/three-major-llm-inflection-points-transformed-so.mp3",
+  "image": {
+   "src": "img/three-major-llm-inflection-points-transformed-so.jpg",
+   "credit": "Simon Willison",
+   "license": "© Simon Willison, shown with credit",
+   "page": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+   "from_url": "https://img.youtube.com/vi/9RKrSF9d2SE/maxresdefault.jpg"
+  }
+ },
+ {
+  "id": "save-money-on-loop-earplugs-with-seasonal-sales",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "focus",
+   "health",
+   "business",
+   "money"
+  ],
+  "title": "Save Money on Loop Earplugs With Seasonal Sales and Discounts",
+  "snippet": "Travel and remote work can be noisy, but Loop earplugs help you block out background sounds to protect your focus and sleep. Discover current discounts, bundles, and loyalty perks available to save on your next pair.",
+  "bullets": [
+   "You can score 20% off top products and bundles during the Loop Earplugs Black Friday sale running through November 30, 2026 [1].",
+   "The Travel bundle includes Loop Dream earplugs, Loop Switch earplugs, and a Loop Eclipse light-blocking eye mask [1].",
+   "Free shipping is available when your order meets the $44 threshold [1]."
+  ],
+  "report": [
+   {
+    "h": "Black Friday Savings",
+    "t": "Shoppers can save 20% on top products and bundles with the Loop Earplugs Black Friday sale running from now through November 30, 2026 [1]. There are nine different styles available depending on whether you need deep sleep or hearing protection [1]."
+   },
+   {
+    "h": "Travel and Focus Bundles",
+    "t": "The Travel bundle includes Loop Dream earplugs for sleep, Loop Switch earplugs with three noise-cancelling modes, and the Loop Eclipse eye mask [1]. The Loop Switch lets you toggle modes to go from loud venues to quiet coffee shops [1]."
+   },
+   {
+    "h": "Additional Discounts",
+    "t": "Students, teachers, medical workers, active first responders, and armed forces members can verify status with SheerID to secure a discount between 16% and 20% off [1]. Members can also join Loop Circle to access Archive Sales and earn points through referrals [1]."
+   }
+  ],
+  "why": "Managing sensory overload and getting deep sleep while traveling or working remotely is essential for maintaining strong focus and day-to-day productivity.",
+  "tryit": "Visit the Loop Earplugs site to check out the current Black Friday 20% sale running through November 30, 2026, or verify your status through SheerID if you are a student, teacher, or first responder to unlock extra savings.",
+  "qa": [
+   [
+    "What is included in the Loop Travel bundle?",
+    "It includes Loop Dream earplugs, Loop Switch earplugs, and a Loop Eclipse light-blocking eye mask [1]."
+   ],
+   [
+    "How much is required for free shipping?",
+    "Free shipping is unlocked when your order meets the $44 threshold [1]."
+   ],
+   [
+    "What is the discount for students and teachers?",
+    "Students and teachers can get 16% to 20% off earplugs and accessories by verifying their status with SheerID [1]."
+   ],
+   [
+    "How long does the Black Friday sale last?",
+    "The Loop Earplugs Black Friday sale runs from now through November 30, 2026 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/loop-earplugs-discount-code",
+    "status": 200,
+    "title": "Loop Earplugs Discount Codes for Black Friday 2026",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2025-03-14",
+  "publishedAt": "2025-03-14T06:00:00Z",
+  "addedAt": "2026-11-24T23:45:35Z",
+  "audio": "audio/save-money-on-loop-earplugs-with-seasonal-sales.mp3",
+  "image": {
+   "src": "img/save-money-on-loop-earplugs-with-seasonal-sales.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/loop-earplugs-discount-code",
+   "from_url": "https://media.cntraveler.com/photos/6a298d86cc7d5e882b24c014/16:9/w_1280,c_limit/PleasingxLoop%20-%20Lifestyle%204.png"
+  }
+ },
+ {
+  "id": "new-psychiatry-review-reveals-wide-inconsistency",
+  "cat": "adhd",
+  "tags": [
+   "adhd",
+   "psychology",
+   "health",
+   "science"
+  ],
+  "title": "New psychiatry review reveals wide inconsistency in neurodivergent research labels",
+  "snippet": "A major review in JAMA Psychiatry shows scientists use neurodiversity terms inconsistently across 24 distinct categories. Researchers caution that broad umbrella labels can sometimes obscure specific support needs and treatment responses.",
+  "bullets": [
+   "A scoping review analyzed 134 scientific studies encompassing a total of 151,134 participants [1].",
+   "More than three-quarters of the reviewed studies were published in 2024 and the first seven months of 2025 alone [1].",
+   "Roughly 72 percent of the papers combined participants with different diagnoses into a single mixed group [1]."
+  ],
+  "report": [
+   {
+    "h": "Mapping The Terms",
+    "t": "A comprehensive review published in JAMA Psychiatry found that scientists apply the terms neurodiversity and neurodivergent inconsistently across two dozen clinical categories [1]. Over 92 percent of the analyzed studies took place in high-income countries like the UK and the US [1]."
+   },
+   {
+    "h": "Self-Identification Trends",
+    "t": "About 42 percent of the studies asked participants to report previous clinical diagnoses, while 37 percent relied solely on self-identification without naming specific disorders [1]. Only 9 percent confirmed diagnoses through official health records [1]."
+   },
+   {
+    "h": "Balancing Identity And Care",
+    "t": "While broad labels help capture personal identity and lived experience, researchers warn that substituting them for specific diagnoses can hide contrasting medical reactions or support requirements [1]. Experts recommend pairing umbrella terms with precise diagnostic details [1]."
+   }
+  ],
+  "why": "Understanding how scientific and clinical communities define neurodiversity helps you communicate your specific support needs more clearly in professional or medical settings.",
+  "tryit": "Clarify your own terms by writing down your specific diagnostic or cognitive profile alongside any broad labels when discussing your focus or health needs with a practitioner.",
+  "qa": [
+   [
+    "What did the JAMA Psychiatry review discover about neurodiversity terms?",
+    "It found that scientists use the terms neurodiversity and neurodivergent inconsistently across two dozen distinct clinical categories [1]."
+   ],
+   [
+    "How many studies and participants were included in the review?",
+    "The review examined 134 distinct studies encompassing a total of 151,134 participants [1]."
+   ],
+   [
+    "How did most studies verify participant diagnoses?",
+    "About 42 percent asked participants to report previous diagnoses and 37 percent relied on self-identification, while only 9 percent used health records [1]."
+   ],
+   [
+    "What do the authors recommend for future research?",
+    "They propose using neurodiversity terms alongside precise clinical descriptions and dimensional classification models [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/new-psychiatry-review-finds-little-consensus-on-which-conditions-count-as-neurodivergent/",
+    "status": 200,
+    "title": "New psychiatry review finds little consensus on which conditions count as \"neurodivergent\"",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-24",
+  "publishedAt": "2026-11-24T14:00:30Z",
+  "addedAt": "2026-11-24T17:36:45Z",
+  "audio": "audio/new-psychiatry-review-reveals-wide-inconsistency.mp3",
+  "image": {
+   "src": "img/new-psychiatry-review-reveals-wide-inconsistency.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/new-psychiatry-review-finds-little-consensus-on-which-conditions-count-as-neurodivergent/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/neurodivergent-head.jpg"
+  }
+ },
+ {
   "id": "ai-helps-researchers-discover-mysterious-new-vir",
   "cat": "ai",
   "tags": [
@@ -1045,22 +1466,13 @@
   },
   "sides": [
    {
-    "title": "Nvidia reinstates Jensen Huang as CEO",
-    "url": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/",
-    "outlet": "CBS News",
-    "domain": "cbsnews.com",
-    "lean": "C",
-    "leanLabel": "Centre",
-    "publishedAt": "2026-11-24T01:19:26Z"
-   },
-   {
-    "title": "Trump made up to $15m after ousted Nvidia boss Jensen Huang reinstated: report",
-    "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jensen-huang-nvidia-shares-b3090466.html",
+    "title": "Jensen Huang admits to more affairs but says he’s in therapy as he rejoins Nvidia as CEO",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/jensen-huang-additional-affairs-nvidia-b3090693.html",
     "outlet": "The Independent",
     "domain": "independent.co.uk",
     "lean": "L",
     "leanLabel": "Left-leaning",
-    "publishedAt": "2026-11-24T09:55:35Z"
+    "publishedAt": "2026-11-24T20:45:00Z"
    },
    {
     "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
@@ -1070,6 +1482,24 @@
     "lean": "C",
     "leanLabel": "Centre",
     "publishedAt": "2026-11-23T14:18:00Z"
+   },
+   {
+    "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+    "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+    "outlet": "NPR",
+    "domain": "npr.org",
+    "lean": "L",
+    "leanLabel": "Left-leaning",
+    "publishedAt": "2026-11-24T12:12:25Z"
+   },
+   {
+    "title": "5 questions Nvidia still faces after bringing back Jensen Huang",
+    "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-challenges/",
+    "outlet": "CBS News",
+    "domain": "cbsnews.com",
+    "lean": "C",
+    "leanLabel": "Centre",
+    "publishedAt": "2026-11-24T19:42:00Z"
    }
   ]
  },
@@ -13667,75 +14097,6 @@
   }
  },
  {
-  "id": "how-upcoming-siri-ai-integrations-will-let-you-a",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "travel"
-  ],
-  "title": "How Upcoming Siri AI Integrations Will Let You Automate Third-Party Apps",
-  "snippet": "New betas for iOS, iPadOS, MacOS, and VisionOS expand Siri AI support to all third-party developers using App Intents. This update allows users to perform complex, multi-step actions across different apps using natural language.",
-  "bullets": [
-   "Apple is expanding Siri AI support to all third-party developers through public and developer betas for iOS 27.3, iPadOS 27.3, MacOS 27.3, and VisionOS 27.3 [1].",
-   "Using a feature known as App Intents, Siri AI can handle tasks like organizing your inbox, editing photos, and analyzing your current screen [1].",
-   "Developers can bring their app content and actions directly into Siri AI to enable custom actions like checking deliveries and booking reservations [1]."
-  ],
-  "report": [
-   {
-    "h": "Third-Party App Integration",
-    "t": "New developer betas for iOS 27.3, iPadOS 27.3, MacOS 27.3, and VisionOS 27.3 allow all developers to integrate fully with Siri AI [1]. This lets users interact with external apps using natural language instead of manually opening them [1]."
-   },
-   {
-    "h": "Advanced App Intents",
-    "t": "Introduced in 2022 with iOS 16, App Intents let you combine several actions in one shot and work across multiple apps [1]. Siri AI adds personal context understanding, on-screen awareness, and natural language skills to these tasks [1]."
-   },
-   {
-    "h": "Complex Multi-Step Tasks",
-    "t": "Users can execute commands like checking a delivery, booking a reservation, or placing an order by speaking to Siri in their own words [1]. Developers can bring any custom action into Siri AI to make their services easier to access [1]."
-   }
-  ],
-  "why": "Streamlining your digital tools with upcoming AI agent features can save you time on routine business tasks, research, and travel planning.",
-  "tryit": "Check your device settings for software update availability to explore the latest developer or public betas on your supported Apple devices.",
-  "qa": [
-   [
-    "What feature allows Siri AI to work directly with apps?",
-    "A feature known as App Intents enables Siri AI to work directly with built-in and third-party apps [1]."
-   ],
-   [
-    "Which operating system versions introduce full third-party developer support?",
-    "The iOS 27.3, iPadOS 27.3, MacOS 27.3, and VisionOS 27.3 betas expand support to all third-party developers [1]."
-   ],
-   [
-    "When was the App Intents skill originally introduced?",
-    "The App Intents skill was introduced in 2022 with iOS 16 [1]."
-   ],
-   [
-    "What advanced capabilities does Siri AI bring to app integration?",
-    "Siri AI adds personal context understanding, on-screen awareness, and natural language processing to app actions [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration/",
-    "status": 200,
-    "title": "5 apps I need Siri AI to work with now that it’s open to third-party developers - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T14:38:36Z",
-  "addedAt": "2026-11-15T10:36:50Z",
-  "audio": "audio/how-upcoming-siri-ai-integrations-will-let-you-a.mp3",
-  "image": {
-   "src": "img/how-upcoming-siri-ai-integrations-will-let-you-a.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Libby-app-on-iPhone.jpg"
-  }
- },
- {
   "id": "ai-breakthrough-helps-make-bionic-eye-implants-s",
   "cat": "ai",
   "tags": [
@@ -20038,75 +20399,6 @@
   }
  },
  {
-  "id": "a-rare-surviving-letter-from-martha-washington-s",
-  "cat": "news",
-  "tags": [
-   "history",
-   "science",
-   "health"
-  ],
-  "title": "A Rare Surviving Letter From Martha Washington Sheds Light on Epilepsy History",
-  "snippet": "A rare surviving letter written by Martha Washington in 1760 has joined the Library of Congress collection, offering a glimpse into her daughter's health struggles with epilepsy.",
-  "bullets": [
-   "Martha Washington penned the note on September 29, 1760, to give an update on her four-year-old daughter Patsy [1].",
-   "The Library of Congress purchased the historical document for $47,500 in June [1].",
-   "Historians now suspect that Patsy's early symptoms were signs of epilepsy, a neurological disorder [1]."
-  ],
-  "report": [
-   {
-    "h": "Rare Historical Letter",
-    "t": "The Library of Congress acquired a rare letter written in Martha Washington's own handwriting for $47,500 [1]. Most of her personal correspondence was destroyed, making this document a unique historical find [1]."
-   },
-   {
-    "h": "Early Health Struggles",
-    "t": "In the 1760 letter, Martha shared encouraging news that her young daughter Patsy was recovering from fevers and fits [1]. Historians note these symptoms were likely early signs of epilepsy [1]."
-   },
-   {
-    "h": "Expanding Archives",
-    "t": "Alongside the Martha Washington find, the library also acquired a letter written by Mary Todd Lincoln in 1865 [1]. These additions help researchers better understand historical figures and daily life in the past [1]."
-   }
-  ],
-  "why": "This historical look at early medical misunderstandings offers fascinating context on how long humans have studied neurological conditions.",
-  "tryit": "Visit the Library of Congress website to explore their digital collections and view newly acquired historical manuscripts.",
-  "qa": [
-   [
-    "How much did the Library of Congress pay for the letter?",
-    "The library purchased the letter for $47,500 in June [1]."
-   ],
-   [
-    "When was the letter written?",
-    "Martha Washington penned the note on September 29, 1760 [1]."
-   ],
-   [
-    "What condition did Patsy have?",
-    "Historians suspect her fits and fevers were symptoms of epilepsy [1]."
-   ],
-   [
-    "Who else had a newly acquired letter featured by the library?",
-    "First Lady Mary Todd Lincoln also had a letter acquired, written on February 15, 1865 [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.smithsonianmag.com/smart-news/a-rare-surviving-letter-from-martha-washington-sheds-light-on-her-young-daughters-struggle-with-epilepsy-180989858/",
-    "status": 200,
-    "title": "A Rare Surviving Letter From Martha Washington Sheds Light on Her Young Daughter's Struggle With Epilepsy",
-    "domain": "smithsonianmag.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T23:03:24Z",
-  "addedAt": "2026-11-12T10:55:56Z",
-  "audio": "audio/a-rare-surviving-letter-from-martha-washington-s.mp3",
-  "image": {
-   "src": "img/a-rare-surviving-letter-from-martha-washington-s.jpg",
-   "credit": "Smithsonian",
-   "license": "© Smithsonian, shown with credit",
-   "page": "https://www.smithsonianmag.com/smart-news/a-rare-surviving-letter-from-martha-washington-sheds-light-on-her-young-daughters-struggle-with-epilepsy-180989858/",
-   "from_url": "https://th-thumbnailer.cdn-si-edu.com/nszu6D-PUzO_nyIJkx78-3yqVxM=/fit-in/1600x0/filters:focal(3000x2014:3001x2015)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/be/c9be560e-8f7c-46d4-b785-e1f955bc43b3/734314.jpg"
-  }
- },
- {
   "id": "new-study-shows-very-low-regret-rates-for-youth",
   "cat": "health",
   "tags": [
@@ -20454,76 +20746,6 @@
    "license": "© ZDNET, shown with credit",
    "page": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
    "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/image-1.jpeg"
-  }
- },
- {
-  "id": "broadway-play-tackles-universal-beauty-standards",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "diversity",
-   "arts",
-   "empathy"
-  ],
-  "title": "Broadway Play Tackles Universal Beauty Standards With Humor And Heart",
-  "snippet": "Jocelyn Bioh's hit play explores teenage life, beauty standards, and colorism at a Ghanaian boarding school. The production concludes its Broadway run this week with online livestream options.",
-  "bullets": [
-   "School Girls; Or, The African Mean Girls Play is written by Tony Award-nominated playwright Jocelyn Bioh [1].",
-   "The story is set at the Aburi Girls Boarding School in Ghana in the year 1986 [1].",
-   "The production is wrapping up its Broadway run this week with livestream broadcasts available online [1]."
-  ],
-  "report": [
-   {
-    "h": "Boarding School Rivalries",
-    "t": "The play follows queen bee Paulina and her classmates as they compete for the title of Miss Ghana 1986 [1]. Their intense rivalry is disrupted by the arrival of a new transfer student named Ericka from Ohio [1]."
-   },
-   {
-    "h": "Tackling Colorism",
-    "t": "Playwright Jocelyn Bioh explores global beauty standards and colorism through humor and humanity [1]. She aims to help audiences examine their own implicit biases and shorten the journey to self-acceptance [1]."
-   },
-   {
-    "h": "Final Week Streaming",
-    "t": "As the Broadway run concludes this week, audiences can watch via livestream on The League of Live Stream Theater's website [1]. The broadcast is free for high school students and available for a fee to others [1]."
-   }
-  ],
-  "why": "This story highlights the importance of self-compassion, empathy, and shifting implicit biases when navigating societal pressures.",
-  "tryit": "Visit The League of Live Stream Theater's website to watch the final week of performances if you want to experience the production online.",
-  "qa": [
-   [
-    "Who wrote the play?",
-    "The play was written by Tony Award-nominated playwright Jocelyn Bioh [1]."
-   ],
-   [
-    "Where and when is it set?",
-    "It is set at a boarding school in Ghana in 1986 [1]."
-   ],
-   [
-    "How can people watch it this week?",
-    "It is available via livestream broadcasts on The League of Live Stream Theater's website [1]."
-   ],
-   [
-    "Is the livestream free for everyone?",
-    "It is free for high schoolers and available for a fee to others [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
-    "status": 200,
-    "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
-    "domain": "npr.org"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T12:28:36Z",
-  "addedAt": "2026-11-11T23:38:56Z",
-  "audio": "audio/broadway-play-tackles-universal-beauty-standards.mp3",
-  "image": {
-   "src": "img/broadway-play-tackles-universal-beauty-standards.jpg",
-   "credit": "NPR",
-   "license": "© NPR, shown with credit",
-   "page": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
-   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1800+0+95/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F09%2F0e863e77427ea1f57eca3fb36a51%2Fgettyimages-2297678210.jpg"
   }
  },
  {
@@ -20879,77 +21101,6 @@
   }
  },
  {
-  "id": "how-small-businesses-can-turn-black-friday-into",
-  "cat": "money",
-  "tags": [
-   "business",
-   "money",
-   "negotiation",
-   "ai",
-   "economics"
-  ],
-  "title": "How Small Businesses Can Turn Black Friday Into a Competitive Advantage",
-  "snippet": "Black Friday is not just for major retailers. Local service providers can use personal touches, high-intent search strategies, and AI video to win customers.",
-  "bullets": [
-   "Cleaning and home service businesses saw growth ranging from 60% to more than 300% in 2026 [1].",
-   "A record 202.9 million Americans shopped between Thanksgiving and Cyber Monday in 2025 [1].",
-   "Google's AI overlooks approximately 62% of pages ranking in the top 10 traditional search results [1]."
-  ],
-  "report": [
-   {
-    "h": "Personal Outreach",
-    "t": "Handwritten notes stand out during digital promotional seasons because only 11% of consumers recently received one from a brand [1]. One business used handwritten thank-you letters to sell 271 cake credits, generating nearly €16,000 [1]."
-   },
-   {
-    "h": "AI Video Testing",
-    "t": "Short AI video clips can cost between $0.04 and $0.50 per generation, allowing small teams to test humor and concepts affordably [1]. Video helps make ordinary service businesses stand out in paid and organic campaigns [1]."
-   },
-   {
-    "h": "Targeted Search",
-    "t": "Focusing on high-intent search phrases helps capture visitors ready to book or buy rather than relying on general traffic [1]. Automated email reminders can also target shoppers who abandoned carts in the past 30 to 60 days [1]."
-   }
-  ],
-  "why": "This shows practical, low-cost marketing and sales strategies that local service businesses and small enterprise owners can apply immediately.",
-  "tryit": "Choose one specific Black Friday or seasonal service package for your business, write down a clear price and booking condition, and publish it on a dedicated landing page.",
-  "qa": [
-   [
-    "How many Americans shopped between Thanksgiving and Cyber Monday in 2025?",
-    "A record 202.9 million Americans shopped during that period [1]."
-   ],
-   [
-    "What percentage of consumers find handwritten notes annoying?",
-    "Just 4% of consumers find them annoying [1]."
-   ],
-   [
-    "How much can short AI video clips cost per generation?",
-    "They can cost between $0.04 and $0.50 per generation [1]."
-   ],
-   [
-    "What is the average cart abandonment rate cited in the text?",
-    "The average cart abandonment rate is 70.22% [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.entrepreneur.com/building-a-business/marketing/how-boring-businesses-can-turn-black-friday-into-a-competitive-advantage",
-    "status": 200,
-    "title": "How 'Boring' Businesses Can Turn Black Friday Into a Competitive Advantage",
-    "domain": "entrepreneur.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T20:00:00Z",
-  "addedAt": "2026-11-11T17:35:33Z",
-  "audio": "audio/how-small-businesses-can-turn-black-friday-into.mp3",
-  "image": {
-   "src": "img/how-small-businesses-can-turn-black-friday-into.jpg",
-   "credit": "Entrepreneur",
-   "license": "© Entrepreneur, shown with credit",
-   "page": "https://www.entrepreneur.com/building-a-business/marketing/how-boring-businesses-can-turn-black-friday-into-a-competitive-advantage",
-   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/small-business-black-friday-sales-1126_g530950433.jpg"
-  }
- },
- {
   "id": "use-your-air-fryer-for-easier-hands-off-boiled-e",
   "cat": "news",
   "tags": [
@@ -21016,144 +21167,6 @@
    "license": "© CNET, shown with credit",
    "page": "https://www.cnet.com/home/kitchen-and-household/how-to-boil-eggs-in-air-fryer/",
    "from_url": "https://www.cnet.com/wp-content/uploads/sites/2/354c5cfd-7dd0-4aec-9eae-fe7b5d4f8482.jpg"
-  }
- },
- {
-  "id": "new-york-enforces-major-ai-safety-law-for-fronti",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "regulation"
-  ],
-  "title": "New York Enforces Major AI Safety Law for Frontier Developers",
-  "snippet": "New York is launching a new AI registration portal as the RAISE Act takes effect, requiring large developers to publish safety frameworks and report incidents [1]. Penalties for non-compliance can reach millions of dollars, creating a stricter compliance landscape for major labs [1].",
-  "bullets": [
-   "New York opened a registration portal for large frontier AI developers like OpenAI and Anthropic under the RAISE Act [1].",
-   "Developers with more than $500 million in annual revenue must publish safety frameworks and report critical incidents within 72 hours [1].",
-   "Penalties can reach $1 million for a first violation and $3 million for subsequent violations [1]."
-  ],
-  "report": [
-   {
-    "h": "New Registration Portal",
-    "t": "New York opened a registration portal on Tuesday for large frontier AI developers like Anthropic and OpenAI [1]. These companies are required to register by January 1, 2027 [1]."
-   },
-   {
-    "h": "Strict Safety Rules",
-    "t": "The RAISE Act requires companies with more than $500 million in annual revenue to publish safety frameworks and report critical incidents within 72 hours [1]. The newly formed Office of Digital Innovation, Governance, Integrity, and Trust will oversee these labs [1]."
-   },
-   {
-    "h": "Heavy Financial Penalties",
-    "t": "Penalties for breaking the rules can be as high as $1 million for one violation and $3 million for subsequent violations [1]. Other states like California and Illinois have also passed similar AI safety and transparency bills [1]."
-   }
-  ],
-  "why": "Understanding shifting AI regulations helps you stay ahead of compliance trends if you build or run a business utilizing frontier models.",
-  "tryit": "Check out the newly formed Office of Digital Innovation, Governance, Integrity, and Trust online to monitor official updates on state AI compliance guidelines.",
-  "qa": [
-   [
-    "Which companies must register under the new New York law?",
-    "Large frontier AI developers like Anthropic and OpenAI with more than $500 million in annual revenue must register [1]."
-   ],
-   [
-    "What is the deadline for large developers to register?",
-    "Large frontier developers are required to register by January 1, 2027 [1]."
-   ],
-   [
-    "How quickly must critical safety incidents be reported?",
-    "Critical safety incidents must be reported within 72 hours [1]."
-   ],
-   [
-    "What are the penalties for violations?",
-    "Penalties can be as high as $1 million for one violation and $3 million for subsequent violations [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "status": 200,
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T20:52:13Z",
-  "addedAt": "2026-11-11T11:02:24Z",
-  "audio": "audio/new-york-enforces-major-ai-safety-law-for-fronti.mp3",
-  "image": {
-   "src": "img/new-york-enforces-major-ai-safety-law-for-fronti.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024"
-  }
- },
- {
-  "id": "apple-introduces-a-one-time-fee-for-extra-ai-app",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business"
-  ],
-  "title": "Apple introduces a one-time fee for extra AI app capacity",
-  "snippet": "Apple is shifting its business model by offering a one-time fifty-dollar purchase option for server-based AI capacity in Creator Studio apps.",
-  "bullets": [
-   "Apple is introducing a one-time fifty-dollar purchase option for server-based AI capacity in Creator Studio apps [1].",
-   "The fee applies to extra usage blocks when you exceed predetermined limits in apps like Logic Pro and Pixelmator Pro [1].",
-   "Intelligence usage packs expire after 12 months, but they roll over each month if left unused [1]."
-  ],
-  "report": [
-   {
-    "h": "New AI Usage Packs",
-    "t": "Apple is shifting its business model by offering a one-time fifty-dollar purchase option to grant server-based AI capacity in Creator Studio apps [1]. The fifty-dollar fee applies to extra usage blocks and kicks in when you exceed predetermined limits [1]."
-   },
-   {
-    "h": "Covered Apple Apps",
-    "t": "Apps affected include Final Cut Pro, Pixelmator Pro, the iWork Suite, and Logic Pro [1]. Users can buy a pack for Logic Pro now, with other apps expected to get it soon [1]."
-   },
-   {
-    "h": "Tracking Your Usage",
-    "t": "You can view your usage status for each applicable app on your iPhone or iPad by tapping on More, then Intelligence Features, and Show Usage Status [1]. On a Mac, it is available by accessing Intelligence Features from the menu bar of the app [1]."
-   }
-  ],
-  "why": "Understanding how major platforms price AI capacity helps you calculate tool costs and budget effectively for creative or business tech stacks.",
-  "tryit": "Check your current usage status on your iPhone or iPad by tapping More, then Intelligence Features, and Show Usage Status [1].",
-  "qa": [
-   [
-    "How much does the Apple AI Usage Pack cost?",
-    "It is a one-time fifty-dollar purchase option [1]."
-   ],
-   [
-    "Which app has the usage pack available now?",
-    "Users can buy a pack for Logic Pro now, and other apps are expected to get it soon [1]."
-   ],
-   [
-    "Do the usage packs expire?",
-    "Intelligence usage packs expire after 12 months, but they roll over each month if left unused [1]."
-   ],
-   [
-    "How can I check my usage status on a Mac?",
-    "You can access Intelligence Features from the menu bar of the app you are using, then click on Show Usage Status [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
-    "status": 200,
-    "title": "Need more AI in Creator Studio? Apple may charge you for it - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T20:38:54Z",
-  "addedAt": "2026-11-11T11:02:24Z",
-  "audio": "audio/apple-introduces-a-one-time-fee-for-extra-ai-app.mp3",
-  "image": {
-   "src": "img/apple-introduces-a-one-time-fee-for-extra-ai-app.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/b8127718-8775-4c05-9d18-89836e0dbde2.jpg"
   }
  },
  {
@@ -21228,497 +21241,6 @@
   }
  },
  {
-  "id": "google-deepmind-uses-ai-agents-to-mathematically",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "agents",
-   "money",
-   "business",
-   "science"
-  ],
-  "title": "Google DeepMind uses AI agents to mathematically prove Signal encryption works",
-  "snippet": "Google DeepMind researchers used an agentic AI framework called AlphaProof Code to formally verify portions of Signal's encryption code. This breakthrough cuts down a multi-year manual proof process into just a month.",
-  "bullets": [
-   "Google DeepMind used AI to formally verify portions of Signal's underlying code [1].",
-   "The AlphaProof Code framework combined human expertise with multiple AI agents running Gemini Carbon [1].",
-   "The verification process took a month to complete what might normally take experts years [1]."
-  ],
-  "report": [
-   {
-    "h": "Verifying Code With AI",
-    "t": "Researchers at Google DeepMind used AI to formally verify portions of Signal's underlying code [1]. This mathematical proof shows that parts of the encrypted messaging app do what they say without errors [1]."
-   },
-   {
-    "h": "How The Agents Worked",
-    "t": "DeepMind used AlphaProof Code, an agentic framework that combines human expertise with AI agents [1]. Humans worked with agents to identify proofs, while Gemini Carbon models executed the tasks and audited the results [1]."
-   },
-   {
-    "h": "Massive Time Savings",
-    "t": "The DeepMind team's verification took a month to do what might normally take human experts years [1]. Agents highlighted just 1% of the codebase that needed a second look by a human, saving significant time [1]."
-   }
-  ],
-  "why": "It shows how agentic AI frameworks can handle complex, highly technical tasks like code verification with incredible speed, opening up practical automation opportunities for software and security businesses.",
-  "tryit": "Explore open-source AI agent tools and frameworks for your business operations, and look at how automated verification can speed up your own software development or auditing tasks.",
-  "qa": [
-   [
-    "What AI tool did Google DeepMind use?",
-    "They used AlphaProof Code, an agentic framework combining human expertise with AI agents running Gemini Carbon [1]."
-   ],
-   [
-    "How long did the verification take?",
-    "The verification took a month to do what might normally take experts years [1]."
-   ],
-   [
-    "Did DeepMind verify all of Signal's code?",
-    "DeepMind did not verify all of Signal's code, but tested portions of its core protocol [1]."
-   ],
-   [
-    "What else uses the same encryption as Signal?",
-    "WhatsApp and Google Messages use the same encryption [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/",
-    "status": 200,
-    "title": "Google's new AI tool just proved Signal encryption really works - here's how - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T16:31:47Z",
-  "addedAt": "2026-11-11T11:02:24Z",
-  "audio": "audio/google-deepmind-uses-ai-agents-to-mathematically.mp3",
-  "image": {
-   "src": "img/google-deepmind-uses-ai-agents-to-mathematically.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2206371598.jpg"
-  }
- },
- {
-  "id": "science-proves-your-cat-meows-directly-at-you-to",
-  "cat": "whoa",
-  "tags": [
-   "animals",
-   "science",
-   "psychology"
-  ],
-  "title": "Science proves your cat meows directly at you to fix its problems",
-  "snippet": "Animal behaviorists found that pet cats are far more vocal when a human is in the room. They meow to demand we solve problems they cannot manage alone.",
-  "bullets": [
-   "Researchers at the University of São Paulo studied 38 pet cats faced with a problem they could not solve alone [1].",
-   "The odds of a cat meowing were more than 16 times higher when a human was in the room [1].",
-   "Cats recorded a total of 86 meows with a human present compared to just 20 meows when alone [1]."
-  ],
-  "report": [
-   {
-    "h": "The feline fix-it desk",
-    "t": "Scientists introduced a problem for 38 pet cats by placing a favorite food treat inside a small plastic box with holes [1]. The cats could smell the treat but needed opposable thumbs to get it [1]."
-   },
-   {
-    "h": "Shouting for the human",
-    "t": "Researchers observed the cats for one minute with a human present or with no human in the room [1]. The cats were four times more shouty when their favorite lackeys were around [1]."
-   },
-   {
-    "h": "Targeted communication",
-    "t": "Cats directed their gazes toward the human and alternated between their savior and the snack box [1]. This recipient-specific signaling shows meowing is a targeted request rather than random noise [1]."
-   }
-  ],
-  "why": "Understanding how animals direct communication helps us read social cues and signals in our daily environment.",
-  "tryit": "Notice your pets or team members when they bring you a problem, and look for the specific cues they use to ask for your help.",
-  "qa": [
-   [
-    "How many cats took part in the study?",
-    "The researchers recruited 38 pet cats for the experiment [1]."
-   ],
-   [
-    "How many meows happened with a human present?",
-    "The researchers recorded a total of 86 meows when a human was in the room [1]."
-   ],
-   [
-    "How many meows happened when the cat was alone?",
-    "There were a measly 20 meows recorded if the cat was all alone [1]."
-   ],
-   [
-    "Where was the study published?",
-    "The research has been published in Animal Behaviour [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/science-has-finally-shown-that-your-cat-meows-to-demand-that-you-fix-their-world",
-    "status": 200,
-    "title": "Science Has Finally Shown That Your Cat Meows to Demand That You Fix Their World",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T16:00:00Z",
-  "addedAt": "2026-11-11T11:02:24Z",
-  "audio": "audio/science-proves-your-cat-meows-directly-at-you-to.mp3",
-  "image": {
-   "src": "img/science-proves-your-cat-meows-directly-at-you-to.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/science-has-finally-shown-that-your-cat-meows-to-demand-that-you-fix-their-world",
-   "from_url": "https://www.sciencealert.com/images/2026/11/crankpuss-1200x675.png"
-  }
- },
- {
-  "id": "reddit-launches-ai-powered-reviews-feature-start",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "money"
-  ],
-  "title": "Reddit launches AI-powered Reviews feature starting with 10,000 products",
-  "snippet": "Reddit has announced a new AI-powered Reviews feature that compiles subreddit conversations into in-depth product summaries. The system launches with 10,000 products across electronics, health and beauty, home and garden, and fashion and apparel [1].",
-  "bullets": [
-   "Reddit announced a new feature on Tuesday called Reddit Reviews that creates AI-generated product summaries from user discussions [1].",
-   "The launch starts with 10,000 products across categories like electronics, health and beauty, home and garden, and fashion and apparel [1].",
-   "Companies cannot pay to have product features included, ensuring the summaries are shaped by user opinions [1]."
-  ],
-  "report": [
-   {
-    "h": "New AI Product Summaries",
-    "t": "Reddit announced a new feature called Reddit Reviews that compiles subreddit conversations into AI-generated product summaries [1]. The feature works similarly to Google AI Overviews and provides an easy-to-digest format with a recap of what people are saying [1]."
-   },
-   {
-    "h": "Categories and Launch Details",
-    "t": "The feature starts with around 10,000 products across electronics, health and beauty, home and garden, and fashion and apparel [1]. Users will begin seeing these reviews over the next few weeks in the US on iOS, Android, and browser versions [1]."
-   },
-   {
-    "h": "Combating Bots and Commercial Bias",
-    "t": "Reddit stated that companies cannot pay to have product features, keeping the reviews user-shaped [1]. The platform is also addressing bots by labeling registered API client apps and prompting accounts running automations to verify a human is behind the username [1]."
-   }
-  ],
-  "why": "Understanding how platforms synthesize user sentiment using AI helps you quickly research tools, tech, or business purchases without wading through endless threads [1].",
-  "tryit": "Search for a product you plan to buy using the new Reddit Reviews feature once it rolls out in your region to quickly check user sentiment and common criticisms [1].",
-  "qa": [
-   [
-    "How many products are available to start?",
-    "Around 10,000 products are available to start [1]."
-   ],
-   [
-    "Can companies pay for product features?",
-    "No, companies cannot pay to have product features included [1]."
-   ],
-   [
-    "Where and when will users see the new feature?",
-    "Users will start to see Reddit Reviews over the next few weeks in the US on iOS, Android, and browser versions [1]."
-   ],
-   [
-    "How does Reddit handle automated accounts and bots?",
-    "Reddit labels registered API client apps and prompts accounts detected running automations to verify a human is behind the username [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/innovation/reddit-reviews-feature/",
-    "status": 200,
-    "title": "Reddit launches AI-powered Reviews feature - with 10,000 products to start - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T15:00:00Z",
-  "addedAt": "2026-11-11T11:02:24Z",
-  "audio": "audio/reddit-launches-ai-powered-reviews-feature-start.mp3",
-  "image": {
-   "src": "img/reddit-launches-ai-powered-reviews-feature-start.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/innovation/reddit-reviews-feature/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2232888199.jpg"
-  }
- },
- {
-  "id": "how-social-media-and-cultural-norms-shape-views",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "relationships",
-   "culture",
-   "mind"
-  ],
-  "title": "How Social Media and Cultural Norms Shape Views on Modern Dating",
-  "snippet": "A large study of over 22,000 women explores how social media habits and national cultural rules interact to influence attitudes toward transactional relationships.",
-  "bullets": [
-   "A study of over 22,000 women across 22 countries explored how social media habits link to views on transactional dating [1].",
-   "Researchers found that women who used social media more frequently tended to report greater openness to sugar relationships [1].",
-   "This positive link was slightly stronger in countries with looser, more permissive social norms than in tighter cultures [1]."
-  ],
-  "report": [
-   {
-    "h": "Global Dating Study",
-    "t": "A cross-national study analyzed data from over 22,000 adult women to understand attitudes toward transactional dating arrangements [1]. Researchers focused on how openness to these relationships connects to daily digital habits and societal rules [1]."
-   },
-   {
-    "h": "The Social Media Link",
-    "t": "The data showed that women who spent more time on social networking platforms tended to report higher openness to financial and material support in relationships [1]. Younger age also showed a small link to greater receptiveness [1]."
-   },
-   {
-    "h": "Cultural Environment",
-    "t": "National cultural tightness-looseness played a moderating role, meaning the link between social media use and dating openness was slightly stronger in countries with relaxed social rules [1]. The authors note this measures attitudes rather than actual behavior [1]."
-   }
-  ],
-  "why": "Understanding how media habits and cultural environments quietly shape our views on relationships helps build self-awareness around modern social pressures.",
-  "tryit": "Notice how your digital feeds influence your personal expectations today by taking a five-minute screen-free break to reflect on your own values.",
-  "qa": [
-   [
-    "What did the study measure regarding sugar relationships?",
-    "It measured attitudinal openness rather than actual behavior or participation [1]."
-   ],
-   [
-    "How many women were included in the final analysis?",
-    "The final sample included 22,292 adult women across 22 countries [1]."
-   ],
-   [
-    "What is cultural tightness-looseness?",
-    "It refers to how strictly a society defines everyday social norms and penalizes people who step out of line [1]."
-   ],
-   [
-    "Does this study prove cause and effect?",
-    "No, because the survey captured data at a single point in time, it cannot establish whether social media causes these attitudes [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psypost.org/women-who-use-social-media-more-are-more-open-to-sugar-relationships-especially-in-looser-cultures/",
-    "status": 200,
-    "title": "Women who use social media more are more open to “sugar relationships,” especially in looser cultures",
-    "domain": "psypost.org"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T14:00:02Z",
-  "addedAt": "2026-11-11T11:02:24Z",
-  "audio": "audio/how-social-media-and-cultural-norms-shape-views.mp3",
-  "image": {
-   "src": "img/how-social-media-and-cultural-norms-shape-views.jpg",
-   "credit": "PsyPost",
-   "license": "© PsyPost, shown with credit",
-   "page": "https://www.psypost.org/women-who-use-social-media-more-are-more-open-to-sugar-relationships-especially-in-looser-cultures/",
-   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/sugar-dating-young-woman-older-wealthy-man.jpg"
-  }
- },
- {
-  "id": "new-review-reveals-psychology-s-masculinity-test",
-  "cat": "adhd",
-  "tags": [
-   "psychology",
-   "science",
-   "health",
-   "mind",
-   "research"
-  ],
-  "title": "New review reveals psychology's masculinity tests focus heavily on negative traits",
-  "snippet": "A comprehensive review of 65 psychological questionnaires finds that tools measuring masculinity focus overwhelmingly on negative traits. Most instruments were tested on homogeneous groups and often fail to account for cultural background or social context.",
-  "bullets": [
-   "A systematic review analyzed 65 psychological questionnaires published between 1974 and 2021 [1].",
-   "Researchers found that 78 percent of the reviewed instruments relied on a deficit-based approach focusing on negative outcomes [1].",
-   "Only 9 percent of the questionnaires provided strong evidence of external validity for broader populations [1]."
-  ],
-  "report": [
-   {
-    "h": "Review of 65 scales",
-    "t": "Peter Fisher and his colleagues conducted a systematic scoping review of 65 quantitative masculinity scales [1]. They evaluated each tool across five dimensions including deficit focus, relational context, cultural attunement, sample diversity, and statistical quality [1]."
-   },
-   {
-    "h": "Deficit-based focus",
-    "t": "The review found that 78 percent of the instruments relied on a deficit-based approach framing masculinity around harmful outcomes [1]. Only 22 percent incorporated strengths-based elements like responsibility or emotional openness [1]."
-   },
-   {
-    "h": "Methodology blind spots",
-    "t": "More than half of the scales failed to account for cultural norms, and 66 percent were tested on homogeneous participant samples like white university students [1]. However, external validity and cultural attunement ratings showed improvements in scales published in the 2020s [1]."
-   }
-  ],
-  "why": "Understanding how standard questionnaires shape our view of human behavior helps you spot when broad surveys rely on narrow definitions.",
-  "tryit": "Check out the Open Science Framework to explore pre-registered research methods and see how scientists transparently plan systematic reviews before analysing data.",
-  "qa": [
-   [
-    "How many questionnaires were reviewed in the study?",
-    "The team narrowed the sample to 65 scales, consisting of 59 original questionnaires and 6 revised or shortened versions [1]."
-   ],
-   [
-    "What percentage of the scales relied on a deficit-based approach?",
-    "Across the 65 reviewed instruments, 78 percent relied on a deficit-based approach [1]."
-   ],
-   [
-    "Who led the systematic scoping review?",
-    "Peter Fisher of the Movember Institute of Men’s Health in Santa Monica, California, and his colleagues conducted the review [1]."
-   ],
-   [
-    "What funding did the study receive?",
-    "The work was funded by the Movember Foundation, a men’s health charity [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psypost.org/psychologys-tools-for-measuring-masculinity-lean-heavily-toward-the-negative-review-finds/",
-    "status": 200,
-    "title": "Psychology's tools for measuring masculinity lean heavily toward the negative, review finds",
-    "domain": "psypost.org"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T12:00:53Z",
-  "addedAt": "2026-11-11T11:02:24Z",
-  "audio": "audio/new-review-reveals-psychology-s-masculinity-test.mp3",
-  "image": {
-   "src": "img/new-review-reveals-psychology-s-masculinity-test.jpg",
-   "credit": "PsyPost",
-   "license": "© PsyPost, shown with credit",
-   "page": "https://www.psypost.org/psychologys-tools-for-measuring-masculinity-lean-heavily-toward-the-negative-review-finds/",
-   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/thoughtful-man.jpg"
-  }
- },
- {
-  "id": "when-grief-changes-family-bonds-why-distance-doe",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "family",
-   "grief",
-   "relationships",
-   "self-compassion"
-  ],
-  "title": "When Grief Changes Family Bonds: Why Distance Does Not Mean Lost Love",
-  "snippet": "Family grief can cause distance, but love remains even when relationships change. Learn how different grieving styles shape family systems and why needing space is completely normal.",
-  "bullets": [
-   "Family systems theory suggests that when one member is lost, the effects ripple through the entire family [1].",
-   "Sibling relationships often move through periods of connection and disengagement due to life circumstances and stress [1].",
-   "The Circuplex Model of family systems identifies cohesion and flexibility as two key dimensions of healthy functioning [1]."
-  ],
-  "report": [
-   {
-    "h": "Grief Changes Family Systems",
-    "t": "The death of a family member changes the relationships among everyone who remains. Family systems theory shows that when something happens to one member, the effects ripple throughout the whole family [1]."
-   },
-   {
-    "h": "Distance And Disengagement",
-    "t": "Sibling relationships move through periods of connection and disengagement. Disengagement is not always a sign of failure, but sometimes reflects a period when members need space to manage their own lives [1]."
-   },
-   {
-    "h": "Sitting In The Pain",
-    "t": "Grief is not a problem that another person can solve with quick fixes. True social support often means listening without offering advice or simply being present in the difficult emotions [1]."
-   }
-  ],
-  "why": "Understanding that family relationships naturally ebb and flow helps replace guilt with self-compassion when dealing with complicated family dynamics.",
-  "tryit": "Reflect on a strained family relationship today and write down one way you can accept its current shape without forcing it to return to the past.",
-  "qa": [
-   [
-    "What is family systems theory?",
-    "It suggests that families are interconnected systems where an event affecting one member ripples through the entire group [1]."
-   ],
-   [
-    "Is disengagement always a bad sign?",
-    "No, it sometimes reflects a period when family members need space to manage their own lives, emotions, or identities [1]."
-   ],
-   [
-    "What are two dimensions of family functioning?",
-    "Cohesion and flexibility, according to the Circumplex Model of Marital and Family Systems [1]."
-   ],
-   [
-    "How should we support someone who is grieving?",
-    "Support often means listening without offering advice, acknowledging difficult emotions, or simply being present [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psychologytoday.com/us/blog/its-all-about-the-dads/202611/when-grief-changes-a-family-does-distance-mean-love-is-lost",
-    "status": 200,
-    "title": "When Grief Changes a Family, Does Distance Mean Love Is Lost?",
-    "domain": "psychologytoday.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T18:07:09Z",
-  "addedAt": "2026-11-11T11:02:24Z",
-  "audio": "audio/when-grief-changes-family-bonds-why-distance-doe.mp3",
-  "image": {
-   "src": "img/when-grief-changes-family-bonds-why-distance-doe.jpg",
-   "credit": "Psychology Today",
-   "license": "© Psychology Today, shown with credit",
-   "page": "https://www.psychologytoday.com/us/blog/its-all-about-the-dads/202611/when-grief-changes-a-family-does-distance-mean-love-is-lost",
-   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/pexels-olly-3786638.jpg?itok=pXNAOLH5"
-  }
- },
- {
-  "id": "how-to-handle-doctor-invalidation-and-claim-your",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "health",
-   "mind",
-   "self-compassion"
-  ],
-  "title": "How to Handle Doctor Invalidation and Claim Your Patient Autonomy",
-  "snippet": "Provider dismissiveness can make health anxiety worse. Discover how to reframe your clinical relationships with full autonomy and self-determination.",
-  "bullets": [
-   "Research shows that provider invalidation and dismissiveness can make stressful medical situations even worse for patients [1].",
-   "Patients have full autonomy to change medical providers or seek second opinions if they feel dismissed or disrespected [1].",
-   "Medical records belong to you by law, and you are allowed to request them whenever you need them [1]."
-  ],
-  "report": [
-   {
-    "h": "Recognise Your Autonomy",
-    "t": "Medical appointments are about you, not the doctor. You have complete freedom to ask questions and seek reassurance without worrying about annoying your provider [1]."
-   },
-   {
-    "h": "You Can Change Providers",
-    "t": "You are under no obligation to stay in a clinical relationship if your doctor behaves in an invalidating or dismissive manner [1]. Patients have the freedom to change course and find a better match [1]."
-   },
-   {
-    "h": "Reclaim Your Voice",
-    "t": "Anxiety can make you feel like you need to hold it together, but you deserve empathic and respectful medical care [1]. Reframing your experience through a lens of agency helps restore self-governance [1]."
-   }
-  ],
-  "why": "This matters because navigating medical appointments with self-compassion helps you protect your mental wellbeing and advocate for your health needs without guilt.",
-  "tryit": "Review your current healthcare providers and remember that you have the absolute right to seek a second opinion or switch to a more empathetic doctor if you feel dismissed.",
-  "qa": [
-   [
-    "What should I do if my doctor is dismissive?",
-    "You have the freedom to change providers or seek a second opinion if you feel your concerns are being dismissed [1]."
-   ],
-   [
-    "Do my medical records belong to me?",
-    "Yes, if you want all your medical records, you are allowed to request them and they must be provided by law [1]."
-   ],
-   [
-    "Is provider invalidation common?",
-    "Research supports the idea that provider invalidation, dismissiveness, and lack of empathy are not uncommon [1]."
-   ],
-   [
-    "How can I view the patient-doctor relationship?",
-    "Patients must view the relationship from a place of equal footing and reframe the asymmetric physician-patient relationship [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psychologytoday.com/us/blog/am-i-dying/202611/my-health-anxiety-frustrates-my-doctor-now-what",
-    "status": 200,
-    "title": "My Health Anxiety Frustrates My Doctor; Now What?",
-    "domain": "psychologytoday.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T17:28:38Z",
-  "addedAt": "2026-11-11T11:02:24Z",
-  "audio": "audio/how-to-handle-doctor-invalidation-and-claim-your.mp3",
-  "image": {
-   "src": "img/how-to-handle-doctor-invalidation-and-claim-your.jpg",
-   "credit": "Psychology Today",
-   "license": "© Psychology Today, shown with credit",
-   "page": "https://www.psychologytoday.com/us/blog/am-i-dying/202611/my-health-anxiety-frustrates-my-doctor-now-what",
-   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/online-marketing-higeoqjs_ie-unsplash.jpg?itok=UsZeIEQ7"
-  }
- },
- {
   "id": "low-cost-medical-tools-and-quirky-inventions-sav",
   "cat": "news",
   "tags": [
@@ -21785,75 +21307,6 @@
    "license": "© Reasons to be Cheerful, shown with credit",
    "page": "https://reasonstobecheerful.world/what-were-reading-an-80-cent-plastic-bag-is-saving-mothers-lives/",
    "from_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/shutterstock_2766948045-scaled.jpg"
-  }
- },
- {
-  "id": "scientists-discover-exactly-how-octopuses-squeez",
-  "cat": "news",
-  "tags": [
-   "science",
-   "animals",
-   "ai"
-  ],
-  "title": "Scientists Discover Exactly How Octopuses Squeeze Through Tiny Spaces",
-  "snippet": "Researchers have discovered the exact step-by-step strategies octopuses use to contort their soft bodies through tiny holes. This new biological insight could help engineers improve the design of flexible search-and-rescue robots [1].",
-  "bullets": [
-   "A study published November 5 in the Journal of Experimental Biology details how octopuses squeeze through tight gaps [1].",
-   "Common octopuses used a three-step maneuver when the hole was larger than their brain casing [1].",
-   "Engineers hope to use these findings to build soft, octopus-inspired robots for search-and-rescue missions [1]."
-  ],
-  "report": [
-   {
-    "h": "Clever Squeezing Strategies",
-    "t": "Scientists studied common and Mayan octopuses to understand how they fit through openings ranging from about 0.4 to 1.4 inches [1]. When facing a larger hole, common octopuses probed with one arm, snaked more arms through, and used leverage to pull the rest of their body [1]."
-   },
-   {
-    "h": "Adapting to Smaller Gaps",
-    "t": "When the opening was smaller than the distance between their eyes, common octopuses divided the final step into separate stages to pull their head and mantle through [1]. Meanwhile, Mayan octopuses simply ignored smaller holes and did not try to squeeze through them [1]."
-   },
-   {
-    "h": "Inspirations for Soft Robotics",
-    "t": "Engineers want to use these insights to design flexible search-and-rescue robots that can carry sensors and tools into hard-to-reach spaces [1]. Unlike current snake-like robots, octopus-inspired machines could overcome unique environmental limitations [1]."
-   }
-  ],
-  "why": "It is a fascinating look at nature's problem-solving and how biological flexibility inspires practical engineering tools like search-and-rescue robots [1].",
-  "tryit": "Read more about soft robotics research to see how biological discoveries are currently shaping new engineering tools [1].",
-  "qa": [
-   [
-    "When was the study published?",
-    "The study was published November 5 in the Journal of Experimental Biology [1]."
-   ],
-   [
-    "What are the only two stiffer body parts of an octopus?",
-    "They have a cartilaginous shell protecting their brains and a hard beak made of chitin [1]."
-   ],
-   [
-    "What measurements were taken before the experiment?",
-    "The team measured the distance between each animal's eyes to determine the size of their brain casing [1]."
-   ],
-   [
-    "How might engineers use these findings?",
-    "Engineers hope to develop flexible, octopus-like robots to navigate confined spaces during search-and-rescue missions [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846/",
-    "status": 200,
-    "title": "Octopuses Are the Ultimate Escape Artists. Now Scientists Know How the Creatures Contort Themselves to Squeeze Through Tiny Holes",
-    "domain": "smithsonianmag.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T21:17:19Z",
-  "addedAt": "2026-11-11T11:02:24Z",
-  "audio": "audio/scientists-discover-exactly-how-octopuses-squeez.mp3",
-  "image": {
-   "src": "img/scientists-discover-exactly-how-octopuses-squeez.jpg",
-   "credit": "Smithsonian",
-   "license": "© Smithsonian, shown with credit",
-   "page": "https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846/",
-   "from_url": "https://th-thumbnailer.cdn-si-edu.com/3S7NxY9iDCsOFI1_El_Ey0KbvK0=/fit-in/1600x0/filters:focal(732x495:733x496)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/37/b6373eab-19e9-437a-9b00-1cc901961726/octopus_vulgaris2.jpg"
   }
  },
  {
@@ -21924,708 +21377,6 @@
    "license": "© Entrepreneur, shown with credit",
    "page": "https://www.entrepreneur.com/business-news/the-great-wealth-transfer-is-about-more-than-money-heres-whats-being-overlooked",
    "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/wealth-transfer-jewelry-1126_g1485992005.jpg"
-  }
- },
- {
-  "id": "actor-returns-to-stage-with-alzheimer-s-using-pr",
-  "cat": "mind",
-  "tags": [
-   "mind",
-   "psychology",
-   "health",
-   "science"
-  ],
-  "title": "Actor returns to stage with Alzheimer's using practical support tools",
-  "snippet": "Actor Peter Marinker returned to the London stage at age 85 following an Alzheimer's diagnosis, using an autocue, earpiece and past recordings to perform a solo play.",
-  "bullets": [
-   "Actor Peter Marinker continued his stage career after an Alzheimer's diagnosis [1].",
-   "He performed the solo role of Krapp at the Cockpit Theatre in London [1].",
-   "The production used an autocue, a prompt earpiece and older recordings to support him [1]."
-  ],
-  "report": [
-   {
-    "h": "Returning to the Stage",
-    "t": "Actor Peter Marinker continued his career after an Alzheimer's diagnosis by taking on a demanding solo role [1]. The production took place at the Cockpit Theatre in London [1]."
-   },
-   {
-    "h": "Practical Support Measures",
-    "t": "The performance was supported using practical tools including an autocue, a prompt earpiece and extra rehearsal time [1]. It also featured audio recordings from Marinker playing the same role in 1983 [1]."
-   },
-   {
-    "h": "Focus on Feeling",
-    "t": "Marinker noted that his brain now relies more on the right side of instinct and feeling rather than calculation [1]. The four-day London run in September raised funds for the Alzheimer's Society [1]."
-   }
-  ],
-  "why": "This story offers a compassionate look at adapting to cognitive changes by using practical tools and leaning into creative strengths.",
-  "tryit": "Explore how creative tasks and sensory aids like voice recorders can support daily focus and memory tasks.",
-  "qa": [
-   [
-    "Who is the actor?",
-    "Peter Marinker, who is 85 years old [1]."
-   ],
-   [
-    "What play did he perform in?",
-    "He performed in Samuel Beckett's Krapp's Last Tape [1]."
-   ],
-   [
-    "Where was the production held?",
-    "It took place at the Cockpit Theatre in London [1]."
-   ],
-   [
-    "What support measures were used?",
-    "The production used an autocue, a prompt earpiece, extra rehearsal time and recordings from 1983 [1]."
-   ],
-   [
-    "Which charity benefited from the run?",
-    "The four-day London run in September raised funds for the Alzheimer's Society [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.positive.news/society/actor-85-takes-to-the-stage-despite-alzheimers-diagnosis/",
-    "status": 200,
-    "title": "Actor, 85, takes to the stage despite Alzheimer’s diagnosis - Positive News",
-    "domain": "positive.news"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T11:34:34Z",
-  "addedAt": "2026-11-10T23:40:16Z",
-  "audio": "audio/actor-returns-to-stage-with-alzheimer-s-using-pr.mp3",
-  "image": {
-   "src": "img/actor-returns-to-stage-with-alzheimer-s-using-pr.jpg",
-   "credit": "Positive News",
-   "license": "© Positive News, shown with credit",
-   "page": "https://www.positive.news/society/actor-85-takes-to-the-stage-despite-alzheimers-diagnosis/",
-   "from_url": "https://www.positive.news/wp-content/uploads/2026/11/Horizontal-resizer-2.png"
-  }
- },
- {
-  "id": "brain-computer-interfaces-and-ai-are-rapidly-res",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "science",
-   "health",
-   "tech"
-  ],
-  "title": "Brain computer interfaces and AI are rapidly restoring human speech",
-  "snippet": "New brain implants and AI speech synthesis are helping people with conditions like ALS and PLS communicate again. Clinical trials are testing wireless chips that decode neural signals into natural digital voices.",
-  "bullets": [
-   "Fewer than 10 people are estimated to currently have brain implants that decode attempted speech [1].",
-   "A company called Paradromics developed a dime-sized device that sits on the motor cortex and uses tiny sensors [1].",
-   "Recent tests of brain-to-voice translation reached about 95 percent accuracy for listeners [1]."
-  ],
-  "report": [
-   {
-    "h": "Restoring Communication",
-    "t": "Scientists are racing to restore communication for people who cannot move or talk using AI and brain implants [1]. Clinical trials led by groups like BrainGate and companies like Paradromics are testing this new neurotech [1]."
-   },
-   {
-    "h": "Tiny Brain Sensors",
-    "t": "The Paradromics device is about the size of a dime and features tiny sensors that push close to neurons in the brain [1]. This hardware detects neural patterns when a person tries to say a word [1]."
-   },
-   {
-    "h": "Direct Speech Translation",
-    "t": "Researchers are moving past screens to translate brain signals directly into a speaking digital voice [1]. Latest tests of this process have reached about 95 percent accuracy for listeners [1]."
-   }
-  ],
-  "why": "This breakthrough highlights how rapidly AI and neural interfaces are advancing to solve complex communication hurdles.",
-  "tryit": "Read more about current neuroscience research on preprint platforms like bioRxiv to follow how brain-computer interfaces are evolving.",
-  "qa": [
-   [
-    "How many people currently have speech-decoding brain implants?",
-    "Leigh Hochberg notes that it is almost sure to be less than 10 people so far [1]."
-   ],
-   [
-    "How big is the Paradromics device?",
-    "The device is about the size of a dime and sits on the motor cortex [1]."
-   ],
-   [
-    "What accuracy has the brain-to-voice process reached?",
-    "Recent tests have reached about 95 percent accuracy for listeners [1]."
-   ],
-   [
-    "Who is Casey Harrell?",
-    "Casey Harrell is a man with amyotrophic lateral sclerosis who uses a brain implant to communicate [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencenews.org/article/talk-less-lose-voice-deep-end-podcast",
-    "status": 200,
-    "title": "Science to restore speech is moving fast. Here's what's next",
-    "domain": "sciencenews.org"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T14:00:00Z",
-  "addedAt": "2026-11-10T23:40:16Z",
-  "audio": "audio/brain-computer-interfaces-and-ai-are-rapidly-res.mp3",
-  "image": {
-   "src": "img/brain-computer-interfaces-and-ai-are-rapidly-res.jpg",
-   "credit": "Science News",
-   "license": "© Science News, shown with credit",
-   "page": "https://www.sciencenews.org/article/talk-less-lose-voice-deep-end-podcast",
-   "from_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/110226_LS_TDE_S2E6_main.jpg"
-  }
- },
- {
-  "id": "wrist-sensors-reveal-subtle-walking-changes-year",
-  "cat": "health",
-  "tags": [
-   "health",
-   "science",
-   "longevity"
-  ],
-  "title": "Wrist sensors reveal subtle walking changes years before Parkinson's diagnosis",
-  "snippet": "Researchers analyzed wrist recordings from thousands of volunteers and found subtle changes in arm swing up to seven years before a Parkinson's diagnosis [1].",
-  "bullets": [
-   "A team analyzed usable recordings from 73,413 people who wore wrist sensors for a week [1].",
-   "During follow-up, 314 people received a Parkinson's diagnosis [1].",
-   "Differences in arm movement appeared nearly seven years before a diagnosis [1]."
-  ],
-  "report": [
-   {
-    "h": "Wrist Sensor Study",
-    "t": "Researchers at the University of New South Wales used data from the UK Biobank to study movement [1]. More than 100,000 volunteers wore a wrist sensor for a week [1]."
-   },
-   {
-    "h": "Detecting Early Changes",
-    "t": "The team analyzed usable recordings from 73,413 people and tracked medical records for up to a decade [1]. Software estimated step counts, walking speeds, and arm swings [1]."
-   },
-   {
-    "h": "Potential Future Uses",
-    "t": "People who later received a diagnosis tended to spend less time swinging their arms naturally [1]. If findings hold up, such recordings could help identify people for early treatment trials [1]."
-   }
-  ],
-  "why": "It shows how everyday wearable technology can track subtle health metrics over long periods.",
-  "tryit": "Talk to a GP or healthcare professional if you have any specific concerns about your mobility or neurological health.",
-  "qa": [
-   [
-    "How many people took part in the study?",
-    "More than 100,000 volunteers wore a wrist sensor for a week, with 73,413 usable recordings analyzed [1]."
-   ],
-   [
-    "How early were differences spotted?",
-    "Differences in arm movement were visible nearly seven years before diagnosis [1]."
-   ],
-   [
-    "What software was used to analyze the data?",
-    "The team used software called Watch Walk to find stretches of recordings that captured walking [1]."
-   ],
-   [
-    "Can this test tell an individual if they will develop Parkinson's?",
-    "No, the results currently describe differences between groups and cannot tell an individual if they will develop the disease [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/subtle-changes-in-how-you-walk-may-signal-parkinsons-nearly-7-years-early",
-    "status": 200,
-    "title": "Subtle Changes in How You Walk May Signal Parkinson's Nearly 7 Years Early",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T23:00:00Z",
-  "addedAt": "2026-11-10T23:40:16Z",
-  "audio": "audio/wrist-sensors-reveal-subtle-walking-changes-year.mp3",
-  "image": {
-   "src": "img/wrist-sensors-reveal-subtle-walking-changes-year.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/subtle-changes-in-how-you-walk-may-signal-parkinsons-nearly-7-years-early",
-   "from_url": "https://www.sciencealert.com/images/2026/11/ElderWalking-1200x675.png"
-  }
- },
- {
-  "id": "lost-handwritten-draft-of-iconic-speech-resurfac",
-  "cat": "news",
-  "tags": [
-   "history",
-   "science",
-   "culture"
-  ],
-  "title": "Lost Handwritten Draft of Iconic Speech Resurfaces After Decades",
-  "snippet": "The original handwritten final draft of Martin Luther King Jr.'s famous speech was found in a desk drawer. The seven yellow pages will be auctioned for charity.",
-  "bullets": [
-   "The manuscript was discovered by civil rights leader Xernona Clayton in a desk drawer belonging to her late husband [1].",
-   "The seven yellow pages are expected to sell for more than $10 million at Christie's [1].",
-   "All proceeds from the sale will support philanthropic efforts including the King Center and the Xernona Clayton Foundation [1]."
-  ],
-  "report": [
-   {
-    "h": "Draft Rediscovered",
-    "t": "The handwritten final draft of Martin Luther King Jr.'s historic address was found tucked in an envelope inside a desk drawer [1]. Xernona Clayton found the pages in the late 1990s and kept them safe before having them identified recently [1]."
-   },
-   {
-    "h": "Exhibition Plans",
-    "t": "The manuscript will be exhibited at the National Center for Civil and Human Rights in Atlanta and in Chicago before going on display in New York [1]. The draft will be sold in a single-lot auction [1]."
-   },
-   {
-    "h": "Charity Proceeds",
-    "t": "All proceeds from the upcoming sale will go toward philanthropic efforts including the King Center in Atlanta [1]. The family hopes the public display will inspire future generations [1]."
-   }
-  ],
-  "why": "Discovering hidden pieces of history offers fascinating insight into creative problem-solving and the writing process.",
-  "tryit": "Check out the public exhibitions of the manuscript if you are in Atlanta, Chicago, or New York this winter [1].",
-  "qa": [
-   [
-    "Where was the manuscript found?",
-    "It was found in a desk drawer belonging to Edward Clayton, one of King's aides and speechwriters [1]."
-   ],
-   [
-    "When will the draft be auctioned?",
-    "The draft will be sold on January 22 in a single-lot sale at Christie's [1]."
-   ],
-   [
-    "How much is the draft expected to sell for?",
-    "The draft is expected to sell for more than $10 million [1]."
-   ],
-   [
-    "Where can the public view the pages before the sale?",
-    "The manuscript will be exhibited in Atlanta, Chicago, and at Christie's New York [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.smithsonianmag.com/smart-news/the-handwritten-final-draft-of-martin-luther-king-jrs-i-have-a-dream-speech-was-considered-lost-it-turned-out-to-be-sitting-in-a-desk-drawer-for-decades-180989856/",
-    "status": 200,
-    "title": "The Handwritten Final Draft of Martin Luther King Jr.'s 'I Have a Dream' Speech Was Considered Lost. It Turned Out to Be Sitting in a Desk Drawer for Decades",
-    "domain": "smithsonianmag.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T21:45:43Z",
-  "addedAt": "2026-11-10T23:40:16Z",
-  "audio": "audio/lost-handwritten-draft-of-iconic-speech-resurfac.mp3",
-  "image": {
-   "src": "img/lost-handwritten-draft-of-iconic-speech-resurfac.jpg",
-   "credit": "Smithsonian",
-   "license": "© Smithsonian, shown with credit",
-   "page": "https://www.smithsonianmag.com/smart-news/the-handwritten-final-draft-of-martin-luther-king-jrs-i-have-a-dream-speech-was-considered-lost-it-turned-out-to-be-sitting-in-a-desk-drawer-for-decades-180989856/",
-   "from_url": "https://th-thumbnailer.cdn-si-edu.com/WSGxf8ph9cwT0WTsAHJ2RPsLwxc=/fit-in/1600x0/filters:focal(1500x1171:1501x1172)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/59/9059df38-a65f-4177-93fc-50747d008f74/art_king_martin_luther01.jpg"
-  }
- },
- {
-  "id": "artificial-intelligence-copyright-debates-test-l",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "economics"
-  ],
-  "title": "Artificial Intelligence Copyright Debates Test Leaders Balancing Economic Growth And Creative Industries",
-  "snippet": "Governments face tough choices balancing artificial intelligence datacentre investments with copyright protection for creators. Tech companies pitch renewable datacentres and massive market valuations while artists demand clear rules and fair compensation.",
-  "bullets": [
-   "The AI hyper-scaler Anthropic seeks a market valuation of $1.5tn and pitches basing training models in Australia [1].",
-   "Critics argue AI models are trained on scraped books, recordings, and videos without creator consent [1].",
-   "Rapid capital injections and datacentres are placing pressure on energy, water, and inflation [1]."
-  ],
-  "report": [
-   {
-    "h": "The AI Economic Pitch",
-    "t": "Tech firms propose building renewable datacentres to export data tokens globally, offering a potential post-mining economic plan [1]. Governments weigh positioning their nations as major global hubs for data production [1]."
-   },
-   {
-    "h": "The Copyright Conflict",
-    "t": "Artists and creators warn that relaxing copyright laws creates global liability and amounts to data-washing [1]. Creators demand the right to control their work, clear labelling of human work, and shared benefits from AI models [1]."
-   },
-   {
-    "h": "Broader Societal Concerns",
-    "t": "Educators worry about the erosion of cognitive skills, while psychologists note concerns over chatbot relationships [1]. Furthermore, the scale-out of datacentres adds heavy demands for water and energy resources [1]."
-   }
-  ],
-  "why": "Understanding how governments handle AI policy and copyright helps you navigate shifting tech regulations and market opportunities.",
-  "tryit": "Review your current business reliance on automated AI tools and check emerging copyright guidelines for digital content.",
-  "qa": [
-   [
-    "What valuation is Anthropic seeking?",
-    "Anthropic is seeking a market valuation of $1.5tn [1]."
-   ],
-   [
-    "What are creators demanding from the government?",
-    "They expect the right to control their work, meaningful reparation, clear labelling of human work, and shared benefit [1]."
-   ],
-   [
-    "What additional pressures are datacentres causing?",
-    "They are adding to demands for energy and water, while rapid capital injections pressure inflation [1]."
-   ],
-   [
-    "What do educators worry about regarding AI?",
-    "They worry about the erosion of cognitive skills as machines mark the work of machines [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/commentisfree/2026/nov/11/albaneses-love-affair-with-music-is-on-the-rocks-over-ai-can-he-write-a-different-tune",
-    "status": 200,
-    "title": "Albanese’s love affair with music is on the rocks over AI. Can he write a different tune? | Peter Lewis",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T22:00:20Z",
-  "addedAt": "2026-11-10T23:40:16Z",
-  "audio": "audio/artificial-intelligence-copyright-debates-test-l.mp3",
-  "image": {
-   "src": "img/artificial-intelligence-copyright-debates-test-l.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/commentisfree/2026/nov/11/albaneses-love-affair-with-music-is-on-the-rocks-over-ai-can-he-write-a-different-tune",
-   "from_url": "https://i.guim.co.uk/img/media/1e6a991e75bedff23cf6e2c8520cc53422d92836/30_169_3298_2639/master/3298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=127e91f97b0de5726345349d1bc418b9"
-  }
- },
- {
-  "id": "anthropic-targets-valuation-of-up-to-1-4tn-in-st",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "economics"
-  ],
-  "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
-  "snippet": "Claude chatbot developer Anthropic is seeking a valuation of up to $1.4tn in its imminent Wall Street stock market flotation, aiming to raise up to $64.4bn.",
-  "bullets": [
-   "Anthropic is seeking a valuation of up to $1.4tn in its upcoming stock market flotation [1].",
-   "The company is aiming to raise up to $64.4bn by selling 825m shares priced up to $78 a share [1].",
-   "Anthropic also plans to raise $26bn through a private placement with cornerstone investors like Alphabet and Nvidia [1]."
-  ],
-  "report": [
-   {
-    "h": "Flotation Details",
-    "t": "Anthropic is aiming for a valuation of up to $1.4tn in its imminent stock market flotation [1]. The company plans to raise up to $64.4bn by selling 825m shares priced up to $78 each [1]."
-   },
-   {
-    "h": "Private Placement",
-    "t": "The California-based firm will raise an extra $26bn through a private placement deal with cornerstone investors including Alphabet and Nvidia [1]. Trading in these shares could begin as soon as next week [1]."
-   },
-   {
-    "h": "Market Context",
-    "t": "The target valuation is lower than the previously expected $2tn due to investor questions about AI sustainability and recent US midterm election results [1]. Anthropic's annual revenue is running at $81bn as of 31 October [1]."
-   }
-  ],
-  "why": "Understanding major AI market valuations and revenue figures helps you gauge the broader technology landscape and growth trends when running or scaling your business ventures.",
-  "tryit": "Review the regulatory filing details mentioned in the report to understand how large AI entities structure private placements and public offerings.",
-  "qa": [
-   [
-    "What valuation is Anthropic targeting?",
-    "Anthropic is targeting a valuation of up to $1.4tn in its stock market flotation [1]."
-   ],
-   [
-    "How much money does Anthropic aim to raise in the IPO?",
-    "The company aims to raise up to $64.4bn by selling 825m shares priced up to $78 a share [1]."
-   ],
-   [
-    "Who are some of the cornerstone investors in the private placement?",
-    "Cornerstone investors include Google parent Alphabet and chipmaker Nvidia [1]."
-   ],
-   [
-    "What is Anthropic's annual revenue currently running at?",
-    "Anthropic's annual revenue is running at $81bn as of 31 October [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
-    "status": 200,
-    "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T16:13:13Z",
-  "addedAt": "2026-11-10T17:36:52Z",
-  "audio": "audio/anthropic-targets-valuation-of-up-to-1-4tn-in-st.mp3",
-  "image": {
-   "src": "img/anthropic-targets-valuation-of-up-to-1-4tn-in-st.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
-   "from_url": "https://i.guim.co.uk/img/media/7595bf7c7d68e19dc13e69a53295d21b0cd839cc/394_0_3255_2605/master/3255.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd58bf3429433eaaccc66c8362e24453"
-  }
- },
- {
-  "id": "use-emotion-regulation-to-stop-past-relationship",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "relationships",
-   "self-compassion",
-   "mind"
-  ],
-  "title": "Use Emotion Regulation To Stop Past Relationship Arguments From Eating You Alive",
-  "snippet": "New research shows that how you remember past arguments with your partner matters just as much as the fights themselves. Using integrative regulation lets you accept negative emotions and protect your relationship satisfaction.",
-  "bullets": [
-   "University of Quebec researchers studied how couples handle memories of past conflicts [1].",
-   "Couples who used integrative regulation when recalling conflicts reported higher relationship satisfaction [1].",
-   "Unproductive rumination over old arguments can drive partners further apart over time [1]."
-  ],
-  "report": [
-   {
-    "h": "The Power of Memory",
-    "t": "Researchers found that the memory of an unresolved conflict can trigger renewed emotional wounds just like the original event [1]. Ruminating on these memories without emotional control creates exponential negative effects [1]."
-   },
-   {
-    "h": "Integrative Regulation",
-    "t": "Self-Determination Theory suggests using integrative regulation to notice and accept unpleasant emotions rather than reacting with hostility or withdrawal [1]. This approach allows you to learn from the conflict instead of staying stuck in distress [1]."
-   },
-   {
-    "h": "Better Relationship Quality",
-    "t": "When both partners apply integrative regulation to recalled conflicts, overall relationship satisfaction increases [1]. Acknowledging hurt feelings without generalizing them to the whole relationship helps couples move forward [1]."
-   }
-  ],
-  "why": "Understanding how your brain replays past arguments helps you practice self-compassion and stop small misunderstandings from derailing your peace of mind.",
-  "tryit": "Notice the next time an old argument pops into your head, acknowledge the uncomfortable feeling without judgment, and ask yourself what the memory can teach you about your own emotions.",
-  "qa": [
-   [
-    "What is integrative regulation?",
-    "It is a motivational approach where you allow yourself to notice and ultimately accept your emotions, even the unpleasant ones [1]."
-   ],
-   [
-    "Who led the recent study on couple conflicts?",
-    "The research was conducted by Aurélie Thuot-Jolicoeur and colleagues at the University of Quebec [1]."
-   ],
-   [
-    "What were the main themes of conflict brought into the study?",
-    "The conflicts included sexuality and intimacy, needs and values, and practical daily disagreements [1]."
-   ],
-   [
-    "Why is recalling a conflict dangerous?",
-    "Dysregulated recall can cause negative emotions to pop up unexpectedly, creating renewed emotional wounds just like the original event [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202611/dont-let-conflict-erode-your-relationship",
-    "status": 200,
-    "title": "Don't Let Conflict Erode Your Relationship",
-    "domain": "psychologytoday.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T17:06:59Z",
-  "addedAt": "2026-11-10T17:36:52Z",
-  "audio": "audio/use-emotion-regulation-to-stop-past-relationship.mp3",
-  "image": {
-   "src": "img/use-emotion-regulation-to-stop-past-relationship.jpg",
-   "credit": "Psychology Today",
-   "license": "© Psychology Today, shown with credit",
-   "page": "https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202611/dont-let-conflict-erode-your-relationship",
-   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/conflict_pexels-keira-burton-6147236.jpg?itok=Oc58p9UZ"
-  }
- },
- {
-  "id": "apple-releases-urgent-security-patches-across-al",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "tech"
-  ],
-  "title": "Apple releases urgent security patches across all major operating systems",
-  "snippet": "Apple has launched important security updates for iOS, iPadOS, MacOS, WatchOS, and VisionOS to fix wireless flaws. These updates address vulnerabilities found in Bluetooth pairing, AirPlay, and Messages.",
-  "bullets": [
-   "Apple released security patches on Tuesday for iOS, iPadOS, MacOS, WatchOS, and VisionOS [1].",
-   "The updates fix wireless security flaws related to Bluetooth pairing, AirPlay, and Messages [1].",
-   "Around half of the vulnerabilities were discovered internally by Apple while researchers found the rest [1]."
-  ],
-  "report": [
-   {
-    "h": "New Security Updates",
-    "t": "Apple issued patches across multiple device categories to address serious wireless security flaws [1]. The vulnerabilities affect Bluetooth pairing, AirPlay, and Messages [1]."
-   },
-   {
-    "h": "Messages and Bluetooth",
-    "t": "Flaws in Messages could let unauthorized users join group chats and read past messages [1]. Another fix stops attackers from establishing unwanted Bluetooth connections without user interaction [1]."
-   },
-   {
-    "h": "AirPlay Rate Limits",
-    "t": "An AirPlay vulnerability allowed attackers to bypass rate limits on pairing code attempts [1]. Apple resolved this logic issue by using improved state management [1]."
-   }
-  ],
-  "why": "Keeping your digital devices secure protects your daily business operations and personal data from unexpected disruptions.",
-  "tryit": "Open the settings menu on your Apple devices today and check for available software updates to apply these security patches.",
-  "qa": [
-   [
-    "Which operating systems received security patches?",
-    "Apple released patches for iOS, iPadOS, MacOS, WatchOS, and VisionOS [1]."
-   ],
-   [
-    "What areas do the vulnerabilities affect?",
-    "The vulnerabilities affect Bluetooth pairing, AirPlay, and Messages [1]."
-   ],
-   [
-    "How were the flaws discovered?",
-    "Around half of the flaws were found internally by Apple, while researchers submitted the others [1]."
-   ],
-   [
-    "What did the Messages patch fix?",
-    "It fixed an authorization issue to prevent attackers from remotely joining group chats and reading messages [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/tech/apple-27-2-1-security-fix-iphone-ipad-mac-watch-patch/",
-    "status": 200,
-    "title": "All your Apple devices need to be patched ASAP - here's why - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T16:54:11Z",
-  "addedAt": "2026-11-10T17:36:52Z",
-  "audio": "audio/apple-releases-urgent-security-patches-across-al.mp3",
-  "image": {
-   "src": "img/apple-releases-urgent-security-patches-across-al.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/tech/apple-27-2-1-security-fix-iphone-ipad-mac-watch-patch/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00893.jpeg"
-  }
- },
- {
-  "id": "discover-which-top-schools-shape-the-best-founde",
-  "cat": "money",
-  "tags": [
-   "business",
-   "money",
-   "economics"
-  ],
-  "title": "Discover Which Top Schools Shape the Best Founders and Business Leaders",
-  "snippet": "Entrepreneur collaborated with The Princeton Review for the past 20 years to identify standout undergraduate and graduate entrepreneurship programs that help launch businesses and build networks.",
-  "bullets": [
-   "Entrepreneur has collaborated with The Princeton Review for the past 20 years to identify standout programs [1].",
-   "The evaluation assesses what happens after students graduate, including whether they launch businesses and raise funding [1].",
-   "Last summer, The Princeton Review surveyed more than 250 colleges and universities [1]."
-  ],
-  "report": [
-   {
-    "h": "Finding Top Programs",
-    "t": "Entrepreneur collaborated with The Princeton Review for the past 20 years to identify standout undergraduate and graduate entrepreneurship programs [1]. The goal is to find programs that truly shape people into founders and leaders [1]."
-   },
-   {
-    "h": "Measuring Real Impact",
-    "t": "Assessments look beyond what each program teaches to see what happens after students graduate [1]. This includes checking if they launch businesses, gain powerful networks, and raise funding [1]."
-   },
-   {
-    "h": "Surveying Institutions",
-    "t": "Last summer, The Princeton Review surveyed more than 250 colleges and universities to see which ones best serve future entrepreneurs [1]. Data shows that great schools can help position you to succeed if you bring the right mindset [1]."
-   }
-  ],
-  "why": "This matters if you are exploring formal education networks, investors, and foundational mechanics for buying or launching a business.",
-  "tryit": "Visit princetonreview.com/entrepreneur to explore the methodology and details on each ranking.",
-  "qa": [
-   [
-    "How long has Entrepreneur collaborated with The Princeton Review?",
-    "They have collaborated for the past 20 years [1]."
-   ],
-   [
-    "How many schools were surveyed last summer?",
-    "More than 250 colleges and universities were surveyed [1]."
-   ],
-   [
-    "What do the evaluations look at beyond classroom teaching?",
-    "They assess what happens after students graduate, including launching businesses and raising funding [1]."
-   ],
-   [
-    "Where can you find more information on the methodology?",
-    "You can go to princetonreview.com/entrepreneur [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.entrepreneur.com/business-news/top-schools-for-entrepreneurs-in-2027",
-    "status": 200,
-    "title": "Top Schools for Entrepreneurs in 2027",
-    "domain": "entrepreneur.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T13:59:00Z",
-  "addedAt": "2026-11-10T17:36:52Z",
-  "audio": "audio/discover-which-top-schools-shape-the-best-founde.mp3",
-  "image": {
-   "src": "img/discover-which-top-schools-shape-the-best-founde.jpg",
-   "credit": "Entrepreneur",
-   "license": "© Entrepreneur, shown with credit",
-   "page": "https://www.entrepreneur.com/business-news/top-schools-for-entrepreneurs-in-2027",
-   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Bauer-Scenes-Downtown-1-copy.jpg"
-  }
- },
- {
-  "id": "how-brisbane-transformed-from-country-town-into",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "business",
-   "design",
-   "city",
-   "australia"
-  ],
-  "title": "How Brisbane Transformed From Country Town Into a Global Creative Hub",
-  "snippet": "Brisbane has reinvented itself into a vibrant city of design, dining, and culture. Discover how local entrepreneurs and community regeneration built a thriving urban destination.",
-  "bullets": [
-   "The city council launched an ambitious rebranding initiative in 2010 to position Brisbane as a globally connected New World City [1].",
-   "In 2021 the International Olympic Committee announced that Brisbane will host the summer Olympics in 2032 [1].",
-   "The James Street precinct features Brutalist architecture, independent Australian designer stores, and the urban resort hotel The Calile [1]."
-  ],
-  "report": [
-   {
-    "h": "Rebranding the River City",
-    "t": "Long viewed as a sleepy provincial town, Brisbane shifted its identity through strategic council rebranding and new cultural spaces like the Gallery of Modern Art [1]. Revitalised riverfronts and pedestrian bridges reduced car traffic and created thriving new dining districts [1]."
-   },
-   {
-    "h": "Design and Precinct Culture",
-    "t": "The James Street precinct combined concrete architecture with open-air dining and independent Australian fashion labels [1]. High-end hotels and restaurants turned the area into an international destination for travellers [1]."
-   },
-   {
-    "h": "Creative Momentum",
-    "t": "Local designers and entrepreneurs returned home to build sustainable fashion labels and cultural hubs [1]. Iconic local spaces like the Brisbane Powerhouse now host international arts festivals and exhibitions [1]."
-   }
-  ],
-  "why": "It is an inspiring look at how creative vision and community collaboration can completely regenerate a city's economy and culture.",
-  "tryit": "Research upcoming urban regeneration projects or design districts in your own city to find new independent businesses, restaurants, and creative spaces to visit this week.",
-  "qa": [
-   [
-    "When was Brisbane announced to host the Olympics?",
-    "In 2021 the International Olympic Committee announced that Brisbane would host the summer Olympics in 2032 [1]."
-   ],
-   [
-    "What hotel helped put Brisbane on the traveler map?",
-    "The Calile, an urban resort hotel, helped put the James Street precinct on the radars of international travelers [1]."
-   ],
-   [
-    "What is the Brisbane Powerhouse?",
-    "It is a hulking industrial building from the 1920s that was reborn in 2000 as the city's contemporary art center [1]."
-   ],
-   [
-    "What is the name of Brisbane's famous animated export?",
-    "Bluey, an animated show about a blue heeler dog created by animator Joe Brumm [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/brisbane-gets-its-moment-in-the-sun",
-    "status": 200,
-    "title": "Brisbane Gets Its Moment in the Sun",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T11:00:00Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/how-brisbane-transformed-from-country-town-into.mp3",
-  "image": {
-   "src": "img/how-brisbane-transformed-from-country-town-into.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/brisbane-gets-its-moment-in-the-sun",
-   "from_url": "https://media.cntraveler.com/photos/6aee142b4da75314b3d77a4d/16:9/w_1280,c_limit/EliseHassey_CNBRIS_7148.jpg"
   }
  },
  {
