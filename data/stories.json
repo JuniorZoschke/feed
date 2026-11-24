@@ -1,5 +1,632 @@
 [
  {
+  "id": "ai-helps-researchers-discover-mysterious-new-vir",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "science",
+   "evolution",
+   "dna",
+   "biology"
+  ],
+  "title": "AI helps researchers discover mysterious new viruses in massive DNA databases",
+  "snippet": "Researchers at the University of Miami used artificial intelligence and protein language models to uncover a previously unknown group of viruses. This discovery reveals an unexpected evolutionary link between viruses and tiny protein compartments inside cells.",
+  "bullets": [
+   "Scientists used artificial intelligence tools, including protein language models and AlphaFold, to search enormous genetic databases containing billions of DNA sequences [1].",
+   "The newly identified viruses possess characteristics of both viruses and cellular compartments known as encapsulins, acting as possible evolutionary intermediates [1].",
+   "This computational approach lets researchers study viruses that cannot be grown or cultured in a laboratory setting [1]."
+  ],
+  "report": [
+   {
+    "h": "Uncovering hidden viruses with AI",
+    "t": "Researchers searched massive genetic databases containing billions of DNA sequences instead of relying on laboratory experiments [1]. By combining bioinformatics and artificial intelligence, they identified viruses that cannot be grown in the lab [1]."
+   },
+   {
+    "h": "A missing link in evolution",
+    "t": "The newly found viruses feature a distinctive protein structure known as the HK97-fold [1]. They share traits with both viruses and cellular structures called encapsulins, suggesting the two may have repeatedly evolved from one another [1]."
+   },
+   {
+    "h": "New roles for viral shells",
+    "t": "The study suggests that viral protein shells might facilitate biochemical reactions rather than just packaging genetic material [1]. This opens up new possibilities for understanding the overlooked functions of viral-like particles in nature [1]."
+   }
+  ],
+  "why": "This shows how pairing the right questions with modern AI tools like protein language models can unlock complex hidden patterns in massive data sets.",
+  "tryit": "Explore how artificial intelligence tools like AlphaFold are making complex biological structures transparent by visiting the AlphaFold database website to view protein folding models.",
+  "qa": [
+   [
+    "How did researchers find these new viruses?",
+    "They searched enormous genetic databases containing billions of DNA sequences using artificial intelligence tools, protein language models, and AlphaFold [1]."
+   ],
+   [
+    "What is the HK97-fold?",
+    "It is a distinctive three-dimensional protein structure that folds into shells found in both viruses and cellular compartments called encapsulins [1]."
+   ],
+   [
+    "Why can't these viruses be studied in a lab?",
+    "The majority of these viruses cannot be grown or cultured in a laboratory, which is why researchers relied on genetic sequencing and bioinformatics instead [1]."
+   ],
+   [
+    "Who led the research team?",
+    "The study was led by first author Abelardo Aguilar and senior author Antoni Luque Santolaria at the University of Miami [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
+    "status": 200,
+    "title": "Mysterious new viruses reveal a missing link in evolution",
+    "domain": "sciencedaily.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T10:45:53Z",
+  "addedAt": "2026-11-24T10:44:40Z",
+  "audio": "audio/ai-helps-researchers-discover-mysterious-new-vir.mp3",
+  "image": {
+   "src": "img/ai-helps-researchers-discover-mysterious-new-vir.jpg",
+   "credit": "ScienceDaily",
+   "license": "© ScienceDaily, shown with credit",
+   "page": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
+   "from_url": "https://www.sciencedaily.com/images/1920/abelardo-aguilar.webp"
+  }
+ },
+ {
+  "id": "how-a-historic-steel-foundry-in-mexico-became-a",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "science",
+   "news"
+  ],
+  "title": "How a Historic Steel Foundry in Mexico Became a Techno Paradise",
+  "snippet": "A historic 360-acre industrial park in Monterrey was transformed into a massive electronic music festival. Over 24,000 attendees gathered to experience techno music framed by old blast furnaces and steel machinery [1].",
+  "bullets": [
+   "Over 24,000 people attended the festival in Parque Fundidora [1].",
+   "The 360-acre park features old industrial machinery, steel furnaces, and a 230-foot-tall blast furnace [1].",
+   "The event marks the first time electronic music has been introduced on this scale in the park [1]."
+  ],
+  "report": [
+   {
+    "h": "Industrial Heritage Reborn",
+    "t": "Parque Fundidora in Monterrey was transformed into a festival site using its massive industrial remains. Organizers integrated steel towers, bridges, and old furnace rooms into the venue layout [1]."
+   },
+   {
+    "h": "Art Meets Technology",
+    "t": "An open call invited global audiovisual artists to display moving digital artworks on giant LED screens. Stages were built around the park's mechanical remnants and natural landscape [1]."
+   },
+   {
+    "h": "Record Breaking Turnout",
+    "t": "More than 24,000 people attended the event, marking a major milestone for electronic music in the city. Organizers are already planning expansions for the 2027 edition [1]."
+   }
+  ],
+  "why": "Exploring unusual international cultural destinations can spark fresh ideas for creative projects and future travel adventures [1].",
+  "tryit": "Research Parque Fundidora online to explore how old industrial zones can be repurposed into vibrant public spaces for arts and culture [1].",
+  "qa": [
+   [
+    "How many people attended the festival?",
+    "More than 24,000 people showed up for the event [1]."
+   ],
+   [
+    "What is the name of the venue?",
+    "The venue is Parque Fundidora, a 360-acre park in Monterrey [1]."
+   ],
+   [
+    "When did the opening night take place?",
+    "Opening night took place on Nov. 13 [1]."
+   ],
+   [
+    "What height is the blast furnace mentioned?",
+    "The blast furnace stands 230-feet-tall [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.atlasobscura.com/articles/mexico-foundry-electronic-music-festival",
+    "status": 200,
+    "title": "The Future of Techno Is Being Forged in Monterrey",
+    "domain": "atlasobscura.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T18:11:00Z",
+  "addedAt": "2026-11-24T10:44:40Z",
+  "audio": "audio/how-a-historic-steel-foundry-in-mexico-became-a.mp3",
+  "image": {
+   "src": "img/how-a-historic-steel-foundry-in-mexico-became-a.jpg",
+   "credit": "Atlas Obscura",
+   "license": "© Atlas Obscura, shown with credit",
+   "page": "https://www.atlasobscura.com/articles/mexico-foundry-electronic-music-festival",
+   "from_url": "https://img.atlasobscura.com/HMV5BMJt_LBT4FWppcAOco0fLR9COdpl7pBQ2ZoResk/rt:fit/w:1200/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS8y/MDI2LzExLzIzLzE5/LzU5LzM2LzFmMTU0/NjAwLTY4ZjAtNGU0/MC04NmE4LTNkMWM3/NzI4MTU2Zi9GVVRV/Uk1YMjAyNl9MVUlT/X0I5XzI1LmpwZw.jpg"
+  }
+ },
+ {
+  "id": "samsung-may-delay-the-galaxy-watch-10-until-2028",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "news"
+  ],
+  "title": "Samsung may delay the Galaxy Watch 10 until 2028 for biannual releases",
+  "snippet": "Samsung is reportedly shifting its smartwatch releases from annual to biannual to cut costs and avoid minor updates.",
+  "bullets": [
+   "Samsung will not release a new Galaxy smartwatch in 2027, according to a report [1].",
+   "The change comes as the mobile business cuts costs after consecutive losses and global RAM shortages [1].",
+   "Biannual releases could help Samsung build more anticipation and deliver bigger updates [1]."
+  ],
+  "report": [
+   {
+    "h": "Shift to Biannual Schedule",
+    "t": "Samsung Electronics plans to switch its smartwatch releases from an annual schedule to a biannual one [1]. This means the Galaxy Watch 10 might not appear until 2028 [1]."
+   },
+   {
+    "h": "Cost Cutting Measures",
+    "t": "The mobile division is cutting costs following two quarters of consecutive losses and ongoing global RAM shortages [1]. Production is also shifting to increase premium offerings [1]."
+   },
+   {
+    "h": "Better Software Updates",
+    "t": "Many substantial updates arrive via software that also reaches previous watch generations [1]. Longer cycles can help manufacturers offer more purchase-worthy hardware changes [1]."
+   }
+  ],
+  "why": "This shows how major tech hardware cycles are shifting toward efficiency and meaningful upgrades over rushed yearly iterations.",
+  "tryit": "Check your current device settings today to see if recent software updates have delivered new features to your existing hardware.",
+  "qa": [
+   [
+    "When might the Galaxy Watch 10 arrive?",
+    "You might not see a Galaxy Watch 10 until 2028 [1]."
+   ],
+   [
+    "Why is Samsung changing its release schedule?",
+    "Samsung is cutting costs after consecutive losses and global RAM shortages [1]."
+   ],
+   [
+    "What schedule will Samsung use instead?",
+    "Samsung will switch from an annual release schedule to a biannual one [1]."
+   ],
+   [
+    "How do most updates arrive on smartwatches?",
+    "Substantial updates normally arrive through software updates that also land on previous generations [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/tech/samsung-galaxy-watch-10-biannual-release-2028/",
+    "status": 200,
+    "title": "You won't see a Galaxy Watch 10 until 2028 - here's why - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T17:25:59Z",
+  "addedAt": "2026-11-24T10:44:40Z",
+  "audio": "audio/samsung-may-delay-the-galaxy-watch-10-until-2028.mp3",
+  "image": {
+   "src": "img/samsung-may-delay-the-galaxy-watch-10-until-2028.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/tech/samsung-galaxy-watch-10-biannual-release-2028/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152_0f6feb.jpg"
+  }
+ },
+ {
+  "id": "ten-practical-black-friday-gadgets-that-make-run",
+  "cat": "money",
+  "tags": [
+   "business",
+   "money",
+   "negotiation",
+   "economics"
+  ],
+  "title": "Ten Practical Black Friday Gadgets That Make Running a Small Business Easier",
+  "snippet": "Discover ten functional tech gifts designed for entrepreneurs and small business owners, featuring Black Friday discounts on practical tools like label printers, power banks, and noise-cancelling headphones.",
+  "bullets": [
+   "The Square Terminal combines sales, card payments, and receipt-printing into one portable device available for $265 [1].",
+   "The Anker Laptop Power Bank is available at a 90-day low price of about $91 during Black Friday sales [1].",
+   "The Gloryang 668BT thermal shipping-label printer is discounted by 25 percent to a final price of $43 [1]."
+  ],
+  "report": [
+   {
+    "h": "Practical Work Tools",
+    "t": "Instead of motivational mugs, these gift ideas focus on equipment that fits real working days, such as the reMarkable Paper Pro for handwritten thinkers or the Square Terminal for simplifying retail checkouts [1]."
+   },
+   {
+    "h": "Portable Power and Audio",
+    "t": "Entrepreneurs working across shared spaces can benefit from the Anker Laptop Power Bank priced around $91, or Bose QuietComfort headphones discounted by 53 percent to $169 [1]."
+   },
+   {
+    "h": "Affordable Daily Helpers",
+    "t": "Smaller tech items like the Soundcore P30i noise-cancelling earbuds are marked down to $24, offering up to 45 hours of playback and a charging case that doubles as a phone stand [1]."
+   }
+  ],
+  "why": "This helps you spot useful gear for your own workspace or find practical, high-value tools to invest in your business efficiency.",
+  "tryit": "Check out the Anker Laptop Power Bank or the thermal shipping label printer online if your current mobile setup or home shipping process needs a reliable upgrade.",
+  "qa": [
+   [
+    "How much does the Square Terminal cost with the discount?",
+    "It is over 10 percent off, making the final price $265 [1]."
+   ],
+   [
+    "What is the battery life of the Amazon Kindle Paperwhite?",
+    "It offers battery life of up to 12 weeks [1]."
+   ],
+   [
+    "How much is the Shure SM7B microphone during the sale?",
+    "It is $70 off, bringing its price to $369 [1]."
+   ],
+   [
+    "What discount is available on the Bose QuietComfort headphones?",
+    "They have a 53 percent discount, which is $190 off, for a final price of $169 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/business-news/the-10-best-gifts-for-entrepreneurs-to-buy-during-black-friday-week",
+    "status": 200,
+    "title": "The 10 Best Gifts for Entrepreneurs to Buy During Black Friday Week",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T21:02:36Z",
+  "addedAt": "2026-11-24T10:44:40Z",
+  "audio": "audio/ten-practical-black-friday-gadgets-that-make-run.mp3",
+  "image": {
+   "src": "img/ten-practical-black-friday-gadgets-that-make-run.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/business-news/the-10-best-gifts-for-entrepreneurs-to-buy-during-black-friday-week",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/gift-GettyImages-2289425016.jpg"
+  }
+ },
+ {
+  "id": "amy-poehler-and-geraldine-viswanathan-reveal-sec",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "italy",
+   "greece",
+   "filming",
+   "comedy"
+  ],
+  "title": "Amy Poehler and Geraldine Viswanathan Reveal Secrets Behind Their New Show Dig",
+  "snippet": "Discover how the cast of the new comedy series Dig filmed across Greece, Italy, and California, finding local gelato, go-karts, and historic ruins along the way.",
+  "bullets": [
+   "Amy Poehler took her first trip to Greece to set the scene for her 10-part Peacock comedy series Dig [1].",
+   "Production used southeastern Italy and Los Angeles to double for the Greek settings [1].",
+   "The cast enjoyed local spots like Barbounaki for fresh fish and Circuit Kart Evolution for go-karting [1]."
+  ],
+  "report": [
+   {
+    "h": "Filming Across Borders",
+    "t": "Amy Poehler created her 10-part Peacock comedy series Dig after being entranced by an archaeological novel set in Athens [1]. Although set in Greece, the team used Puglia wine country in Italy and Los Angeles to double for the Greek locations [1]."
+   },
+   {
+    "h": "Off-Set Adventures",
+    "t": "While staying in Italy, cast member Hugh Laurie tracked down a local go-kart track called Circuit Kart Evolution in Fasano [1]. The cast and crew also sampled massive amounts of gelato and local seafood during their downtime [1]."
+   },
+   {
+    "h": "Historic Backdrops",
+    "t": "Filming took place at the ancient Temple of Poseidon at Cape Sounion before tourist tours began for the day [1]. Set designer Dan Bishop also recreated authentic Greek settings on the Universal Studios backlot in California [1]."
+   }
+  ],
+  "why": "It is a fun behind-the-scenes look at how television travel and comedy come together across different international locations.",
+  "tryit": "Plan a future travel itinerary to explore the historic coastal towns of Puglia and Athens mentioned in the series.",
+  "qa": [
+   [
+    "When does Dig drop?",
+    "It drops November 23 [1]."
+   ],
+   [
+    "Where did the cast go go-karting?",
+    "They went to Circuit Kart Evolution in Fasano [1]."
+   ],
+   [
+    "What is Amy Poehler's favorite gelato flavor?",
+    "She is all about stracciatella [1]."
+   ],
+   [
+    "Where is the Temple of Poseidon located?",
+    "It stands just over an hour's drive southeast of Athens at Cape Sounion [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/on-location-dig-stars-amy-poehler-and-geraldine-viswanathan-on-italian-gelato-go-karting-and-tailgating",
+    "status": 200,
+    "title": "On Location: Dig Stars Amy Poehler and Geraldine Viswanathan on Italian Gelato, Go-Karting—and Tailgating",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-11-24",
+  "publishedAt": "2026-11-24T02:49:52Z",
+  "addedAt": "2026-11-24T10:44:40Z",
+  "audio": "audio/amy-poehler-and-geraldine-viswanathan-reveal-sec.mp3",
+  "image": {
+   "src": "img/amy-poehler-and-geraldine-viswanathan-reveal-sec.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/on-location-dig-stars-amy-poehler-and-geraldine-viswanathan-on-italian-gelato-go-karting-and-tailgating",
+   "from_url": "https://media.cntraveler.com/photos/6b04bb16c81704bbf7b4ba29/16:9/w_1280,c_limit/Screenshot%202026-11-23%20at%205.15.42%E2%80%AFPM.png"
+  }
+ },
+ {
+  "id": "hospitals-train-staff-in-motivational-interviewi",
+  "cat": "health",
+  "tags": [
+   "health",
+   "science",
+   "psychology"
+  ],
+  "title": "Hospitals train staff in motivational interviewing to address vitamin K refusals",
+  "snippet": "Pediatricians are using motivational interviewing and empathetic communication to address rising vitamin K refusal rates among parents. Experts emphasize listening without judgment to build trust.",
+  "bullets": [
+   "The rate of newborns who do not receive intramuscular vitamin K has more than doubled, rising from 3.1% in 2017 to 6.8% in 2025 [1].",
+   "Babies who do not receive the vitamin K injection are 81 times more likely to develop vitamin K deficiency bleeding [1].",
+   "Staff at Corewell Health were trained in motivational interviewing to avoid judging parents who question medical recommendations [1]."
+  ],
+  "report": [
+   {
+    "h": "Rising Refusal Rates",
+    "t": "More parents are refusing routine vitamin K injections for newborns due to online misinformation and vaccine hesitancy [1]. Nationally, the rate of unprotected newborns increased from 3.1% in 2017 to 6.8% in 2025 [1]."
+   },
+   {
+    "h": "Communication Training",
+    "t": "Hospitals are training pediatricians and nurses in motivational interviewing to improve dialogue with hesitant parents [1]. Treating parental autonomy with respect helps prevent families from shutting down the conversation [1]."
+   },
+   {
+    "h": "Empathy Over Confrontation",
+    "t": "Medical experts note that approaching families with unconditional positive regard helps build a collaborative team mindset [1]. While some doctors convince up to half of hesitant parents, others focus on non-judgmental patience [1]."
+   }
+  ],
+  "why": "Understanding how motivational interviewing reduces resistance can help you navigate tough negotiations or discussions where people hold strong opposing views.",
+  "tryit": "Talk to a healthcare professional or pharmacist if you want to understand standard pediatric care guidelines or communication techniques for addressing health concerns safely.",
+  "qa": [
+   [
+    "Why do newborns need a vitamin K injection?",
+    "Babies are born with very low levels of vitamin K, and the injection safely prevents rare but life-threatening bleeding [1]."
+   ],
+   [
+    "How much have vitamin K refusals increased?",
+    "The rate of newborns who do not receive the injection has more than doubled, rising from 3.1% in 2017 to 6.8% in 2025 [1]."
+   ],
+   [
+    "What communication method are doctors using?",
+    "Staff are trained in motivational interviewing, treating parents with unconditional positive regard and respecting their autonomy [1]."
+   ],
+   [
+    "Are oral vitamin K supplements used?",
+    "Some doctors are open to oral supplements if parents decline the injection, though the injection remains the gold standard [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+    "status": 200,
+    "title": "Doctors struggle to save babies after parents refuse vitamin K",
+    "domain": "npr.org"
+   }
+  ],
+  "date": "2026-11-24",
+  "publishedAt": "2026-11-24T10:00:00Z",
+  "addedAt": "2026-11-24T10:44:40Z",
+  "audio": "audio/hospitals-train-staff-in-motivational-interviewi.mp3",
+  "image": {
+   "src": "img/hospitals-train-staff-in-motivational-interviewi.jpg",
+   "credit": "NPR",
+   "license": "© NPR, shown with credit",
+   "page": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+360/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2F03%2Feee970f64e34a9a38cece517b242%2Fvitamink-02.jpg"
+  }
+ },
+ {
+  "id": "problematic-smartphone-use-predicts-a-rebound-in",
+  "cat": "adhd",
+  "tags": [
+   "adhd",
+   "focus",
+   "psychology",
+   "science"
+  ],
+  "title": "Problematic Smartphone Use Predicts A Rebound In Late Adolescent Attention Issues",
+  "snippet": "A large study tracking 3,414 students found that ADHD-like traits can rebound in late adolescence, with problematic smartphone use predicting worse symptom severity over time.",
+  "bullets": [
+   "Researchers tracked 3,414 Chinese students over a two-year period using an overlapping approach to map trends from ages 10 to 18 [1].",
+   "Symptom severity followed a U-shaped pattern, declining from ages 10 to 13 before rebounding in late adolescence [1].",
+   "Higher problematic smartphone use consistently predicted higher subsequent levels of hyperactivity, inattention, and impulsivity [1]."
+  ],
+  "report": [
+   {
+    "h": "Tracking adolescent attention traits",
+    "t": "A new study investigated how attention-related traits and smartphone habits develop over time [1]. Researchers followed 3,414 students across multiple waves to map behavioral trajectories from childhood to late adolescence [1]."
+   },
+   {
+    "h": "The U-shaped symptom pattern",
+    "t": "The data revealed that ADHD-like symptoms generally dropped between ages 10 and 13 as self-regulation improved [1]. However, these symptoms often rebounded in late adolescence as academic and social pressures intensified [1]."
+   },
+   {
+    "h": "The role of digital habits",
+    "t": "Students with severe problematic smartphone use experienced a much steeper increase in hyperactivity during their late teenage years [1]. The constant, rapid feedback from devices may tax developing self-regulation systems [1]."
+   }
+  ],
+  "why": "Understanding how digital habits interact with focus and attention can help you manage your own screen dependency and protect your cognitive energy.",
+  "tryit": "Audit your screen time today by checking your phone settings to identify apps that trigger constant rapid feedback, and set deliberate boundaries for evening use.",
+  "qa": [
+   [
+    "How many students participated in the study?",
+    "The study tracked a large sample of 3,414 Chinese students [1]."
+   ],
+   [
+    "What pattern did attention symptoms follow across adolescence?",
+    "Overall symptom severity followed a U-shaped pattern, declining from ages 10 to 13 and rebounding in late adolescence [1]."
+   ],
+   [
+    "Did smartphone use predict later attention issues?",
+    "Yes, higher problematic smartphone use consistently predicted higher symptom levels at subsequent assessments [1]."
+   ],
+   [
+    "Who authored the study?",
+    "The research was authored by Kexin Xiang, Shunsen Huang, and several colleagues [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/problematic-smartphone-use-predicts-a-rebound-in-attention-issues-during-late-ad/",
+    "status": 200,
+    "title": "Problematic smartphone use predicts a rebound in attention issues during late adolescence",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T21:00:11Z",
+  "addedAt": "2026-11-24T10:44:40Z",
+  "audio": "audio/problematic-smartphone-use-predicts-a-rebound-in.mp3",
+  "image": {
+   "src": "img/problematic-smartphone-use-predicts-a-rebound-in.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/problematic-smartphone-use-predicts-a-rebound-in-attention-issues-during-late-ad/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2025/05/teen-girl-using-smartphone.jpg"
+  }
+ },
+ {
+  "id": "new-3d-printing-tech-can-repair-ageing-steel-str",
+  "cat": "news",
+  "tags": [
+   "science",
+   "business",
+   "economics"
+  ],
+  "title": "New 3D printing tech can repair ageing steel structures without full replacement",
+  "snippet": "Advanced wire-fed laser metal deposition technology can restore deteriorated structural steel precisely where needed. This approach avoids full component replacements, saving millions of tonnes of carbon emissions [1].",
+  "bullets": [
+   "In the UK, around 300 million tonnes of iron and steel are embedded in buildings and mobility infrastructure [1].",
+   "Wire-fed laser-directed energy deposition melts thin metal wire via a controlled laser beam to bond new metal directly to original surfaces [1].",
+   "Preserving infrastructure through focused renovation can produce 84 to 93 percent lower emissions than total replacement [1]."
+  ],
+  "report": [
+   {
+    "h": "The Ageing Infrastructure Challenge",
+    "t": "Many critical UK structures are older than we realise and approach a critical state requiring urgent intervention [1]. Replacing steel entirely is highly carbon-intensive and expensive, making life-extension methods vital for sustainability [1]."
+   },
+   {
+    "h": "Precision Steel Repair Methods",
+    "t": "Additive manufacturing techniques like wire-fed laser DED allow engineers to restore deteriorated steel precisely where material has been lost [1]. Tests show this method can successfully arrest fatigue cracks beyond nine million cycles [1]."
+   },
+   {
+    "h": "Massive Economic and Environmental Gains",
+    "t": "Focused renovations produce drastically lower emissions than full replacements while keeping vital transport routes open [1]. Preserving original steelwork also protects architectural heritage and generates huge financial savings [1]."
+   }
+  ],
+  "why": "Understanding innovative engineering methods highlights practical ways industries solve complex logistical and material challenges without unnecessary waste.",
+  "tryit": "Read the Royal Academy of Engineering report on ageing assets to understand the scale of infrastructure challenges.",
+  "qa": [
+   [
+    "What is wire-fed laser-directed energy deposition?",
+    "It is a process where a thin metal wire is fed into a controlled laser beam, melting the wire and a small region of existing steel so new metal bonds directly to the original [1]."
+   ],
+   [
+    "How much steel is embedded in UK buildings and mobility infrastructure?",
+    "Around 300 million tonnes of iron and steel are embedded in these structures [1]."
+   ],
+   [
+    "What percentage of emissions can focused renovation produce compared to replacement?",
+    "Focused renovation can produce 84 to 93 percent lower emissions than replacement [1]."
+   ],
+   [
+    "How many metallic railway bridges does the UK have?",
+    "The UK has 16,000 metallic railway bridges alone [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://theconversation.com/technology-for-printing-steel-could-help-extend-the-life-of-ageing-bridges-and-buildings-296672",
+    "status": 200,
+    "title": "Technology for ‘printing’ steel could help extend the life of ageing bridges and buildings",
+    "domain": "theconversation.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T16:05:22Z",
+  "addedAt": "2026-11-24T10:44:40Z",
+  "audio": "audio/new-3d-printing-tech-can-repair-ageing-steel-str.mp3",
+  "image": {
+   "src": "img/new-3d-printing-tech-can-repair-ageing-steel-str.jpg",
+   "credit": "The Conversation",
+   "license": "© The Conversation, shown with credit",
+   "page": "https://theconversation.com/technology-for-printing-steel-could-help-extend-the-life-of-ageing-bridges-and-buildings-296672",
+   "from_url": "https://images.theconversation.com/files/773687/original/file-20261123-62-qumvf.jpg?ixlib=rb-4.1.1&rect=120%2C299%2C1008%2C502&q=45&auto=format&w=1356&h=668&fit=crop"
+  }
+ },
+ {
+  "id": "tiny-california-trapdoor-spider-has-genome-large",
+  "cat": "news",
+  "tags": [
+   "science",
+   "animals",
+   "nature"
+  ],
+  "title": "Tiny California trapdoor spider has genome larger than humans",
+  "snippet": "A tiny California trapdoor spider named after Stephen Colbert has a genome roughly 50% larger than a human's. Researchers sequenced the genome to help protect the species from rising sea levels.",
+  "bullets": [
+   "The spider Aptostichus stephencolberti has a genome measuring 4.6 gigabases, which is roughly 50% larger than the human genome [1].",
+   "Approximately 77% of the spider's genome consists of repetitive DNA sequences that appear many times throughout its genetic material [1].",
+   "The species is found only in coastal dunes along a limited stretch of Central California from the San Francisco Bay area to Monterey [1]."
+  ],
+  "report": [
+   {
+    "h": "Colbert namesake spider",
+    "t": "A tiny California trapdoor spider was named after comedian Stephen Colbert after he publicly demanded a namesake on his television show [1]. This secretive spider lives entirely underground in silk-lined tunnels and ambushes prey using vibrations [1]."
+   },
+   {
+    "h": "Massive genome revealed",
+    "t": "Researchers sequenced the spider's genome, finding 4.6 billion DNA base pairs packed into its body [1]. It also features 52 chromosomes, which is more than the 46 chromosomes typically found in human cells [1]."
+   },
+   {
+    "h": "Conservation and medicine",
+    "t": "The genetic mapping is part of a state-funded initiative to guide conservation decisions as rising sea levels threaten coastal habitats [1]. Scientists also hope studying spider genetics could help explore chemical compounds in venom for new painkillers [1]."
+   }
+  ],
+  "why": "Discovering hidden biological wonders broadens our understanding of the natural world and evolutionary science.",
+  "tryit": "Search online for the California Conservation Genomics project to read more about how scientists use DNA sequencing to protect vulnerable regional wildlife habitats.",
+  "qa": [
+   [
+    "Why is the spider named after Stephen Colbert?",
+    "Stephen Colbert publicly demanded a spider be named in his honor during a comedy segment on his television show in 2008 [1]."
+   ],
+   [
+    "Is the spider's venom dangerous to humans?",
+    "No, the spider's venom poses no danger to humans [1]."
+   ],
+   [
+    "How large is the spider's genome?",
+    "It measures 4.6 gigabases, or 4.6 billion DNA base pairs [1]."
+   ],
+   [
+    "Why are these spiders vulnerable?",
+    "They have a restricted range in coastal dunes that makes them sensitive to rising sea levels and invasive species [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
+    "status": 200,
+    "title": "This tiny spider named after Stephen Colbert has a genome 50% larger than a humanâs",
+    "domain": "sciencedaily.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T03:54:27Z",
+  "addedAt": "2026-11-24T10:44:40Z",
+  "audio": "audio/tiny-california-trapdoor-spider-has-genome-large.mp3",
+  "image": {
+   "src": "img/tiny-california-trapdoor-spider-has-genome-large.jpg",
+   "credit": "ScienceDaily",
+   "license": "© ScienceDaily, shown with credit",
+   "page": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
+   "from_url": "https://www.sciencedaily.com/images/1920/trapdoor-spider-aptostichus-stephencolberti.webp"
+  }
+ },
+ {
   "id": "finding-strength-power-and-complete-happiness-th",
   "cat": "mind",
   "tags": [
@@ -418,31 +1045,22 @@
   },
   "sides": [
    {
-    "title": "Jensen Huang reinstated as Nvidia CEO after Trump pushes board",
-    "url": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864",
-    "outlet": "NBC News",
-    "domain": "nbcnews.com",
-    "lean": "L",
-    "leanLabel": "Left-leaning",
-    "publishedAt": "2026-11-23T13:59:57Z"
-   },
-   {
     "title": "Nvidia reinstates Jensen Huang as CEO",
     "url": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/",
     "outlet": "CBS News",
     "domain": "cbsnews.com",
     "lean": "C",
     "leanLabel": "Centre",
-    "publishedAt": "2026-11-23T21:13:11Z"
+    "publishedAt": "2026-11-24T01:19:26Z"
    },
    {
-    "title": "Stocks fly as Nvidia restores Jensen Huang as chief executive",
-    "url": "https://www.independent.co.uk/news/business/nvidia-donald-trump-pmi-nasdaq-composite-capita-b3090131.html",
+    "title": "Trump made up to $15m after ousted Nvidia boss Jensen Huang reinstated: report",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-jensen-huang-nvidia-shares-b3090466.html",
     "outlet": "The Independent",
     "domain": "independent.co.uk",
     "lean": "L",
     "leanLabel": "Left-leaning",
-    "publishedAt": "2026-11-23T17:27:05Z"
+    "publishedAt": "2026-11-24T09:55:35Z"
    },
    {
     "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
@@ -21937,218 +22555,6 @@
    "license": "© Entrepreneur, shown with credit",
    "page": "https://www.entrepreneur.com/business-news/top-schools-for-entrepreneurs-in-2027",
    "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Bauer-Scenes-Downtown-1-copy.jpg"
-  }
- },
- {
-  "id": "seven-clear-signs-your-current-therapist-might-n",
-  "cat": "mind",
-  "tags": [
-   "mind",
-   "psychology",
-   "therapy",
-   "relationships",
-   "self-compassion"
-  ],
-  "title": "Seven Clear Signs Your Current Therapist Might Not Be a Good Fit",
-  "snippet": "Finding the right therapist takes time and chemistry. Discover seven practical signs that your current therapeutic match might need a rethink.",
-  "bullets": [
-   "Good therapy challenges your assumptions rather than just acting like an expensive cheerleader [1].",
-   "When a therapist repeatedly forgets significant details, it is challenging to develop trust [1].",
-   "A capable therapist helps you find your own answers instead of simply handing out life advice [1]."
-  ],
-  "report": [
-   {
-    "h": "The Expensive Cheerleader",
-    "t": "If your therapist always agrees that you are right and everyone else is toxic, you may be missing out on valuable personal growth [1]. A good professional will validate your feelings while gently challenging your assumptions [1]."
-   },
-   {
-    "h": "Blurs and Defensiveness",
-    "t": "If you are spending session time listening to your therapist talk about their own divorce, boundaries may have blurred [1]. Similarly, a therapist who becomes defensive when challenged cannot properly help you work through relationship ruptures [1]."
-   },
-   {
-    "h": "Finding Your Match",
-    "t": "A therapist can be perfectly competent and still remain the wrong fit for your specific personality and needs [1]. Many professionals offer complimentary consultation sessions to help you assess mutual fit before committing [1]."
-   }
-  ],
-  "why": "Why it matters to you: Therapy is an investment of your time, money, and emotional energy, so ensuring a strong working relationship is essential for your personal growth.",
-  "tryit": "Try this today: Book a complimentary consultation session or review your current sessions to assess if you are receiving genuine direction and insight.",
-  "qa": [
-   [
-    "Is good therapy always comfortable?",
-    "No, the most meaningful sessions often leave you a little confused and a little raw while questioning your assumptions [1]."
-   ],
-   [
-    "Should a therapist diagnose people they have never met?",
-    "No, a therapist's job is to recognize problematic behaviors rather than assign clinical diagnoses based solely on someone else's account [1]."
-   ],
-   [
-    "What should happen if a therapist makes a mistake?",
-    "A good therapist should be able to acknowledge mistakes, welcome feedback, and work through ruptures in the relationship [1]."
-   ],
-   [
-    "How can you test a therapist before committing?",
-    "Many therapists offer complimentary consultation sessions for you to ask questions and assess fit [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psychologytoday.com/us/blog/un-numb/202611/7-signs-your-therapist-might-not-be-a-good-fit-for-you",
-    "status": 200,
-    "title": "7 Signs Your Therapist Might Not Be a Good Fit for You",
-    "domain": "psychologytoday.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T01:31:13Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/seven-clear-signs-your-current-therapist-might-n.mp3",
-  "image": {
-   "src": "img/seven-clear-signs-your-current-therapist-might-n.jpg",
-   "credit": "Psychology Today",
-   "license": "© Psychology Today, shown with credit",
-   "page": "https://www.psychologytoday.com/us/blog/un-numb/202611/7-signs-your-therapist-might-not-be-a-good-fit-for-you",
-   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-11/shutterstock_1337958206.jpg?itok=hjd2lFVv"
-  }
- },
- {
-  "id": "otter-ai-now-tracks-multilingual-meetings-across",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "travel",
-   "money"
-  ],
-  "title": "Otter AI now tracks multilingual meetings across thirty plus languages seamlessly",
-  "snippet": "Otter.ai is expanding its multilingual capabilities to support thirty-one languages in total, allowing teams to switch between languages in the same meeting.",
-  "bullets": [
-   "Otter.ai announced a new multilingual transcription feature that follows conversations as speakers switch languages [1].",
-   "The platform will support thirty-one languages in total once the rollout is complete [1].",
-   "Thirteen of the new languages are available now, with fourteen more coming soon [1]."
-  ],
-  "report": [
-   {
-    "h": "Multilingual Meeting Support",
-    "t": "Otter.ai is expanding its transcription capabilities so tools can follow conversations as speakers switch between different languages during a single meeting [1]. The update automatically detects language changes without requiring users to manually adjust settings [1]."
-   },
-   {
-    "h": "Language Expansion Details",
-    "t": "The platform will support thirty-one languages in total, with thirteen new languages available now and fourteen more arriving soon [1]. These new languages run on proprietary speech models trained with public datasets and native-speaking volunteers [1]."
-   },
-   {
-    "h": "New Workplace Tools",
-    "t": "The company also introduced features like Work Mode to help users prepare for calls using past meeting history and connected apps [1]. Another new addition is Live Assist, which provides real-time coaching and suggestions during live conversations [1]."
-   }
-  ],
-  "why": "This tool helps you run international collaborations and communicate across borders without language barriers slowing down your business.",
-  "tryit": "Open Otter.ai to check if your target language is included in the new update and test the automatic language switching on your next call.",
-  "qa": [
-   [
-    "How many total languages will Otter support?",
-    "Otter will support thirty-one languages in total once the rollout is complete."
-   ],
-   [
-    "Do users need to change settings when switching languages?",
-    "No, the upcoming feature automatically detects language changes and continues transcribing without manual adjustments."
-   ],
-   [
-    "What is Work Mode?",
-    "Work Mode uses meeting history and connected apps to help users prepare for upcoming calls by pulling relevant information and action items."
-   ],
-   [
-    "What does Live Assist do?",
-    "Live Assist provides real-time coaching during meetings by analyzing the conversation and offering relevant suggestions."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-    "status": 200,
-    "title": "Otter AI can now follow conversations across 30+ languages | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T07:00:00Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/otter-ai-now-tracks-multilingual-meetings-across.mp3",
-  "image": {
-   "src": "img/otter-ai-now-tracks-multilingual-meetings-across.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-521333620.jpg?resize=1200,800"
-  }
- },
- {
-  "id": "history-milestones-sesame-street-hachiko-s-loyal",
-  "cat": "news",
-  "tags": [
-   "history",
-   "culture",
-   "film",
-   "music",
-   "science"
-  ],
-  "title": "History Milestones: Sesame Street, Hachiko's Loyalty, and Home Alone",
-  "snippet": "Discover historic milestones from this day, including the television debut of Sesame Street, the legendary loyalty of Hachiko, and the creation of the comedy Home Alone.",
-  "bullets": [
-   "Sesame Street first aired 57 years ago on 180 PBS public television stations using Jim Henson’s puppets [1].",
-   "Hachikō the Akita was born 103 years ago and became famous for waiting for his owner at Shibuya Station [1].",
-   "The holiday comedy Home Alone grossed $476.7 million and held the record for the highest-earning comedy film [1]."
-  ],
-  "report": [
-   {
-    "h": "Educational Television Beginnings",
-    "t": "Sesame Street first aired 57 years ago on 180 PBS stations to prepare less advantaged children for school using Jim Henson's puppets [1]. By 2009, the show was translated and broadcast in more than 140 countries [1]."
-   },
-   {
-    "h": "Legendary Canine Loyalty",
-    "t": "Hachikō the Akita was born 103 years ago in Ōdate and showed remarkable loyalty by waiting at Shibuya Station for nine years after his owner's death [1]. His vigil became a national symbol of family devotion in Japan [1]."
-   },
-   {
-    "h": "Classic Film Milestones",
-    "t": "John Hughes hatched the idea for Home Alone while making a list of things not to forget before going on vacation [1]. The film eventually grossed $476.7 million and held the record for the highest-earning comedy film for two decades [1]."
-   }
-  ],
-  "why": "Exploring inspiring historical milestones offers a fascinating look at creativity, persistence, and enduring loyalty across generations.",
-  "tryit": "Reflect on a creative idea or project you are currently planning, and write down a simple eight-page outline or list of notes just as John Hughes did for his film.",
-  "qa": [
-   [
-    "When did Sesame Street first air?",
-    "Sesame Street first aired 57 years ago on 180 PBS public television stations [1]."
-   ],
-   [
-    "Who was Hachikō?",
-    "Hachikō was a famous Akita dog known for waiting at Shibuya Station for his owner for nine full years after his death [1]."
-   ],
-   [
-    "How much did Home Alone gross at the box office?",
-    "The holiday classic grossed $476.7 million [1]."
-   ],
-   [
-    "Who wrote Home Alone?",
-    "The film was written and produced by John Hughes [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/events061110/",
-    "status": 200,
-    "title": "Good News on This Day in History - November 10",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-11-10",
-  "publishedAt": "2026-11-10T08:00:00Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/history-milestones-sesame-street-hachiko-s-loyal.mp3",
-  "image": {
-   "src": "img/history-milestones-sesame-street-hachiko-s-loyal.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/events061110/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/11/Sesame-Street-gang.jpg"
   }
  },
  {
