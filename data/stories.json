@@ -1,5 +1,741 @@
 [
  {
+  "id": "finding-strength-power-and-complete-happiness-th",
+  "cat": "mind",
+  "tags": [
+   "mind",
+   "psychology",
+   "self-compassion",
+   "relationships"
+  ],
+  "title": "Finding strength, power and complete happiness through coming out as a gay man",
+  "snippet": "Luke Hamnett shares an insightful essay on navigating school, masculinity, and the profound happiness of being unapologetically yourself.",
+  "bullets": [
+   "Luke Hamnett wrote an insightful essay about masculinity, school years, and coming out [1].",
+   "He recalls being the only boy who picked dance in year 9 and performing in front of the hockey team [1].",
+   "He notes that the power, strength and complete happiness of being yourself always outweigh any doubt [1]."
+  ],
+  "report": [
+   {
+    "h": "School days and hiding",
+    "t": "Growing up, Luke Hamnett felt that high school was a difficult place to discover his sexuality while trying to fit in [1]. He remembers facing teasing for choosing dance over hockey and wanting to do what he enjoyed [1]."
+   },
+   {
+    "h": "The cost of fitting in",
+    "t": "Witnessing another student face slurs for being gay showed him the harsh reality of school environments [1]. He hid who he was for a long time out of fear of what others might say or do [1]."
+   },
+   {
+    "h": "Finding self-acceptance",
+    "t": "Hamnett reflects that the scars of hiding can follow you into day-to-day life even after reaching self-acceptance [1]. However, he concludes that the power and complete happiness of being unapologetically yourself will always outweigh that doubt [1]."
+   }
+  ],
+  "why": "It is a thoughtful reminder on self-acceptance, navigating past expectations of masculinity, and finding personal strength.",
+  "tryit": "Reflect on one personal interest or creative outlet you may have set aside to fit in, and plan a small moment to enjoy it this week.",
+  "qa": [
+   [
+    "What activity did Luke Hamnett pick in year 9?",
+    "He picked dance instead of hockey [1]."
+   ],
+   [
+    "What GCSE subject did he end up taking?",
+    "He took drama and was the only person in his year to audition for the final school play [1]."
+   ],
+   [
+    "Where was the full essay published?",
+    "It was published in Attitude Uncut: The New Masculinity Issue on Apple News+ and the Attitude app [1]."
+   ],
+   [
+    "What does Hamnett say outweighs the doubt of being openly gay?",
+    "The power, strength and complete happiness that comes from being unapologetically yourself [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.attitude.co.uk/uncategorised/luke-hamnett-coming-out-essay-540451/",
+    "status": 200,
+    "title": "Luke Hamnett pens insightful essay on the 'power, strength and complete happiness' of coming out as a gay man",
+    "domain": "attitude.co.uk"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T21:41:17Z",
+  "addedAt": "2026-11-23T23:44:09Z",
+  "audio": "audio/finding-strength-power-and-complete-happiness-th.mp3",
+  "image": {
+   "src": "img/finding-strength-power-and-complete-happiness-th.jpg",
+   "credit": "Attitude",
+   "license": "© Attitude, shown with credit",
+   "page": "https://www.attitude.co.uk/uncategorised/luke-hamnett-coming-out-essay-540451/",
+   "from_url": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2026/11/Luke-hamnett.jpg"
+  }
+ },
+ {
+  "id": "new-ai-agent-feature-lets-claude-review-and-appr",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "agents"
+  ],
+  "title": "New AI Agent Feature Lets Claude Review and Approve Code",
+  "snippet": "Anthropic released Claude Ship in beta, a new feature using AI agents to review, fix, and approve pull requests autonomously based on team policies.",
+  "bullets": [
+   "Anthropic announced Claude Ship in beta on Monday to let Claude review, fix, and approve pull requests [1].",
+   "The tool uses two new agents named PR Steward and Claude Approvals to guide changes without manual steps [1].",
+   "Individuals with Pro, Max, or Ultra subscriptions can use the /ship command available now in Claude Code [1]."
+  ],
+  "report": [
+   {
+    "h": "Autonomous Code Shipping",
+    "t": "Anthropic introduced Claude Ship in beta to help developers delegate the final steps of code review and approval [1]. The feature uses two agents, PR Steward and Claude Approvals, to handle checks and decisions automatically [1]."
+   },
+   {
+    "h": "Controlled Policies",
+    "t": "Claude Approvals follows repository rules and policies provided by the user before giving a green light [1]. Teams can run the feature in observe-only mode first to build confidence before requiring autonomous approval [1]."
+   },
+   {
+    "h": "Access and Limits",
+    "t": "Pro, Max, and Ultra subscribers can use the /ship command in Claude Code without a significant token increase [1]. Team and Enterprise users are billed on tokens, and admins can set strict spending limits [1]."
+   }
+  ],
+  "why": "This tool can speed up your software development workflows, saving time and money when building digital products or AI-powered businesses.",
+  "tryit": "Try testing the /ship command in Claude Code if you have a Pro, Max, or Ultra subscription to explore automated deployment.",
+  "qa": [
+   [
+    "What is Claude Ship?",
+    "It is a new feature in beta that allows Claude to review, fix, and approve pull requests based on team policies [1]."
+   ],
+   [
+    "What two agents power the feature?",
+    "The feature uses PR Steward and Claude Approvals [1]."
+   ],
+   [
+    "Can PR Steward approve pull requests?",
+    "No, PR Steward cannot approve or merge pull requests, but it participates on failing checks and merge conflicts [1]."
+   ],
+   [
+    "How can users access Claude Ship?",
+    "Individuals with Pro, Max, or Ultra subscriptions can use the /ship command now available in Claude Code [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/",
+    "status": 200,
+    "title": "Claude can ship code for you now - how to try it (if you dare) - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T20:00:02Z",
+  "addedAt": "2026-11-23T23:44:09Z",
+  "audio": "audio/new-ai-agent-feature-lets-claude-review-and-appr.mp3",
+  "image": {
+   "src": "img/new-ai-agent-feature-lets-claude-review-and-appr.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271847888.jpg"
+  }
+ },
+ {
+  "id": "cognitive-skills-shape-how-young-children-learn",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "adhd",
+   "focus",
+   "science"
+  ],
+  "title": "Cognitive Skills Shape How Young Children Learn From Screens Versus Paper",
+  "snippet": "New research shows that children learn words equally well from paper or static tablets on average. However, kids with stronger attention and self-control skills performed better on tablets, while those with less developed skills fared better on paper.",
+  "bullets": [
+   "A study of 99 British English-speaking children aged 4 to 5 years tested word learning from paper books versus static iPads [1].",
+   "Overall word learning scores showed no statistically significant difference between reading on paper or on a tablet [1].",
+   "Children with higher executive function scores achieved better comprehension from the iPad than from paper [1]."
+  ],
+  "report": [
+   {
+    "h": "Format Parity",
+    "t": "Researchers found that children learned new words about equally well overall whether a story was read from a paper book or a static digital tablet [1]. Pairs spent roughly four and a half minutes reading each book in the study [1]."
+   },
+   {
+    "h": "The Role of Traits",
+    "t": "While overall formats tied, individual child traits shaped outcomes [1]. Children with higher executive function scores, which include attention and impulse control, understood stories better from an iPad than from paper [1]."
+   },
+   {
+    "h": "Practical Caveats",
+    "t": "The digital books used in the study had no animations, sound effects, or interactive features to isolate the screen format alone [1]. Most participating caregivers held a university degree or higher and rarely used digital books at home [1]."
+   }
+  ],
+  "why": "Understanding how cognitive skills and attention interact with different mediums provides useful insight into how we focus and process information.",
+  "tryit": "Observe your focus levels when reading long-form text on a screen versus paper today, and switch to paper if you notice your attention drifting.",
+  "qa": [
+   [
+    "Did children learn more words from paper or screens overall?",
+    "There was no statistically significant overall difference in word learning between paper and digital books [1]."
+   ],
+   [
+    "What child traits predicted better comprehension on the iPad?",
+    "Children with higher executive function scores, such as attention and self-control, achieved better comprehension from the iPad [1]."
+   ],
+   [
+    "How were the digital books formatted for the study?",
+    "The digital books had no audio narration, animations, or interactive features to keep them as static replicas of the paper books [1]."
+   ],
+   [
+    "How long did families spend reading each book?",
+    "Pairs spent virtually identical time reading, averaging roughly four and a half minutes per book [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/study-suggests-cognitive-skills-shape-how-young-children-learn-new-words-from-screen-versus-paper-books/",
+    "status": 200,
+    "title": "Study suggests cognitive skills shape how young children learn new words from screen versus paper books",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T23:00:12Z",
+  "addedAt": "2026-11-23T23:44:09Z",
+  "audio": "audio/cognitive-skills-shape-how-young-children-learn.mp3",
+  "image": {
+   "src": "img/cognitive-skills-shape-how-young-children-learn.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/study-suggests-cognitive-skills-shape-how-young-children-learn-new-words-from-screen-versus-paper-books/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/mother-boy-reading.jpg"
+  }
+ },
+ {
+  "id": "look-up-this-week-to-see-the-first-of-four-super",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "space",
+   "animals"
+  ],
+  "title": "Look Up This Week to See the First of Four Supermoons",
+  "snippet": "Four consecutive supermoons will grace our skies from November through February, starting with November's full beaver moon.",
+  "bullets": [
+   "Four consecutive supermoons will grace our skies from November through February [1].",
+   "The moon's closest point to Earth along its orbital path is around 226,000 miles away [1].",
+   "Supermoons take place around three to four times per year and always occur in a row [1]."
+  ],
+  "report": [
+   {
+    "h": "Four Supermoons Coming",
+    "t": "A stunning series of four consecutive supermoons will grace our skies from November through February [1]. The second in the series falls on Christmas Eve and represents the closest full moon to Earth since 2018 [1]."
+   },
+   {
+    "h": "Orbital Perigee and Apogee",
+    "t": "The moon's orbit around our planet is shaped like an oval, meaning it drifts closer and farther from us [1]. Its closest point is around 226,000 miles from Earth, while its farthest point is around 251,000 miles away [1]."
+   },
+   {
+    "h": "The Beaver Moon Name",
+    "t": "November's full moon is always dubbed the beaver moon because furry animals reinforce their lodges and dams for winter [1]. Another possible reason is that November kicks off trapping season when large rodents have grown thick winter coats [1]."
+   }
+  ],
+  "why": "It is a wonderful excuse to step outside, take a mental break from business tasks, and enjoy a surprising natural spectacle in the night sky.",
+  "tryit": "Step outside after sunset tonight or tomorrow to look up at the full moon and notice the night sky.",
+  "qa": [
+   [
+    "When do the four supermoons take place?",
+    "They take place from November through February [1]."
+   ],
+   [
+    "How far is the closest point of the moon's orbit?",
+    "The closest point, or perigee, is around 226,000 miles from Earth [1]."
+   ],
+   [
+    "How often do supermoons take place?",
+    "Supermoons take place around three to four times per year, and they always occur in a row [1]."
+   ],
+   [
+    "Why is November's full moon called the beaver moon?",
+    "It is named because furry animals reinforce their lodges and dams for winter, or because November kicks off trapping season [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smart-news/look-up-this-week-to-see-novembers-full-beaver-moon-the-first-of-four-back-to-back-supermoons-over-the-coming-months-180989927/",
+    "status": 200,
+    "title": "Look Up This Week to See November's Full Beaver Moon—the First of Four Back-to-Back Supermoons Over the Coming Months",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T20:43:29Z",
+  "addedAt": "2026-11-23T23:44:09Z",
+  "audio": "audio/look-up-this-week-to-see-the-first-of-four-super.mp3",
+  "image": {
+   "src": "img/look-up-this-week-to-see-the-first-of-four-super.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smart-news/look-up-this-week-to-see-novembers-full-beaver-moon-the-first-of-four-back-to-back-supermoons-over-the-coming-months-180989927/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/rC8HCEBHGNmuLMgfeex6vWNcJpE=/fit-in/1600x0/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/c4/f8c45354-6b19-4ade-b22a-87ba999c13a9/supermoonn.jpg"
+  }
+ },
+ {
+  "id": "pixel-weather-app-update-lets-you-report-local-w",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "science",
+   "travel"
+  ],
+  "title": "Pixel Weather app update lets you report local weather conditions",
+  "snippet": "A new Pixel Weather app update lets users report local conditions to help improve forecast accuracy. You can share whether it is warmer, colder, clear, or raining.",
+  "bullets": [
+   "A recent update to the Pixel Weather app introduced a new report current weather card [1].",
+   "Users can indicate if the temperature is accurate, warmer, or colder than the app states [1].",
+   "Google uses this feedback along with device location and diagnostic information to improve forecasts [1]."
+  ],
+  "report": [
+   {
+    "h": "New weather reporting card",
+    "t": "The Pixel Weather app now includes a report current weather card at the bottom of the app [1]. Users can tap it when the weather does not match what the app is showing [1]."
+   },
+   {
+    "h": "Sharing local conditions",
+    "t": "The feature allows you to select if the temperature is accurate, warmer, or colder [1]. You can also choose conditions like cloudy, clear, rain showers, or strong thunderstorms [1]."
+   },
+   {
+    "h": "Privacy and rollout",
+    "t": "Google states that nothing reported will be associated with your Google account [1]. The update appears to be widespread, having appeared on three Pixel phones in one home [1]."
+   }
+  ],
+  "why": "This is a quick way to contribute to crowd-sourced data accuracy when standard tech tools fall short.",
+  "tryit": "Open your Pixel Weather app, scroll to the bottom, and tap the report card if the local forecast needs a correction.",
+  "qa": [
+   [
+    "Where is the report card located in the app?",
+    "You can find the card by scrolling all the way to the bottom of your Pixel Weather app [1]."
+   ],
+   [
+    "What options do you get when you tap the card?",
+    "You can indicate if the temperature is accurate, warmer, or colder, and select conditions like clear, cloudy, or rain showers [1]."
+   ],
+   [
+    "Is your report linked to your Google account?",
+    "No, nothing you report will be associated with your Google account [1]."
+   ],
+   [
+    "How wide is the rollout?",
+    "The feature was present on three Pixel phones in one home, so the rollout appears to be widespread [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/tech/pixel-weather-feature-local-weather-reports/",
+    "status": 200,
+    "title": "Pixel Weather's new feature lets you report your local conditions now - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T17:22:27Z",
+  "addedAt": "2026-11-23T23:44:09Z",
+  "audio": "audio/pixel-weather-app-update-lets-you-report-local-w.mp3",
+  "image": {
+   "src": "img/pixel-weather-app-update-lets-you-report-local-w.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/tech/pixel-weather-feature-local-weather-reports/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_20261123_112401.jpg"
+  }
+ },
+ {
+  "id": "nvidia-shares-surge-nearly-33-after-jensen-huang",
+  "cat": "money",
+  "tags": [
+   "ai",
+   "money",
+   "business",
+   "economics"
+  ],
+  "title": "Nvidia shares surge nearly 33% after Jensen Huang returns as CEO",
+  "snippet": "Nvidia shares skyrocketed after the tech firm reinstated Jensen Huang as its chief executive with immediate effect. The market value increased by about $1 trillion, lifting the wider tech sector [1].",
+  "bullets": [
+   "Nvidia shares rose by nearly 33% by midday ET [1].",
+   "The surge boosted Nvidia's market value by about $1 trillion [1].",
+   "Other chipmakers also grew, with Micron Technology jumping 19% [1]."
+  ],
+  "report": [
+   {
+    "h": "Sudden CEO Return",
+    "t": "Nvidia reinstated Jensen Huang as chief executive less than two weeks after his resignation [1]. The board voted unanimously to bring back the co-founder following discussions [1]."
+   },
+   {
+    "h": "Massive Market Rally",
+    "t": "Nvidia shares rose by nearly 33% by midday ET, adding about $1 trillion to its market value [1]. The Nasdaq index also rose by nearly 7% as tech stocks rallied [1]."
+   },
+   {
+    "h": "Wider Sector Gains",
+    "t": "Amazon shares rose by nearly 4% and Microsoft shares increased by nearly 3% [1]. Other chipmakers like Micron Technology and Intel also saw significant share price jumps [1]."
+   }
+  ],
+  "why": "Understanding major market movements and tech sector shifts helps spot broader investment and business opportunities.",
+  "tryit": "Review your portfolio or watch lists to track how major market recoveries impact tech and AI holdings.",
+  "qa": [
+   [
+    "How much did Nvidia shares rise?",
+    "Nvidia shares rose by nearly 33% by midday ET [1]."
+   ],
+   [
+    "What happened to Nvidia's market value?",
+    "Its market value was boosted by about $1 trillion [1]."
+   ],
+   [
+    "Which other chipmaker saw a large increase?",
+    "Micron Technology jumped 19% [1]."
+   ],
+   [
+    "How did Microsoft shares perform?",
+    "Microsoft shares were up nearly 3% [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
+    "status": 200,
+    "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+    "domain": "bbc.co.uk"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T17:42:37Z",
+  "addedAt": "2026-11-23T18:04:11Z",
+  "audio": "audio/nvidia-shares-surge-nearly-33-after-jensen-huang.mp3",
+  "image": {
+   "src": "img/nvidia-shares-surge-nearly-33-after-jensen-huang.jpg",
+   "credit": "BBC News",
+   "license": "© BBC News, shown with credit",
+   "page": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
+   "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80fb/live/5a6a1700-e753-11f1-99b6-a35a62fa4264.jpg"
+  },
+  "sides": [
+   {
+    "title": "Jensen Huang reinstated as Nvidia CEO after Trump pushes board",
+    "url": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864",
+    "outlet": "NBC News",
+    "domain": "nbcnews.com",
+    "lean": "L",
+    "leanLabel": "Left-leaning",
+    "publishedAt": "2026-11-23T13:59:57Z"
+   },
+   {
+    "title": "Nvidia reinstates Jensen Huang as CEO",
+    "url": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/",
+    "outlet": "CBS News",
+    "domain": "cbsnews.com",
+    "lean": "C",
+    "leanLabel": "Centre",
+    "publishedAt": "2026-11-23T21:13:11Z"
+   },
+   {
+    "title": "Stocks fly as Nvidia restores Jensen Huang as chief executive",
+    "url": "https://www.independent.co.uk/news/business/nvidia-donald-trump-pmi-nasdaq-composite-capita-b3090131.html",
+    "outlet": "The Independent",
+    "domain": "independent.co.uk",
+    "lean": "L",
+    "leanLabel": "Left-leaning",
+    "publishedAt": "2026-11-23T17:27:05Z"
+   },
+   {
+    "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
+    "url": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf",
+    "outlet": "DW",
+    "domain": "dw.com",
+    "lean": "C",
+    "leanLabel": "Centre",
+    "publishedAt": "2026-11-23T14:18:00Z"
+   }
+  ]
+ },
+ {
+  "id": "how-to-save-your-google-nest-videos-before-the-2",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "technology",
+   "tools"
+  ],
+  "title": "How to save your Google Nest videos before the 2027 shutdown",
+  "snippet": "Google is retiring the Nest app and website on Jan. 25, 2027. Learn how to migrate your account and download important video clips before data deletion begins.",
+  "bullets": [
+   "Google is retiring the Nest app and the site Home.Nest.com on Jan. 25, 2027 [1].",
+   "Videos saved in the Nest web clip library will not transfer automatically to Google Home [1].",
+   "Nest Aware subscription plans transition to Google Home Premium and Google Home Premium Advanced plans in Jan. 2027 [1]."
+  ],
+  "report": [
+   {
+    "h": "Nest App Shutdown",
+    "t": "Google is retiring the Nest app and the site Home.Nest.com on Jan. 25, 2027 [1]. Users should check for unmigrated data before deletions begin on March 25, 2027 [1]."
+   },
+   {
+    "h": "Video Clip Migration",
+    "t": "Videos saved in the Nest web clip library will not transfer automatically to Google Home [1]. You should download clips you want to keep before the Jan. 25 cutoff using the Download All option [1]."
+   },
+   {
+    "h": "Assistant and Subscriptions",
+    "t": "Nest Aware subscriptions transition to Google Home Premium plans in Jan. 2027 [1]. Google Assistant will also be removed from smart speakers and displays in Aug. 2027 in favor of Gemini for Home [1]."
+   }
+  ],
+  "why": "This helps you secure your digital household data early so you avoid losing saved clips or device access during future software migrations.",
+  "tryit": "Open your Nest web clip library today and use the Download All option to save any video clips you want to keep before the Jan. 25 deadline [1].",
+  "qa": [
+   [
+    "When is the Nest app shutting down?",
+    "It shuts down on Jan. 25, 2027 [1]."
+   ],
+   [
+    "Do saved videos transfer automatically?",
+    "No, videos saved in the Nest web clip library won't transfer automatically to Google Home [1]."
+   ],
+   [
+    "When do Nest Aware subscriptions transition?",
+    "They transition to Google Home Premium and Google Home Premium Advanced plans starting in Jan. 2027 [1]."
+   ],
+   [
+    "What is replacing Google Assistant on smart speakers?",
+    "Gemini for Home is replacing Google Assistant, with the full switch happening in Aug. 2027 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/home-and-office/how-to-save-your-google-nest-app-videos-switch-to-google-home/",
+    "status": 200,
+    "title": "How to save your Google Nest app videos before the January shutdown - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T17:52:52Z",
+  "addedAt": "2026-11-23T18:04:11Z",
+  "audio": "audio/how-to-save-your-google-nest-videos-before-the-2.mp3",
+  "image": {
+   "src": "img/how-to-save-your-google-nest-videos-before-the-2.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/home-and-office/how-to-save-your-google-nest-app-videos-switch-to-google-home/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/02eecfe6-7cf5-4662-963a-ca73ebae233b.jpg"
+  }
+ },
+ {
+  "id": "how-understanding-sexual-thoughts-can-improve-in",
+  "cat": "mind",
+  "tags": [
+   "psychology",
+   "relationships",
+   "mind",
+   "health"
+  ],
+  "title": "How Understanding Sexual Thoughts Can Improve Intimate Function Over Time",
+  "snippet": "A new study reveals that the ability to understand your own and others' sexual thoughts and feelings predicts better sexual function and more partnered sex four months later [1].",
+  "bullets": [
+   "A study of German-speaking adults surveyed twice, about four months apart, explored the link between sexual mentalizing and adult sexuality [1].",
+   "Participants with better sexual mentalizing at the first time point reported better sexual function and more partnered sex later on [1].",
+   "Greater sexual satisfaction also predicted better sexual mentalizing four months later in both women and men [1]."
+  ],
+  "report": [
+   {
+    "h": "What is sexual mentalizing",
+    "t": "Mentalizing is the ability to understand thoughts, feelings, and desires that influence behavior [1]. Sexual mentalizing applies this specifically to sexual situations, helping individuals interpret their own and others' intimate desires [1]."
+   },
+   {
+    "h": "The four-month study",
+    "t": "Researchers collected data from participants at two points about four months apart using a cross-lagged panel design [1]. The study included 2,650 participants at the first time point and 1,769 at the second [1]."
+   },
+   {
+    "h": "Reciprocal benefits found",
+    "t": "Better sexual mentalizing predicted better sexual function and more partnered sex over time, and vice versa [1]. Among men, sexual mentalizing predicted later partnered sexual activity more strongly than activity predicted mentalizing [1]."
+   }
+  ],
+  "why": "Understanding the mental side of intimacy offers a practical angle to improve your relational well-being and emotional intelligence.",
+  "tryit": "Reflect on a recent intimate situation by writing down one thought or feeling you had and one you believe your partner experienced.",
+  "qa": [
+   [
+    "What is sexual mentalizing?",
+    "It is the ability to recognize, interpret, and regulate one's own and others' sexual feelings, desires, and experiences [1]."
+   ],
+   [
+    "How long was the study period?",
+    "Data was collected at two points about four months apart [1]."
+   ],
+   [
+    "How many participants took part?",
+    "A total of 2,650 participants were included at the first time point, and 1,769 at the second [1]."
+   ],
+   [
+    "Did sexual mentalizing predict sexual satisfaction?",
+    "Sexual mentalizing did not predict later sexual satisfaction, but greater satisfaction predicted better sexual mentalizing later on [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/better-sexual-mentalizing-is-linked-to-better-sexual-function-and-more-sex-over-time/",
+    "status": 200,
+    "title": "Better sexual mentalizing is linked to better sexual function and more sex over time",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T15:00:57Z",
+  "addedAt": "2026-11-23T18:04:11Z",
+  "audio": "audio/how-understanding-sexual-thoughts-can-improve-in.mp3",
+  "image": {
+   "src": "img/how-understanding-sexual-thoughts-can-improve-in.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/better-sexual-mentalizing-is-linked-to-better-sexual-function-and-more-sex-over-time/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2025/04/young-couple-in-bed.jpg"
+  }
+ },
+ {
+  "id": "first-of-three-consecutive-supermoons-lights-up",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "space",
+   "animals",
+   "travel"
+  ],
+  "title": "First of three consecutive supermoons lights up the eastern sky tonight",
+  "snippet": "The first of three consecutive supermoons dazzles tonight and tomorrow. Look to the east during moonrise to experience the classic horizon illusion.",
+  "bullets": [
+   "The brightest period arrives at 9:40 a.m. US Eastern Time on Tuesday [1].",
+   "Supermoons appear larger near the horizon due to an optical illusion created by trees and houses [1].",
+   "This Beaver Moon begins a series of three consecutive supermoons continuing in December and January [1]."
+  ],
+  "report": [
+   {
+    "h": "The Supermoon Series",
+    "t": "The next three consecutive full moons arrive as supermoons, starting tonight and tomorrow [1]. The peak brightness hits at 9:40 a.m. US Eastern Time on Tuesday, though dark periods either side offer fantastic viewing [1]."
+   },
+   {
+    "h": "The Horizon Illusion",
+    "t": "Supermoons do not look much bigger in the middle of the sky [1]. They take on their giant appearance near the horizon thanks to an optical illusion involving trees and houses [1]."
+   },
+   {
+    "h": "Historical Names",
+    "t": "This month is known as the Beaver Moon because beavers head to their dens for hibernation [1]. Other traditional names include the Deer Rutting Moon, the Frost Moon, and the Digging Moon [1]."
+   }
+  ],
+  "why": "It gives you a great excuse to step outside into nature, clear your head, and enjoy a quiet moment away from screens.",
+  "tryit": "Step outside into an open area during the early twilight tonight or tomorrow night and look towards the eastern sky to catch the moonrise.",
+  "qa": [
+   [
+    "When does the moon reach its brightest period?",
+    "It reaches its brightest period at 9:40 a.m. US Eastern Time on Tuesday [1]."
+   ],
+   [
+    "Why does the supermoon look bigger near the horizon?",
+    "It is down to an optical illusion created by trees and houses that make the moon appear larger by comparison [1]."
+   ],
+   [
+    "What is a supermoon?",
+    "A moon becomes a supermoon when it reaches perigee, which is the closest point to Earth in its orbit [1]."
+   ],
+   [
+    "How many consecutive supermoons are there in this series?",
+    "There is a series of three consecutive supermoons spanning November, December, and January [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.goodnewsnetwork.org/first-of-3-consecutive-supermoons-to-begin-tonight-look-to-the-east-for-the-beaver-moon/",
+    "status": 200,
+    "title": "First of 3 Consecutive Supermoons to Begin Tonight – Look to the East for the Beaver Moon",
+    "domain": "goodnewsnetwork.org"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T12:30:42Z",
+  "addedAt": "2026-11-23T18:04:11Z",
+  "audio": "audio/first-of-three-consecutive-supermoons-lights-up.mp3",
+  "image": {
+   "src": "img/first-of-three-consecutive-supermoons-lights-up.jpg",
+   "credit": "Good News Network",
+   "license": "© Good News Network, shown with credit",
+   "page": "https://www.goodnewsnetwork.org/first-of-3-consecutive-supermoons-to-begin-tonight-look-to-the-east-for-the-beaver-moon/",
+   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/11/moon-and-supermoon-comparison.jpg"
+  }
+ },
+ {
+  "id": "build-a-lasting-business-legacy-by-making-succes",
+  "cat": "money",
+  "tags": [
+   "business",
+   "money",
+   "negotiation",
+   "economics"
+  ],
+  "title": "Build a Lasting Business Legacy by Making Success Earned",
+  "snippet": "Founders can build lasting legacies by making the next generation earn their leadership roles through hard work and proven competence, rather than expecting automatic handovers.",
+  "bullets": [
+   "Andrew Titus worked his way up from the bottom of the business before becoming president of Fully Promoted [1].",
+   "Company founders have a responsibility to deliberately transmit values and require the next generation to earn leadership [1].",
+   "Core values were taught to the sons through daily repetition of 18 life principles in the car [1]."
+  ],
+  "report": [
+   {
+    "h": "Earning leadership roles",
+    "t": "When Andrew Titus was named president of Fully Promoted, some franchisees suspected nepotism [1]. However, after he worked his way up and proved ready, sentiment shifted completely within a year [1]."
+   },
+   {
+    "h": "Passing down values",
+    "t": "Founders must deliberately hand down values, habits, discipline, attitude, and expectations to the next generation [1]. A business is shaped by these foundational elements just like a family is [1]."
+   },
+   {
+    "h": "Outworking the rest",
+    "t": "Success depends on what individuals do with the opportunities they are given and having the mindset to learn [1]. Gaining respect in business requires outworking everyone else [1]."
+   }
+  ],
+  "why": "This offers a practical blueprint for structuring leadership transitions and instilling strong operational values if you are looking to buy or grow a business.",
+  "tryit": "Write down three core values for your current projects and share them clearly with your team or partners today.",
+  "qa": [
+   [
+    "Who is Andrew Titus?",
+    "He is the son of the CEO who worked his way up to become president of Fully Promoted and later transitioned to lead Transworld Business Advisors [1]."
+   ],
+   [
+    "What books did the sons author?",
+    "A.J. wrote The List: Lessons from a Father and Andrew authored Earned Not Given: How to Become a Difference Maker Early in Your Career [1]."
+   ],
+   [
+    "What are the two main responsibilities of entrepreneurs wanting their business to survive?",
+    "They have the responsibility to deliberately transmit the values that created the business and require the next generation to earn the right to lead it [1]."
+   ],
+   [
+    "What rule was given to the sons when they started working?",
+    "They were told there would be a microscope on them and that they had to do it the right way or they could not work there [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/business-news/want-to-build-a-lasting-family-business-make-the-next-generation-earn-the-right-to-lead",
+    "status": 200,
+    "title": "Want to Build a Lasting Family Business? Make the Next Generation Earn the Right to Lead",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-23",
+  "publishedAt": "2026-11-23T13:00:00Z",
+  "addedAt": "2026-11-23T17:38:06Z",
+  "audio": "audio/build-a-lasting-business-legacy-by-making-succes.mp3",
+  "image": {
+   "src": "img/build-a-lasting-business-legacy-by-making-succes.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/business-news/want-to-build-a-lasting-family-business-make-the-next-generation-earn-the-right-to-lead",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/family-business-1126-g-696662288.jpg"
+  }
+ },
+ {
   "id": "openai-chief-scientist-proposes-using-perplexity",
   "cat": "ai",
   "tags": [
@@ -21204,77 +21940,6 @@
   }
  },
  {
-  "id": "colleges-shift-to-high-value-career-pathways-and",
-  "cat": "adhd",
-  "tags": [
-   "business",
-   "economics",
-   "ai",
-   "adhd",
-   "money"
-  ],
-  "title": "Colleges Shift to High-Value Career Pathways and Practical Outcomes",
-  "snippet": "Community colleges are under pressure to prove their economic value by aligning programs directly with regional workforce demand and clear career outcomes.",
-  "bullets": [
-   "A July 2026 report shows more than one-third of community college credentials are unlikely to lead directly to living-wage jobs [1].",
-   "The Unlocking Opportunity initiative moved over 20,000 additional students into high-value pathways between 2022 and 2025 [1].",
-   "San Antonio College increased enrollment in selective nursing programs by 71% over three years by partnering with healthcare employers [1]."
-  ],
-  "report": [
-   {
-    "h": "Aligning Education With Demand",
-    "t": "Colleges are using regional employment data and employer partnerships to ensure courses lead directly to strong career opportunities [1]. This proactive shift helps tackle regional workforce shortages in fields like healthcare and technical training [1]."
-   },
-   {
-    "h": "Reassessing Program Value",
-    "t": "Institutions are closing programs that offer limited career value or poor wage advantages to graduates [1]. South Puget Sound Community College saved resources by discontinuing specific courses after reviewing regional employment demand [1]."
-   },
-   {
-    "h": "Better Advising and AI",
-    "t": "Colleges use frameworks like Guided Pathways and AI-supported advising tools to help students pick clear career options early [1]. Over 90% of surveyed students had chosen a career path, yet many lacked essential details on how to pursue it [1]."
-   }
-  ],
-  "why": "When you are building a business or sharpening your focus, aligning every effort with clear, measurable outcomes saves valuable time and energy.",
-  "tryit": "Audit your current long-term projects or business goals this week to ensure they tie directly into clear market demand, using data rather than assumptions.",
-  "qa": [
-   [
-    "What did the July 2026 report reveal?",
-    "It showed that more than one-third of community college credentials are unlikely to lead directly to living-wage jobs or bachelor's degrees [1]."
-   ],
-   [
-    "What is the Unlocking Opportunity initiative?",
-    "It is an initiative launched in 2022 where 10 community colleges worked to align academic programs with employment opportunities [1]."
-   ],
-   [
-    "How did San Antonio College increase nursing enrollment?",
-    "It partnered with healthcare employers to expand clinical training placements, increasing enrollment by 71% over three years [1]."
-   ],
-   [
-    "How are colleges helping students choose better paths?",
-    "They are using Guided Pathways frameworks and AI-supported advising tools to offer personalized guidance and connect decisions to career goals [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.entrepreneur.com/business-news/students-want-more-than-degrees-community-colleges-now-have-to-prove-economic-value",
-    "status": 200,
-    "title": "Students Want More Than Degrees. Community Colleges Now Have to Prove Economic Value",
-    "domain": "entrepreneur.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T19:00:00Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/colleges-shift-to-high-value-career-pathways-and.mp3",
-  "image": {
-   "src": "img/colleges-shift-to-high-value-career-pathways-and.jpg",
-   "credit": "Entrepreneur",
-   "license": "© Entrepreneur, shown with credit",
-   "page": "https://www.entrepreneur.com/business-news/students-want-more-than-degrees-community-colleges-now-have-to-prove-economic-value",
-   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/students-want-more-than-degrees-1126_g2193114366.jpg"
-  }
- },
- {
   "id": "seven-clear-signs-your-current-therapist-might-n",
   "cat": "mind",
   "tags": [
@@ -21413,427 +22078,6 @@
    "license": "© TechCrunch, shown with credit",
    "page": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
    "from_url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-521333620.jpg?resize=1200,800"
-  }
- },
- {
-  "id": "how-to-beat-low-quality-ai-content-by-doing-real",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "science"
-  ],
-  "title": "How to beat low-quality AI content by doing real-world experiments",
-  "snippet": "A former NASA engineer shares how real-world experiments and human personality help creators stand out against low-quality AI posts.",
-  "bullets": [
-   "Mark Rober suggests the solution to competing against AI slop is to go out into the real world and do something noteworthy [1].",
-   "His YouTube videos generated about $17 million in revenue last year, which matches what it cost to produce them [1].",
-   "Translation startup Linguana helps creators expand internationally by generating 10,000 video translations each month [1]."
-  ],
-  "report": [
-   {
-    "h": "Real world advantage",
-    "t": "Creator Mark Rober notes that the fact a feat is real makes it compelling to watch compared to simulations [1]. His channel relies on physical experiments and recognizable human personality to maintain an advantage [1]."
-   },
-   {
-    "h": "Business and revenue",
-    "t": "Rober also runs a company called CrunchLabs that employs more than 200 people and sells maker kits [1]. His channel generated roughly $17 million in revenue last year, matching production costs [1]."
-   },
-   {
-    "h": "AI translation tools",
-    "t": "Startups like Linguana use AI dubbing, translated thumbnails, and descriptions to help creators reach new language markets [1]. The company takes half the generated revenue through partnerships instead of charging upfront [1]."
-   }
-  ],
-  "why": "This matters because it shows how to use authentic real-world actions and smart AI tools together to build a strong business brand.",
-  "tryit": "Explore using AI translation services like Linguana to translate existing video or audio content into new languages to reach international audiences.",
-  "qa": [
-   [
-    "What is Mark Rober's solution to AI slop?",
-    "He suggests going out into the real world and doing something noteworthy that viewers know is real [1]."
-   ],
-   [
-    "How much revenue did Rober's YouTube videos generate last year?",
-    "They generated about $17 million in revenue [1]."
-   ],
-   [
-    "What does CrunchLabs do?",
-    "It is a company that sells products like maker kits to introduce young people to science and engineering [1]."
-   ],
-   [
-    "How does Linguana charge for its AI translation service?",
-    "The company takes half the revenue generated through its partnerships rather than charging upfront [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.entrepreneur.com/business-news/he-has-85-7-million-youtube-subscribers-this-is-how-to-differentiate-your-videos-from-ai-slop",
-    "status": 200,
-    "title": "This Former NASA Engineer Has 85 Million YouTube Subscribers. He Says This Is How to Differentiate Your Videos From AI Slop.",
-    "domain": "entrepreneur.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T19:33:44Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/how-to-beat-low-quality-ai-content-by-doing-real.mp3",
-  "image": {
-   "src": "img/how-to-beat-low-quality-ai-content-by-doing-real.jpg",
-   "credit": "Entrepreneur",
-   "license": "© Entrepreneur, shown with credit",
-   "page": "https://www.entrepreneur.com/business-news/he-has-85-7-million-youtube-subscribers-this-is-how-to-differentiate-your-videos-from-ai-slop",
-   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Mark-Rober-1126_g2297533234-new.jpg"
-  }
- },
- {
-  "id": "apple-ceo-pushes-for-agentic-siri-as-ai-race-hea",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "agents",
-   "apple",
-   "productivity"
-  ],
-  "title": "Apple CEO pushes for agentic Siri as AI race heats up",
-  "snippet": "Apple’s leadership is reportedly pushing to speed up its AI roadmap and transform Siri into a true AI agent. While competitors race ahead with autonomous tools, Apple focuses on maintaining its privacy-first approach.",
-  "bullets": [
-   "Apple CEO John Ternus is reportedly pushing software chief Craig Federighi to accelerate the company's AI roadmap [1].",
-   "An agentic Siri could eventually scroll through long documents independently to surface insights [1].",
-   "Apple's slower pace has protected its reputation amid public backlash against privacy trade-offs in rival AI tools [1]."
-  ],
-  "report": [
-   {
-    "h": "Internal AI pressure",
-    "t": "Apple leadership is pushing internally to move beyond basic voice assistance and speed up the development of a true AI agent [1]. This internal drive aims to close the gap with competitors who already offer more autonomous features [1]."
-   },
-   {
-    "h": "Future agent capabilities",
-    "t": "An upgraded Siri could evolve from viewing only what is on screen to performing complex tasks like reading full emails and tapping into third-party apps [1]. Apple recently began discussing advanced in-app actions again in a beta software version [1]."
-   },
-   {
-    "h": "Privacy versus speed",
-    "t": "While rivals like OpenAI and Meta launch powerful agents, they often face privacy backlashes regarding data usage and security vulnerabilities [1]. Apple's slower, privacy-first approach remains a key differentiator for users who value data protection [1]."
-   }
-  ],
-  "why": "Understanding how major tech companies approach autonomous AI agents helps you anticipate the tools and privacy standards that will soon shape business workflows.",
-  "tryit": "Check your device settings to ensure you are running the latest software updates so you can test new Siri on-screen awareness features as they roll out.",
-  "qa": [
-   [
-    "Who is pushing Apple to speed up its AI strategy?",
-    "Apple's recently appointed CEO, John Ternus, is pushing the company internally to move faster [1]."
-   ],
-   [
-    "Why has Apple been slower with AI software?",
-    "Software chief Craig Federighi has a reputation as an AI skeptic, creating internal tension over the speed of development [1]."
-   ],
-   [
-    "What might an agentic Siri do in the future?",
-    "It could scroll through long emails on its own and tap into third-party applications with more precision [1]."
-   ],
-   [
-    "How does Apple's approach differ from competitors?",
-    "Apple maintains a strong privacy-first approach compared to data-hungry AI agents from rival companies [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy/",
-    "status": 200,
-    "title": "Ready for a Siri AI agent? Apple under pressure to upgrade its assistant faster - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T17:54:25Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/apple-ceo-pushes-for-agentic-siri-as-ai-race-hea.mp3",
-  "image": {
-   "src": "img/apple-ceo-pushes-for-agentic-siri-as-ai-race-hea.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2255802594.jpg"
-  }
- },
- {
-  "id": "study-reveals-procrastination-is-the-biggest-hur",
-  "cat": "adhd",
-  "tags": [
-   "adhd",
-   "focus",
-   "psychology",
-   "money",
-   "business"
-  ],
-  "title": "Study reveals procrastination is the biggest hurdle for student academic performance",
-  "snippet": "A new study analyzing responses from over 65,000 college students identifies procrastination as the top issue affecting academic performance and overall distress. Understanding this feedback loop between stress and delay helps tackle focus issues [1].",
-  "bullets": [
-   "Over 65,000 college students across almost 100 academic institutions in the US were surveyed by social scientist Itamar Shatz [1].",
-   "Procrastination was cited by 45.4 percent of respondents as negatively affecting their academic results [1].",
-   "Among students who experienced ADHD, 64.1 percent said it severely impacted their academic performance [1]."
-  ],
-  "report": [
-   {
-    "h": "The Student Survey",
-    "t": "A major study in PLOS One examined 36 different life and health issues reported by college students [1]. The data showed that procrastination outranked stress, anxiety, and sleep difficulties in terms of its impact on academic results [1]."
-   },
-   {
-    "h": "The Stress Loop",
-    "t": "Procrastination and stress create a powerful feedback loop where delaying tasks causes stress, which ruins sleep and fuels more procrastination [1]. While ADHD affected fewer overall students, those who had it reported a very high impact on their studies [1]."
-   },
-   {
-    "h": "Long-Term Costs",
-    "t": "The impacts of procrastination follow people into their careers and earnings long after graduation [1]. Workplace research links higher procrastination scores directly with lower average income levels [1]."
-   }
-  ],
-  "why": "Understanding how procrastination and focus interact with stress can help you build better systems for managing projects, business tasks, and daily execution.",
-  "tryit": "Break your current intimidating business or work task into tiny steps today to short-circuit the stress and procrastination loop.",
-  "qa": [
-   [
-    "What was found to be the biggest issue affecting academic performance?",
-    "Procrastination was identified as the biggest issue, affecting 45.4 percent of survey respondents [1]."
-   ],
-   [
-    "How many students participated in the study?",
-    "The study analyzed survey responses from over 65,000 college students at almost 100 academic institutions across the US [1]."
-   ],
-   [
-    "How did ADHD compare to procrastination in the survey?",
-    "ADHD affected academic performance for 64.1 percent of the students who experienced it, but it ranked lower overall because fewer students reported having it [1]."
-   ],
-   [
-    "Does procrastination affect income later in life?",
-    "Yes, workplace research suggests that higher procrastination levels are linked to lower average income levels [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/study-identifies-the-1-issue-affecting-the-academic-performance-of-us-college-students",
-    "status": 200,
-    "title": "The Biggest Academic Problem For College Students Isn't Stress or Anxiety, Study Finds",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T16:00:00Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/study-reveals-procrastination-is-the-biggest-hur.mp3",
-  "image": {
-   "src": "img/study-reveals-procrastination-is-the-biggest-hur.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/study-identifies-the-1-issue-affecting-the-academic-performance-of-us-college-students",
-   "from_url": "https://www.sciencealert.com/images/2026/11/stressed-student.jpg"
-  }
- },
- {
-  "id": "group-therapy-helps-autistic-teenagers-navigate",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "mind",
-   "relationships",
-   "science"
-  ],
-  "title": "Group therapy helps autistic teenagers navigate dating and sexuality",
-  "snippet": "A new group education program helps autistic teenagers gain sexual knowledge and reduce inappropriate behaviors. Researchers in Rome tested the peer-based learning model on seventeen teenage boys [1].",
-  "bullets": [
-   "A new group education program helps autistic teenagers gain knowledge about sexuality and romance [1].",
-   "Researchers in Rome studied seventeen boys between the ages of twelve and eighteen [1].",
-   "Participants showed an increase in sexual knowledge that lasted three months after the training [1]."
-  ],
-  "report": [
-   {
-    "h": "Specialised Training Program",
-    "t": "Researchers in Rome developed a training program to address gaps in romantic and sexual education for autistic youth [1]. The study involved seventeen boys aged between twelve and eighteen who had fluent language skills [1]."
-   },
-   {
-    "h": "Peer-Based Learning",
-    "t": "Two psychologists led ninety-minute sessions using visual aids, videos, and role-playing exercises [1]. The group format allowed participants to share personal experiences and practice social skills together [1]."
-   },
-   {
-    "h": "Lasting Knowledge Gains",
-    "t": "Parents reported a noticeable increase in the boys' sexual knowledge, which remained visible three months after the program finished [1]. However, reductions in inappropriate behaviours did not last through the three-month follow-up [1]."
-   }
-  ],
-  "why": "This research highlights how structured, peer-based learning models can effectively support neurodivergent individuals in navigating complex social rules.",
-  "tryit": "Reflect on how peer-led spaces or structured group workshops could support your own learning goals or communication strategies this week.",
-  "qa": [
-   [
-    "How many participants were in the study?",
-    "The study involved 17 boys between the ages of 12 and 18 [1]."
-   ],
-   [
-    "How long did each training session last?",
-    "Each session lasted ninety minutes, and the groups met across ten separate sessions spaced two weeks apart [1]."
-   ],
-   [
-    "Who led the training sessions?",
-    "Two psychologists led the sessions using visual aids, videos, documentaries, and role-playing exercises [1]."
-   ],
-   [
-    "Did the positive results last?",
-    "The benefits in sexual knowledge were still visible three months later, though the reduction in inappropriate behaviors did not last through the follow-up period [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psypost.org/group-therapy-helps-autistic-teenagers-navigate-dating-and-sexuality/",
-    "status": 200,
-    "title": "Group therapy helps autistic teenagers navigate dating and sexuality",
-    "domain": "psypost.org"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T14:00:32Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/group-therapy-helps-autistic-teenagers-navigate.mp3",
-  "image": {
-   "src": "img/group-therapy-helps-autistic-teenagers-navigate.jpg",
-   "credit": "PsyPost",
-   "license": "© PsyPost, shown with credit",
-   "page": "https://www.psypost.org/group-therapy-helps-autistic-teenagers-navigate-dating-and-sexuality/",
-   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/teen-in-group-therapy.jpg"
-  }
- },
- {
-  "id": "anthropic-launches-fable-5-2-and-mythos-5-2-with",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "coding",
-   "security"
-  ],
-  "title": "Anthropic launches Fable 5.2 and Mythos 5.2 with faster speeds and lower prices",
-  "snippet": "Anthropic has released Fable 5.2 and Mythos 5.2, bringing faster speeds, lower prices, and major performance gains in coding, reasoning, and security.",
-  "bullets": [
-   "Anthropic released Fable 5.2 and Mythos 5.2 on Monday with substantial improvements over their predecessors [1].",
-   "The new models generate output up to 30 percent faster than their predecessors and are available at lower prices [1].",
-   "Fable 5.2 outperforms Fable 5.1 in an agentic coding benchmark at 49.1 percent versus 32.4 percent at high effort [1]."
-  ],
-  "report": [
-   {
-    "h": "New AI Models",
-    "t": "Anthropic launched Fable 5.2 and Mythos 5.2 on Monday to handle ambitious, open-ended work [1]. The models bring improved metrics in coding, reasoning, vision, cybersecurity, and biology [1]."
-   },
-   {
-    "h": "Speed and Pricing",
-    "t": "The new models generate output up to 30 percent faster than previous versions [1]. They are also available at lower prices, following a recent industry trend [1]."
-   },
-   {
-    "h": "Benchmarks and Safety",
-    "t": "Fable 5.2 scores 49.1 percent in agentic coding compared to 32.4 percent for the older version [1]. Mythos 5.2 improves cybersecurity benchmarking from 61.7 percent to 76.3 percent, though its security features are restricted to Anthropic's Cyber Verification Program [1]."
-   }
-  ],
-  "why": "These model updates offer faster execution and better agentic coding performance, which can speed up building and running automated systems or businesses.",
-  "tryit": "Review the new Anthropic models to see if their improved agentic coding benchmarks can assist with your current software or automation tasks.",
-  "qa": [
-   [
-    "What are the names of the new AI models?",
-    "Anthropic introduced Fable 5.2 and Mythos 5.2 [1]."
-   ],
-   [
-    "How much faster are the new models?",
-    "They generate output up to 30 percent faster than their predecessors [1]."
-   ],
-   [
-    "How did Fable 5.2 score in agentic coding?",
-    "It scored 49.1 percent compared to 32.4 percent for the older version at high effort [1]."
-   ],
-   [
-    "Who can access the Mythos 5.2 cybersecurity features?",
-    "They are currently locked to a specific group in Anthropic's Cyber Verification Program [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cnet.com/tech/anthropic-introduces-new-fable-5-2-and-mythos-5-2-ai-models/",
-    "status": 200,
-    "title": "Anthropic Introduces New Fable 5.2 and Mythos 5.2 AI Models - CNET",
-    "domain": "cnet.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T22:20:21Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/anthropic-launches-fable-5-2-and-mythos-5-2-with.mp3",
-  "image": {
-   "src": "img/anthropic-launches-fable-5-2-and-mythos-5-2-with.jpg",
-   "credit": "CNET",
-   "license": "© CNET, shown with credit",
-   "page": "https://www.cnet.com/tech/anthropic-introduces-new-fable-5-2-and-mythos-5-2-ai-models/",
-   "from_url": "https://www.cnet.com/wp-content/uploads/sites/2/CNET-AI-Anthropic-03.jpg"
-  }
- },
- {
-  "id": "samsung-plans-tiered-subscription-model-for-futu",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business"
-  ],
-  "title": "Samsung plans tiered subscription model for future Galaxy AI tools",
-  "snippet": "Samsung is reportedly shifting from free unlimited Galaxy AI tools to a tiered subscription model. Heavy users may need to pay for extra credits or monthly access.",
-  "bullets": [
-   "Samsung is planning a shift from free unlimited Galaxy AI tools to a tiered subscription plan [1].",
-   "The Galaxy AI Premium subscription would start at $4.99 per month or $47.99 per year [1].",
-   "Samsung is planning to roll out the paid subscription model for the Galaxy S27 series [1]."
-  ],
-  "report": [
-   {
-    "h": "Upcoming Subscription Tiers",
-    "t": "Samsung is reportedly planning a shift from free unlimited AI tools to a tiered subscription plan for device owners [1]. Tools like Photo Assist and Creative Studio will remain free with limited credits, while premium options will cost money [1]."
-   },
-   {
-    "h": "Pricing and Rollout",
-    "t": "The Galaxy AI Premium subscription would start at $4.99 per month or $47.99 per year, with prices going up from there [1]. The paid model is planned for the Galaxy S27 series and older devices like the S24 series [1]."
-   },
-   {
-    "h": "Impact on Users",
-    "t": "Occasional users who edit a photo or summarize an email now and then probably will not need to pay [1]. Power users who rely heavily on AI daily will need to decide if the subscription is worth it for higher limits and exclusive features [1]."
-   }
-  ],
-  "why": "Understanding how major tech companies price AI services helps you budget and evaluate tool costs for business workflows.",
-  "tryit": "Review your current AI tool usage to see which subscriptions provide enough daily value to justify their ongoing monthly fees.",
-  "qa": [
-   [
-    "How much would the premium subscription cost?",
-    "The Galaxy AI Premium subscription would start at $4.99 per month or $47.99 per year [1]."
-   ],
-   [
-    "Which phones are expected to get the paid model?",
-    "Samsung plans to roll it out for the Galaxy S27 series and older devices through One UI updates, including S24 series models and newer devices, as well as Fold and Flip series phones [1]."
-   ],
-   [
-    "Will some AI tools remain free?",
-    "Tools like Photo Assist, Now Brief, and Creative Studio will still remain free with limited usage credits [1]."
-   ],
-   [
-    "Do occasional users need to pay?",
-    "Occasional users who edit a photo or summarize an email every now and then probably will not need to pay [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/innovation/samsung-galaxy-ai-paid-subscription/",
-    "status": 200,
-    "title": "Samsung mulls Galaxy AI usage limits and subscription tiers - what we know - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T16:55:56Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/samsung-plans-tiered-subscription-model-for-futu.mp3",
-  "image": {
-   "src": "img/samsung-plans-tiered-subscription-model-for-futu.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/innovation/samsung-galaxy-ai-paid-subscription/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/fe11a80b-0164-4255-bb82-12df7762a950.jpg"
   }
  },
  {
@@ -21976,983 +22220,6 @@
    "license": "© Condé Nast Traveler, shown with credit",
    "page": "https://www.cntraveler.com/story/brisbane-gets-its-moment-in-the-sun",
    "from_url": "https://media.cntraveler.com/photos/6aee142b4da75314b3d77a4d/16:9/w_1280,c_limit/EliseHassey_CNBRIS_7148.jpg"
-  }
- },
- {
-  "id": "medieval-irish-fort-excavation-reveals-surprisin",
-  "cat": "whoa",
-  "tags": [
-   "history",
-   "science",
-   "archaeology"
-  ],
-  "title": "Medieval Irish fort excavation reveals surprising luxuries and leisure activities",
-  "snippet": "New archaeological finds at the Caherconnell Cashel ringfort in Ireland show that medieval life included game playing, literacy, and music. Excavations uncovered bone gaming pieces, a unique writing pen, and string instrument tuning pegs.",
-  "bullets": [
-   "Excavations at Caherconnell Cashel in western Ireland uncovered evidence of game playing, literacy, and music among wealthy rulers [1].",
-   "Finds include an 11th-century antler gaming piece used for the strategy game hnefatafl [1].",
-   "Researchers also discovered a rare 11th-century bone and bronze pen alongside bone and bronze tuning pegs for stringed instruments [1]."
-  ],
-  "report": [
-   {
-    "h": "Luxury and Leisure",
-    "t": "Popular media often portrays medieval life as simple and focused only on survival or conflict [1]. However, excavations at the Caherconnell Cashel ringfort reveal that wealthy residents enjoyed games, reading, and music [1]."
-   },
-   {
-    "h": "Games and Writing",
-    "t": "Surviving artifacts include bone and stone gaming pieces used in the Viking game hnefatafl [1]. Researchers also found an unusual 11th-century bone and bronze writing pen, which is a rare secular find in Ireland [1]."
-   },
-   {
-    "h": "Music and Strings",
-    "t": "Bone and bronze tuning pegs discovered at the site indicate that residents played stringed instruments like lyres [1]. These instruments provided entertainment and fulfilled cultural functions around the hearth [1]."
-   }
-  ],
-  "why": "It is a fascinating historical reminder that human life in past centuries was rich with leisure, music, and games, rather than just basic survival.",
-  "tryit": "Read more about medieval board games like hnefatafl online today to learn a new strategy game from history.",
-  "qa": [
-   [
-    "What is Caherconnell Cashel?",
-    "It was a large ringfort and home to wealthy local rulers in western Ireland from the late 10th century AD to the early 17th century [1]."
-   ],
-   [
-    "What game were the bone pieces used for?",
-    "They were used in the Saxon and Viking board game hnefatafl [1]."
-   ],
-   [
-    "Why is the 11th-century pen unique?",
-    "Until now, early literacy evidence in Ireland was largely confined to church sites, making this secular find unique [1]."
-   ],
-   [
-    "What instruments did the tuning pegs belong to?",
-    "They belonged to stringed instruments such as lyres, lutes, or fiddles [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://theconversation.com/archaeological-finds-at-an-irish-fort-reveal-insights-into-the-finer-side-of-medieval-life-295239",
-    "status": 200,
-    "title": "Archaeological finds at an Irish fort reveal insights into the finer side of medieval life",
-    "domain": "theconversation.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T15:50:44Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/medieval-irish-fort-excavation-reveals-surprisin.mp3",
-  "image": {
-   "src": "img/medieval-irish-fort-excavation-reveals-surprisin.jpg",
-   "credit": "The Conversation",
-   "license": "© The Conversation, shown with credit",
-   "page": "https://theconversation.com/archaeological-finds-at-an-irish-fort-reveal-insights-into-the-finer-side-of-medieval-life-295239",
-   "from_url": "https://images.theconversation.com/files/768479/original/file-20261027-52-jsefar.JPG?ixlib=rb-4.1.1&rect=0%2C359%2C3795%2C1897&q=45&auto=format&w=1356&h=668&fit=crop"
-  }
- },
- {
-  "id": "creative-halloween-skeleton-displays-bring-unexp",
-  "cat": "calm",
-  "tags": [
-   "animals",
-   "psychology"
-  ],
-  "title": "Creative Halloween skeleton displays bring unexpected joy to cancer patient",
-  "snippet": "A homeowner who faced harsh mail for his elaborate Halloween decorations created a special display to cheer up a local woman driving to her daily radiation treatments.",
-  "bullets": [
-   "Bill Pyle faced years of complaints and accusations of devil worship for his elaborate front yard skeleton displays [1].",
-   "Tammy Wyche wrote him a heartfelt letter explaining how his creative bone family brought joy during her nineteen days of radiation treatments [1].",
-   "Pyle responded by setting up a skeleton crew with signs to cheer Wyche on as she drove past on her final day of treatment [1]."
-  ],
-  "report": [
-   {
-    "h": "Unexpected Mail",
-    "t": "Mr. Bill Pyle received hate mail and accusations of devil worship for his creative Halloween skeleton hobby in Oxford, Ohio [1]."
-   },
-   {
-    "h": "Heartfelt Letter",
-    "t": "Tammy Wyche wrote to Pyle to share that checking on the bone family was a daily highlight during her radiation treatments [1]."
-   },
-   {
-    "h": "Special Surprise",
-    "t": "Touched by the note, Pyle arranged a special skeleton crew with signs to celebrate Wyche completing her final treatment [1]."
-   }
-  ],
-  "why": "It is a reminder of how small, creative acts of self-expression can unexpectedly brighten someone else's difficult day.",
-  "tryit": "Look around your neighbourhood today and consider sending a quick note of appreciation to someone whose creative efforts or garden bring you quiet joy.",
-  "qa": [
-   [
-    "Where did this story take place?",
-    "It took place in Oxford, Ohio [1]."
-   ],
-   [
-    "What was the name of the homeowner?",
-    "The homeowner was Mr. Bill Pyle [1]."
-   ],
-   [
-    "What was the name of the woman undergoing treatment?",
-    "Her name was Tammy Wyche [1]."
-   ],
-   [
-    "How many days of radiation did she drive past the house?",
-    "She drove past the house for nineteen days [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/mans-halloween-skeletons-prove-perfect-treat-to-woman-battling-breast-cancer/",
-    "status": 200,
-    "title": "Man's Halloween Skeletons Prove Perfect Treat to Woman Battling Breast Cancer",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T19:30:36Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/creative-halloween-skeleton-displays-bring-unexp.mp3",
-  "image": {
-   "src": "img/creative-halloween-skeleton-displays-bring-unexp.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/mans-halloween-skeletons-prove-perfect-treat-to-woman-battling-breast-cancer/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/maxresdefault-3.jpg"
-  }
- },
- {
-  "id": "how-a-simple-airpods-setting-stops-podcasts-from",
-  "cat": "adhd",
-  "tags": [
-   "adhd",
-   "focus",
-   "health",
-   "science"
-  ],
-  "title": "How a simple AirPods setting stops podcasts from playing all night",
-  "snippet": "A new AirPods setting uses built-in motion sensors to detect when you drift off to sleep and automatically pauses your audio.",
-  "bullets": [
-   "The author uses podcasts as a non-pharmaceutical sleep aid to quiet an anxious brain [1].",
-   "The new Pause Media When Falling Asleep setting works by using built-in accelerometers to track movement or lack of it [1].",
-   "The feature also works on second-generation AirPods Pro, AirPods 4, and AirPods 5, not just the AirPods Pro 3 [1]."
-  ],
-  "report": [
-   {
-    "h": "The bedtime podcast problem",
-    "t": "Listening to podcasts is a great way to distract an anxious mind and drift off to sleep [1]. However, the podcast typically keeps playing all night long, meaning you lose your place and have to scrub through episodes later [1]."
-   },
-   {
-    "h": "A smart sleep feature",
-    "t": "Apple introduced a feature called Pause Media When Falling Asleep that solves this exact issue [1]. It uses the earbuds' built-in accelerometer to sense when you are falling asleep based on your lack of movement [1]."
-   },
-   {
-    "h": "Seamless daily use",
-    "t": "The author notes that the audio always pauses within a minute or two of the last part they remember hearing [1]. This removes the need to buy separate dedicated sleep earbuds just to get automatic audio pausing [1]."
-   }
-  ],
-  "why": "Managing sleep routines and winding down an active mind can be a daily challenge when dealing with focus and ADHD.",
-  "tryit": "Open your iPhone settings, tap Audio and Routing under your AirPods settings, and turn on Pause Media When Falling Asleep.",
-  "qa": [
-   [
-    "How does the feature know when you are falling asleep?",
-    "It uses the built-in accelerometer in the earbuds to track your movement or lack of movement [1]."
-   ],
-   [
-    "Which earbuds support this feature?",
-    "It is supported on the AirPods Pro 3, second-generation AirPods Pro, AirPods 4, and AirPods 5 [1]."
-   ],
-   [
-    "Does it pause accidentally during normal listening?",
-    "The author states they have never had the earbuds pause accidentally during active listening [1]."
-   ],
-   [
-    "Where do you find the setting on your iPhone?",
-    "You can find it by going to your iPhone's Settings app, tapping Audio and Routing, and scrolling down [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://lifehacker.com/tech/this-airpods-feature-fixed-my-biggest-problem-with-listening-to-podcasts",
-    "status": 200,
-    "title": "This AirPods Feature Fixed My Biggest Problem With Listening to Podcasts to Fall Asleep",
-    "domain": "lifehacker.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T21:00:18Z",
-  "addedAt": "2026-11-10T11:09:43Z",
-  "audio": "audio/how-a-simple-airpods-setting-stops-podcasts-from.mp3",
-  "image": {
-   "src": "img/how-a-simple-airpods-setting-stops-podcasts-from.jpg",
-   "credit": "Lifehacker",
-   "license": "© Lifehacker, shown with credit",
-   "page": "https://lifehacker.com/tech/this-airpods-feature-fixed-my-biggest-problem-with-listening-to-podcasts",
-   "from_url": "https://lifehacker.com/imagery/articles/01M70X6SEMSETXHV2XKVBTJ1K1/hero-image.fill.size_1200x675.png"
-  }
- },
- {
-  "id": "a-high-fiber-diet-may-help-clear-plastic-from-th",
-  "cat": "health",
-  "tags": [
-   "health",
-   "science",
-   "nutrition",
-   "gut"
-  ],
-  "title": "A high-fiber diet may help clear plastic from the gut",
-  "snippet": "New research shows that eating plenty of fiber can help sweep tiny plastic particles out of the digestive tract in mice. While human studies are still needed, adding more fiber to your meals brings well-known health perks.",
-  "bullets": [
-   "Researchers reported on October 15 in Nature Communications that a high-fiber diet may help sweep plastic particles from the gut [1].",
-   "In laboratory tests, fiber formed a complex network that physically wrapped around and stuck to plastic particles [1].",
-   "Mice on medium- and high-fiber diets cleared more plastic particles from their bodies over 24 hours than mice on low-fiber diets [1]."
-  ],
-  "report": [
-   {
-    "h": "Fiber traps plastic",
-    "t": "Dietary fiber forms a complex network of polymers that can trap ingested plastics like a spider web [1]. Laboratory tests show that fiber physically wraps around and sticks to these tiny particles [1]."
-   },
-   {
-    "h": "Tests in mice",
-    "t": "Researchers fed mice plastic particles while keeping them on low, medium, or high-fiber diets [1]. Over the next 24 hours, the medium and high-fiber groups cleared more particles from their bodies than the low-fiber group [1]."
-   },
-   {
-    "h": "Next steps for research",
-    "t": "The study was performed in mice, and researchers note it is too soon to say if fiber does the exact same thing in humans [1]. However, experts point out that adding a little more fiber to daily meals has many known health benefits [1]."
-   }
-  ],
-  "why": "This research connects everyday nutrition choices to modern environmental health concerns, offering another reason to keep an eye on your daily intake.",
-  "tryit": "Add an extra portion of beans or greens to one of your meals today to boost your daily fiber intake.",
-  "qa": [
-   [
-    "When was the study reported?",
-    "The study was reported on October 15 in Nature Communications [1]."
-   ],
-   [
-    "How did fiber interact with the plastic particles?",
-    "Fiber formed a complex network of polymers that trapped the plastics like flies in a spider web [1]."
-   ],
-   [
-    "Did the low-fiber group experience gut damage?",
-    "Yes, after a week of daily plastic feedings, gut tissue damage was seen in the low-fiber group [1]."
-   ],
-   [
-    "Has this effect been proven in humans yet?",
-    "It is too soon to say if dietary fiber does the same thing in humans, as the study was performed in mice [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health",
-    "status": 200,
-    "title": "A high-fiber diet may clear away plastic in the gut",
-    "domain": "sciencenews.org"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T14:00:00Z",
-  "addedAt": "2026-11-09T23:41:23Z",
-  "audio": "audio/a-high-fiber-diet-may-help-clear-plastic-from-th.mp3",
-  "image": {
-   "src": "img/a-high-fiber-diet-may-help-clear-plastic-from-th.jpg",
-   "credit": "Science News",
-   "license": "© Science News, shown with credit",
-   "page": "https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health",
-   "from_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110226_MR_fiber_main.jpg"
-  }
- },
- {
-  "id": "new-study-reveals-that-skin-regenerates-differen",
-  "cat": "health",
-  "tags": [
-   "health",
-   "skin",
-   "science",
-   "longevity",
-   "biology"
-  ],
-  "title": "New study reveals that skin regenerates differently in males and females",
-  "snippet": "Researchers discovered striking differences in how male and female skin stem cells renew themselves. Female skin showed a synchronized pattern that helps accelerate wound healing, while male cells acted more independently [1].",
-  "bullets": [
-   "Every 6 to 7 weeks, we get an entirely new outer layer of skin due to constant cell renewal [1].",
-   "Female mouse cells showed a synchronized pattern of cell division that aids accelerated wound healing [1].",
-   "Hormones like testosterone and estrogen were shown to directly influence these differences in cell behavior [1]."
-  ],
-  "report": [
-   {
-    "h": "Skin renewal study",
-    "t": "An international team of researchers followed skin stem cells across five months using advanced microscopy [1]. They discovered that female skin cells renew in a synchronized, coordinated way like rowers matching their strokes [1]."
-   },
-   {
-    "h": "Hormone impact",
-    "t": "When researchers manipulated hormones, they found that testosterone speeds up how fast new skin cells leave the bottom layer [1]. Removing estrogen in female mice removed most of their coordinated cell actions [1]."
-   },
-   {
-    "h": "Future treatments",
-    "t": "While this was only shown in mice so far, initial lab tests on human cells suggest the same mechanisms are at play [1]. This discovery could eventually lead to sex-tailored treatments for burns, wounds, and skin cancers [1]."
-   }
-  ],
-  "why": "Understanding how skin regenerates differently based on sex helps inform better approaches to personal health, skin aesthetics, and healing [1].",
-  "tryit": "Ask a pharmacist or dermatologist about current evidence-based skincare routines tailored to your skin type.",
-  "qa": [
-   [
-    "How often does skin renew itself?",
-    "Every 6 to 7 weeks, depending on age and body part [1]."
-   ],
-   [
-    "Which institutions led the study?",
-    "Experts from the Université libre de Bruxelles in Belgium and the University of Cambridge in the UK [1]."
-   ],
-   [
-    "What did testosterone do to skin cells?",
-    "Testosterone sped up the rate at which new skin cells left the bottom layer [1]."
-   ],
-   [
-    "Where was the study published?",
-    "The research was published in Nature [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/skin-regenerates-differently-in-males-and-females-study-in-mice-reveals",
-    "status": 200,
-    "title": "Skin Regenerates Differently in Males And Females, Study in Mice Reveals",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T23:00:00Z",
-  "addedAt": "2026-11-09T23:41:23Z",
-  "audio": "audio/new-study-reveals-that-skin-regenerates-differen.mp3",
-  "image": {
-   "src": "img/new-study-reveals-that-skin-regenerates-differen.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/skin-regenerates-differently-in-males-and-females-study-in-mice-reveals",
-   "from_url": "https://www.sciencealert.com/images/2026/10/WomanShoulder-1200x675.jpg"
-  }
- },
- {
-  "id": "beat-the-sales-hype-with-expert-tips-for-smarter",
-  "cat": "money",
-  "tags": [
-   "money",
-   "business",
-   "negotiation",
-   "economics"
-  ],
-  "title": "Beat the sales hype with expert tips for smarter shopping",
-  "snippet": "Discover how consumer experts spot genuine bargains and avoid marketing tricks during major sales events. Use proven price tracking tools and preparation lists to save money.",
-  "bullets": [
-   "Expert researchers test products independently instead of accepting freebies from manufacturers [1].",
-   "Checking price history using tools like CamelCamelCamel reveals if an item was cheaper previously [1].",
-   "Making a list in advance helps you avoid being swayed by urgent marketing messages [1]."
-  ],
-  "report": [
-   {
-    "h": "Check Price History",
-    "t": "Retailers use tactics to make purchases seem urgent, but research shows items are often cheaper at other times [1]. Use price tracking tools like CamelCamelCamel or Price Spy to verify true discounts [1]."
-   },
-   {
-    "h": "Prepare Your List",
-    "t": "Make a list of desired products and bookmark them before sales start [1]. This preparation stops you from getting distracted by hundreds of other offers and helps you stick to what you need [1]."
-   },
-   {
-    "h": "Use Cashback Sites",
-    "t": "Maximise savings by using cashback sites for your online purchases [1]. Small amounts earned on each buy add up over time to give you extra funds [1]."
-   }
-  ],
-  "why": "Smart negotiation and price tracking skills help you secure the best value for money on essential purchases without falling for marketing traps.",
-  "tryit": "Bookmark a price tracking tool like CamelCamelCamel in your browser today to check historical prices before buying anything.",
-  "qa": [
-   [
-    "Why should I check price history?",
-    "Retailers use tactics to make purchases seem urgent, but research shows products are often cheaper at other times of the year [1]."
-   ],
-   [
-    "What tool can I use for Amazon products?",
-    "If you are buying on Amazon, you can use CamelCamelCamel to check the price history [1]."
-   ],
-   [
-    "How can I avoid panic buying?",
-    "Make a list of products you want and bookmark them in advance so you can quickly check price drops without getting distracted [1]."
-   ],
-   [
-    "Are freebies accepted for product reviews?",
-    "No, experts buy the products they test rather than accepting freebies from manufacturers to keep recommendations independent [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.which.co.uk/news/article/which-deals-experts-meet-the-team-aVEeK6r6vbIk",
-    "status": 200,
-    "title": "Which? Deals experts: meet the team bringing you Black Friday bargains - Which?",
-    "domain": "which.co.uk"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T12:15:00Z",
-  "addedAt": "2026-11-09T23:41:23Z",
-  "audio": "audio/beat-the-sales-hype-with-expert-tips-for-smarter.mp3",
-  "image": {
-   "src": "img/beat-the-sales-hype-with-expert-tips-for-smarter.jpg",
-   "credit": "Which?",
-   "license": "© Which?, shown with credit",
-   "page": "https://www.which.co.uk/news/article/which-deals-experts-meet-the-team-aVEeK6r6vbIk",
-   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/3fce08f9e642-tablets-testing0002power-consumption-3.jpg"
-  }
- },
- {
-  "id": "jonathan-bailey-and-bill-nighy-to-star-in-insomn",
-  "cat": "news",
-  "tags": [
-   "film",
-   "culture",
-   "books",
-   "new york"
-  ],
-  "title": "Jonathan Bailey and Bill Nighy to star in Insomniac City",
-  "snippet": "Jonathan Bailey and Bill Nighy will star as real-life couple Bill Hayes and Oliver Sacks in the film adaptation of Insomniac City.",
-  "bullets": [
-   "Jonathan Bailey and Bill Nighy are set to star in Dominic Cooke’s love story film Insomniac City [1].",
-   "The film is adapted from Bill Hayes’s 2017 memoir of the same name [1].",
-   "Oliver Sacks was known as the poet laureate of contemporary medicine and wrote books including Awakenings [1]."
-  ],
-  "report": [
-   {
-    "h": "Star-Studded Cast",
-    "t": "Jonathan Bailey will play writer and photographer Bill Hayes, starring opposite Bill Nighy as celebrated neurologist Oliver Sacks [1]. The project is introduced to buyers at the American Film Market by Altitude [1]."
-   },
-   {
-    "h": "Adapted Memoir",
-    "t": "The project is adapted from Hayes’s 2017 memoir of the same name, with a screenplay co-written by Hayes and Cooke [1]. Producers include Troy Lum and Andrew Mason for Brouhaha Entertainment [1]."
-   },
-   {
-    "h": "Story of New York",
-    "t": "The film follows Hayes arriving in New York City from San Francisco and falling unexpectedly in love with both the city and Sacks [1]. Filmmakers describe it as an uplifting portrait of grief, hope, and community [1]."
-   }
-  ],
-  "why": "This uplifting real-life story celebrates community, second chances, and unexpected connections in a vibrant urban setting.",
-  "tryit": "Read the 2017 memoir Insomniac City by Bill Hayes to explore the story before the film release.",
-  "qa": [
-   [
-    "Who is directing Insomniac City?",
-    "Dominic Cooke is directing the film [1]."
-   ],
-   [
-    "Who wrote the memoir?",
-    "The memoir was written by Bill Hayes [1]."
-   ],
-   [
-    "What books did Oliver Sacks write?",
-    "He wrote books including The Man Who Mistook His Wife For A Hat and Awakenings [1]."
-   ],
-   [
-    "Who is handling worldwide sales?",
-    "Altitude is handling worldwide sales and introducing the film to buyers at the American Film Market [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.thepinknews.com/2026/11/09/insomniac-city-film-2026/",
-    "status": 200,
-    "title": "Jonathan Bailey & Bill Nighy Star as Lovers in 'Insomniac City'",
-    "domain": "thepinknews.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T17:03:14Z",
-  "addedAt": "2026-11-09T23:41:23Z",
-  "audio": "audio/jonathan-bailey-and-bill-nighy-to-star-in-insomn.mp3",
-  "image": {
-   "src": "img/jonathan-bailey-and-bill-nighy-to-star-in-insomn.jpg",
-   "credit": "PinkNews",
-   "license": "© PinkNews, shown with credit",
-   "page": "https://www.thepinknews.com/2026/11/09/insomniac-city-film-2026/",
-   "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/jonathan-bailey-bill-nighy-insomniac-city.jpg"
-  }
- },
- {
-  "id": "microsoft-updates-windows-11-search-to-change-se",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "science"
-  ],
-  "title": "Microsoft updates Windows 11 search to change settings directly",
-  "snippet": "Microsoft is rolling out a new Windows 11 search experience in the Beta channel that lets you change settings directly. Inline actions let you turn on dark mode, adjust brightness, or toggle Bluetooth straight from the search box.",
-  "bullets": [
-   "A new Windows Search experience built on WinUI 3 is rolling out in the Beta channel of the Windows 11 Insiders Preview [1].",
-   "Inline actions let you complete tasks directly such as turning on dark mode, adjusting screen brightness, or muting your device [1].",
-   "Search now better understands misspellings so typing drak instead of dark will still match you with the correct results [1]."
-  ],
-  "report": [
-   {
-    "h": "New search features",
-    "t": "Microsoft is sprucing up Windows 11 search to make it simpler, cleaner, and friendlier [1]. The latest Beta channel preview gives users access to specific Windows settings and commands directly from the search field [1]."
-   },
-   {
-    "h": "Inline actions",
-    "t": "You can now type features like Dark mode, Bluetooth, or screen brightness into the search field and select an open button to go straight there [1]. Inline actions let you quickly complete tasks without needing to know where settings are located [1]."
-   },
-   {
-    "h": "More updates",
-    "t": "The update also helps search understand misspellings so typos still match correct results [1]. Additionally, a new option helps Windows Hello brighten your screen in dark areas during facial recognition [1]."
-   }
-  ],
-  "why": "Streamlining everyday software tasks saves mental energy and reduces friction when working on your computer.",
-  "tryit": "Check your Windows 11 Insider Preview settings to see if your device is enrolled in the Beta channel to test these new search features.",
-  "qa": [
-   [
-    "What is the new Windows search built on?",
-    "It is built on WinUI 3 and is faster and more efficient [1]."
-   ],
-   [
-    "What are inline actions?",
-    "They are new skills that let you quickly complete tasks like turning on dark mode or Bluetooth directly from search [1]."
-   ],
-   [
-    "How does search handle typos now?",
-    "It better understands what you actually mean, such as matching drak to dark mode [1]."
-   ],
-   [
-    "How can you fix Windows Hello in the dark?",
-    "You can enable an option to automatically adjust screen brightness during face recognition in your sign-in options [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/",
-    "status": 200,
-    "title": "You can change Windows settings directly from a search now - how to try it - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T19:33:24Z",
-  "addedAt": "2026-11-09T23:41:23Z",
-  "audio": "audio/microsoft-updates-windows-11-search-to-change-se.mp3",
-  "image": {
-   "src": "img/microsoft-updates-windows-11-search-to-change-se.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Search-inline-action.jpg"
-  }
- },
- {
-  "id": "two-new-brain-technologies-could-transform-futur",
-  "cat": "adhd",
-  "tags": [
-   "adhd",
-   "science",
-   "focus",
-   "psychology"
-  ],
-  "title": "Two New Brain Technologies Could Transform Future Psychiatric Treatments",
-  "snippet": "Recent articles explore focused ultrasound neuromodulation and precision functional mapping. These emerging techniques aim to target deep brain circuits and individual brain variations without invasive surgery.",
-  "bullets": [
-   "Focused ultrasound neuromodulation can reach deep brain regions without the need for invasive procedures [1].",
-   "Current stimulation techniques like transcranial magnetic stimulation have less influence on deep brain matter [1].",
-   "Longitudinal precision functional mapping identifies exact circuit locations in single individuals over time [1]."
-  ],
-  "report": [
-   {
-    "h": "Reaching Deep Brain Circuits",
-    "t": "Many brain circuits associated with psychiatric symptoms involve structures deep inside the brain [1]. Focused ultrasound stimulation is a form of neuromodulation that can reach these regions without invasive surgery [1]."
-   },
-   {
-    "h": "Individual Brain Mapping",
-    "t": "The exact locations of brain regions involved in specific circuits vary in each person [1]. Longitudinal precision functional mapping uses repeated functional magnetic resonance imaging to identify exact circuit locations in single individuals [1]."
-   },
-   {
-    "h": "Future Therapeutic Options",
-    "t": "By combining precision mapping with targeted stimulation techniques, researchers hope to better understand and treat specific brain regions [1]. More research is required to demonstrate safety and efficacy as work rapidly proceeds [1]."
-   }
-  ],
-  "why": "Understanding cutting-edge developments in brain science helps you stay informed on how future treatments for attention and cognitive functions might evolve.",
-  "tryit": "Talk to a qualified medical professional or psychiatrist if you want to discuss current evidence-based approaches for managing focus and cognitive symptoms.",
-  "qa": [
-   [
-    "What is focused ultrasound neuromodulation?",
-    "It is a form of neuromodulation that can reach deep brain regions without invasive procedures [1]."
-   ],
-   [
-    "Why are deep brain regions difficult to reach?",
-    "Currently used techniques like transcranial magnetic stimulation have less influence on deep brain matter than areas near the skull [1]."
-   ],
-   [
-    "What does longitudinal precision functional mapping do?",
-    "It identifies the precise locations of brain circuits in single individuals over time using functional magnetic resonance imaging [1]."
-   ],
-   [
-    "Is focused ultrasound neuromodulation approved for human use yet?",
-    "More research is required to demonstrate safety and efficacy, and information will be forthcoming over the next several years [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psychologytoday.com/us/blog/demystifying-psychiatry/202611/two-technologies-that-may-advance-psychiatric-knowledge",
-    "status": 200,
-    "title": "Two Technologies That May Advance Psychiatric Knowledge",
-    "domain": "psychologytoday.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T16:51:04Z",
-  "addedAt": "2026-11-09T17:39:25Z",
-  "audio": "audio/two-new-brain-technologies-could-transform-futur.mp3",
-  "image": {
-   "src": "img/two-new-brain-technologies-could-transform-futur.jpg",
-   "credit": "Psychology Today",
-   "license": "© Psychology Today, shown with credit",
-   "page": "https://www.psychologytoday.com/us/blog/demystifying-psychiatry/202611/two-technologies-that-may-advance-psychiatric-knowledge",
-   "from_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-11/jellyfish.jpg?itok=gSDvoWhC"
-  }
- },
- {
-  "id": "teen-builds-free-machine-learning-app-to-help-fa",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business"
-  ],
-  "title": "Teen Builds Free Machine Learning App to Help Families Read Autistic Cues",
-  "snippet": "Watching adults struggle to understand his autistic cousin, a 15-year-old taught himself machine learning to build a free app called Kora. The tool now has hundreds of users across multiple countries and recently won a major congressional award.",
-  "bullets": [
-   "A New Jersey high schooler named Shashank Madala built a free app called Kora to help caregivers read the emotional cues of autistic children [1].",
-   "The app now has more than 700 users in 12 countries and works with autism therapy centers [1].",
-   "Madala won first place in the Congressional App Challenge for New Jersey's 10th Congressional District and was lauded by the New Jersey Senate [1]."
-  ],
-  "report": [
-   {
-    "h": "Building for a Need",
-    "t": "After watching adults misunderstand his young cousin at family gatherings, a 15-year-old student decided to learn machine learning from scratch [1]. He wanted to create technology that could bridge the communication gap without making snap judgments [1]."
-   },
-   {
-    "h": "Thoughtful AI Design",
-    "t": "Early versions gave a single confident answer, but Madala redesigned the app to offer multiple possible emotional readings and highlight uncertainty [1]. This encourages caregivers to look closer rather than rely blindly on a single output [1]."
-   },
-   {
-    "h": "Recognition and Growth",
-    "t": "The app won first place in the Congressional App Challenge featuring about 4,600 participants and was displayed in the US Capitol [1]. Madala now leads a team of 3 colleagues to bring the tool to more schools and families [1]."
-   }
-  ],
-  "why": "It shows how practical AI applications can be built to solve real-world communication problems when you focus on a genuine human need.",
-  "tryit": "Look around your own home or daily work for a small, frustrating communication bottleneck that a simple AI tool or script could help clarify.",
-  "qa": [
-   [
-    "What is the name of the app?",
-    "The app is called Kora [1]."
-   ],
-   [
-    "How many users does the app have?",
-    "It has more than 700 users in 12 countries [1]."
-   ],
-   [
-    "What award did the creator win?",
-    "He won first place in the Congressional App Challenge for New Jersey's 10th Congressional District [1]."
-   ],
-   [
-    "How many participants were in the congressional challenge?",
-    "There were some 4,600 participants [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/",
-    "status": 200,
-    "title": "Interpreting Autistic Cues Is Difficult, a Teen Built an App That’s Helping Hundreds of Families",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T16:30:23Z",
-  "addedAt": "2026-11-09T17:39:25Z",
-  "audio": "audio/teen-builds-free-machine-learning-app-to-help-fa.mp3",
-  "image": {
-   "src": "img/teen-builds-free-machine-learning-app-to-help-fa.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Shashank-Madala-stands-with-his-Congressional-recognition-credit-courtesy-of-Shashank-Madala.jpg"
-  }
- },
- {
-  "id": "artificial-intelligence-and-digital-tools-are-tr",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "science",
-   "nature",
-   "technology",
-   "money"
-  ],
-  "title": "Artificial intelligence and digital tools are transforming global plant and fungi conservation",
-  "snippet": "A new report from Kew Gardens reveals that artificial intelligence and digital advances are speeding up species identification and data-sharing at an unprecedented scale.",
-  "bullets": [
-   "The State of the World Plants and Fungi 2026 report draws on expertise from more than 400 scientists across 40 countries [1].",
-   "Kew Gardens has successfully digitised 7.4m plant and fungi specimens in its collection [1].",
-   "Laid end-to-end, the digitised specimens would stretch almost 3,000km [1]."
-  ],
-  "report": [
-   {
-    "h": "Accelerating discovery with AI",
-    "t": "Advanced technology and artificial intelligence are helping scientists identify challenging plants and pinpoint species new to science [1]. Digital advances are speeding up data-sharing and allowing specimens to be analysed at an unprecedented scale [1]."
-   },
-   {
-    "h": "Massive digitisation efforts",
-    "t": "Kew Gardens has digitised 7.4m plant and fungi specimens in its collection [1]. Laid end-to-end, these digital records would stretch almost 3,000km [1]."
-   },
-   {
-    "h": "Limitations and environmental costs",
-    "t": "AI-generated identifications still require proper scientific validation and expert judgement [1]. Furthermore, the technology relies on energy-intensive infrastructure and data centres that consume electricity and water [1]."
-   }
-  ],
-  "why": "This shows practical ways artificial intelligence tools are scaling complex data analysis and operational workflows.",
-  "tryit": "Explore how automated data pipelines or AI agents can speed up cataloguing tasks in your own digital projects.",
-  "qa": [
-   [
-    "What organisation published the report?",
-    "Kew Gardens published The State of the World Plants and Fungi 2026 report [1]."
-   ],
-   [
-    "How many scientists contributed to the report?",
-    "More than 400 scientists from 40 countries contributed to the findings [1]."
-   ],
-   [
-    "How many specimens has Kew digitised?",
-    "Kew has digitised 7.4m plant and fungi specimens [1]."
-   ],
-   [
-    "What are the limitations of using AI for conservation?",
-    "AI identifications require scientific validation, and the technology relies on energy-intensive infrastructure [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.positive.news/environment/digital-advances-are-reshaping-nature-conservation-say-experts/",
-    "status": 200,
-    "title": "‘Digital advances are reshaping nature conservation’ say experts - Positive News",
-    "domain": "positive.news"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T13:44:06Z",
-  "addedAt": "2026-11-09T17:39:25Z",
-  "audio": "audio/artificial-intelligence-and-digital-tools-are-tr.mp3",
-  "image": {
-   "src": "img/artificial-intelligence-and-digital-tools-are-tr.jpg",
-   "credit": "Positive News",
-   "license": "© Positive News, shown with credit",
-   "page": "https://www.positive.news/environment/digital-advances-are-reshaping-nature-conservation-say-experts/",
-   "from_url": "https://www.positive.news/wp-content/uploads/2026/11/imresizer-compress-05-1-scaled.jpg"
-  }
- },
- {
-  "id": "rural-colleges-get-creative-to-support-students",
-  "cat": "news",
-  "tags": [
-   "education",
-   "community",
-   "students",
-   "parents",
-   "rural"
-  ],
-  "title": "Rural Colleges Get Creative to Support Students With Children",
-  "snippet": "Rural colleges are finding low-cost ways to support student parents through busy boxes, family-friendly study rooms, and community partnerships.",
-  "bullets": [
-   "About a quarter of students attending rural-serving institutions are parents [1].",
-   "New River introduced busy boxes with toys and a dedicated family study room in the library [1].",
-   "Roane State Community College is partnering with Achieving the Dream to collect better data on parenting students [1]."
-  ],
-  "report": [
-   {
-    "h": "Supporting Student Parents",
-    "t": "Rural colleges are finding creative ways to help student parents despite having less on-campus childcare [1]. Staff at New River noticed high usage of simple busy boxes filled with toys near advising offices [1]."
-   },
-   {
-    "h": "Building Local Partnerships",
-    "t": "Schools are collaborating with local churches, women shelters, and groups like United Way to connect parents with resources [1]. Roane State Community College is partnering with Achieving the Dream to improve data collection on student parents [1]."
-   },
-   {
-    "h": "Fostering Cultural Shifts",
-    "t": "Many student parents look for a cultural shift to feel seen by professors and advisers rather than just one-off programs [1]. New River now hosts events, dinners, and a family study room with child-sized furniture [1]."
-   }
-  ],
-  "why": "This shows how resourceful institutions solve complex community needs through clever, low-cost partnerships and empathy.",
-  "tryit": "Ask your local educational institution or community centre what low-cost family or adult learner networks they currently offer.",
-  "qa": [
-   [
-    "What percentage of students at rural-serving institutions are parents?",
-    "About a quarter of students attending rural-serving institutions are parents [1]."
-   ],
-   [
-    "What is one simple tool New River uses for parenting students?",
-    "They use busy boxes stuffed with toys to entertain children while parents fill out forms or visit advisers [1]."
-   ],
-   [
-    "Which college is partnering with Achieving the Dream?",
-    "Roane State Community College in eastern Tennessee is partnering with Achieving the Dream [1]."
-   ],
-   [
-    "How did New River adjust its grant funding?",
-    "They started an application process and granted seventeen students five hundred dollars each [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://reasonstobecheerful.world/rural-colleges-student-parents-support/",
-    "status": 200,
-    "title": "Colleges Are Getting Creative to Help Students With Kids",
-    "domain": "reasonstobecheerful.world"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T16:39:10Z",
-  "addedAt": "2026-11-09T17:39:25Z",
-  "audio": "audio/rural-colleges-get-creative-to-support-students.mp3",
-  "image": {
-   "src": "img/rural-colleges-get-creative-to-support-students.jpg",
-   "credit": "Reasons to be Cheerful",
-   "license": "© Reasons to be Cheerful, shown with credit",
-   "page": "https://reasonstobecheerful.world/rural-colleges-student-parents-support/",
-   "from_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/IMG_9218-1200x964-1-e1794235774453.jpeg"
-  }
- },
- {
-  "id": "popular-weight-loss-drug-semaglutide-shows-new-b",
-  "cat": "health",
-  "tags": [
-   "health",
-   "peptides",
-   "longevity",
-   "science"
-  ],
-  "title": "Popular weight loss drug semaglutide shows new benefits for kidney health",
-  "snippet": "Researchers find that semaglutide repairs faulty kidney blood vessels, reduces inflammation, and restores waste disposal systems in patients.",
-  "bullets": [
-   "Semaglutide repairs and restores blood vessels that power the body waste disposal systems [1].",
-   "A study of 106 participants showed semaglutide led to increased blood flow, reduced scarring, and reduced vessel stiffness [1].",
-   "Researchers reported that genes relating to metabolic stress and inflammation were turned off during treatment [1]."
-  ],
-  "report": [
-   {
-    "h": "Fixing faulty filters",
-    "t": "Researchers report that semaglutide repairs and restores blood vessels that power waste disposal systems in the kidneys [1]. The ingredient can now add treating chronic kidney disease to its list of health benefits [1]."
-   },
-   {
-    "h": "Visible tissue changes",
-    "t": "A subset of 106 participants had kidney tissue samples compared before and after taking semaglutide or a placebo [1]. Semaglutide use led to striking visible changes including increased blood flow, reduced scarring, and reduced blood vessel stiffness [1]."
-   },
-   {
-    "h": "Genetic clues to healing",
-    "t": "Within the tiny blood vessels responsible for filtering, genes relating to metabolic stress and inflammation were turned off [1]. Meanwhile, repair genes were switched on and immune cells stopped sending harmful inflammatory signals [1]."
-   }
-  ],
-  "why": "This research highlights how modern peptide therapies and GLP-1 drugs provide broad metabolic and organ-protective benefits beyond basic weight management.",
-  "tryit": "Talk to a GP or pharmacist if you want to understand more about metabolic health treatments, kidney function markers, or GLP-1 options available to you.",
-  "qa": [
-   [
-    "What is semaglutide?",
-    "Semaglutide is the key ingredient in well-known weight loss and diabetes drugs like Ozempic [1]."
-   ],
-   [
-    "How many people were looked at in the new study?",
-    "Researchers looked at a subset of 106 participants to find out how the drug worked [1]."
-   ],
-   [
-    "What happened to urine protein levels in patients taking the drug?",
-    "Levels of a protein called albumin dropped in patients taking semaglutide, which is a sign that the filters were not quite as leaky [1]."
-   ],
-   [
-    "How does chronic kidney disease affect the body?",
-    "As the disease progresses, the kidneys slowly lose their ability to filter out waste from blood and excrete it as urine [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease",
-    "status": 200,
-    "title": "Drugs like Ozempic may help reverse chronic kidney disease",
-    "domain": "sciencenews.org"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T16:00:00Z",
-  "addedAt": "2026-11-09T17:39:25Z",
-  "audio": "audio/popular-weight-loss-drug-semaglutide-shows-new-b.mp3",
-  "image": {
-   "src": "img/popular-weight-loss-drug-semaglutide-shows-new-b.jpg",
-   "credit": "Science News",
-   "license": "© Science News, shown with credit",
-   "page": "https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease",
-   "from_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_RF_GLP1-kidneydisease_main.jpg"
-  }
- },
- {
-  "id": "surprising-study-links-animal-protein-intake-to",
-  "cat": "health",
-  "tags": [
-   "health",
-   "fitness",
-   "science"
-  ],
-  "title": "Surprising Study Links Animal Protein Intake To Lower Testosterone Levels",
-  "snippet": "A new study of middle-aged men finds that a higher animal-to-plant protein ratio is associated with lower total testosterone. Meanwhile, plant proteins from non-grain sources showed a link to increased free testosterone.",
-  "bullets": [
-   "Researchers from the University of Eastern Finland studied 2,546 men aged 42 to 60 [1].",
-   "Men eating the most animal protein relative to plant protein had the lowest levels of free testosterone [1].",
-   "Plant proteins from sources like vegetables, legumes, or nuts were associated with higher free testosterone levels [1]."
-  ],
-  "report": [
-   {
-    "h": "The New Study",
-    "t": "Researchers at the University of Eastern Finland examined 2,546 men aged 42 to 60 to see how protein sources affect hormone levels [1]. They found that a higher ratio of animal-to-plant protein linked to lower total testosterone [1]."
-   },
-   {
-    "h": "Plant Versus Animal",
-    "t": "Participants who ate more plant protein from non-grain sources, such as vegetables, legumes, or nuts, showed higher free testosterone levels [1]. Free testosterone is not bound to a protein in the bloodstream and is available for the body to use [1]."
-   },
-   {
-    "h": "Dietary Advice",
-    "t": "Scientists note that simply swapping animal protein for plant protein in statistical models did not significantly change overall levels [1]. Researchers emphasize that testosterone needs to be carefully balanced in the body [1]."
-   }
-  ],
-  "why": "This matters if you want clear, evidence-based facts on diet and longevity instead of social media fitness myths.",
-  "tryit": "Review your weekly meals and try adding a serving of non-grain plant proteins like legumes, nuts, or vegetables to your daily routine.",
-  "qa": [
-   [
-    "How many men participated in the study?",
-    "The study included 2,546 men aged 42 to 60 [1]."
-   ],
-   [
-    "Which proteins were linked to higher free testosterone?",
-    "Plant proteins from non-grain sources such as vegetables, legumes, or nuts were associated with higher free testosterone [1]."
-   ],
-   [
-    "What does free testosterone mean?",
-    "It means circulating testosterone was not bound to a protein in the bloodstream and was essentially up for grabs [1]."
-   ],
-   [
-    "Did swapping proteins directly change levels in models?",
-    "Swapping animal protein for plant protein was not significantly associated with either total or free testosterone levels in the statistical models [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencealert.com/animal-protein-is-linked-to-lower-testosterone-in-middle-aged-men-surprising-study-finds",
-    "status": 200,
-    "title": "Animal Protein Is Linked to Lower Testosterone in Middle-Aged Men, Surprising Study Finds",
-    "domain": "sciencealert.com"
-   }
-  ],
-  "date": "2026-11-09",
-  "publishedAt": "2026-11-09T11:00:00Z",
-  "addedAt": "2026-11-09T11:03:38Z",
-  "audio": "audio/surprising-study-links-animal-protein-intake-to.mp3",
-  "image": {
-   "src": "img/surprising-study-links-animal-protein-intake-to.jpg",
-   "credit": "ScienceAlert",
-   "license": "© ScienceAlert, shown with credit",
-   "page": "https://www.sciencealert.com/animal-protein-is-linked-to-lower-testosterone-in-middle-aged-men-surprising-study-finds",
-   "from_url": "https://www.sciencealert.com/images/2026/11/GettyImages-1140203141-2560x1440-1.jpg"
   }
  },
  {
