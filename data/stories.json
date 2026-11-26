@@ -1,5 +1,354 @@
 [
  {
+  "id": "human-mini-brains-spent-40-days-in-space-to-stud",
+  "cat": "ai",
+  "tags": [
+   "science",
+   "health",
+   "space",
+   "ai"
+  ],
+  "title": "Human Mini Brains Spent 40 Days in Space to Study Alzheimer's",
+  "snippet": "Researchers sent lab-grown mini brains into space for 40 days to study cellular aging. The exposed organoids showed shifts in chemistry related to Alzheimer's disease.",
+  "bullets": [
+   "A batch of mini brains spent 40 days on board the International Space Station [1].",
+   "The space environment produces physiological stresses like microgravity and radiation exposure [1].",
+   "Returned Alzheimer's samples showed more amyloid-beta and phosphorylated tau proteins [1]."
+  ],
+  "report": [
+   {
+    "h": "Space Station Study",
+    "t": "Researchers sent lab-grown mini brains, called organoids, to the International Space Station for 40 days [1]. The study aimed to see how space stress affects brain cells [1]."
+   },
+   {
+    "h": "Notable Differences",
+    "t": "Upon return, Alzheimer's samples showed shifts in chemistry and composition [1]. They contained more amyloid-beta and phosphorylated tau proteins, which congregate in Alzheimer's brains [1]."
+   },
+   {
+    "h": "Future Research",
+    "t": "Scientists plan to test more complex organoids using systems that automatically refresh growth medium [1]. A potential next step is adding immune cells called microglia [1]."
+   }
+  ],
+  "why": "This fascinating study shows how extreme environments can speed up biological observation, offering new ways to model complex conditions.",
+  "tryit": "Read the published paper in Science Advances to explore the methodology used for growing and analyzing these specialized organoids [1].",
+  "qa": [
+   [
+    "How long did the mini brains spend in space?",
+    "They spent 40 days on board the International Space Station [1]."
+   ],
+   [
+    "What proteins increased in the space samples?",
+    "The Alzheimer's samples showed more amyloid-beta and phosphorylated tau proteins [1]."
+   ],
+   [
+    "Who led the research team?",
+    "The study was led by a team from the University of California, San Diego, including neuroscientist Alysson Muotri [1]."
+   ],
+   [
+    "Where was the study published?",
+    "The study was published in Science Advances [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/scientists-sent-mini-human-brains-into-space-to-study-alzheimers-heres-what-they-discovered",
+    "status": 200,
+    "title": "Human 'Mini Brains' Spent 40 Days in Space. Scientists Found Clues to Alzheimer's.",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-25",
+  "publishedAt": "2026-11-25T19:00:00Z",
+  "addedAt": "2026-11-25T23:45:38Z",
+  "audio": "audio/human-mini-brains-spent-40-days-in-space-to-stud.mp3",
+  "image": {
+   "src": "img/human-mini-brains-spent-40-days-in-space-to-stud.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/scientists-sent-mini-human-brains-into-space-to-study-alzheimers-heres-what-they-discovered",
+   "from_url": "https://www.sciencealert.com/images/2026/11/BrainOrganoidWithNeurons-1200x675.png"
+  }
+ },
+ {
+  "id": "discover-stunning-caribbean-beaches-from-pink-sa",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "caribbean",
+   "beaches",
+   "islands",
+   "vacation"
+  ],
+  "title": "Discover Stunning Caribbean Beaches From Pink Sands To Hidden Grottoes",
+  "snippet": "Explore the most breathtaking Caribbean beaches, from the blush-pink sands of Barbuda to the giant granite boulders of Virgin Gorda. Find pristine spots offering incredible snorkeling, tranquil waters, and untouched natural beauty.",
+  "bullets": [
+   "Princess Diana Beach on Barbuda features blush-pink sand and a Nobu beach club [1].",
+   "Grace Bay in Turks and Caicos offers roughly three miles of powdery white sand and calm waters [1].",
+   "The Baths on Virgin Gorda feature enormous granite boulders, hidden grottoes, and tidal pools [1]."
+  ],
+  "report": [
+   {
+    "h": "Blush-Pink Sands",
+    "t": "Princess Diana Beach on Barbuda offers a long stretch of pink sand framed by low vegetation. Visitors can enjoy Japanese-Peruvian cooking and cocktails at the local Nobu [1]."
+   },
+   {
+    "h": "Granite Boulder Playgrounds",
+    "t": "The Baths National Park on Virgin Gorda features enormous granite boulders as large as houses. Visitors can explore hidden grottoes, tidal pools, and narrow passages between the rocks [1]."
+   },
+   {
+    "h": "Untouched Marine Parks",
+    "t": "Sandy Island near Carriacou is an uninhabited coral cay with rugged simplicity. It forms part of a protected marine park ideal for snorkeling with reef fish, turtles, and octopi [1]."
+   }
+  ],
+  "why": "Why it matters to you: Planning a restorative getaway or scouting remarkable international locations offers a wonderful way to recharge your focus and feed your sense of adventure.",
+  "tryit": "Try this today: Research flight connections and day-excursion boat transfers to one of these lesser-known Caribbean destinations for your next holiday break.",
+  "qa": [
+   [
+    "Where is Princess Diana Beach located?",
+    "It is located on Barbuda, the quieter sister island to Antigua [1]."
+   ],
+   [
+    "How long is Grace Bay?",
+    "Grace Bay features roughly three miles of powdery white sand [1]."
+   ],
+   [
+    "What unique historical objects are found at Flamenco Beach?",
+    "Two abandoned United States military tanks covered in colorful graffiti sit near the shore [1]."
+   ],
+   [
+    "What can you find at The Baths on Virgin Gorda?",
+    "You can find a collection of enormous granite boulders with hidden grottoes, tidal pools, and narrow passages [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/best-beaches-in-the-caribbean",
+    "status": 200,
+    "title": "The 11 Most Beautiful Beaches in the Caribbean",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2026-11-25",
+  "publishedAt": "2026-11-25T20:01:41Z",
+  "addedAt": "2026-11-25T23:45:38Z",
+  "audio": "audio/discover-stunning-caribbean-beaches-from-pink-sa.mp3",
+  "image": {
+   "src": "img/discover-stunning-caribbean-beaches-from-pink-sa.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/best-beaches-in-the-caribbean",
+   "from_url": "https://media.cntraveler.com/photos/6b05fd4a6f14dc91b3024a53/16:9/w_1280,c_limit/GettyImages-1307994124.jpg"
+  }
+ },
+ {
+  "id": "openai-merges-chat-and-work-tools-under-shared-u",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business"
+  ],
+  "title": "OpenAI Merges Chat And Work Tools Under Shared Usage Limits",
+  "snippet": "OpenAI is bringing chat and work-focused tools into a single interface. Heavy users may hit usage limits sooner as infrastructure costs rise.",
+  "bullets": [
+   "OpenAI plans to bring shared usage limits more broadly in December [1].",
+   "Rival Anthropic moved to bring Claude and Cowork under one interface in September [1].",
+   "AI companies face mounting infrastructure costs and growing demand for capable models [1]."
+  ],
+  "report": [
+   {
+    "h": "New Interface",
+    "t": "OpenAI and other AI companies are combining conversational chat services and work-focused tools into a single interface [1]. This update helps users move between chats and complex tasks without switching tabs [1]."
+   },
+   {
+    "h": "Usage Limits",
+    "t": "Shared usage limits mean heavy users may hit their caps sooner than before [1]. A small group of users has already seen the rollout begin, with broader availability planned for December [1]."
+   },
+   {
+    "h": "Industry Pressures",
+    "t": "These changes come as AI companies face growing demand for capable models and mounting infrastructure costs [1]. These pressures put continuous strain on their computing resources [1]."
+   }
+  ],
+  "why": "Why it matters to you: Understanding upcoming platform limits helps you plan your daily workflow and agent tasks efficiently without unexpected interruptions.",
+  "tryit": "Try this today: Review your current AI tool usage patterns and plan your heavy computational tasks outside of peak hours to manage shared limits.",
+  "qa": [
+   [
+    "When will shared usage limits arrive more broadly?",
+    "OpenAI plans to bring shared usage limits more broadly in December [1]."
+   ],
+   [
+    "Why are AI companies changing their interfaces?",
+    "Companies face mounting infrastructure costs and growing demand, and want to make chatbots simpler to use in a single interface [1]."
+   ],
+   [
+    "Which rival company made a similar move in September?",
+    "Anthropic moved to bring its chat service and work-focused Cowork under one interface in September [1]."
+   ],
+   [
+    "Who started receiving the rollout first?",
+    "The rollout has started for a small group of users [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "status": 200,
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-25",
+  "publishedAt": "2026-11-25T20:03:27Z",
+  "addedAt": "2026-11-25T23:45:38Z",
+  "audio": "audio/openai-merges-chat-and-work-tools-under-shared-u.mp3",
+  "image": {
+   "src": "img/openai-merges-chat-and-work-tools-under-shared-u.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800"
+  }
+ },
+ {
+  "id": "spacex-wins-fcc-approval-to-deploy-one-million-a",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "science",
+   "space"
+  ],
+  "title": "SpaceX Wins FCC Approval To Deploy One Million AI Satellites",
+  "snippet": "The FCC has authorised SpaceX to build its Starmind constellation of up to 1 million AI chip-equipped satellites to power Earth-based artificial intelligence.",
+  "bullets": [
+   "The FCC authorised SpaceX to deploy up to 1 million AI chip-equipped satellites for the Starmind initiative on Wednesday [1].",
+   "SpaceX must deploy at least one satellite by 2033 and reach the 1 million milestone by 2040 [1].",
+   "Google and Blue Origin are also pursuing space-based AI data centers, with Google launching a Project Suncatcher server satellite last month [1]."
+  ],
+  "report": [
+   {
+    "h": "FCC Authorisation",
+    "t": "The FCC announced its authorisation for SpaceX to deploy up to 1 million AI chip-equipped satellites for the Starmind initiative on Wednesday [1]."
+   },
+   {
+    "h": "Timeline And Rules",
+    "t": "SpaceX must deploy at least one satellite by 2033 and hit the 1 million mark by 2040 [1]. The FCC deferred disposal plans for satellites above 600km because of insufficient information [1]."
+   },
+   {
+    "h": "Industry Competition",
+    "t": "Google and Blue Origin are also pursuing space data centers, with Google launching a Project Suncatcher server satellite last month [1]."
+   }
+  ],
+  "why": "This major infrastructure shift in artificial intelligence computing offers a glimpse into future technological scalability and market opportunities.",
+  "tryit": "Read the full article on The Verge website to research upcoming infrastructure timelines for space-based AI.",
+  "qa": [
+   [
+    "What is the name of the SpaceX initiative?",
+    "The initiative is called Starmind [1]."
+   ],
+   [
+    "How many satellites is SpaceX authorised to deploy?",
+    "SpaceX is authorised to deploy up to 1 million satellites [1]."
+   ],
+   [
+    "By what year must SpaceX reach the milestone?",
+    "SpaceX must meet the 1 million satellite milestone by 2040 [1]."
+   ],
+   [
+    "Which other companies are pursuing space data centers?",
+    "Google and Blue Origin are also pursuing the idea [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "status": 200,
+    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "domain": "theverge.com"
+   }
+  ],
+  "date": "2026-11-25",
+  "publishedAt": "2026-11-25T17:44:51Z",
+  "addedAt": "2026-11-25T23:45:38Z",
+  "audio": "audio/spacex-wins-fcc-approval-to-deploy-one-million-a.mp3",
+  "image": {
+   "src": "img/spacex-wins-fcc-approval-to-deploy-one-million-a.jpg",
+   "credit": "The Verge",
+   "license": "© The Verge, shown with credit",
+   "page": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200"
+  }
+ },
+ {
+  "id": "why-gen-z-employees-are-surprisingly-the-least-i",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "money",
+   "business"
+  ],
+  "title": "Why Gen Z Employees Are Surprisingly The Least Interested In AI At Work",
+  "snippet": "A new survey shows Gen Z has the lowest morale around AI at work, with only 18% wanting to strengthen their AI skills compared to older generations.",
+  "bullets": [
+   "Only 18% of Gen Z reported an interest in strengthening their AI skills in a survey by Seramount [1].",
+   "Millennials reached 36%, Gen Xers hit 46%, and Boomers reached 43% for AI skill interest [1].",
+   "Around 8% of people ages 22 to 24 were unemployed in September, compared to 3% of workers ages 25 to 54 [1]."
+  ],
+  "report": [
+   {
+    "h": "Lowest AI Interest",
+    "t": "Generation Z has the lowest morale and least interest in using AI at work compared to older generations [1]. Only 18% want to build AI skills, versus 46% of Gen Xers [1]."
+   },
+   {
+    "h": "Rising Skepticism",
+    "t": "Gen Z uses AI less than other generations by nine percentage points [1]. Anxiety about AI sits at 42% for 2026, while excitement dropped to 22% [1]."
+   },
+   {
+    "h": "Labor Market Fears",
+    "t": "Entry-level job postings have fallen in recent years, making young workers fear that AI could worsen unemployment [1]. Employers are urged to provide clear guidelines, training, and practice opportunities [1]."
+   }
+  ],
+  "why": "Understanding generational shifts in AI adoption helps when managing teams, hiring junior staff, or positioning your own business services for clients.",
+  "tryit": "Read the Seramount survey findings on Gen Z workplace attitudes to better understand team dynamics and tool adoption rates.",
+  "qa": [
+   [
+    "What percentage of Gen Z wants to strengthen AI skills?",
+    "Only 18% of Gen Z reported an interest in strengthening their AI skills [1]."
+   ],
+   [
+    "How many US white-collar workers were polled?",
+    "The survey polled responses from over 1,800 US white-collar workers at companies with at least 500 employees [1]."
+   ],
+   [
+    "What was the unemployment rate for those ages 22 to 24 in September?",
+    "Around 8% of those ages 22 to 24 were unemployed in September [1]."
+   ],
+   [
+    "Who said employers cannot assume young employees will embrace AI?",
+    "Diana Forster, senior director of research at Seramount, stated that employers cannot assume young workers will embrace AI on their own [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/innovation/gen-z-employees-ai-survey/",
+    "status": 200,
+    "title": "Gen Z is the least interested in AI at work - and it's not even close - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-25",
+  "publishedAt": "2026-11-25T18:07:00Z",
+  "addedAt": "2026-11-25T23:45:38Z",
+  "audio": "audio/why-gen-z-employees-are-surprisingly-the-least-i.mp3",
+  "image": {
+   "src": "img/why-gen-z-employees-are-surprisingly-the-least-i.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/innovation/gen-z-employees-ai-survey/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1183759564.jpg"
+  }
+ },
+ {
   "id": "how-a-couple-planned-a-stunning-pakistani-destin",
   "cat": "travel",
   "tags": [
@@ -2664,13 +3013,13 @@
     "publishedAt": "2026-11-23T14:18:00Z"
    },
    {
-    "title": "A look at the probes involving Nvidia, Jensen Huang and Megaspeed",
-    "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-megaspeed-investigations/",
+    "title": "China may have surveilled Alice Huang amid affair with Nvidia CEO",
+    "url": "https://www.cbsnews.com/news/chinese-intel-may-have-surveilled-alice-huang-after-affair-nvidia-ceo/",
     "outlet": "CBS News",
     "domain": "cbsnews.com",
     "lean": "C",
     "leanLabel": "Centre",
-    "publishedAt": "2026-11-25T16:13:16Z"
+    "publishedAt": "2026-11-25T21:30:44Z"
    }
   ]
  },
@@ -19468,76 +19817,6 @@
   }
  },
  {
-  "id": "how-insecure-attachment-styles-shape-mental-heal",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "mind",
-   "relationships",
-   "self-compassion"
-  ],
-  "title": "How insecure attachment styles shape mental health and well-being over time",
-  "snippet": "New research shows how attachment insecurity predicts psychological distress and lower well-being over time. Psychologists highlight the importance of building attachment security and trust to help individuals thrive.",
-  "bullets": [
-   "Research published in the International Journal of Sexual Health reveals how relationship patterns predict psychological changes [1].",
-   "A dual-perspective model treats psychological distress and positive well-being as distinct dimensions of human experience [1].",
-   "The study tracked 253 cisgender bisexual women in Chile between the ages of 18 and 29 over a one-year period [1]."
-  ],
-  "report": [
-   {
-    "h": "The dual-perspective model",
-    "t": "Traditional medical frameworks define wellness simply as the absence of mental illness, but newer approaches treat distress and positive well-being as distinct dimensions [1]. A person might experience symptoms of depression while maintaining a strong sense of life purpose, or feel unfulfilled despite lacking distress [1]."
-   },
-   {
-    "h": "Attachment patterns examined",
-    "t": "Psychologists Jennifer Marín and Mónica Guzmán-González studied 253 cisgender bisexual women aged 18 to 29 in Chile [1]. They evaluated attachment anxiety, involving a fear of abandonment, and attachment avoidance, characterized by emotional distancing [1]."
-   },
-   {
-    "h": "Impact over time",
-    "t": "Initial survey data and a one-year follow-up showed that attachment avoidance predicted future increases in psychological distress [1]. Both attachment anxiety and avoidance predicted reductions in positive well-being over the year [1]."
-   }
-  ],
-  "why": "Understanding how attachment styles impact your mental health and well-being offers practical insight into building stronger, more secure emotional connections.",
-  "tryit": "Reflect on your own emotional patterns in close relationships by noticing whether you tend toward emotional distancing or a strong need for validation.",
-  "qa": [
-   [
-    "What is a dual-perspective model of mental health?",
-    "It is an approach that treats psychological distress and positive well-being as distinct dimensions of human experience [1]."
-   ],
-   [
-    "Who authored the study?",
-    "The study was authored by Jennifer Marín and Mónica Guzmán-González [1]."
-   ],
-   [
-    "How many participants were in the study?",
-    "The researchers recruited 253 cisgender bisexual women between the ages of 18 and 29 [1]."
-   ],
-   [
-    "What did attachment avoidance predict after one year?",
-    "Higher initial levels of attachment avoidance predicted an increase in psychological distress symptoms over time [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psypost.org/how-insecure-attachment-shapes-mental-health-in-young-bisexual-women/",
-    "status": 200,
-    "title": "Insecure attachment linked to reduced well-being in bisexual young adults",
-    "domain": "psypost.org"
-   }
-  ],
-  "date": "2026-11-11",
-  "publishedAt": "2026-11-11T23:00:34Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/how-insecure-attachment-styles-shape-mental-heal.mp3",
-  "image": {
-   "src": "img/how-insecure-attachment-styles-shape-mental-heal.jpg",
-   "credit": "PsyPost",
-   "license": "© PsyPost, shown with credit",
-   "page": "https://www.psypost.org/how-insecure-attachment-shapes-mental-health-in-young-bisexual-women/",
-   "from_url": "https://www.psypost.org/wp-content/uploads/2024/12/sad-depressed-woman.jpg"
-  }
- },
- {
   "id": "europe-s-hera-spacecraft-arrives-to-study-a-uniq",
   "cat": "news",
   "tags": [
@@ -20938,216 +21217,6 @@
   }
  },
  {
-  "id": "build-a-thriving-side-hustle-by-starting-small-a",
-  "cat": "adhd",
-  "tags": [
-   "adhd",
-   "business",
-   "money",
-   "focus"
-  ],
-  "title": "Build a thriving side hustle by starting small and beating overwhelm",
-  "snippet": "Learn how a solo founder turned a personal focus frustration into a six-figure brand by launching before everything felt perfect.",
-  "bullets": [
-   "Rosie Goldwasser launched her matcha brand in March 2024 after investing twenty-five thousand dollars of her own savings [1].",
-   "The business generated one hundred twenty-five thousand dollars in its first year without spending any money on advertising [1].",
-   "She advises finding the smallest version of an idea to launch instead of waiting for a complex multi-year plan [1]."
-  ],
-  "report": [
-   {
-    "h": "Start Before It Is Perfect",
-    "t": "Starting small helps avoid analysis paralysis and overwhelm when building a new venture [1]. Launching a basic version allows real customers to validate your idea before you spend too much time or money [1]."
-   },
-   {
-    "h": "Protect Your Focus",
-    "t": "Doing everything yourself initially can burn out your time and energy [1]. Outsourcing manual tasks like order fulfillment frees up your schedule to focus on high-impact growth and marketing [1]."
-   },
-   {
-    "h": "Prepare Decisions Early",
-    "t": "Solo founders face constant choices that impact cash flow and product quality [1]. Starting the decision-making and interviewing process months in advance prevents rushed mistakes [1]."
-   }
-  ],
-  "why": "When managing focus challenges, big projects can feel totally paralyzingly huge; breaking them down into small, actionable launches keeps your momentum alive.",
-  "tryit": "Identify the single smallest version of a project or idea you have been putting off, write down just the very first step, and take that action today.",
-  "qa": [
-   [
-    "How much revenue did the business make in year one?",
-    "It generated one hundred twenty-five thousand dollars in revenue [1]."
-   ],
-   [
-    "How much initial capital was invested?",
-    "The founder invested twenty-five thousand dollars of her own savings [1]."
-   ],
-   [
-    "When did the founder quit her corporate job?",
-    "She left her corporate role in March 2026 to focus on the business full-time [1]."
-   ],
-   [
-    "What inspired the business idea?",
-    "A personal frustration with coffee leaving her too jittery or tired, leading her to discover matcha for calm energy [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.entrepreneur.com/building-a-business/this-28-year-old-started-a-caffeinated-side-hustle-it-made-125k-in-year-1",
-    "status": 200,
-    "title": "This 28-Year-Old Started a Caffeinated Side Hustle. It Made $125K in Year 1 — So She Quit Corporate to Work on It Full-Time.",
-    "domain": "entrepreneur.com"
-   }
-  ],
-  "date": "2026-11-11",
-  "publishedAt": "2026-11-11T20:06:11Z",
-  "addedAt": "2026-11-12T10:55:56Z",
-  "audio": "audio/build-a-thriving-side-hustle-by-starting-small-a.mp3",
-  "image": {
-   "src": "img/build-a-thriving-side-hustle-by-starting-small-a.jpg",
-   "credit": "Entrepreneur",
-   "license": "© Entrepreneur, shown with credit",
-   "page": "https://www.entrepreneur.com/building-a-business/this-28-year-old-started-a-caffeinated-side-hustle-it-made-125k-in-year-1",
-   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/HEADSHOT-1-e1794342233471.png"
-  }
- },
- {
-  "id": "coreweave-shifts-to-upfront-prepayments-and-shor",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "negotiation"
-  ],
-  "title": "CoreWeave Shifts to Upfront Prepayments and Short-Term Deals to Fund AI Infrastructure",
-  "snippet": "CoreWeave is changing how it funds its AI cloud growth by asking clients for prepayments, securing contract-backed loans, and pursuing short-term deals.",
-  "bullets": [
-   "CoreWeave reported $3.66 billion in revenue with a $709 million net loss [1].",
-   "The neocloud expects about $9 billion in customer prepayments and deposits over the next three months [1].",
-   "CoreWeave raised prices across its offerings by about 25% in July and another 10% later in the quarter [1]."
-  ],
-  "report": [
-   {
-    "h": "Upfront Customer Payments",
-    "t": "CoreWeave is asking customers to pay up front and borrowing against specific contracts to finance its growth more efficiently [1]. The company expects about $9 billion in customer prepayments and deposits over the next three months [1]."
-   },
-   {
-    "h": "Short-Term Price Strategy",
-    "t": "The company is allocating more capacity to short-term opportunities that command much higher prices [1]. It is selling capacity at more than $40 million per megawatt annually, compared to $20 million to $25 million for four- and five-year contracts [1]."
-   },
-   {
-    "h": "Financing and Loans",
-    "t": "CoreWeave relies on loans backed by specific customer contracts rather than the unsecured debt market [1]. In August, the firm closed a $2.6 billion loan designed specifically for shorter-term customer contracts [1]."
-   }
-  ],
-  "why": "This shows creative deal-making and cash flow structuring in the AI sector, offering insights into how high-growth tech infrastructure is negotiated.",
-  "tryit": "Review your own contract terms or client agreements to see if you can introduce upfront deposits or milestone prepayments for high-demand services.",
-  "qa": [
-   [
-    "What was CoreWeave's revenue?",
-    "CoreWeave reported $3.66 billion in revenue, up 168% from the year prior [1]."
-   ],
-   [
-    "How much does CoreWeave expect in prepayments?",
-    "The company expects about $9 billion in customer prepayments and deposits over the next three months [1]."
-   ],
-   [
-    "What are short-term contract prices per megawatt?",
-    "Short-term capacity is selling at more than $40 million per megawatt annually [1]."
-   ],
-   [
-    "What was the size of the August loan?",
-    "CoreWeave closed a $2.6 billion loan designed specifically for shorter-term customer contracts [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-    "status": 200,
-    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-11",
-  "publishedAt": "2026-11-11T19:54:00Z",
-  "addedAt": "2026-11-12T10:55:56Z",
-  "audio": "audio/coreweave-shifts-to-upfront-prepayments-and-shor.mp3",
-  "image": {
-   "src": "img/coreweave-shifts-to-upfront-prepayments-and-shor.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304376406.jpg?w=1024"
-  }
- },
- {
-  "id": "british-ai-chip-startup-fractile-secures-massive",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "money",
-   "economics"
-  ],
-  "title": "British AI Chip Startup Fractile Secures Massive Funding Round",
-  "snippet": "British AI chip startup Fractile has raised a $720 million Series C round to help reduce the cost of running demanding AI models. The company plans to ship its first chips and systems next year.",
-  "bullets": [
-   "Fractile raised a $720 million Series C backed by Britain’s Sovereign AI Fund [1].",
-   "The valuation was stated as over £5 billion by the British government [1].",
-   "The startup plans to ship its first chips and systems next year [1]."
-  ],
-  "report": [
-   {
-    "h": "Massive Funding Secured",
-    "t": "British startup Fractile raised a $720 million Series C backed by Britain’s Sovereign AI Fund [1]. The valuation reached over £5 billion according to the British government [1]."
-   },
-   {
-    "h": "Full Stack Approach",
-    "t": "The company combines purpose-built hardware with a machine learning compiler to speed up large language models [1]. Its design focuses on stacked DRAM to bypass memory and capacity trade-offs [1]."
-   },
-   {
-    "h": "Next Steps",
-    "t": "CEO Walter Goodwin stated that the new funding will help the startup ship its first chips and systems next year [1]. This hardware aims to support longer chains of tasks required by agentic AI [1]."
-   }
-  ],
-  "why": "Understanding advancements in AI hardware and market funding helps spot emerging opportunities in the tech ecosystem.",
-  "tryit": "Read the announcement post on LinkedIn by Fractile CEO Walter Goodwin to explore details on their hardware design and upcoming product launches.",
-  "qa": [
-   [
-    "How much did Fractile raise in its latest round?",
-    "Fractile raised a $720 million Series C round [1]."
-   ],
-   [
-    "What is Fractile's valuation?",
-    "The British government reported the valuation was over £5 billion [1]."
-   ],
-   [
-    "When does Fractile plan to ship its first chips?",
-    "The company plans to ship its first chips and systems next year [1]."
-   ],
-   [
-    "Who is the CEO of Fractile?",
-    "Walter Goodwin is the CEO of Fractile [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-    "status": 200,
-    "title": "With $720M round, Britain's Fractile gets a leg up in the race for AI chips | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-11",
-  "publishedAt": "2026-11-11T19:34:55Z",
-  "addedAt": "2026-11-12T10:55:56Z",
-  "audio": "audio/british-ai-chip-startup-fractile-secures-massive.mp3",
-  "image": {
-   "src": "img/british-ai-chip-startup-fractile-secures-massive.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800"
-  }
- },
- {
   "id": "historical-milestones-from-space-probes-to-glowi",
   "cat": "whoa",
   "tags": [
@@ -21356,426 +21425,6 @@
    "license": "© PinkNews, shown with credit",
    "page": "https://www.thepinknews.com/2026/11/12/youth-hormone-regret-transition-gender-affirming-care/",
    "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/recap-Puberty-Blockers.jpg"
-  }
- },
- {
-  "id": "oura-ring-set-to-bring-real-doctors-inside-your",
-  "cat": "health",
-  "tags": [
-   "health",
-   "ai",
-   "sleep",
-   "longevity",
-   "business"
-  ],
-  "title": "Oura Ring set to bring real doctors inside your health app",
-  "snippet": "Oura is buying AI primary care company Counsel Health for $625 million to give users in-app access to physicians and 24/7 medical advice.",
-  "bullets": [
-   "Oura agreed to acquire Counsel Health for $625 million to expand clinical guidance for users [1].",
-   "The deal will connect members with in-house physicians and 24/7 medical AI to address timely health problems [1].",
-   "This is the third acquisition Oura has made this year following purchases of Galen AI and Doublepoint AI [1]."
-  ],
-  "report": [
-   {
-    "h": "A major health acquisition",
-    "t": "Oura has entered an agreement to buy Counsel Health for $625 million. The move aims to turn the fitness tracker into a continuous medical companion with clinical guidance [1]."
-   },
-   {
-    "h": "Connecting data to doctors",
-    "t": "The acquisition will combine biometric monitoring with Counsel Health's medical AI and in-house physicians. Users could get help for episodic conditions, chronic issues, and prescriptions [1]."
-   },
-   {
-    "h": "Part of a broader buying spree",
-    "t": "This follows Oura's earlier purchases of Galen AI and Doublepoint AI this year. Tech companies are increasingly buying health startups to bridge symptom tracking and direct care [1]."
-   }
-  ],
-  "why": "This matters if you track your daily health metrics and want a faster way to understand what your biometric data actually means for your body.",
-  "tryit": "Check your current health app settings or device dashboard to see what biometric baselines it currently tracks for your sleep and resting heart rate [1].",
-  "qa": [
-   [
-    "How much is Oura paying for Counsel Health?",
-    "Oura is acquiring Counsel Health for $625 million [1]."
-   ],
-   [
-    "When is the deal expected to close?",
-    "The Counsel Health deal is expected to close by the end of the year [1]."
-   ],
-   [
-    "What other companies has Oura acquired this year?",
-    "Oura previously acquired Galen AI and Doublepoint AI earlier this year [1]."
-   ],
-   [
-    "Will the new medical features be included in the subscription?",
-    "It is currently unknown whether access to the physicians or 24/7 medical AI will be included in an Oura app subscription [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
-    "status": 200,
-    "title": "Oura Ring users may get in-app access to real doctors soon - what we know - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-11",
-  "publishedAt": "2026-11-11T17:45:55Z",
-  "addedAt": "2026-11-12T10:55:56Z",
-  "audio": "audio/oura-ring-set-to-bring-real-doctors-inside-your.mp3",
-  "image": {
-   "src": "img/oura-ring-set-to-bring-real-doctors-inside-your.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png"
-  }
- },
- {
-  "id": "singapore-airlines-unveils-massive-new-double-be",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "aviation",
-   "luxury",
-   "design",
-   "sleep"
-  ],
-  "title": "Singapore Airlines Unveils Massive New Double Beds in the Sky",
-  "snippet": "Singapore Airlines has revealed a massive redesign featuring the largest double bed in commercial aviation. The upgrade is part of a massive revamp set for release in the second half of 2027.",
-  "bullets": [
-   "Singapore Airlines announced a redesign on Friday, November 6 [1].",
-   "The first class double bed measures 80 inches long and 60 inches wide [1].",
-   "The upgrades will be introduced across new Boeing 777-9 aircraft and retrofitted Airbus A350-900 aircraft [1]."
-  ],
-  "report": [
-   {
-    "h": "Major Cabin Revamp",
-    "t": "Singapore Airlines announced a $1.6 billion redesign on Friday, November 6, with the first aircraft entering service in the second half of 2027 [1]. The project introduces new cabins across Boeing 777-9 and retrofitted Airbus A350-900 aircraft [1]."
-   },
-   {
-    "h": "Queen Beds in First Class",
-    "t": "First class passengers can transform two adjoining seats into a double bed measuring 80 inches long and 60 inches wide [1]. The luxurious suites also feature Italian Poltrona Frau leather upholstery and 32-inch 4K entertainment screens [1]."
-   },
-   {
-    "h": "Upgrades Across All Cabins",
-    "t": "Business class gets sliding privacy doors and fully flat beds, while premium economy and economy receive extra space and storage [1]. Ultra-long-range Airbus aircraft will also receive first class cabins for the very first time [1]."
-   }
-  ],
-  "why": "It is a fascinating look at long-haul comfort innovations and travel design that can make future flights much more restful.",
-  "tryit": "Check the Singapore Airlines website to review upcoming long-haul route updates and cabin rollout schedules.",
-  "qa": [
-   [
-    "How much is the redesign costing?",
-    "The redesign is part of a $1.6 billion investment [1]."
-   ],
-   [
-    "When will the first aircraft enter service?",
-    "The first aircraft is expected to enter service in the second half of 2027 [1]."
-   ],
-   [
-    "What are the dimensions of the first class double bed?",
-    "The bed measures 80 inches long and 60 inches wide [1]."
-   ],
-   [
-    "Which aircraft will feature the upgrades?",
-    "The upgrades will be introduced across new Boeing 777-9 aircraft and 41 retrofitted Airbus A350-900 aircraft [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/singapore-airlines-unveils-the-largest-double-bed-in-the-sky-as-part-of-a-dollar16-billion-redesign",
-    "status": 200,
-    "title": "Singapore Airlines Unveils the ‘Largest Double Bed in the Sky’ As Part of a $1.6 Billion Redesign",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2026-11-11",
-  "publishedAt": "2026-11-11T19:32:34Z",
-  "addedAt": "2026-11-12T10:55:56Z",
-  "audio": "audio/singapore-airlines-unveils-massive-new-double-be.mp3",
-  "image": {
-   "src": "img/singapore-airlines-unveils-massive-new-double-be.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/singapore-airlines-unveils-the-largest-double-bed-in-the-sky-as-part-of-a-dollar16-billion-redesign",
-   "from_url": "https://media.cntraveler.com/photos/6af4a185196ff7a1b8e9557e/16:9/w_1280,c_limit/Singapore-Nov26-globalPR-First%20Class%20Double%20Bed.png"
-  }
- },
- {
-  "id": "deep-sea-metal-nodules-are-actually-home-to-dive",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "animals",
-   "whoa"
-  ],
-  "title": "Deep sea metal nodules are actually home to diverse ocean life",
-  "snippet": "New research shows that metal-rich deep-sea nodules are teeming with microscopic animals. This surprising discovery adds a new layer to debates over deep-sea mining.",
-  "bullets": [
-   "Softball-size polymetallic nodules are a source of crucial metals like manganese and copper [1].",
-   "Researchers found thousands of microscopic animals living among the rock crevices of these nodules [1].",
-   "A single nodule contained an average of 17 animals and sometimes hundreds of creatures [1]."
-  ],
-  "report": [
-   {
-    "h": "Surprising Ocean Life",
-    "t": "Researchers found thousands of microscopic animals living inside rock crevices of deep-sea nodules [1]. These softball-size formations sit in a desirable mining area of the Pacific Ocean [1]."
-   },
-   {
-    "h": "Distinct Habitats",
-    "t": "Organisms collected 1,000 kilometers apart were more similar to each other than to nearby sediment communities [1]. This suggests the nodules provide a distinct habitat necessary for certain species to survive [1]."
-   },
-   {
-    "h": "Mining Implications",
-    "t": "The diversity of life hiding within the nodules should factor into future plans to mine the seafloor [1]. Commercial mining could result in an irreversible loss of this unique biodiversity [1]."
-   }
-  ],
-  "why": "It is a fascinating scientific discovery about deep-sea ecosystems that highlights how much remains unknown about our planet's hidden biology.",
-  "tryit": "Read the full Scientific Reports study online to learn more about how microscopic organisms survive in extreme deep-sea environments.",
-  "qa": [
-   [
-    "What are polymetallic nodules?",
-    "They are softball-size clumps of rock and metal in the deep ocean that take millions of years to form [1]."
-   ],
-   [
-    "Where were the nodules studied?",
-    "They were collected from the Clarion-Clipperton Zone in the Pacific Ocean [1]."
-   ],
-   [
-    "What kind of creatures were found inside?",
-    "Researchers found roundworms, tiny crustaceans, and a common single-celled protist called Thurammina sp. 1 [1]."
-   ],
-   [
-    "Why does this discovery matter?",
-    "It shows that commercial deep-sea mining may result in an irreversible loss of unique biodiversity associated with the nodules [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.scientificamerican.com/article/metal-rich-deep-sea-nodules-also-harbor-diverse-ocean-life/",
-    "status": 200,
-    "title": "These deep-sea ‘nodules’ are rich in critical minerals—and in ocean life",
-    "domain": "scientificamerican.com"
-   }
-  ],
-  "date": "2026-11-11",
-  "publishedAt": "2026-11-11T20:30:00Z",
-  "addedAt": "2026-11-12T10:55:56Z",
-  "audio": "audio/deep-sea-metal-nodules-are-actually-home-to-dive.mp3",
-  "image": {
-   "src": "img/deep-sea-metal-nodules-are-actually-home-to-dive.jpg",
-   "credit": "Scientific American",
-   "license": "© Scientific American, shown with credit",
-   "page": "https://www.scientificamerican.com/article/metal-rich-deep-sea-nodules-also-harbor-diverse-ocean-life/",
-   "from_url": "https://static.scientificamerican.com/dam/asset/e109f758-a5f0-4d13-b6ba-c063c8337e01/nodules.png?m=1794430560.773&w=1200"
-  }
- },
- {
-  "id": "this-tiny-new-device-gives-your-older-tech-smart",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "money",
-   "science"
-  ],
-  "title": "This tiny new device gives your older tech smart home superpowers",
-  "snippet": "A new $69 hardware device lets Home Assistant users make their existing electronics smarter instead of replacing them. It connects older stereo systems, amplifiers, and serial-controlled TVs to modern setups.",
-  "bullets": [
-   "The new Home Assistant Connect AUX-2 hardware device is priced at $69 [1].",
-   "It features RS-232 serial ports, Bluetooth, Z-Wave, USB, PoE, and Wi-Fi connectivity [1].",
-   "The device helps users control old AV receivers and older TVs without relying on manufacturer cloud servers [1]."
-  ],
-  "report": [
-   {
-    "h": "Smart Home Upgrade",
-    "t": "The Home Assistant Connect AUX-2 is a multi-purpose device made by Nabu Casa to connect older electronics [1]. It brings together several connectivity options like RS-232 serial for older TVs and equipment [1]."
-   },
-   {
-    "h": "Fighting Obsolescence",
-    "t": "The device aims to keep working electronics out of the trash when manufacturers stop supporting them or shut down cloud services [1]. A single box can control multiple devices depending on physical connections [1]."
-   },
-   {
-    "h": "Flexible Connections",
-    "t": "Users can connect two serial-controlled devices directly through RS-232 ports and use a USB port for expansion adapters [1]. The hardware also supports Bluetooth, Z-Wave, PoE, and Wi-Fi [1]."
-   }
-  ],
-  "why": "This practical hardware offers a clever way to upgrade existing equipment and run an efficient, automated workspace or home setup without unnecessary purchases.",
-  "tryit": "Check the Home Assistant site to explore how the AUX-2 hardware can integrate your existing audio gear and older screens into a unified automation system.",
-  "qa": [
-   [
-    "How much does the AUX-2 cost?",
-    "The device costs $69 [1]."
-   ],
-   [
-    "Who makes the AUX-2?",
-    "It is made by Nabu Casa, the company behind official Home Assistant hardware [1]."
-   ],
-   [
-    "What connectivity options are supported?",
-    "It supports RS-232 serial, Bluetooth, Z-Wave, USB, PoE, and Wi-Fi [1]."
-   ],
-   [
-    "What problem does the device solve?",
-    "It prevents working electronics from becoming obsolete when manufacturers drop support or shut down cloud services [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
-    "status": 200,
-    "title": "This tiny box gives your older tech smart home superpowers - and it's only $69 - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-11",
-  "publishedAt": "2026-11-11T20:30:08Z",
-  "addedAt": "2026-11-11T23:38:56Z",
-  "audio": "audio/this-tiny-new-device-gives-your-older-tech-smart.mp3",
-  "image": {
-   "src": "img/this-tiny-new-device-gives-your-older-tech-smart.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/image-1.jpeg"
-  }
- },
- {
-  "id": "why-major-companies-are-currently-blocking-unaut",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "travel"
-  ],
-  "title": "Why major companies are currently blocking unauthorized AI shopping agents",
-  "snippet": "United Airlines and other major companies are restricting AI agents from transacting on their sites due to privacy and regulatory concerns. Businesses worry about unauthorized assistants exposing sensitive data or bypassing mandatory compliance rules.",
-  "bullets": [
-   "United Airlines announced it will not let personal AI assistants book tickets on the airline [1].",
-   "The company cited concerns that agents could expose customer information or make unintended purchases [1].",
-   "Other platforms like eBay and several major banks have also placed restrictions on AI agents [1]."
-  ],
-  "report": [
-   {
-    "h": "Booking restrictions",
-    "t": "United states that personal AI assistants cannot complete flight transactions on behalf of users [1]. The airline highlighted concerns regarding regulatory compliance, such as ensuring passengers personally attest that their bags do not contain explosives [1]."
-   },
-   {
-    "h": "Industry caution",
-    "t": "United CEO Scott Kirby noted reluctance to introduce another middleman into the process [1]. Other companies, including DoorDash and eBay, are similarly observing or restricting how autonomous agents interact with their platforms [1]."
-   },
-   {
-    "h": "Future potential",
-    "t": "United indicated it might reconsider its stance as third-party AI technology advances [1]. The airline wants to ensure proper customer protections are established before allowing direct account interactions [1]."
-   }
-  ],
-  "why": "Understanding how major platforms restrict autonomous software helps you anticipate technical hurdles when building or deploying your own AI automation tools.",
-  "tryit": "Check your current automated workflows to ensure they rely on official APIs rather than direct web transactions where sites might block them.",
-  "qa": [
-   [
-    "Why is United blocking AI booking agents?",
-    "United cited privacy concerns, unintended purchases, and regulatory rules like bag attestations [1]."
-   ],
-   [
-    "Can AI agents still show United flights?",
-    "Yes, agents can still show users the flights, but they cannot complete the transaction [1]."
-   ],
-   [
-    "What other companies are restricting agents?",
-    "eBay appeared to block agents from browsing, and several major banks have placed restrictions [1]."
-   ],
-   [
-    "Will United ever allow AI booking?",
-    "United suggests it could reconsider its decision based on future advancements and proper protections [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-    "status": 200,
-    "title": "United won’t let your AI agent book your flight",
-    "domain": "theverge.com"
-   }
-  ],
-  "date": "2026-11-11",
-  "publishedAt": "2026-11-11T21:54:21Z",
-  "addedAt": "2026-11-11T23:38:56Z",
-  "audio": "audio/why-major-companies-are-currently-blocking-unaut.mp3",
-  "image": {
-   "src": "img/why-major-companies-are-currently-blocking-unaut.jpg",
-   "credit": "The Verge",
-   "license": "© The Verge, shown with credit",
-   "page": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0%2C10.721800295556%2C100%2C78.556399408888&w=1200"
-  }
- },
- {
-  "id": "google-fi-introduces-automatic-network-switching",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "travel"
-  ],
-  "title": "Google Fi introduces automatic network switching and free premium Wi-Fi upgrades",
-  "snippet": "Google Fi wireless customers with Pixel phones just got free upgrades that automatically switch between top 5G networks and connect to encrypted public Wi-Fi.",
-  "bullets": [
-   "Google announced a new super network feature that automatically switches between two of the largest 5G cellular networks [1].",
-   "The system uses MEP technology to host multiple SIM profiles on a single eSIM chip [1].",
-   "A second feature called Wi-Fi Auto Connect+ safely links users to faster encrypted Wi-Fi in millions of locations without manual login [1]."
-  ],
-  "report": [
-   {
-    "h": "Automatic 5G Switching",
-    "t": "Google Fi has launched a super network feature that automatically moves your connection if your main network slows down or becomes unstable [1]. This reduces dead zones and ensures you always have the fastest available service [1]."
-   },
-   {
-    "h": "Smart eSIM Technology",
-    "t": "The mobile upgrade relies on Multiple Enabled Profiles technology, allowing a single eSIM chip to run multiple SIM profiles at the same time [1]. Google notes that users must have any non-Fi SIMs disabled for it to work [1]."
-   },
-   {
-    "h": "Encrypted Public Wi-Fi",
-    "t": "The new Wi-Fi Auto Connect+ feature links users to faster public Wi-Fi in millions of places like airports and malls without requiring a manual login [1]. These connections are automatically encrypted to keep your online activity safe [1]."
-   }
-  ],
-  "why": "Reliable mobile data and secure automated connections help keep your business running smoothly while on the move.",
-  "tryit": "Check your phone settings to ensure you are running the latest software updates if you use Google Fi on a compatible Pixel, Samsung, or Motorola device.",
-  "qa": [
-   [
-    "What phones support the new features?",
-    "The features are available on Pixel phones, Samsung phones running One UI 9 or higher, and select modern Motorola phones [1]."
-   ],
-   [
-    "Do these new features cost extra?",
-    "Both features are included on Unlimited Premium and Flexible plans at no extra cost [1]."
-   ],
-   [
-    "How does the Wi-Fi Auto Connect feature work?",
-    "It automatically connects you to faster Wi-Fi in millions of locations like airports and malls without needing a manual login [1]."
-   ],
-   [
-    "What technology powers the mobile network switching?",
-    "It runs on Multiple Enabled Profiles technology, which lets a single eSIM chip host multiple SIM profiles simultaneously [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/home-and-office/google-fi-super-network-pixel/",
-    "status": 200,
-    "title": "Google Fi now switches between the best mobile networks automatically - how it works - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-11",
-  "publishedAt": "2026-11-11T19:41:41Z",
-  "addedAt": "2026-11-11T23:38:56Z",
-  "audio": "audio/google-fi-introduces-automatic-network-switching.mp3",
-  "image": {
-   "src": "img/google-fi-introduces-automatic-network-switching.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/home-and-office/google-fi-super-network-pixel/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00320.jpg"
   }
  },
  {
