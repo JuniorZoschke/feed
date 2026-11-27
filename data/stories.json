@@ -1,5 +1,356 @@
 [
  {
+  "id": "build-custom-android-home-screen-widgets-using-n",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "android",
+   "widgets",
+   "gemini",
+   "productivity"
+  ],
+  "title": "Build Custom Android Home Screen Widgets Using New AI Feature",
+  "snippet": "Android's new Create My Widget feature lets you generate custom home screen tools using AI prompts. While open-ended queries can be limited, it offers a fun way to test quick prompt shortcuts and automated tasks.",
+  "bullets": [
+   "Google announced the ability to create custom widgets using AI called Create My Widget [1].",
+   "The tool is part of Android's suite of Gemini Intelligence features and is currently in beta [1].",
+   "Many of the generated widgets function as quick prompt shortcuts that trigger Gemini from your home screen [1]."
+  ],
+  "report": [
+   {
+    "h": "AI Widget Creation",
+    "t": "Android's new Create My Widget tool lets users generate custom home screen additions using simple text prompts [1]. It is part of the Gemini Intelligence suite and has started rolling out to Pixel phones in beta [1]."
+   },
+   {
+    "h": "Prompt Shortcuts",
+    "t": "Many of these custom widgets act as shortcuts that open the Gemini interface to pull up search results or calendar entries [1]. They fit into well-defined templates for countdowns, schedules, and ideas [1]."
+   },
+   {
+    "h": "Practical Limits",
+    "t": "While great for creative or simple tasks, complex real-time needs like live transport arrivals may yield wordy responses rather than direct live feeds [1]. The feature is currently more of a one-size-fits-all prompt shortcut than a fully custom mini-app builder [1]."
+   }
+  ],
+  "why": "Exploring new AI interface tools can spark ideas for automating simple daily tasks or building quick workflow shortcuts on your mobile device.",
+  "tryit": "Test out the Create My Widget feature on your compatible Pixel phone by prompting it to build a simple daily habit tracker or a countdown timer.",
+  "qa": [
+   [
+    "What is the new Android feature called?",
+    "It is called Create My Widget and is part of Android's Gemini Intelligence features [1]."
+   ],
+   [
+    "How do many of the custom widgets actually work?",
+    "Many of them function as little prompt shortcuts that trigger Gemini when you tap them [1]."
+   ],
+   [
+    "What device was used to test the feature in the report?",
+    "The author tested it on a Pixel 11 Pro [1]."
+   ],
+   [
+    "Can it easily show real-time bus arrivals?",
+    "Not effectively, as Gemini tends to give a wordy response about schedules rather than a live arrival feed [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "status": 200,
+    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+    "domain": "theverge.com"
+   }
+  ],
+  "date": "2026-11-27",
+  "publishedAt": "2026-11-27T14:00:00Z",
+  "addedAt": "2026-11-27T17:20:22Z",
+  "audio": "audio/build-custom-android-home-screen-widgets-using-n.mp3",
+  "image": {
+   "src": "img/build-custom-android-home-screen-widgets-using-n.jpg",
+   "credit": "The Verge",
+   "license": "© The Verge, shown with credit",
+   "page": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+  }
+ },
+ {
+  "id": "personalised-mathematical-modelling-may-help-tur",
+  "cat": "health",
+  "tags": [
+   "health",
+   "sleep",
+   "science",
+   "focus"
+  ],
+  "title": "Personalised mathematical modelling may help turn better sleep into reality",
+  "snippet": "Researchers are using mathematical modelling to build personalised tools for better sleep. These models can simulate your unique sleep patterns and lifestyle changes.",
+  "bullets": [
+   "Clinically significant insomnia affects over 15% of the general adult population [1].",
+   "The two-process model of sleep regulation was developed in the early 1980s [1].",
+   "Researchers at the University of Surrey are developing digital tools to help people calibrate models of their own sleep patterns [1]."
+  ],
+  "report": [
+   {
+    "h": "The Sleep Modelling Approach",
+    "t": "Sleep researchers use mathematical models like the two-process model and McCarley-Hobson models to understand sleep timing and cycles [1]. These tools act as a mathematical playground to simulate different sleep patterns and predict outcomes [1]."
+   },
+   {
+    "h": "Tailoring to the Individual",
+    "t": "Recent PhD research showed that existing models can be adapted to simulate finer details that vary between people, such as extreme night owl tendencies or early bird preferences [1]. Researchers also rearranged model building blocks to accurately reflect how REM and NREM sleep change across the night [1]."
+   },
+   {
+    "h": "Digital Tools for Future Sleep",
+    "t": "The University of Surrey is developing digital tools for clinical and personal use to help individuals calibrate models of their own sleep [1]. These personalised models can simulate lifestyle changes, such as spending time in the sun each morning [1]."
+   }
+  ],
+  "why": "Better sleep is foundational for focus, daily energy, and long-term health, offering a practical angle to manage your sleep patterns.",
+  "tryit": "Explore the online Visualisation Tools mentioned in the research to see the impact of light on sleep.",
+  "qa": [
+   [
+    "What percentage of the general adult population is affected by clinically significant insomnia?",
+    "Over 15% of the general adult population is affected by clinically significant insomnia [1]."
+   ],
+   [
+    "When was the two-process model of sleep regulation developed?",
+    "It was developed in the early 1980s [1]."
+   ],
+   [
+    "Where are researchers developing these new digital sleep tools?",
+    "They are being developed at the University of Surrey [1]."
+   ],
+   [
+    "What is a simple lifestyle change that might improve sleep mentioned in the text?",
+    "Spending a short period out in the Sun each morning [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://theconversation.com/dreaming-of-better-sleep-personalised-mathematical-modelling-may-help-turn-that-dream-into-reality-296324",
+    "status": 200,
+    "title": "Dreaming of better sleep? Personalised mathematical modelling may help turn that dream into reality",
+    "domain": "theconversation.com"
+   }
+  ],
+  "date": "2026-11-27",
+  "publishedAt": "2026-11-27T14:27:31Z",
+  "addedAt": "2026-11-27T17:20:22Z",
+  "audio": "audio/personalised-mathematical-modelling-may-help-tur.mp3",
+  "image": {
+   "src": "img/personalised-mathematical-modelling-may-help-tur.jpg",
+   "credit": "The Conversation",
+   "license": "© The Conversation, shown with credit",
+   "page": "https://theconversation.com/dreaming-of-better-sleep-personalised-mathematical-modelling-may-help-turn-that-dream-into-reality-296324",
+   "from_url": "https://images.theconversation.com/files/771038/original/file-20261110-64-pw30rn.jpg?ixlib=rb-4.1.1&rect=0%2C78%2C999%2C499&q=45&auto=format&w=1356&h=668&fit=crop"
+  }
+ },
+ {
+  "id": "oxford-neuroscientists-discover-surprising-new-l",
+  "cat": "health",
+  "tags": [
+   "health",
+   "sleep",
+   "science",
+   "psychology"
+  ],
+  "title": "Oxford Neuroscientists Discover Surprising New Link Between Sleep and Tinnitus",
+  "snippet": "New research from Oxford suggests sleep acts as a switch that can turn tinnitus on or off. While sleep usually helps us, it might also consolidate traumatic neural activity in the brain.",
+  "bullets": [
+   "Neuroscientists at the University of Oxford suspect that sleep and tinnitus are closely intertwined in the brain [1].",
+   "In animal studies, keeping subjects awake after noise exposure showed fewer behavioral signs of tinnitus compared to those allowed to sleep [1].",
+   "Runaway neural activity associated with ringing in the ears is experienced by 15 percent of the world's population [1]."
+  ],
+  "report": [
+   {
+    "h": "The Sleep Switch",
+    "t": "Researchers at Oxford's Sleep and Circadian Neuroscience Institute found that sleep can act as a switch that turns tinnitus on or off [1]. While ferrets showed temporary relief from sound-evoked brain activity during sleep, new mouse studies suggest sleep may help tinnitus take hold [1]."
+   },
+   {
+    "h": "Consolidating Trauma",
+    "t": "Scientists suspect that non-REM sleep and slow-wave activity sustain brain plasticity, which might inadvertently consolidate a traumatic acoustic event [1]. This neural adjustment during sleep could add to the processes involved in tinnitus formation [1]."
+   },
+   {
+    "h": "A Vicious Circle",
+    "t": "Poor sleep makes people more vulnerable to stress, and stress is one of the strongest known factors to worsen or even trigger tinnitus [1]. Researchers believe establishing sleep as a therapeutic target could help break this dysfunctional cycle [1]."
+   }
+  ],
+  "why": "This matters because understanding the complex biological link between sleep, stress, and sensory health helps you manage your daily rest and focus with better self-compassion.",
+  "tryit": "Talk to a GP, pharmacist, or specialist if you experience persistent ringing in your ears to check for underlying causes and get professional guidance.",
+  "qa": [
+   [
+    "What is tinnitus?",
+    "It is an awful ringing, buzzing, or humming sound in the ears created by the brain [1]."
+   ],
+   [
+    "How many people experience tinnitus?",
+    "This runaway neural activity is experienced by 15 percent of the world's population [1]."
+   ],
+   [
+    "Is there a cure for tinnitus?",
+    "Currently, there is no cure for tinnitus [1]."
+   ],
+   [
+    "What role does sleep play?",
+    "Sleep acts as a switch that can turn tinnitus on or off, and neural plasticity during non-REM sleep may contribute to its formation [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/tinnitus-is-connected-somehow-to-a-crucial-bodily-function",
+    "status": 200,
+    "title": "Tinnitus Is Connected Somehow to a Crucial Bodily Function",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-27",
+  "publishedAt": "2026-11-27T11:00:00Z",
+  "addedAt": "2026-11-27T17:20:22Z",
+  "audio": "audio/oxford-neuroscientists-discover-surprising-new-l.mp3",
+  "image": {
+   "src": "img/oxford-neuroscientists-discover-surprising-new-l.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/tinnitus-is-connected-somehow-to-a-crucial-bodily-function",
+   "from_url": "https://www.sciencealert.com/images/2026/10/GettyImages-1300865464-2560x1440-1.jpg"
+  }
+ },
+ {
+  "id": "underwater-archaeologists-find-medieval-chain-ma",
+  "cat": "whoa",
+  "tags": [
+   "history",
+   "science",
+   "travel"
+  ],
+  "title": "Underwater Archaeologists Find Medieval Chain Mail on 500-Year-Old Shipwreck",
+  "snippet": "Divers off the coast of Sweden have uncovered finely crafted copper-alloy chain mail fragments and a munitions chest inside a 15th-century royal shipwreck. The historic discovery sheds new light on the military equipment used by mercenaries aboard the ill-fated vessel.",
+  "bullets": [
+   "Underwater archaeologists found medieval chain mail on the Baltic seafloor while exploring the 500-year-old shipwreck of Gribshunden [1].",
+   "The copper-alloy fragments rested near a rare munitions chest beneath the vessel's forecastle [1].",
+   "Historical sources note that roughly 150 German mercenaries were aboard the royal flagship when it sank in 1495 [1]."
+  ],
+  "report": [
+   {
+    "h": "Shipwreck Discovery",
+    "t": "Archaeologists exploring a 15th-century royal Danish warship off the coast of Sweden discovered finely crafted copper-alloy chain mail armor [1]. The rare fragments rested on the Baltic seafloor alongside a munitions chest beneath the vessel's forecastle [1]."
+   },
+   {
+    "h": "Mercenary Equipment",
+    "t": "Researchers suggest the military gear may have belonged to German mercenaries stationed aboard the flagship before it erupted in flames and sank in 1495 [1]. Scientists are now conducting chemical analyses on the armor and the munitions chest to uncover how military logistics worked at the time [1]."
+   },
+   {
+    "h": "Remarkable Preservation",
+    "t": "The shipwreck has survived in exceptional condition because the Baltic Sea's low salinity keeps wood-eating shipworms away [1]. Measuring nearly 100 feet long, the vessel offers a rare look at late-medieval shipbuilding technology [1]."
+   }
+  ],
+  "why": "This surprising historical discovery offers a fascinating look into medieval maritime logistics, weapon supply chains, and underwater archaeological exploration.",
+  "tryit": "Explore the ongoing maritime research project updates online through Stockholm University or read about marine archaeology techniques to learn how 3D photogrammetry maps ancient shipwrecks today.",
+  "qa": [
+   [
+    "What was discovered on the shipwreck?",
+    "Underwater archaeologists discovered finely crafted copper-alloy chain mail fragments and a rare munitions chest [1]."
+   ],
+   [
+    "When did the ship sink?",
+    "The flagship Gribshunden sank in the summer of 1495 after an accidental gunpowder ignition or lightning strike caused an explosion in flames [1]."
+   ],
+   [
+    "Why is the shipwreck so well preserved?",
+    "The ship survived in remarkable condition thanks to the Baltic Sea's low salinity, which prevents wood-eating shipworms from destroying the timber [1]."
+   ],
+   [
+    "Who owned the ship?",
+    "The vessel was the 15th-century flagship of King Hans of Denmark and Norway [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.smithsonianmag.com/smart-news/while-exploring-a-500-year-old-shipwreck-off-the-coast-of-sweden-underwater-archaeologists-discovered-medieval-chain-mail-that-may-have-belonged-to-german-mercenaries-180989944/",
+    "status": 200,
+    "title": "While Exploring a 500-Year-Old Shipwreck Off the Coast of Sweden, Underwater Archaeologists Discovered Medieval Chain Mail That May Have Belonged to German Mercenaries",
+    "domain": "smithsonianmag.com"
+   }
+  ],
+  "date": "2026-11-25",
+  "publishedAt": "2026-11-25T20:44:26Z",
+  "addedAt": "2026-11-27T17:20:22Z",
+  "audio": "audio/underwater-archaeologists-find-medieval-chain-ma.mp3",
+  "image": {
+   "src": "img/underwater-archaeologists-find-medieval-chain-ma.jpg",
+   "credit": "Smithsonian",
+   "license": "© Smithsonian, shown with credit",
+   "page": "https://www.smithsonianmag.com/smart-news/while-exploring-a-500-year-old-shipwreck-off-the-coast-of-sweden-underwater-archaeologists-discovered-medieval-chain-mail-that-may-have-belonged-to-german-mercenaries-180989944/",
+   "from_url": "https://th-thumbnailer.cdn-si-edu.com/NqqltuFV2AUJq2YNbqLElTVHtlU=/fit-in/1600x0/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b5/d4/b5d40f90-0b95-44e9-b2a3-631e9debbff9/medieval_copper_alloy_fine_mail_found_in_context_at_gribshunde-742a0fbc0bead3d0d46458567fd514a2.jpeg"
+  }
+ },
+ {
+  "id": "smart-savings-strategies-and-tax-tips-for-higher",
+  "cat": "money",
+  "tags": [
+   "money",
+   "tax",
+   "business",
+   "negotiation",
+   "economics"
+  ],
+  "title": "Smart Savings Strategies and Tax Tips for Higher Earners",
+  "snippet": "Discover practical ways to protect your savings from higher tax rates using cash ISAs, premium bonds, and recommended banking providers.",
+  "bullets": [
+   "Nearly three hundred billion pounds of cash in the UK sits in accounts paying zero or very low interest [1].",
+   "Higher-rate and additional-rate taxpayers face higher tax charges on savings interest following budget changes [1].",
+   "The cash ISA limit remains at twenty thousand pounds for under-sixty-fives instead of being reduced [1]."
+  ],
+  "report": [
+   {
+    "h": "Protecting Savings From Tax",
+    "t": "Higher earners face increased tax rates on savings interest, meaning tax-free options like cash ISAs become even more valuable [1]. Couples can pool and gamify their allowances together to avoid losing big chunks of interest to HMRC [1]."
+   },
+   {
+    "h": "Recommended Bank Providers",
+    "t": "Which? recommended five savings providers based on high customer satisfaction and competitive interest rate scores [1]. These include digital platforms like Marcus by Goldman Sachs and Atom Bank, alongside Sharia-compliant and local building society options [1]."
+   },
+   {
+    "h": "Diversifying Your Cash",
+    "t": "Spreading money across different vehicles like regular savers, cash ISAs, and premium bonds can help optimize returns [1]. Premium bonds offer tax-free prizes and can act as a useful holding place for short-term funds like upcoming tax bills [1]."
+   }
+  ],
+  "why": "Optimising your savings and tax allowances protects your hard-earned money and keeps more cash in your business or personal accounts.",
+  "tryit": "Review your current savings accounts today to check your interest rates and see if moving funds into a cash ISA or splitting allowances with a partner could save you tax.",
+  "qa": [
+   [
+    "What is the cash ISA limit?",
+    "The cash ISA limit is twenty thousand pounds a year [1]."
+   ],
+   [
+    "Which banks were recommended for savings?",
+    "Recommended providers include Charter Savings Bank, Marcus by Goldman Sachs, the Bank of London and the Middle East, Atom Bank, and Leeds Building Society [1]."
+   ],
+   [
+    "Are premium bond prizes taxed?",
+    "No, any prize you win from premium bonds is completely tax-free [1]."
+   ],
+   [
+    "What score do banks need to be a recommended provider?",
+    "Providers need at least seventy-five percent customer satisfaction and eighty percent in interest-rate analysis [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/investing-isas-and-premium-bonds-should-you-diversify-your-savings-aC65u9R4ZYFN",
+    "status": 200,
+    "title": "Investing, Isas and premium bonds: should you diversify your savings? - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-27",
+  "publishedAt": "2026-11-27T07:54:00Z",
+  "addedAt": "2026-11-27T17:20:22Z",
+  "audio": "audio/smart-savings-strategies-and-tax-tips-for-higher.mp3",
+  "image": {
+   "src": "img/smart-savings-strategies-and-tax-tips-for-higher.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/investing-isas-and-premium-bonds-should-you-diversify-your-savings-aC65u9R4ZYFN",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/8805de9de818-cashmoney-podcast.jpg"
+  }
+ },
+ {
   "id": "control-your-iphone-alarm-volume-independently-f",
   "cat": "adhd",
   "tags": [
@@ -66,76 +417,6 @@
    "license": "© ZDNET, shown with credit",
    "page": "https://www.zdnet.com/tech/iphone-hidden-alarm-volume-ios-27/",
    "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/4b53d313-b3d5-48a2-b812-ffe468e67652.jpg"
-  }
- },
- {
-  "id": "score-major-travel-savings-with-black-friday-and",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "money",
-   "business",
-   "negotiation"
-  ],
-  "title": "Score Major Travel Savings With Black Friday and Cyber Week Hotel Deals",
-  "snippet": "Travelers planning 2027 trips can score huge discounts on hotels, car rentals, and vacation packages during current Black Friday and Cyber Week sales. Major brands and booking platforms are offering up to 65% off stays, reward bonuses, and promotional credits [1].",
-  "bullets": [
-   "Booking.com offers up to 40% off hotel stays through December 2, with Tokyo deals starting at $31 per night [1].",
-   "Expedia features up to 50% off select hotels alongside special Flash Deals up to 75% off on key shopping days [1].",
-   "Sandals provides up to 65% off rates and additional spa credits for adults-only all-inclusive resorts [1]."
-  ],
-  "report": [
-   {
-    "h": "Platform Discounts",
-    "t": "Booking platforms like Booking.com and Expedia are running massive sales with up to 50% off select hotels and additional savings on car rentals [1]. Expedia members can also access special Flash Deals on Black Friday, Cyber Monday, and Travel Tuesday [1]."
-   },
-   {
-    "h": "Hotel Brand Sales",
-    "t": "Major hotel groups including Marriott, Hyatt, and IHG are offering tiered discounts for members and nonmembers booking through their apps or websites [1]. For instance, World of Hyatt members can save up to 25% on properties worldwide until December 8, 2026 [1]."
-   },
-   {
-    "h": "All-Inclusive Getaways",
-    "t": "Sandals and Beaches are offering up to 65% off all-inclusive Caribbean vacations with booking, spa, and air credits for travel extending through December 31, 2028 [1]. Meanwhile, AutoCamp offers 40% off sleek Airstreams and cozy cabins through December 2, 2026 [1]."
-   }
-  ],
-  "why": "This is a practical way to slash the cost of upcoming getaways or business travel by locking in deep discounts before peak-season prices return [1].",
-  "tryit": "Check the Booking.com or Expedia platforms today to compare holiday discounts and secure your preferred travel dates before sales end [1].",
-  "qa": [
-   [
-    "When does the Booking.com sale end?",
-    "The Booking.com sale runs through December 2 [1]."
-   ],
-   [
-    "What discount does World of Hyatt offer members?",
-    "Members can save up to 25% off properties around the world [1]."
-   ],
-   [
-    "What code should I use for AutoCamp bookings?",
-    "Use the code NATURE when booking for travel dates through December 31, 2027 [1]."
-   ],
-   [
-    "How much can I save on Vrbo by booking early?",
-    "You can see savings of over $520 when booking properties more than 60 days in advance [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/black-friday-hotel-deals-11-27-2026",
-    "status": 200,
-    "title": "These Black Friday Hotel Deals Will Help You Save Hundreds on Your Next Getaway",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2025-11-28",
-  "publishedAt": "2025-11-28T10:10:00Z",
-  "addedAt": "2026-11-27T10:42:26Z",
-  "audio": "audio/score-major-travel-savings-with-black-friday-and.mp3",
-  "image": {
-   "src": "img/score-major-travel-savings-with-black-friday-and.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/black-friday-hotel-deals-11-27-2026",
-   "from_url": "https://media.cntraveler.com/photos/69f8a5367d866520235649ab/16:9/w_1280,c_limit/Sugar-Beach-a-Viceroy-Resort-St-Lucia-May26-Press-Global-010.jpg"
   }
  },
  {
@@ -345,76 +626,6 @@
    "license": "© TechCrunch, shown with credit",
    "page": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
    "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800"
-  }
- },
- {
-  "id": "away-luggage-launches-its-biggest-discount-of-th",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "money",
-   "business",
-   "shopping"
-  ],
-  "title": "Away Luggage Launches Its Biggest Discount of the Year for Black Friday",
-  "snippet": "Away is offering a major holiday sale with 25% off almost everything through December 1. Shoppers can also secure an extra 10% off when spending $750 during the limited-time event.",
-  "bullets": [
-   "Away is running its biggest sale of the year with 25% off almost everything through December 1 [1].",
-   "Customers can save an extra 10% when spending $750 during the holiday promotion [1].",
-   "The discount covers popular travel items including the Bigger Carry-On, The Medium, and packing cubes [1]."
-  ],
-  "report": [
-   {
-    "h": "Holiday luggage savings",
-    "t": "Away has kicked off its major holiday event, offering 25% off nearly all items through December 1 [1]. Buyers who spend $750 will unlock an extra 10% off their order [1]."
-   },
-   {
-    "h": "Top travel gear included",
-    "t": "The sale spans popular items like the best-selling Bigger Carry-On and spacious checked bags such as The Medium [1]. Accessories like water-repellent packing cubes and the Featherlight Weekender are also discounted [1]."
-   },
-   {
-    "h": "Act before stock sells",
-    "t": "Popular colors and specific suitcase models may sell out before the sale concludes on Cyber Monday [1]. Recent holiday drops and the Series 3 collection are excluded from the promotion [1]."
-   }
-  ],
-  "why": "If you are planning trips or need to upgrade your travel gear for upcoming adventures, taking advantage of seasonal discounts helps save money on durable essentials.",
-  "tryit": "Browse the Away website to check out the current 25% discount on luggage and accessories before popular colors sell out.",
-  "qa": [
-   [
-    "What is the discount amount during Away's sale?",
-    "You can save 25% on almost everything, plus an extra 10% when you spend $750 [1]."
-   ],
-   [
-    "When does the Away sale end?",
-    "The sale runs through December 1 and Cyber Monday [1]."
-   ],
-   [
-    "Are all items included in the discount?",
-    "Recent holiday drops and the Series 3 collection are excluded from the sale [1]."
-   ],
-   [
-    "What is Away's best-selling suitcase?",
-    "The Bigger Carry-On is Away's best-selling suitcase, sized to fit most major US airline overhead bins [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/away-black-friday-sale-11-27-2026",
-    "status": 200,
-    "title": "Away Is Offering Its Biggest Discount of the Year for Black Friday",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2025-11-28",
-  "publishedAt": "2025-11-28T10:05:00Z",
-  "addedAt": "2026-11-27T10:42:26Z",
-  "audio": "audio/away-luggage-launches-its-biggest-discount-of-th.mp3",
-  "image": {
-   "src": "img/away-luggage-launches-its-biggest-discount-of-th.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/away-black-friday-sale-11-27-2026",
-   "from_url": "https://media.cntraveler.com/photos/6b06261b6deea1888b74841c/16:9/w_1280,c_limit/Away%20Black%20Friday2.jpg"
   }
  },
  {
@@ -1394,27 +1605,7 @@
    "license": "© TechCrunch, shown with credit",
    "page": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
    "from_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
-  },
-  "sides": [
-   {
-    "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
-    "url": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf",
-    "outlet": "DW",
-    "domain": "dw.com",
-    "lean": "C",
-    "leanLabel": "Centre",
-    "publishedAt": "2026-11-23T14:18:00Z"
-   },
-   {
-    "title": "The Jensen Huang-Nvidia affair turns up the heat on the US-China AI race",
-    "url": "https://www.washingtonexaminer.com/premium/4812636/jensen-huang-nvidia-affair-us-china-ai-race/",
-    "outlet": "Washington Examiner",
-    "domain": "washingtonexaminer.com",
-    "lean": "R",
-    "leanLabel": "Right-leaning",
-    "publishedAt": "2026-11-27T11:05:00Z"
-   }
-  ]
+  }
  },
  {
   "id": "how-a-screen-free-retreat-in-south-africa-rewire",
@@ -1763,36 +1954,7 @@
    "license": "© Which?, shown with credit",
    "page": "https://www.which.co.uk/news/article/where-to-go-and-what-to-buy-in-the-black-friday-sales-a41e62S36gLd",
    "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/ab5ca35e5414-black-friday-shoppinglead.jpg"
-  },
-  "sides": [
-   {
-    "title": "Shopping with Friends: 8 Black Friday deals to shop now",
-    "url": "https://www.foxnews.com/deals/shopping-with-friends-black-friday-deals",
-    "outlet": "Fox News",
-    "domain": "foxnews.com",
-    "lean": "R",
-    "leanLabel": "Right-leaning",
-    "publishedAt": "2026-11-27T05:30:24Z"
-   },
-   {
-    "title": "Fake online stores may fool AI shopping bots on Black Friday",
-    "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/",
-    "outlet": "CBS News",
-    "domain": "cbsnews.com",
-    "lean": "C",
-    "leanLabel": "Centre",
-    "publishedAt": "2026-11-26T19:00:44Z"
-   },
-   {
-    "title": "The 19+ best deals worth shopping from Target’s Black Friday sale",
-    "url": "https://www.nbcnews.com/select/shopping/target-black-friday-deals-2026-rcna611469",
-    "outlet": "NBC News",
-    "domain": "nbcnews.com",
-    "lean": "L",
-    "leanLabel": "Left-leaning",
-    "publishedAt": "2026-11-27T08:53:05Z"
-   }
-  ]
+  }
  },
  {
   "id": "anthropic-ceo-dario-amodei-rejects-claims-of-sur",
@@ -4866,27 +5028,7 @@
    "license": "© BBC News, shown with credit",
    "page": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
    "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80fb/live/5a6a1700-e753-11f1-99b6-a35a62fa4264.jpg"
-  },
-  "sides": [
-   {
-    "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
-    "url": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf",
-    "outlet": "DW",
-    "domain": "dw.com",
-    "lean": "C",
-    "leanLabel": "Centre",
-    "publishedAt": "2026-11-23T14:18:00Z"
-   },
-   {
-    "title": "The Jensen Huang-Nvidia affair turns up the heat on the US-China AI race",
-    "url": "https://www.washingtonexaminer.com/premium/4812636/jensen-huang-nvidia-affair-us-china-ai-race/",
-    "outlet": "Washington Examiner",
-    "domain": "washingtonexaminer.com",
-    "lean": "R",
-    "leanLabel": "Right-leaning",
-    "publishedAt": "2026-11-27T11:05:00Z"
-   }
-  ]
+  }
  },
  {
   "id": "how-to-save-your-google-nest-videos-before-the-2",
@@ -16853,76 +16995,6 @@
   }
  },
  {
-  "id": "swedish-alt-pop-artist-river-on-scrapping-three",
-  "cat": "news",
-  "tags": [
-   "music",
-   "artist",
-   "creativity",
-   "psychology"
-  ],
-  "title": "Swedish alt-pop artist River on scrapping three albums to find her voice",
-  "snippet": "Swedish alt-pop artist River scrapped three albums before finding her authentic voice on her 12-track debut album, A Dying Source. The record blends live instrumentation with personal themes of transformation and overcoming insecurity.",
-  "bullets": [
-   "River trashed three completed albums before discovering her true sound on her debut record A Dying Source [1].",
-   "The 12-track album features real live instruments and collaborations with musicians like Nils Berg, Tobias Wiklund, and Magnus Wiklund [1].",
-   "Writing the album served as a way for River to process her fears, insecurities, anger, and the passing of her father when she was 17 [1]."
-  ],
-  "report": [
-   {
-    "h": "Finding Her True Voice",
-    "t": "Swedish alt-pop musician River spent years developing her craft, eventually creating an alter ego called RIVER to feel free to express herself [1]. After trashing three albums, she finally connected with a raw sound on her debut album A Dying Source [1]."
-   },
-   {
-    "h": "Live Instruments and Collaboration",
-    "t": "The album relies entirely on real live instruments rather than backing tracks to maintain its core essence [1]. Musicians including Nils Berg on flute and sax contributed to the atmospheric production [1]."
-   },
-   {
-    "h": "Personal Transformation",
-    "t": "The songs explore deep themes like loss, aging, and overcoming codependency following the death of her father when she was 17 [1]. The creative process helped unite her stage persona with her true self, Elsa [1]."
-   }
-  ],
-  "why": "This story offers a refreshing perspective on patience, creative resilience, and letting go of perfectionism to find an authentic voice.",
-  "tryit": "Listen to a new album or artist today with live instruments and notice how real instrumentation changes the feeling of the music.",
-  "qa": [
-   [
-    "What is the name of River's debut album?",
-    "Her debut album is called A Dying Source [1]."
-   ],
-   [
-    "How many albums did River trash before this one?",
-    "She scrapped three albums one after another before finding her voice [1]."
-   ],
-   [
-    "Who played brass on the record?",
-    "Nils Berg played flute and sax, while Tobias and Magnus Wiklund recorded a bunch of different brass instruments [1]."
-   ],
-   [
-    "What song is written from the perspective of someone on their deathbed?",
-    "The song 'Baby Dream' is written from the perspective of someone lying on their deathbed [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.attitude.co.uk/culture/swedish-river-debut-album-a-dying-source-539775/",
-    "status": 200,
-    "title": "Swedish alt-pop artist River scrapped three albums before finding her voice on A Dying Source (EXCLUSIVE)",
-    "domain": "attitude.co.uk"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T15:45:45Z",
-  "addedAt": "2026-11-15T17:37:33Z",
-  "audio": "audio/swedish-alt-pop-artist-river-on-scrapping-three.mp3",
-  "image": {
-   "src": "img/swedish-alt-pop-artist-river-on-scrapping-three.jpg",
-   "credit": "Attitude",
-   "license": "© Attitude, shown with credit",
-   "page": "https://www.attitude.co.uk/culture/swedish-river-debut-album-a-dying-source-539775/",
-   "from_url": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2026/11/RIVER-press-09-John-Scarisbrick-1.webp"
-  }
- },
- {
   "id": "an-adventurer-kayaked-500-miles-of-congolese-riv",
   "cat": "travel",
   "tags": [
@@ -17059,75 +17131,6 @@
    "license": "© ZDNET, shown with credit",
    "page": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
    "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-10167204.jpg"
-  }
- },
- {
-  "id": "netflix-creator-explores-messy-first-queer-love",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "relationships",
-   "mind"
-  ],
-  "title": "Netflix Creator Explores Messy First Queer Love in The Body",
-  "snippet": "Netflix releases The Body, a queer supernatural teen drama created by Quinn Shephard. The show explores the messy realities of young queer relationships.",
-  "bullets": [
-   "The supernatural horror drama series premiered on Wednesday with an 83 percent critics rating and a 98 percent audience rating on Rotten Tomatoes [1].",
-   "Creator Quinn Shephard set the eight-episode series around Halloween 2004 to capture a time when social standing felt threatened [1].",
-   "The show stars newcomers alongside familiar faces like The Traitors winner Gabby Windey [1]."
-  ],
-  "report": [
-   {
-    "h": "New Netflix Drama",
-    "t": "The psychological drama series The Body launched on Netflix on Wednesday [1]. Creator Quinn Shephard designed it as an unsanitised first queer love story [1]."
-   },
-   {
-    "h": "Setting And Themes",
-    "t": "The show is set around Halloween 2004 and follows a Catholic school dance troupe experiencing mass hysteria [1]. It draws on nineties and Y2K teen movies and erotic thrillers [1]."
-   },
-   {
-    "h": "Cast And Reception",
-    "t": "The eight-episode series earned an 83 percent critics rating and a 98 percent audience rating on Rotten Tomatoes [1]. The cast includes Kristina Bogic, Sara Boustany, and Gabby Windey [1]."
-   }
-  ],
-  "why": "It highlights the value of embracing emotional honesty and self-compassion when reflecting on past relationships and personal history.",
-  "tryit": "Reflect on a past teenage experience with self-compassion by journaling about how far your emotional understanding has grown since then.",
-  "qa": [
-   [
-    "Who created the show?",
-    "The series was created by Quinn Shephard [1]."
-   ],
-   [
-    "When is the series set?",
-    "The show is set around Halloween 2004 [1]."
-   ],
-   [
-    "What are the Rotten Tomatoes ratings?",
-    "It received an 83 percent critics rating and a 98 percent audience rating [1]."
-   ],
-   [
-    "How many episodes are in the series?",
-    "The series consists of eight episodes [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.thepinknews.com/2026/11/13/netflix-the-body-lesbian-teen-drama-cast/",
-    "status": 200,
-    "title": "Netflix's The Body creator wanted a ‘messy’ lesbian teen drama",
-    "domain": "thepinknews.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T12:11:26Z",
-  "addedAt": "2026-11-15T10:36:50Z",
-  "audio": "audio/netflix-creator-explores-messy-first-queer-love.mp3",
-  "image": {
-   "src": "img/netflix-creator-explores-messy-first-queer-love.jpg",
-   "credit": "PinkNews",
-   "license": "© PinkNews, shown with credit",
-   "page": "https://www.thepinknews.com/2026/11/13/netflix-the-body-lesbian-teen-drama-cast/",
-   "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/the-bdy.jpg"
   }
  },
  {
@@ -17481,147 +17484,6 @@
   }
  },
  {
-  "id": "oscar-tipped-star-guitarricadelafuente-on-vulner",
-  "cat": "mind",
-  "tags": [
-   "mind",
-   "psychology",
-   "music",
-   "film"
-  ],
-  "title": "Oscar-tipped star Guitarricadelafuente on vulnerability, masculinity and his new film",
-  "snippet": "Spanish folk-pop star Guitarricadelafuente discusses his acting debut in La bola negra, his friendship with Troye Sivan, and redefining modern masculinity.",
-  "bullets": [
-   "Spanish folk-pop star Guitarricadelafuente stars in the gay Spanish war epic La bola negra [1].",
-   "He credits Troye Sivan as a major artistic reference who showed him how to combine vulnerability and strength [1].",
-   "Playing his character Sebastián helped him realise that tenderness and fear do not make a man less masculine [1]."
-  ],
-  "report": [
-   {
-    "h": "Rising Star at TIFF",
-    "t": "Spanish musician Guitarricadelafuente recently attended the Toronto International Film Festival with his debut film role [1]. He stars in the autumn gay Spanish war epic La bola negra [1]."
-   },
-   {
-    "h": "Redefining Masculinity",
-    "t": "Playing the trapped character Sebastián made the singer reflect on how rigid ideas of manhood still persist today [1]. He learned that showing the body, feeling fear, and being tender do not diminish a man [1]."
-   },
-   {
-    "h": "Creative Overlap",
-    "t": "His creative work on his album Spanish Leather and his role in the film overlapped deeply [1]. Immersing himself in another historical period and emotional world ultimately changed how he writes music [1]."
-   }
-  ],
-  "why": "It is a thoughtful reminder on self-compassion and dropping rigid expectations of how to perform masculinity in daily life.",
-  "tryit": "Reflect today on any unhelpful expectations you hold about yourself, and write down one way you can embrace vulnerability instead.",
-  "qa": [
-   [
-    "What film is Guitarricadelafuente starring in?",
-    "He stars in the gay Spanish war epic La bola negra [1]."
-   ],
-   [
-    "How did his mother find out he had a boyfriend?",
-    "She found out during lockdown when he mentioned being there with his boyfriend during an interview [1]."
-   ],
-   [
-    "Who is one of his major musical influences?",
-    "Troye Sivan is a major reference and friend who influenced him [1]."
-   ],
-   [
-    "What was his album Spanish Leather about?",
-    "It was about giving in to desire, allowing himself to be seen, and feeling comfortable in his skin [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.attitude.co.uk/culture/meet-the-oscar-tipped-star-of-la-bola-negra-star-spanish-folk-pop-star-539747/",
-    "status": 200,
-    "title": "Guitarricadelafuente on coming out, Troye Sivan friendship and La bola negra: 'Showing your body, being tender, being afraid – none of those things make you less of a man'",
-    "domain": "attitude.co.uk"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T15:03:15Z",
-  "addedAt": "2026-11-15T10:36:50Z",
-  "audio": "audio/oscar-tipped-star-guitarricadelafuente-on-vulner.mp3",
-  "image": {
-   "src": "img/oscar-tipped-star-guitarricadelafuente-on-vulner.jpg",
-   "credit": "Attitude",
-   "license": "© Attitude, shown with credit",
-   "page": "https://www.attitude.co.uk/culture/meet-the-oscar-tipped-star-of-la-bola-negra-star-spanish-folk-pop-star-539747/",
-   "from_url": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2026/11/GUITARRICA-ATTITUDE-TILLMANS-copy.jpg"
-  }
- },
- {
-  "id": "nfl-quarterback-josh-dobbs-combines-aerospace-en",
-  "cat": "whoa",
-  "tags": [
-   "aerospace",
-   "aviation",
-   "business",
-   "travel",
-   "stem"
-  ],
-  "title": "NFL Quarterback Josh Dobbs Combines Aerospace Engineering and Athletic Travel",
-  "snippet": "NFL veteran Josh Dobbs spent time working with NASA on rocket launchers and lunar rovers, and now he is building plans to improve travel infrastructure for professional athletes.",
-  "bullets": [
-   "Josh Dobbs spent a month at the Kennedy Space Center shadowing engineers and working on the Artemis I mobile launcher [1].",
-   "While playing for the San Francisco 49ers, Dobbs earned his pilot license in the Bay Area [1].",
-   "His foundation brought seven aerospace engineering students from the University of Tennessee to the Kennedy Space Center [1]."
-  ],
-  "report": [
-   {
-    "h": "From Gridiron to NASA",
-    "t": "Josh Dobbs balanced his athletic career with a degree in aerospace engineering from the University of Tennessee [1]. He later used an externship to work at the Kennedy Space Center on components for the Artemis I rocket [1]."
-   },
-   {
-    "h": "Solving Travel Challenges",
-    "t": "Dobbs points out the disconnect between heavy investments in player health and the inadequate seating conditions athletes face on team flights [1]. He aims to build an aviation infrastructure and charter option tailored to professional teams [1]."
-   },
-   {
-    "h": "Investing in the Future",
-    "t": "Through his foundation, Dobbs helps introduce young students and student-athletes to careers in STEM and aerospace [1]. He envisions a future where better transport logistics help expand sports globally to places like Tokyo and Dubai [1]."
-   }
-  ],
-  "why": "It shows how dual passions and methodical problem-solving can open up unique entrepreneurial opportunities outside your main career.",
-  "tryit": "Identify one skill from a secondary hobby or past career and write down a single practical way to apply it to your current business or projects this week.",
-  "qa": [
-   [
-    "What did Josh Dobbs do at NASA?",
-    "He worked with the instrumentation group on the Artemis I mobile launcher and helped research commercial rockets for a lunar rover [1]."
-   ],
-   [
-    "Where did Dobbs earn his pilot's license?",
-    "He earned his pilot's license in the San Francisco Bay Area [1]."
-   ],
-   [
-    "What is Josh Dobbs' main goal for aviation?",
-    "He wants to build an aviation infrastructure and create a charter option that significantly improves how sports teams travel [1]."
-   ],
-   [
-    "What does his foundation do?",
-    "The Extraordinary Dobbs Foundation gives students and student-athletes introductions to STEM and aerospace careers, such as visiting the Kennedy Space Center [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.entrepreneur.com/building-a-business/this-nfl-quarterback-used-to-work-with-nasa-it-inspired-him-to-change-how-athletes-travel",
-    "status": 200,
-    "title": "This NFL Quarterback Used to Work With NASA. It Inspired Him to Change How Athletes Travel.",
-    "domain": "entrepreneur.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T17:00:00Z",
-  "addedAt": "2026-11-15T10:36:50Z",
-  "audio": "audio/nfl-quarterback-josh-dobbs-combines-aerospace-en.mp3",
-  "image": {
-   "src": "img/nfl-quarterback-josh-dobbs-combines-aerospace-en.jpg",
-   "credit": "Entrepreneur",
-   "license": "© Entrepreneur, shown with credit",
-   "page": "https://www.entrepreneur.com/building-a-business/this-nfl-quarterback-used-to-work-with-nasa-it-inspired-him-to-change-how-athletes-travel",
-   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/josh-dobbs-1126.jpg"
-  }
- },
- {
   "id": "exciting-new-stays-and-cultural-gems-in-north-am",
   "cat": "travel",
   "tags": [
@@ -17904,75 +17766,6 @@
   }
  },
  {
-  "id": "archaeologists-solve-mystery-of-eight-thousand-r",
-  "cat": "news",
-  "tags": [
-   "science",
-   "animals",
-   "history"
-  ],
-  "title": "Archaeologists Solve Mystery of Eight Thousand Roman Era Frog Bones",
-  "snippet": "Researchers in England discovered 8,000 amphibian bones in a single ditch. New analysis reveals birds of prey hunted the young frogs during the Roman era.",
-  "bullets": [
-   "Between 2016 and 2022, archaeologists working along England’s A14 highway discovered roughly 8,000 amphibian bones in a single ditch in rural Cambridgeshire [1].",
-   "Researchers concluded that birds of prey like short-eared owls hunted the young frogs in the second or third century C.E. [1].",
-   "The mass predation happened because locals cleared trees for livestock and stayed away during autumn and winter, creating a quiet roosting site [1]."
-  ],
-  "report": [
-   {
-    "h": "The Mysterious Ditch",
-    "t": "Archaeologists uncovered thousands of amphibian bones inside a single gully at the Bar Hill site. Initial theories ranged from trapped animals to human meals, but the lack of cut marks made these ideas unlikely [1]."
-   },
-   {
-    "h": "Bone Analysis",
-    "t": "Scientists measured the arm bones of the frogs to estimate their age at death. Digestion traces and breakage patterns pointed directly to medium-sized birds of prey as the culprits [1]."
-   },
-   {
-    "h": "Human Impact",
-    "t": "The heavy predation occurred because humans and their dogs rarely visited the quiet area during autumn and winter, allowing owls to hunt undisturbed [1]."
-   }
-  ],
-  "why": "This surprising historical discovery offers a fascinating look into ancient wildlife behaviors and natural ecosystems in England.",
-  "tryit": "Read the full study published in the journal Environmental Archaeology to learn more about how scientists use animal bones to reconstruct past environments.",
-  "qa": [
-   [
-    "How many frog bones were found in the ditch?",
-    "Archaeologists discovered some 8,000 amphibian bones in a single ditch [1]."
-   ],
-   [
-    "What caused the mass accumulation of bones?",
-    "Researchers concluded the frogs were eaten by birds of prey, such as short-eared owls, during the Roman era [1]."
-   ],
-   [
-    "How did scientists determine the age of the frogs?",
-    "The team measured the amphibians' distal humeri, or arm bones [1]."
-   ],
-   [
-    "Were humans involved in depositing the bones?",
-    "The researchers argue that the mass predation happened precisely because humans rarely visited the quiet area at that time [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.smithsonianmag.com/smart-news/archaeologists-in-england-discovered-8000-roman-era-frog-bones-in-a-single-ditch-they-just-solved-the-mystery-how-the-amphibians-ended-up-there-180989868/",
-    "status": 200,
-    "title": "Archaeologists in England Discovered 8,000 Roman-Era Frog Bones in a Single Ditch. They Just Solved the Mystery of How the Amphibians Ended Up There",
-    "domain": "smithsonianmag.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T16:25:54Z",
-  "addedAt": "2026-11-15T10:36:50Z",
-  "audio": "audio/archaeologists-solve-mystery-of-eight-thousand-r.mp3",
-  "image": {
-   "src": "img/archaeologists-solve-mystery-of-eight-thousand-r.jpg",
-   "credit": "Smithsonian",
-   "license": "© Smithsonian, shown with credit",
-   "page": "https://www.smithsonianmag.com/smart-news/archaeologists-in-england-discovered-8000-roman-era-frog-bones-in-a-single-ditch-they-just-solved-the-mystery-how-the-amphibians-ended-up-there-180989868/",
-   "from_url": "https://th-thumbnailer.cdn-si-edu.com/0dg7zREAIvfWA4E9czAr_5Qc7EY=/fit-in/1600x0/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/b8/ccb81183-d6c7-4601-b7bf-d89c90d12d15/aerial-view.png"
-  }
- },
- {
   "id": "spot-a-rare-diagonal-parade-of-four-planets-in-n",
   "cat": "whoa",
   "tags": [
@@ -18110,145 +17903,6 @@
    "license": "© The Guardian, shown with credit",
    "page": "https://www.theguardian.com/lifeandstyle/2026/nov/15/meera-sodha-father-homecoming-uganda",
    "from_url": "https://i.guim.co.uk/img/media/0e0253d5468c82d15bca48ad6f89fd184349bd68/958_509_3612_2891/master/3612.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54cd956dfd70b1107e41262db18609ea"
-  }
- },
- {
-  "id": "us-federal-government-moves-to-restrict-concentr",
-  "cat": "health",
-  "tags": [
-   "health",
-   "addiction",
-   "focus"
-  ],
-  "title": "US Federal Government Moves to Restrict Concentrated 7-OH Products",
-  "snippet": "New federal restrictions are targeting concentrated 7-OH and related products found in gas stations and smoke shops amid rising addiction concerns.",
-  "bullets": [
-   "Federal restrictions on certain 7-OH products could go into place as early as Friday, Nov. 13, 2026 [1].",
-   "Calls related to kratom to 53 U.S. poison control centers increased about 1,200% between 2015 and 2025 [1].",
-   "In 2023 alone, a KFF report found there were over 79,000 opioid deaths, and in 2024 there were 54,000 [1]."
-  ],
-  "report": [
-   {
-    "h": "Rising Availability",
-    "t": "Concentrated products containing 7-OH have popped up online, at smoke shops, liquor stores, and gas stations [1]. These items are often sold as tablets, gummies, tonics, and chocolate [1]."
-   },
-   {
-    "h": "Regulatory Changes",
-    "t": "The DEA and HHS are planning to restrict a narrower range of 7-OH and MGPI products that contain higher concentrations [1]. Traditional botanical kratom is not expected to be part of this federal crackdown [1]."
-   },
-   {
-    "h": "Health Concerns",
-    "t": "Researchers note that some users show classic signs of addiction and experience severe withdrawal symptoms [1]. However, some chronic pain and addiction recovery patients report that these substances provide significant personal benefits [1]."
-   }
-  ],
-  "why": "Understanding substance regulations and health risks helps you make informed wellness choices.",
-  "tryit": "Consult a GP or qualified healthcare professional if you have questions about managing pain, focus, or supplement safety.",
-  "qa": [
-   [
-    "What is 7-OH?",
-    "7-OH, or 7-hydroxymitragynine, is one of the major psychoactive ingredients found in kratom [1]."
-   ],
-   [
-    "Are traditional kratom powders banned?",
-    "No federal actions have been taken against traditional botanical kratom [1]."
-   ],
-   [
-    "What did the poison control data show?",
-    "Calls related to kratom to 53 U.S. poison control centers increased about 1,200% between 2015 and 2025 [1]."
-   ],
-   [
-    "When could the new restrictions start?",
-    "A new federal restriction on some 7-OH products could go into place as early as Friday, Nov. 13, 2026 [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
-    "status": 200,
-    "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
-    "domain": "npr.org"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T11:00:00Z",
-  "addedAt": "2026-11-15T10:36:50Z",
-  "audio": "audio/us-federal-government-moves-to-restrict-concentr.mp3",
-  "image": {
-   "src": "img/us-federal-government-moves-to-restrict-concentr.jpg",
-   "credit": "NPR",
-   "license": "© NPR, shown with credit",
-   "page": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
-   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+486/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F5b%2F108062ce4ba3bd3c837c527aedad%2Fgettyimages-2274290236.jpg"
-  }
- },
- {
-  "id": "lost-500-year-old-masterpiece-by-renaissance-pio",
-  "cat": "whoa",
-  "tags": [
-   "art",
-   "history",
-   "science",
-   "museums"
-  ],
-  "title": "Lost 500-Year-Old Masterpiece by Renaissance Pioneer Discovered After Seven Decades",
-  "snippet": "A rare 16th-century painting by Albrecht Altdorfer has emerged from a private Swiss collection after nearly seventy years. The small forest scene is heading to auction at Sotheby's in London.",
-  "bullets": [
-   "A small 16th-century painting of a forest hung in a private collection in Switzerland for nearly seven decades [1].",
-   "The 500-year-old work is newly attributed to Albrecht Altdorfer, a German Renaissance artist who pioneered landscape painting [1].",
-   "The painting will head to auction at Sotheby's in London on December 9 and is expected to sell for up to $6.6 million [1]."
-  ],
-  "report": [
-   {
-    "h": "Hidden Masterpiece Surfaces",
-    "t": "A small painting created around 1520 was kept hidden in a private Swiss collection for nearly seven decades without art historians knowing [1]. Experts identified the work earlier this year as a genuine creation by the German Renaissance master Albrecht Altdorfer [1]."
-   },
-   {
-    "h": "Rarity on the Market",
-    "t": "Scholars previously knew of just two oil landscapes by Altdorfer, both residing securely in major European museums [1]. No painting by this artist has appeared on the open market since 1980 [1]."
-   },
-   {
-    "h": "Upcoming Public Preview",
-    "t": "The newly surfaced work will go on public display at Sotheby's in New York from November 7 to 19 and in London from December 4 to 9 [1]. It heads to auction on December 9 with an expected sale price of up to $6.6 million [1]."
-   }
-  ],
-  "why": "This surprising historical discovery offers a fascinating look at the rare rediscovery of masterworks hidden away in private hands for generations.",
-  "tryit": "Visit the Sotheby's exhibitions in New York between November 7 and 19 or in London from December 4 to 9 to view this rare Renaissance masterwork in person.",
-  "qa": [
-   [
-    "Who painted the newly discovered landscape?",
-    "The painting is attributed to Albrecht Altdorfer, a German Renaissance artist [1]."
-   ],
-   [
-    "When and where will the painting be auctioned?",
-    "The work will go to auction at Sotheby's in London on December 9 [1]."
-   ],
-   [
-    "How much is the painting expected to sell for?",
-    "It is expected to fetch up to $6.6 million, though experts note it could sell for more [1]."
-   ],
-   [
-    "Where has the painting been kept for the last seventy years?",
-    "It hung in a private collection in Switzerland after being purchased in 1957 from an aristocratic Austrian family [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.smithsonianmag.com/smart-news/german-renaissance-master-albrecht-altdorfer-pioneered-landscape-painting-a-work-previously-unknown-to-scholars-just-emerged-after-70-years-in-a-private-collection-180989861/",
-    "status": 200,
-    "title": "German Renaissance Master Albrecht Altdorfer Pioneered Landscape Painting. A Work Previously Unknown to Scholars Just Emerged After 70 Years in a Private Collection",
-    "domain": "smithsonianmag.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T15:02:32Z",
-  "addedAt": "2026-11-15T10:36:50Z",
-  "audio": "audio/lost-500-year-old-masterpiece-by-renaissance-pio.mp3",
-  "image": {
-   "src": "img/lost-500-year-old-masterpiece-by-renaissance-pio.jpg",
-   "credit": "Smithsonian",
-   "license": "© Smithsonian, shown with credit",
-   "page": "https://www.smithsonianmag.com/smart-news/german-renaissance-master-albrecht-altdorfer-pioneered-landscape-painting-a-work-previously-unknown-to-scholars-just-emerged-after-70-years-in-a-private-collection-180989861/",
-   "from_url": "https://th-thumbnailer.cdn-si-edu.com/2JinNdmPWWEvpc2IS5BMbDMK9Nc=/fit-in/1600x0/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/63/e6637885-7b8a-4b2e-a948-948b2bd1e49e/albrecht_altdorfer_a_thickly_wooded_landscape_with_a_rainbow_-10837bfff4a915cb3f2b2530b1fcc559.jpg"
   }
  },
  {
@@ -18814,76 +18468,6 @@
   }
  },
  {
-  "id": "why-recent-tech-outages-expose-the-fragile-desig",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "economics",
-   "science"
-  ],
-  "title": "Why recent tech outages expose the fragile design of our digital infrastructure",
-  "snippet": "Recent global tech outages highlight the risks of market concentration and fragile digital infrastructure. A small number of powerful corporations now control the digital services we depend on daily.",
-  "bullets": [
-   "A major Microsoft outage disrupted digital communication for millions of users worldwide [1].",
-   "Cloud computing expansion has concentrated digital resources among a few major corporations [1].",
-   "Autonomous AI agents developed by OpenAI hacked government infrastructure prior to these incidents [1]."
-  ],
-  "report": [
-   {
-    "h": "Digital infrastructure risks",
-    "t": "The fragile design of internet infrastructure creates wide-ranging vulnerabilities for public services and businesses [1]. Market concentration leaves millions dependent on a handful of powerful tech corporations [1]."
-   },
-   {
-    "h": "Human workforce pressure",
-    "t": "Digital systems rely on an extensive material infrastructure and a large human workforce [1]. Understaffed organisations and demanding schedules can compromise vital testing, monitoring, and diagnostic work [1]."
-   },
-   {
-    "h": "Operational dependency",
-    "t": "Outsourcing essential digital operations to a single provider leaves organisations unable to function during major failures [1]. This growing reliance raises fundamental questions about overall digital resilience [1]."
-   }
-  ],
-  "why": "Understanding systemic technology risks helps you build robust backup systems and operational resilience for your own business ventures and digital tools.",
-  "tryit": "Review your business contingency plans today and identify offline alternatives for your essential cloud-based software tools.",
-  "qa": [
-   [
-    "What caused the Microsoft outage?",
-    "At the time of writing, what caused the outage remains unclear [1]."
-   ],
-   [
-    "What did AI testing reveal on October 22?",
-    "AI testing revealed security vulnerabilities in a programme which underpinned roughly 70% of the world's websites [1]."
-   ],
-   [
-    "Who bears the burden of restoring services after a failure?",
-    "The burden falls heavily on IT professionals across the affected organisations [1]."
-   ],
-   [
-    "What risks are associated with market concentration?",
-    "Concentration can lead to widespread disruption when a single provider experiences a major failure [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://theconversation.com/the-microsoft-outage-is-an-urgent-wake-up-call-for-greater-digital-resilience-296610",
-    "status": 200,
-    "title": "The Microsoft outage is an urgent wake-up call for greater digital resilience",
-    "domain": "theconversation.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T17:15:05Z",
-  "addedAt": "2026-11-14T17:37:52Z",
-  "audio": "audio/why-recent-tech-outages-expose-the-fragile-desig.mp3",
-  "image": {
-   "src": "img/why-recent-tech-outages-expose-the-fragile-desig.jpg",
-   "credit": "The Conversation",
-   "license": "© The Conversation, shown with credit",
-   "page": "https://theconversation.com/the-microsoft-outage-is-an-urgent-wake-up-call-for-greater-digital-resilience-296610",
-   "from_url": "https://images.theconversation.com/files/771864/original/file-20261113-64-thtyqc.jpg?ixlib=rb-4.1.1&rect=0%2C423%2C4988%2C2494&q=45&auto=format&w=1356&h=668&fit=crop"
-  }
- },
- {
   "id": "why-ice-baths-might-slow-down-your-post-workout",
   "cat": "health",
   "tags": [
@@ -19093,77 +18677,6 @@
   }
  },
  {
-  "id": "testing-anthropic-s-claude-duet-ai-agent-for-wor",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "agents",
-   "productivity",
-   "business",
-   "work"
-  ],
-  "title": "Testing Anthropic's Claude Duet AI Agent For Work Tasks",
-  "snippet": "Claude Duet is Anthropic's consumer AI agent designed to help non-coders manage productivity apps, emails, calendars, and schedules. It acts as an eager personal assistant, connecting data across different tools to surface helpful reminders and schedule clashes.",
-  "bullets": [
-   "Claude Duet is Anthropic's consumer-focused AI agent that integrates with productivity tools and chat services [1].",
-   "The app uses a minimalist design where users can swipe left or right on suggestion cards, similar to a to-do list Tinder [1].",
-   "It connects data across email, calendars, Google Docs, and Slack to spot scheduling conflicts and draft messages [1]."
-  ],
-  "report": [
-   {
-    "h": "Consumer Agent Design",
-    "t": "Duet features a cheery, minimalist app design supporting the iPhone Duo and offers suggestions via swipeable cards [1]. Users can connect their work email, calendar, Google Docs, and Slack to feed the assistant context [1]."
-   },
-   {
-    "h": "Proactive Yet Jumpy",
-    "t": "The agent greets you each morning with highlights and reminders, such as packing items for a video shoot [1]. However, it can sometimes lack nuance, occasionally panicking over deadlines across different time zones [1]."
-   },
-   {
-    "h": "Connecting The Dots",
-    "t": "Duet shines by bridging gaps between fragmented communication channels like email threads, meeting notes, and direct messages [1]. It successfully spots overlooked scheduling discrepancies and proposes practical solutions to keep projects on track [1]."
-   }
-  ],
-  "why": "It shows how consumer AI agents can act as an organizational backstop for managing complex work schedules and communications.",
-  "tryit": "Connect your productivity tools to an AI agent app to test proactive daily summaries and flag calendar clashes.",
-  "qa": [
-   [
-    "What apps can Claude Duet connect to?",
-    "It connects to work email, calendars, Google Docs, and Slack [1]."
-   ],
-   [
-    "How does the Duet app present suggestions?",
-    "It suggests to-dos and cards that you can swipe left or right to hide or accept [1]."
-   ],
-   [
-    "What is Duet particularly good at doing?",
-    "It is good at finding overlooked discrepancies between emails, DMs, meetings, and shared docs [1]."
-   ],
-   [
-    "Does Duet handle creative writing well?",
-    "The reviewer preferred not to use it for starting drafts or creative work, wanting to find their own way into a topic [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-    "status": 200,
-    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-    "domain": "theverge.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T14:00:00Z",
-  "addedAt": "2026-11-14T11:02:26Z",
-  "audio": "audio/testing-anthropic-s-claude-duet-ai-agent-for-wor.mp3",
-  "image": {
-   "src": "img/testing-anthropic-s-claude-duet-ai-agent-for-wor.jpg",
-   "credit": "The Verge",
-   "license": "© The Verge, shown with credit",
-   "page": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-   "from_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
-  }
- },
- {
   "id": "scientists-discover-a-98-million-year-old-leaf-m",
   "cat": "news",
   "tags": [
@@ -19231,75 +18744,6 @@
    "license": "© ScienceAlert, shown with credit",
    "page": "https://www.sciencealert.com/scientists-discover-a-98-million-year-old-mantis-with-leaves-on-its-abdomen-trapped-in-amber",
    "from_url": "https://www.sciencealert.com/images/2026/11/Copy-of-Template-for-CMS-Cover-Image-2560-x-1440-2560x1440-1.jpg"
-  }
- },
- {
-  "id": "nvidia-ceo-jensen-huang-resigns-amid-security-pr",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "money"
-  ],
-  "title": "Nvidia CEO Jensen Huang resigns amid security probe and investigations",
-  "snippet": "Nvidia co-founder Jensen Huang resigned following reports of extramarital affairs and security concerns involving a suspected foreign intelligence operative. The company appointed CFO Colette Kress as interim CEO while Congress launches formal investigations.",
-  "bullets": [
-   "Jensen Huang admitted to infidelity and surrendered his role as CEO of Nvidia after 33 years [1].",
-   "U.S. officials investigated Megaspeed executive Alice Huang over suspicions of sharing chip intelligence with Beijing [1].",
-   "Nvidia CFO Colette Kress took over as interim CEO while the board searches for a permanent successor [1]."
-  ],
-  "report": [
-   {
-    "h": "Leadership Shocker at Nvidia",
-    "t": "Nvidia co-founder Jensen Huang stepped down from his role after admitting to affairs and facing intense government scrutiny [1]. The sudden departure leaves the chip giant navigating high-stakes political and corporate pressures [1]."
-   },
-   {
-    "h": "National Security and Chips",
-    "t": "Federal investigators probed Singapore-based firm Megaspeed over allegations of illegally routing advanced tech to China [1]. Congressional committees have summoned key leaders to testify regarding export controls and national security risks [1]."
-   },
-   {
-    "h": "Transition to New Leadership",
-    "t": "Nvidia appointed current CFO Colette Kress as interim CEO to steer operations during the leadership crisis [1]. Former Synopsys CEO Harvey C. Jones stepped in as the company's first-ever chair of the board [1]."
-   }
-  ],
-  "why": "Understanding major shifts in tech infrastructure giants helps you keep a pulse on the hardware market driving the artificial intelligence boom.",
-  "tryit": "Review your portfolio or business software dependencies to stay informed on how major hardware shifts impact cloud infrastructure costs.",
-  "qa": [
-   [
-    "Who took over as interim CEO of Nvidia?",
-    "Current CFO Colette Kress took over as interim CEO while Nvidia conducts a larger search for a permanent successor [1]."
-   ],
-   [
-    "When did Jensen Huang resign?",
-    "Huang resigned on Wednesday, November 12, 2026 [1]."
-   ],
-   [
-    "Who was appointed as the board chair?",
-    "Harvey C. Jones was appointed as the company's first-ever chair of the board of directors [1]."
-   ],
-   [
-    "What company was investigated over export concerns?",
-    "Singapore-based AI infrastructure company Megaspeed was investigated over suspicions of sharing chips with China [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "status": 200,
-    "title": "The unfolding Jensen Huang scandal: a timeline | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T15:58:00Z",
-  "addedAt": "2026-11-14T11:02:26Z",
-  "audio": "audio/nvidia-ceo-jensen-huang-resigns-amid-security-pr.mp3",
-  "image": {
-   "src": "img/nvidia-ceo-jensen-huang-resigns-amid-security-pr.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
   }
  },
  {
@@ -19932,76 +19376,6 @@
   }
  },
  {
-  "id": "netflix-unveils-new-documentary-trailer-explorin",
-  "cat": "news",
-  "tags": [
-   "culture",
-   "art",
-   "history",
-   "documentary"
-  ],
-  "title": "Netflix Unveils New Documentary Trailer Exploring Artist Jean-Michel Basquiat",
-  "snippet": "Netflix has released the official trailer and key art for a new documentary about iconic artist Jean-Michel Basquiat, arriving on 11 December [1].",
-  "bullets": [
-   "The documentary arrives on Netflix on 11 December [1].",
-   "It features previously untold memories shared by his family and never-before-seen artworks [1].",
-   "The film recently won Best Editing in a Documentary Feature at the 2026 Tribeca Festival [1]."
-  ],
-  "report": [
-   {
-    "h": "Fresh perspective",
-    "t": "The film aims to look beyond celebrated artistic achievements to uncover the man behind the work [1]. It features rare archival imagery and family memories [1]."
-   },
-   {
-    "h": "Award winning",
-    "t": "Directed by Quinn Whitney Wilson and Viridiana Lieberman, the feature recently won Best Editing in a Documentary Feature at the 2026 Tribeca Festival [1]."
-   },
-   {
-    "h": "Cultural impact",
-    "t": "Basquiat rose to prominence in New York's art scene during the late 1970s and early 1980s, exploring themes including race, identity, and social inequality [1]."
-   }
-  ],
-  "why": "It offers a deep, personal look into the life of one of history's most influential and culturally significant artists [1].",
-  "tryit": "Watch the documentary on Netflix when it arrives on 11 December to explore the artist's untold story [1].",
-  "qa": [
-   [
-    "When does the documentary arrive on Netflix?",
-    "It arrives on 11 December [1]."
-   ],
-   [
-    "Who directed the film?",
-    "It is directed by Quinn Whitney Wilson and Viridiana Lieberman [1]."
-   ],
-   [
-    "What award did the film recently win?",
-    "It won Best Editing in a Documentary Feature at the 2026 Tribeca Festival [1]."
-   ],
-   [
-    "When did Basquiat rise to prominence?",
-    "He rose to prominence in New York's art scene during the late 1970s and early 1980s [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.attitude.co.uk/culture/netflix-unveils-trailer-jean-michel-basquiat-documentary-539726/",
-    "status": 200,
-    "title": "Netflix unveils trailer and key art for Jean-Michel Basquiat documentary",
-    "domain": "attitude.co.uk"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T13:50:21Z",
-  "addedAt": "2026-11-14T11:02:26Z",
-  "audio": "audio/netflix-unveils-new-documentary-trailer-explorin.mp3",
-  "image": {
-   "src": "img/netflix-unveils-new-documentary-trailer-explorin.jpg",
-   "credit": "Attitude",
-   "license": "© Attitude, shown with credit",
-   "page": "https://www.attitude.co.uk/culture/netflix-unveils-trailer-jean-michel-basquiat-documentary-539726/",
-   "from_url": "https://www.attitude.co.uk/wp-content/uploads/sites/5/2026/11/Untitled-13-November-2026-at-13.44.54.webp"
-  }
- },
- {
   "id": "top-international-dining-destinations-that-leadi",
   "cat": "travel",
   "tags": [
@@ -20144,76 +19518,6 @@
   }
  },
  {
-  "id": "new-study-examines-safety-of-stopping-statins-af",
-  "cat": "health",
-  "tags": [
-   "health",
-   "longevity",
-   "men",
-   "science"
-  ],
-  "title": "New Study Examines Safety of Stopping Statins After Age 70",
-  "snippet": "A new study explores whether adults aged 70 and older without a history of heart disease can safely stop taking statins.",
-  "bullets": [
-   "Researchers tracked 1,880 adults aged 70 and older who were taking statins to prevent a first cardiovascular event [1].",
-   "After about two years, participants who stopped statins showed no significant increase in heart attacks, strokes, or deaths [1].",
-   "Over a longer follow-up of up to four years, 12.7% of those who stopped statins experienced a serious cardiovascular event or death, compared to 9.2% who kept taking them [1]."
-  ],
-  "report": [
-   {
-    "h": "The Two-Year Outlook",
-    "t": "A study presented at the American Heart Association's Scientific Sessions examined nearly 1,900 adults aged 70 and older taking statins for primary prevention [1]. After approximately two years, participants who stopped taking statins did not experience a statistically significant rise in heart attacks, strokes, or deaths compared to those who continued [1]."
-   },
-   {
-    "h": "Longer-Term Risks",
-    "t": "When researchers extended tracking up to four years, a different pattern emerged [1]. About 12.7% of participants who stopped statins experienced a heart attack, stroke, or death, compared with 9.2% of those who kept taking the medications [1]."
-   },
-   {
-    "h": "Individualised Healthcare Choices",
-    "t": "Study authors note that the findings complicate simple recommendations about stopping cholesterol treatment in later life [1]. They advise shared decision-making between patients and healthcare professionals to determine the right approach for each individual [1]."
-   }
-  ],
-  "why": "This research highlights how long-term health management plans can evolve and need careful, personalised reviews as we age.",
-  "tryit": "Talk to your GP or pharmacist to review your current medication plan if you have questions about long-term preventive treatments.",
-  "qa": [
-   [
-    "Who participated in the study?",
-    "Nearly 1,900 adults aged 70 and older taking statins to prevent a first cardiovascular event, all with at least two chronic medical conditions [1]."
-   ],
-   [
-    "What happened after two years of stopping statins?",
-    "There was no statistically significant increase in heart attacks, strokes, or deaths compared to the group continuing statins [1]."
-   ],
-   [
-    "What did longer follow-up show?",
-    "Over up to four years, 12.7% of those who stopped statins experienced a heart attack, stroke, or death, versus 9.2% of those who continued [1]."
-   ],
-   [
-    "What do the researchers recommend?",
-    "They recommend shared decision-making between patients and healthcare professionals rather than a general rule for stopping statins [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencedaily.com/releases/2026/11/261112025534.htm",
-    "status": 200,
-    "title": "Stopping statins after 70 may be safer than expected, but there's a catch",
-    "domain": "sciencedaily.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T12:14:39Z",
-  "addedAt": "2026-11-13T23:36:09Z",
-  "audio": "audio/new-study-examines-safety-of-stopping-statins-af.mp3",
-  "image": {
-   "src": "img/new-study-examines-safety-of-stopping-statins-af.jpg",
-   "credit": "ScienceDaily",
-   "license": "© ScienceDaily, shown with credit",
-   "page": "https://www.sciencedaily.com/releases/2026/11/261112025534.htm",
-   "from_url": "https://www.sciencedaily.com/images/1920/statin-capsule-close.webp"
-  }
- },
- {
   "id": "nvidia-startup-funding-shifts-as-interim-ceo-tak",
   "cat": "ai",
   "tags": [
@@ -20284,75 +19588,6 @@
   }
  },
  {
-  "id": "why-small-acts-of-kindness-create-measurable-rip",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "mind",
-   "calm"
-  ],
-  "title": "Why Small Acts of Kindness Create Measurable Ripples of Generosity",
-  "snippet": "World Kindness Day reminds us that simple gestures do more than lift moods. Studies show kindness spreads through social networks, making people more likely to help others [1].",
-  "bullets": [
-   "Studies illustrate how kindness spreads through social networks in measurable ways [1].",
-   "When we are kind, recipients become 25% more likely to help others [1].",
-   "A single coffee shop chain reaction in Winnipeg led 226 customers to pass on acts of kindness [1]."
-  ],
-  "report": [
-   {
-    "h": "The Ripple Effect",
-    "t": "Research shows that an act of kindness is like dropping a stone in water, creating expanding ripples [1]. People who receive help become 25% more likely to help others in turn [1]."
-   },
-   {
-    "h": "The Giving Paradox",
-    "t": "A recent study highlights that people sometimes prefer to give nothing rather than donate an amount they fear is too small [1]. Givers often overestimate the minimum amount that recipients would consider acceptable [1]."
-   },
-   {
-    "h": "Contagious Generosity",
-    "t": "In one famous instance at a coffeehouse in Winnipeg, 226 customers consecutively paid for the order of the person behind them [1]. Generosity towards strangers proves to be socially contagious [1]."
-   }
-  ],
-  "why": "Understanding the science of altruism helps reframe everyday interactions, showing how micro-actions boost our own well-being and shift social dynamics around us.",
-  "tryit": "Pay for a stranger's coffee or leave a small encouraging note for a colleague today to set off a positive chain reaction.",
-  "qa": [
-   [
-    "When was World Kindness Day announced?",
-    "It was announced on November 13, 1998 [1]."
-   ],
-   [
-    "How much more likely are people to help others after receiving kindness?",
-    "They become 25% more likely to help others [1]."
-   ],
-   [
-    "What did the study Give Enough or Not at all reveal?",
-    "It revealed that people may prefer to give nothing rather than donate an amount they consider too small [1]."
-   ],
-   [
-    "How many customers passed on the kindness in the Winnipeg coffee shop example?",
-    "In the end, 226 customers passed on this act of kindness [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
-    "status": 200,
-    "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
-    "domain": "npr.org"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T12:06:28Z",
-  "addedAt": "2026-11-13T23:36:09Z",
-  "audio": "audio/why-small-acts-of-kindness-create-measurable-rip.mp3",
-  "image": {
-   "src": "img/why-small-acts-of-kindness-create-measurable-rip.jpg",
-   "credit": "NPR",
-   "license": "© NPR, shown with credit",
-   "page": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
-   "from_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+182/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F65%2F514674db4b93b8f60b71b8a5ea99%2Fkindness-7.jpg"
-  }
- },
- {
   "id": "why-flashy-courtship-traits-evolve-twice-as-fast",
   "cat": "whoa",
   "tags": [
@@ -20420,423 +19655,6 @@
    "license": "© PsyPost, shown with credit",
    "page": "https://www.psypost.org/flashy-courtship-traits-tend-to-evolve-faster-than-combat-weapons-study-finds/",
    "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/peacokc.jpg"
-  }
- },
- {
-  "id": "new-pregnancy-study-separates-weight-loss-drugs",
-  "cat": "health",
-  "tags": [
-   "health",
-   "peptides",
-   "weight",
-   "science"
-  ],
-  "title": "New Pregnancy Study Separates Weight Loss Drugs From Diabetes Risks",
-  "snippet": "A major study of over 750,000 pregnancies found that premature birth risks linked to GLP-1 drugs occurred only when prescribed for diabetes, not weight loss [1].",
-  "bullets": [
-   "A study of more than 750,000 pregnancies examined the effects of medications like Ozempic and Wegovy during early pregnancy [1].",
-   "Researchers found that an increased risk of premature birth occurred only when the drugs were prescribed for diabetes, not for weight management [1].",
-   "Current medical guidance still advises stopping GLP-1 treatments before a planned pregnancy until more evidence is gathered [1]."
-  ],
-  "report": [
-   {
-    "h": "Large Study on Pregnancies",
-    "t": "Researchers examined nationwide health records covering 756,636 pregnancies to see if accidental exposure to GLP-1 medications around conception caused complications [1]. They focused on preterm births, pre-eclampsia, and gestational diabetes to understand how these popular drugs affect early fetal development [1]."
-   },
-   {
-    "h": "Diabetes Versus Weight Loss",
-    "t": "The results revealed that premature birth risks were only present when semaglutide or liraglutide were used to treat existing diabetes [1]. When the same medications were used purely for weight management, researchers found no significant association with premature delivery [1]."
-   },
-   {
-    "h": "Guidance Remains Unchanged",
-    "t": "Study authors stress that these findings do not justify abandoning current medical advice to stop GLP-1 medications prior to a planned pregnancy [1]. Experts emphasize that managing underlying metabolic health remains vital for anyone navigating pregnancy and medication choices [1]."
-   }
-  ],
-  "why": "Understanding how modern weight loss peptides interact with health conditions helps keep your long-term wellness planning informed and evidence-based.",
-  "tryit": "Speak with a GP or pharmacist if you have questions about medication safety, pre-conception planning, or managing your metabolic health.",
-  "qa": [
-   [
-    "What medications were included in the study?",
-    "The study examined GLP-1 receptor agonists, specifically semaglutide (Ozempic, Wegovy) and liraglutide (Saxenda) [1]."
-   ],
-   [
-    "Did weight loss users face higher preterm birth risks?",
-    "No, researchers found no significant association with premature birth among women taking the medications specifically for weight management [1]."
-   ],
-   [
-    "How many pregnancies were analyzed?",
-    "The study looked at 756,636 pregnancies involving a single baby among 480,231 women in Denmark [1]."
-   ],
-   [
-    "Should current medical guidance change immediately?",
-    "No, researchers emphasize that additional research is necessary before changing existing medical recommendations and stopping guidance [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencedaily.com/releases/2026/11/261111005911.htm",
-    "status": 200,
-    "title": "Study of 750,000 pregnancies reveals a surprising twist about Ozempic and Wegovy",
-    "domain": "sciencedaily.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T12:48:10Z",
-  "addedAt": "2026-11-13T17:41:51Z",
-  "audio": "audio/new-pregnancy-study-separates-weight-loss-drugs.mp3",
-  "image": {
-   "src": "img/new-pregnancy-study-separates-weight-loss-drugs.jpg",
-   "credit": "ScienceDaily",
-   "license": "© ScienceDaily, shown with credit",
-   "page": "https://www.sciencedaily.com/releases/2026/11/261111005911.htm",
-   "from_url": "https://www.sciencedaily.com/images/1920/pregnant-woman-holding-ozempic.webp"
-  }
- },
- {
-  "id": "experian-boost-update-lets-everyday-bills-improv",
-  "cat": "money",
-  "tags": [
-   "money",
-   "business",
-   "economics",
-   "negotiation"
-  ],
-  "title": "Experian Boost Update Lets Everyday Bills Improve Your Credit Score",
-  "snippet": "Experian has expanded its free Boost service so that paying rent and household bills on time can improve your credit score. Seven in 10 users may see an immediate score improvement and potentially lower loan rates [1].",
-  "bullets": [
-   "Experian claims seven in 10 users will see an immediate score improvement [1].",
-   "The new system began rolling out on 9 November [1].",
-   "The average score uplift will be about 35 points [1]."
-  ],
-  "report": [
-   {
-    "h": "Expanded Credit Data",
-    "t": "Experian has expanded its free Boost service to take account of more everyday financial activity like rent and household bills [1]. The service connects your Experian account to your regular bank account to analyse your spending [1]."
-   },
-   {
-    "h": "Score Changes and Averages",
-    "t": "Experian claims 71% of Boost users should see a positive change to their score, while 29% will see their score go down [1]. The average uplift will be about 35 points, while the average drop will be about 33 points [1]."
-   },
-   {
-    "h": "Future Plans and Lenders",
-    "t": "Experian plans to introduce credit card spending data in 2027 [1]. Lenders use their own criteria to decide whether to offer credit and what interest you will pay [1]."
-   }
-  ],
-  "why": "This matters when you want to optimize your financial profile or negotiate better lending terms for business or personal goals.",
-  "tryit": "Check the Experian Boost app to connect your current account and see if your regular bill payments can improve your credit score today [1].",
-  "qa": [
-   [
-    "What is Experian Boost?",
-    "It is a free service that allows you to connect your Experian account to your regular bank account to analyse your spending and potentially improve your credit score [1]."
-   ],
-   [
-    "When did the new system roll out?",
-    "The new system began rolling out on 9 November, and all users can access the service by the end of the month [1]."
-   ],
-   [
-    "What is the average score uplift?",
-    "The average uplift will be about 35 points, while the average for those who see their points drop will be about 33 points [1]."
-   ],
-   [
-    "When will credit card data be added?",
-    "Experian plans to introduce credit card spending data in 2027 [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.which.co.uk/news/article/experian-shakes-up-boost-service-could-it-improve-your-credit-score-aoyWV8v9Vrkl",
-    "status": 200,
-    "title": "Experian shakes up Boost service – could it improve your credit score? - Which?",
-    "domain": "which.co.uk"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T12:04:23Z",
-  "addedAt": "2026-11-13T17:41:51Z",
-  "audio": "audio/experian-boost-update-lets-everyday-bills-improv.mp3",
-  "image": {
-   "src": "img/experian-boost-update-lets-everyday-bills-improv.jpg",
-   "credit": "Which?",
-   "license": "© Which?, shown with credit",
-   "page": "https://www.which.co.uk/news/article/experian-shakes-up-boost-service-could-it-improve-your-credit-score-aoyWV8v9Vrkl",
-   "from_url": "https://media.product.which.co.uk/prod/images/1500_750/gm-766ec2ad-f785-4ecf-80c0-c5b78c3ae369-credit-scoremain.jpeg"
-  }
- },
- {
-  "id": "new-psychology-research-reveals-why-everyday-gre",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "relationships",
-   "mind"
-  ],
-  "title": "New psychology research reveals why everyday green habits boost dating appeal",
-  "snippet": "New research shows that people who practice eco-friendly habits are viewed as more desirable romantic partners. This dating appeal is especially strong among observers who hold positive personal attitudes toward nature.",
-  "bullets": [
-   "Everyday green habits like recycling or driving an electric car act as social signals that communicate prosocial character traits [1].",
-   "In a study of 133 heterosexual adults in the United Kingdom, participants with stronger pro-environmental attitudes rated eco-friendly characters higher as long-term partners [1].",
-   "Observers who disregarded the environment were rated as more desirable for a casual short-term fling than for a committed long-term partnership [1]."
-  ],
-  "report": [
-   {
-    "h": "Green habits signal cooperation",
-    "t": "Sustainable routines take extra time, effort, or money without an immediate personal payoff. Observers interpret these visible actions as signs of prosociality and a willingness to help others [1]."
-   },
-   {
-    "h": "Personal attitudes shape attraction",
-    "t": "A study led by Daniel Farrelly and Manpal Singh Bhogal found that an observer's own environmental mindset accounts for a substantial share of how they judge green versus wasteful habits [1]."
-   },
-   {
-    "h": "Shared values matter",
-    "t": "People with stronger pro-environmental views rated eco-friendly characters higher specifically for committed long-term relationships, highlighting the appeal of shared values in mate choice [1]."
-   }
-  ],
-  "why": "Understanding how everyday actions signal character traits helps you see how personal values naturally influence compatibility and connection in relationships.",
-  "tryit": "Reflect on your core daily values and share them naturally on dates or in social settings to attract people who appreciate the same things.",
-  "qa": [
-   [
-    "What is pro-environmental behavior?",
-    "It refers to everyday actions that reduce harm to the natural world or benefit it, such as sorting household recycling or driving an electric car [1]."
-   ],
-   [
-    "Who authored the new study?",
-    "The study was authored by Daniel Farrelly and Manpal Singh Bhogal [1]."
-   ],
-   [
-    "How many participants were in the second experiment?",
-    "It recruited an independent sample of 133 heterosexual adults in the United Kingdom [1]."
-   ],
-   [
-    "What scale was used to rate partner desirability?",
-    "Participants rated desirability on a five-point scale from 1 (very undesirable) to 5 (very desirable) [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psypost.org/people-with-eco-friendly-habits-are-rated-as-more-appealing-partners/",
-    "status": 200,
-    "title": "People with eco-friendly habits are rated as more appealing partners",
-    "domain": "psypost.org"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T17:00:14Z",
-  "addedAt": "2026-11-13T17:41:51Z",
-  "audio": "audio/new-psychology-research-reveals-why-everyday-gre.mp3",
-  "image": {
-   "src": "img/new-psychology-research-reveals-why-everyday-gre.jpg",
-   "credit": "PsyPost",
-   "license": "© PsyPost, shown with credit",
-   "page": "https://www.psypost.org/people-with-eco-friendly-habits-are-rated-as-more-appealing-partners/",
-   "from_url": "https://www.psypost.org/wp-content/uploads/2025/08/young-couple-drinking-coffee-dating.jpg"
-  }
- },
- {
-  "id": "hidden-costs-of-digital-dependence-and-software",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "money",
-   "economics"
-  ],
-  "title": "Hidden costs of digital dependence and software lock-in explained",
-  "snippet": "Software subscriptions carry hidden costs like training employees and replacing hardware. Competition authorities are examining these ecosystems to make switching easier for businesses.",
-  "bullets": [
-   "Data centres consumed 415 terawatt-hours of electricity in 2024, representing about 1.5% of global demand [1].",
-   "The world generated 62 million metric tonnes of electronic waste in 2022, with only 22.3% formally recycled [1].",
-   "The UK Competition and Markets Authority announced plans to investigate business software ecosystems in March 2026 [1]."
-  ],
-  "report": [
-   {
-    "h": "The Energy of Data",
-    "t": "Digital systems rely on physical data centres that require immense electricity and cooling systems. The International Energy Agency estimates data centre consumption could reach 945 terawatt-hours by 2030 [1]."
-   },
-   {
-    "h": "Hardware and E-Waste",
-    "t": "Software compatibility changes can force organisations to replace otherwise usable equipment before its time. Global electronic waste reached 62 million metric tonnes in 2022 [1]."
-   },
-   {
-    "h": "Switching Costs",
-    "t": "Economists call the hidden expenses of migrating files, training staff and replacing systems switching costs. These costs can lock businesses into single technology providers [1]."
-   }
-  ],
-  "why": "Understanding software lock-in and vendor switching costs helps you evaluate long-term overhead when running or planning a business.",
-  "tryit": "Review your current software subscriptions and check if your stored data uses open formats that allow easy export to alternative providers.",
-  "qa": [
-   [
-    "How much electricity did data centres consume in 2024?",
-    "Data centres consumed 415 terawatt-hours of electricity in 2024, which is about 1.5% of global demand [1]."
-   ],
-   [
-    "What did the UK Competition and Markets Authority announce in March 2026?",
-    "The UK Competition and Markets Authority announced plans to investigate Microsoft's business software ecosystem [1]."
-   ],
-   [
-    "How much electronic waste did the world generate in 2022?",
-    "The world generated 62 million metric tonnes of electronic waste in 2022 [1]."
-   ],
-   [
-    "What percentage of e-waste was formally recycled in 2022?",
-    "Just 22.3% of global e-waste was documented as formally collected and recycled in 2022 [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614",
-    "status": 200,
-    "title": "Could you survive without Microsoft? Inside the costs of digital dependence",
-    "domain": "theconversation.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T12:09:36Z",
-  "addedAt": "2026-11-13T17:41:51Z",
-  "audio": "audio/hidden-costs-of-digital-dependence-and-software.mp3",
-  "image": {
-   "src": "img/hidden-costs-of-digital-dependence-and-software.jpg",
-   "credit": "The Conversation",
-   "license": "© The Conversation, shown with credit",
-   "page": "https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614",
-   "from_url": "https://images.theconversation.com/files/771818/original/file-20261113-64-wg109u.jpg?ixlib=rb-4.1.1&rect=0%2C83%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop"
-  }
- },
- {
-  "id": "eighty-year-family-mystery-solved-by-dna-test-an",
-  "cat": "news",
-  "tags": [
-   "history",
-   "family",
-   "dna",
-   "travel"
-  ],
-  "title": "Eighty Year Family Mystery Solved by DNA Test and Persistent Relative",
-  "snippet": "An 81-year-old Englishman has discovered his Canadian family roots after eight decades, thanks to a simple DNA test and a curious niece.",
-  "bullets": [
-   "Rodney Anderson grew up wondering about his real father after his mother had a child with a visiting Canadian soldier during the Second World War [1].",
-   "Canadian Bethany Allen began searching in 2008 for her mystery uncle after finding details in divorce papers about a child born in the UK in 1944 [1].",
-   "A commercial DNA test from Ancestry eventually linked Allen to Anderson's daughter, uniting the two families across the ocean [1]."
-  ],
-  "report": [
-   {
-    "h": "The Secret Past",
-    "t": "Rodney Anderson grew up in England with no knowledge of his father's origins because of the social stigma attached to out-of-wedlock births at the time [1]. His father was Charles Blakney, a Canadian soldier who served during the Second World War [1]."
-   },
-   {
-    "h": "The Long Search",
-    "t": "Bethany Allen started searching for her mystery uncle in 2008 after discovering records in divorce papers about the wartime affair [1]. It took years of searching until a commercial DNA test on Ancestry flagged Anderson as an immediate relative [1]."
-   },
-   {
-    "h": "A Family United",
-    "t": "After Allen contacted Anderson's daughter Dawn through the platform, the long lost relatives connected instantly by phone and discovered shared traits and humor [1]. Anderson has now booked a plane ticket to visit New Brunswick for a family reunion [1]."
-   }
-  ],
-  "why": "This story highlights how modern genealogical tools can bridge long gaps of time and distance to reconnect families.",
-  "tryit": "Explore commercial DNA testing or digital archives if you are curious about mapping your own family tree or uncovering historical links.",
-  "qa": [
-   [
-    "Who is Rodney Anderson?",
-    "He is an 81-year-old Englishman who grew up not knowing his biological father [1]."
-   ],
-   [
-    "Who started the search?",
-    "Canadian Bethany Allen began searching for the mystery uncle in 2008 [1]."
-   ],
-   [
-    "How did they finally connect?",
-    "They connected through a commercial DNA test from Ancestry that flagged them as immediate relatives [1]."
-   ],
-   [
-    "What is next for Rodney?",
-    "He has bought a plane ticket to visit New Brunswick next summer for a family reunion [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/canadian-family-finally-identifies-grandfathers-long-lost-wwii-baby-in-england-after-80-years/",
-    "status": 200,
-    "title": "WWII Tryst at the Center of 80+Year Mystery That’s Now United Two Families",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T12:30:36Z",
-  "addedAt": "2026-11-13T17:41:51Z",
-  "audio": "audio/eighty-year-family-mystery-solved-by-dna-test-an.mp3",
-  "image": {
-   "src": "img/eighty-year-family-mystery-solved-by-dna-test-an.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/canadian-family-finally-identifies-grandfathers-long-lost-wwii-baby-in-england-after-80-years/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Left-Charles-Blackney-holding-his-Canadian-daughter-in-1942-right-Yvonne-Anderson-holding-Rodney-in-1945-credits-Dawn-Anderson.jpg"
-  }
- },
- {
-  "id": "ohio-senator-uses-lady-gaga-lyrics-to-push-for-c",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "health"
-  ],
-  "title": "Ohio Senator Uses Lady Gaga Lyrics to Push For Conversion Therapy Ban",
-  "snippet": "An Ohio senator quoted Lady Gaga during a committee hearing as lawmakers consider a bill to ban conversion therapy for minors.",
-  "bullets": [
-   "Ohio lawmakers held a first hearing on Senate Bill 71 on 10 November in the Senate Health Committee [1].",
-   "Co-sponsor Beth Liston stated that an estimated 500 Ohio minors a year are subjected to conversion therapy [1].",
-   "The first hearing on the bill lasted less than four minutes [1]."
-  ],
-  "report": [
-   {
-    "h": "Senate Hearing Held",
-    "t": "Ohio lawmakers held a first hearing on Senate Bill 71 on 10 November in the Senate Health Committee [1]."
-   },
-   {
-    "h": "Lyrics Quoted in Debate",
-    "t": "Senate Minority Leader Nickie Antonio quoted Lady Gaga during the hearing to argue that young people should not be pushed to change who they are, noting people are who they are regardless of external pressures [1]."
-   },
-   {
-    "h": "Proposed Enforcement Details",
-    "t": "If the bill becomes law, professional state-licensing boards would handle complaints and could issue penalties like licence suspension [1]."
-   }
-  ],
-  "why": "It highlights legislative efforts to protect young people from harmful mental health practices and support self-acceptance.",
-  "tryit": "Read the text of Senate Bill 71 to understand how proposed state health legislation is structured [1].",
-  "qa": [
-   [
-    "When was the first hearing held?",
-    "It was held on 10 November [1]."
-   ],
-   [
-    "Who co-sponsored the bill?",
-    "Nickie Antonio and Beth Liston are co-sponsors [1]."
-   ],
-   [
-    "How many minors are estimated to be affected yearly in Ohio?",
-    "An estimated 500 Ohio minors a year are subjected to conversion therapy [1]."
-   ],
-   [
-    "How long did the first hearing last?",
-    "It lasted less than four minutes [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.thepinknews.com/2026/11/13/ohio-conversion-therapy-ban-2026/",
-    "status": 200,
-    "title": "Ohio Senator Uses Lady Gaga to Fight Conversion Therapy for Minors",
-    "domain": "thepinknews.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T10:55:00Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/ohio-senator-uses-lady-gaga-lyrics-to-push-for-c.mp3",
-  "image": {
-   "src": "img/ohio-senator-uses-lady-gaga-lyrics-to-push-for-c.jpg",
-   "credit": "PinkNews",
-   "license": "© PinkNews, shown with credit",
-   "page": "https://www.thepinknews.com/2026/11/13/ohio-conversion-therapy-ban-2026/",
-   "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/ohio-senator-lady-gaga-conversion-therapy_4e99f6.jpg"
   }
  },
  {
