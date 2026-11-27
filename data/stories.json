@@ -1,5 +1,843 @@
 [
  {
+  "id": "control-your-iphone-alarm-volume-independently-f",
+  "cat": "adhd",
+  "tags": [
+   "adhd",
+   "focus",
+   "health"
+  ],
+  "title": "Control your iPhone alarm volume independently from your ringtones",
+  "snippet": "A new feature lets you adjust alarms and timers independently of system sounds, so you will never miss an important wake-up call again.",
+  "bullets": [
+   "Alarms, timers, alerts, and system sounds match your ringtone volume by default [1].",
+   "You can turn off this shared setting in the Sounds and Haptics menu [1].",
+   "This allows you to maximize your alarm volume without changing your notification sounds [1]."
+  ],
+  "report": [
+   {
+    "h": "Independent Volume",
+    "t": "A lesser-known feature gives alarms, timers, and ringtones independent volume control [1]. You can adjust alarms and timers independently of your phone alerts and system sounds [1]."
+   },
+   {
+    "h": "Past Methods",
+    "t": "Previously, you could only adjust Sleep Schedule alarms to go off at a specific volume [1]. Sleep Schedule alarms have a dedicated volume slider configured within the Sleep focus [1]."
+   },
+   {
+    "h": "New Setting",
+    "t": "Alarms, timers, alerts, and system sounds match your ringtone volume by default [1]. You can turn them off in the Sounds and Haptics setting to set your volume for upcoming alarms [1]."
+   }
+  ],
+  "why": "Reliable morning routines and waking up on time are essential for managing focus and structure with ADHD.",
+  "tryit": "Open your iPhone Sounds and Haptics settings today to separate your alarm volume from your ringtones.",
+  "qa": [
+   [
+    "What does the new feature do?",
+    "It gives alarms, timers, and ringtones independent volume control [1]."
+   ],
+   [
+    "How did previous methods work?",
+    "You could adjust Sleep Schedule alarms to always go off at a specific volume using a dedicated slider in the Sleep focus [1]."
+   ],
+   [
+    "Where do you change the setting?",
+    "You can turn off the shared volume option in the Sounds and Haptics setting [1]."
+   ],
+   [
+    "What is the default setting for alarms?",
+    "Alarms, timers, alerts, and system sounds are set to match your ringtone volume by default [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.zdnet.com/tech/iphone-hidden-alarm-volume-ios-27/",
+    "status": 200,
+    "title": "This hidden iOS 27 feature ensures you'll never sleep through an alarm again - ZDNET",
+    "domain": "zdnet.com"
+   }
+  ],
+  "date": "2026-11-24",
+  "publishedAt": "2026-11-24T18:54:41Z",
+  "addedAt": "2026-11-27T10:42:26Z",
+  "audio": "audio/control-your-iphone-alarm-volume-independently-f.mp3",
+  "image": {
+   "src": "img/control-your-iphone-alarm-volume-independently-f.jpg",
+   "credit": "ZDNET",
+   "license": "© ZDNET, shown with credit",
+   "page": "https://www.zdnet.com/tech/iphone-hidden-alarm-volume-ios-27/",
+   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/4b53d313-b3d5-48a2-b812-ffe468e67652.jpg"
+  }
+ },
+ {
+  "id": "score-major-travel-savings-with-black-friday-and",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "money",
+   "business",
+   "negotiation"
+  ],
+  "title": "Score Major Travel Savings With Black Friday and Cyber Week Hotel Deals",
+  "snippet": "Travelers planning 2027 trips can score huge discounts on hotels, car rentals, and vacation packages during current Black Friday and Cyber Week sales. Major brands and booking platforms are offering up to 65% off stays, reward bonuses, and promotional credits [1].",
+  "bullets": [
+   "Booking.com offers up to 40% off hotel stays through December 2, with Tokyo deals starting at $31 per night [1].",
+   "Expedia features up to 50% off select hotels alongside special Flash Deals up to 75% off on key shopping days [1].",
+   "Sandals provides up to 65% off rates and additional spa credits for adults-only all-inclusive resorts [1]."
+  ],
+  "report": [
+   {
+    "h": "Platform Discounts",
+    "t": "Booking platforms like Booking.com and Expedia are running massive sales with up to 50% off select hotels and additional savings on car rentals [1]. Expedia members can also access special Flash Deals on Black Friday, Cyber Monday, and Travel Tuesday [1]."
+   },
+   {
+    "h": "Hotel Brand Sales",
+    "t": "Major hotel groups including Marriott, Hyatt, and IHG are offering tiered discounts for members and nonmembers booking through their apps or websites [1]. For instance, World of Hyatt members can save up to 25% on properties worldwide until December 8, 2026 [1]."
+   },
+   {
+    "h": "All-Inclusive Getaways",
+    "t": "Sandals and Beaches are offering up to 65% off all-inclusive Caribbean vacations with booking, spa, and air credits for travel extending through December 31, 2028 [1]. Meanwhile, AutoCamp offers 40% off sleek Airstreams and cozy cabins through December 2, 2026 [1]."
+   }
+  ],
+  "why": "This is a practical way to slash the cost of upcoming getaways or business travel by locking in deep discounts before peak-season prices return [1].",
+  "tryit": "Check the Booking.com or Expedia platforms today to compare holiday discounts and secure your preferred travel dates before sales end [1].",
+  "qa": [
+   [
+    "When does the Booking.com sale end?",
+    "The Booking.com sale runs through December 2 [1]."
+   ],
+   [
+    "What discount does World of Hyatt offer members?",
+    "Members can save up to 25% off properties around the world [1]."
+   ],
+   [
+    "What code should I use for AutoCamp bookings?",
+    "Use the code NATURE when booking for travel dates through December 31, 2027 [1]."
+   ],
+   [
+    "How much can I save on Vrbo by booking early?",
+    "You can see savings of over $520 when booking properties more than 60 days in advance [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/black-friday-hotel-deals-11-27-2026",
+    "status": 200,
+    "title": "These Black Friday Hotel Deals Will Help You Save Hundreds on Your Next Getaway",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2025-11-28",
+  "publishedAt": "2025-11-28T10:10:00Z",
+  "addedAt": "2026-11-27T10:42:26Z",
+  "audio": "audio/score-major-travel-savings-with-black-friday-and.mp3",
+  "image": {
+   "src": "img/score-major-travel-savings-with-black-friday-and.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/black-friday-hotel-deals-11-27-2026",
+   "from_url": "https://media.cntraveler.com/photos/69f8a5367d866520235649ab/16:9/w_1280,c_limit/Sugar-Beach-a-Viceroy-Resort-St-Lucia-May26-Press-Global-010.jpg"
+  }
+ },
+ {
+  "id": "smart-delivery-tactics-to-protect-your-holiday-p",
+  "cat": "news",
+  "tags": [
+   "news",
+   "business",
+   "travel"
+  ],
+  "title": "Smart Delivery Tactics To Protect Your Holiday Packages From Thieves",
+  "snippet": "Doorbell cameras alone will not stop determined thieves from stealing deliveries. Learn expert strategies to keep your holiday orders safe and secure.",
+  "bullets": [
+   "Findings show that 28% of US adults have had a package stolen, know someone who has, or have stopped an attempted theft [1].",
+   "Experts recommend using alternative delivery options like in-store pickups, post office boxes, in-garage delivery, or your workplace [1].",
+   "Asking retailers not to ship items in the manufacturer's packaging can help make thieves think twice [1]."
+  ],
+  "report": [
+   {
+    "h": "The Myth Of Cameras",
+    "t": "Security cameras offer proof of a theft rather than acting as a true deterrent [1]. Many thieves know that law enforcement rarely prioritizes these cases [1]."
+   },
+   {
+    "h": "Alternative Drop Locations",
+    "t": "Retail and e-commerce advisors suggest choosing secure locations like your workplace, a post office box, or in-garage delivery for valuable items [1]."
+   },
+   {
+    "h": "Conceal Your Goods",
+    "t": "Ask retailers not to ship items in the original manufacturer packaging to avoid advertising valuable tech or gifts to passersby [1]."
+   }
+  ],
+  "why": "Protecting your deliveries ensures your purchases actually reach you without the frustrating hassle of dealing with stolen items.",
+  "tryit": "Select an alternative delivery location or a specific consolidated delivery window like Amazon Day the next time you place an online order.",
+  "qa": [
+   [
+    "Do doorbell cameras stop package thieves?",
+    "No, many thieves do not care about being caught on camera as long as they can grab the package [1]."
+   ],
+   [
+    "What percentage of US adults have experienced package theft?",
+    "Findings show that 28% of US adults have had a package stolen, know someone who has, or stopped an attempted theft [1]."
+   ],
+   [
+    "What are safer delivery alternatives?",
+    "Experts recommend using in-store pickups, post office boxes, in-garage delivery, or your workplace [1]."
+   ],
+   [
+    "What should you do if your package is stolen?",
+    "File a police report first, then report the theft to both the carrier and the retailer [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cnet.com/home/security/package-theft-advice/",
+    "status": 200,
+    "title": "Black Friday Porch Pirates Don't Care About Your Doorbell Camera. Follow This Expert Plan Now - CNET",
+    "domain": "cnet.com"
+   }
+  ],
+  "date": "2026-11-26",
+  "publishedAt": "2026-11-26T16:05:18Z",
+  "addedAt": "2026-11-27T10:42:26Z",
+  "audio": "audio/smart-delivery-tactics-to-protect-your-holiday-p.mp3",
+  "image": {
+   "src": "img/smart-delivery-tactics-to-protect-your-holiday-p.jpg",
+   "credit": "CNET",
+   "license": "© CNET, shown with credit",
+   "page": "https://www.cnet.com/home/security/package-theft-advice/",
+   "from_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-952094800.jpg"
+  }
+ },
+ {
+  "id": "driving-keeps-your-heart-rate-elevated-different",
+  "cat": "ai",
+  "tags": [
+   "health",
+   "science",
+   "focus",
+   "fitness"
+  ],
+  "title": "Driving Keeps Your Heart Rate Elevated Differently Than Other Sitting",
+  "snippet": "A new study reveals that driving puts unique demands on the body. While sitting at the wheel, heart rates stay above baseline more continuously than during other sedentary tasks.",
+  "bullets": [
+   "Researchers monitored 57 adult participants with an average age of 26.2 years over the course of one week [1].",
+   "Participants wore an Apple Watch which recorded their heart rate during nearly 1,000 separate trips [1].",
+   "During driving, heart rates stayed above resting baseline for 94 percent of the observed time [1]."
+  ],
+  "report": [
+   {
+    "h": "The Driving Heart Study",
+    "t": "Researchers at the University of Houston monitored 57 adult participants using Apple Watches and car devices over one week [1]. The study tracked almost 3,000 hours of observations, including over 300 hours of driving [1]."
+   },
+   {
+    "h": "Key Cardiac Differences",
+    "t": "During ordinary sedentary activities, heart rates remained above baseline for 81 percent of the time [1]. During driving, that number increased to 94 percent of the observed driving time [1]."
+   },
+   {
+    "h": "Constant Mental Focus",
+    "t": "The unique circumstances of driving require continuous attention, decisions, and readiness to react [1]. This constant mental effort keeps heart rates elevated within a narrower range and returning to baseline half as frequently [1]."
+   }
+  ],
+  "why": "This matters because understanding how everyday tasks like driving uniquely affect your autonomic nervous system and focus helps you manage cognitive load.",
+  "tryit": "Talk to a GP or healthcare professional if you want to discuss monitoring your heart rate or managing daily stress responses.",
+  "qa": [
+   [
+    "How many participants were in the study?",
+    "The study monitored 57 adult participants, consisting of 30 men and 27 women [1]."
+   ],
+   [
+    "What devices were used to track the participants?",
+    "Participants wore an Apple Watch, and their smartphones alongside a device installed in their car captured daily movements [1]."
+   ],
+   [
+    "What was the average age of the participants?",
+    "The average age of the participants was 26.2 years [1]."
+   ],
+   [
+    "How long did the study period last?",
+    "The participants were monitored over the course of one week [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencealert.com/driving-a-car-may-exert-a-hidden-effect-on-your-heart-study-reveals",
+    "status": 200,
+    "title": "Driving a Car May Exert a Hidden Effect on Your Heart, Study Reveals",
+    "domain": "sciencealert.com"
+   }
+  ],
+  "date": "2026-11-27",
+  "publishedAt": "2026-11-27T09:00:00Z",
+  "addedAt": "2026-11-27T10:42:26Z",
+  "audio": "audio/driving-keeps-your-heart-rate-elevated-different.mp3",
+  "image": {
+   "src": "img/driving-keeps-your-heart-rate-elevated-different.jpg",
+   "credit": "ScienceAlert",
+   "license": "© ScienceAlert, shown with credit",
+   "page": "https://www.sciencealert.com/driving-a-car-may-exert-a-hidden-effect-on-your-heart-study-reveals",
+   "from_url": "https://www.sciencealert.com/images/2026/11/female-driver.jpg"
+  }
+ },
+ {
+  "id": "new-york-bans-ai-chatbot-toys-as-enforcement-rul",
+  "cat": "ai",
+  "tags": [
+   "ai",
+   "business",
+   "regulation",
+   "agents"
+  ],
+  "title": "New York Bans AI Chatbot Toys As Enforcement Rules Target Tech",
+  "snippet": "New York has joined California in banning AI chatbot toys due to safety and privacy risks. Companies face steep daily fines for selling these devices.",
+  "bullets": [
+   "Gov. Kathy Hochul signed a bill banning the manufacture, distribution, and sale of AI chatbot toys in New York for the next five years [1].",
+   "The enforcement strategy includes steep fines of $15,000 a day to keep these unregulated devices off the market [1].",
+   "A study by Common Sense Media revealed safety failings, including privacy risks and inappropriate chat responses [1]."
+  ],
+  "report": [
+   {
+    "h": "New York Toy Ban",
+    "t": "New York became the second state after California to ban AI chatbot toys for five years [1]. The law targets internet-connected dolls, robots, and stuffed animals [1]."
+   },
+   {
+    "h": "Strict Enforcement Rules",
+    "t": "State officials are partnering with the attorney general to enforce the ban using steep fines of $15,000 a day [1]. E-commerce platforms like Amazon are taking steps to restrict sales in prohibited regions [1]."
+   },
+   {
+    "h": "Safety Study Findings",
+    "t": "Common Sense Media tested five popular AI toys and found issues like poor parental monitoring, privacy concerns, and inappropriate content [1]. Researchers noted that these products failed basic safety practices [1]."
+   }
+  ],
+  "why": "Understanding how regulators tackle autonomous AI products helps you navigate emerging compliance rules and platform restrictions when building or investing in AI businesses.",
+  "tryit": "Review your own compliance guardrails if you build consumer-facing AI agents, ensuring you implement strict safety boundaries and clear monitoring tools.",
+  "qa": [
+   [
+    "Which state banned AI toys?",
+    "New York became the second state after California to institute a five-year ban on AI chatbot toys [1]."
+   ],
+   [
+    "What is the penalty for violating the ban?",
+    "Sellers face steep fines of $15,000 a day enforced in partnership with the attorney general [1]."
+   ],
+   [
+    "What safety issues did the study find?",
+    "Researchers found risks including inappropriate content, lack of reliable parental monitoring, and poor privacy practices [1]."
+   ],
+   [
+    "How many American parents own or consider buying an AI toy?",
+    "About a quarter of American parents with kids under eight either own an AI toy or are considering giving one this holiday season [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "status": 200,
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York | TechCrunch",
+    "domain": "techcrunch.com"
+   }
+  ],
+  "date": "2026-11-25",
+  "publishedAt": "2026-11-25T18:11:46Z",
+  "addedAt": "2026-11-27T10:42:26Z",
+  "audio": "audio/new-york-bans-ai-chatbot-toys-as-enforcement-rul.mp3",
+  "image": {
+   "src": "img/new-york-bans-ai-chatbot-toys-as-enforcement-rul.jpg",
+   "credit": "TechCrunch",
+   "license": "© TechCrunch, shown with credit",
+   "page": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800"
+  }
+ },
+ {
+  "id": "away-luggage-launches-its-biggest-discount-of-th",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "money",
+   "business",
+   "shopping"
+  ],
+  "title": "Away Luggage Launches Its Biggest Discount of the Year for Black Friday",
+  "snippet": "Away is offering a major holiday sale with 25% off almost everything through December 1. Shoppers can also secure an extra 10% off when spending $750 during the limited-time event.",
+  "bullets": [
+   "Away is running its biggest sale of the year with 25% off almost everything through December 1 [1].",
+   "Customers can save an extra 10% when spending $750 during the holiday promotion [1].",
+   "The discount covers popular travel items including the Bigger Carry-On, The Medium, and packing cubes [1]."
+  ],
+  "report": [
+   {
+    "h": "Holiday luggage savings",
+    "t": "Away has kicked off its major holiday event, offering 25% off nearly all items through December 1 [1]. Buyers who spend $750 will unlock an extra 10% off their order [1]."
+   },
+   {
+    "h": "Top travel gear included",
+    "t": "The sale spans popular items like the best-selling Bigger Carry-On and spacious checked bags such as The Medium [1]. Accessories like water-repellent packing cubes and the Featherlight Weekender are also discounted [1]."
+   },
+   {
+    "h": "Act before stock sells",
+    "t": "Popular colors and specific suitcase models may sell out before the sale concludes on Cyber Monday [1]. Recent holiday drops and the Series 3 collection are excluded from the promotion [1]."
+   }
+  ],
+  "why": "If you are planning trips or need to upgrade your travel gear for upcoming adventures, taking advantage of seasonal discounts helps save money on durable essentials.",
+  "tryit": "Browse the Away website to check out the current 25% discount on luggage and accessories before popular colors sell out.",
+  "qa": [
+   [
+    "What is the discount amount during Away's sale?",
+    "You can save 25% on almost everything, plus an extra 10% when you spend $750 [1]."
+   ],
+   [
+    "When does the Away sale end?",
+    "The sale runs through December 1 and Cyber Monday [1]."
+   ],
+   [
+    "Are all items included in the discount?",
+    "Recent holiday drops and the Series 3 collection are excluded from the sale [1]."
+   ],
+   [
+    "What is Away's best-selling suitcase?",
+    "The Bigger Carry-On is Away's best-selling suitcase, sized to fit most major US airline overhead bins [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cntraveler.com/story/away-black-friday-sale-11-27-2026",
+    "status": 200,
+    "title": "Away Is Offering Its Biggest Discount of the Year for Black Friday",
+    "domain": "cntraveler.com"
+   }
+  ],
+  "date": "2025-11-28",
+  "publishedAt": "2025-11-28T10:05:00Z",
+  "addedAt": "2026-11-27T10:42:26Z",
+  "audio": "audio/away-luggage-launches-its-biggest-discount-of-th.mp3",
+  "image": {
+   "src": "img/away-luggage-launches-its-biggest-discount-of-th.jpg",
+   "credit": "Condé Nast Traveler",
+   "license": "© Condé Nast Traveler, shown with credit",
+   "page": "https://www.cntraveler.com/story/away-black-friday-sale-11-27-2026",
+   "from_url": "https://media.cntraveler.com/photos/6b06261b6deea1888b74841c/16:9/w_1280,c_limit/Away%20Black%20Friday2.jpg"
+  }
+ },
+ {
+  "id": "broadway-composer-zoe-sarnak-bridges-science-and",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "music",
+   "business",
+   "psychology"
+  ],
+  "title": "Broadway Composer Zoe Sarnak Bridges Science and Art in New STEM Musicals",
+  "snippet": "Composer Zoe Sarnak is bringing science to Broadway with her new musical Galileo, which uses rock and indie pop to tell the astronomer's story. She is also working on adaptations about the Higgs boson and A Beautiful Mind [1].",
+  "bullets": [
+   "Composer Zoe Sarnak created the music and lyrics for the new Broadway musical Galileo, opening on December 6 [1].",
+   "Sarnak studied molecular biology and music in parallel during her undergraduate degree [1].",
+   "Her upcoming projects include Particle Fever, an adaptation about the discovery of the Higgs boson [1]."
+  ],
+  "report": [
+   {
+    "h": "Setting Science to Music",
+    "t": "Composer Zoe Sarnak is merging her background in molecular biology with musical theatre on Broadway [1]. Her new show Galileo captures the astronomer's rebellious personality using rock and indie pop music [1]."
+   },
+   {
+    "h": "Exploring Complex Ideas",
+    "t": "Sarnak views molecular biology and music as similar puzzles that require integrating layers of information [1]. She is also adapting Particle Fever, a documentary about the discovery of the Higgs boson at CERN [1]."
+   },
+   {
+    "h": "Finding Human Emotion",
+    "t": "The composer aims to explore the passion and dreamer quality behind what scientists go through [1]. Different characters in Galileo feature distinct musical styles, from unbridled rock to chamber classical elements [1]."
+   }
+  ],
+  "why": "This story highlights how unexpected combinations of interests, like science and art, can create unique creative projects and business ventures [1].",
+  "tryit": "Explore how combining two entirely different fields of interest or skills you have could spark an original creative project or business angle this week [1].",
+  "qa": [
+   [
+    "When does the Galileo musical open?",
+    "It opens on December 6 [1]."
+   ],
+   [
+    "What other STEM musicals is Sarnak working on?",
+    "She is working on Particle Fever and a stage adaptation of A Beautiful Mind [1]."
+   ],
+   [
+    "What did Sarnak study in her undergraduate degree?",
+    "She studied molecular biology and music in parallel [1]."
+   ],
+   [
+    "What musical style represents Galileo in the show?",
+    "He is represented by a version of rebellious, unbridled rock [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.scientificamerican.com/article/how-the-galileo-musicals-composer-sets-science-to-a-score-on-broadway/",
+    "status": 200,
+    "title": "Why this Broadway composer is in her ‘science era’",
+    "domain": "scientificamerican.com"
+   }
+  ],
+  "date": "2026-11-25",
+  "publishedAt": "2026-11-25T14:00:00Z",
+  "addedAt": "2026-11-27T10:42:26Z",
+  "audio": "audio/broadway-composer-zoe-sarnak-bridges-science-and.mp3",
+  "image": {
+   "src": "img/broadway-composer-zoe-sarnak-bridges-science-and.jpg",
+   "credit": "Scientific American",
+   "license": "© Scientific American, shown with credit",
+   "page": "https://www.scientificamerican.com/article/how-the-galileo-musicals-composer-sets-science-to-a-score-on-broadway/",
+   "from_url": "https://static.scientificamerican.com/dam/asset/0e245544-412c-4253-a351-c6fd7b1a3708/galileo-lead-image.jpg?m=1795578576.142&w=1200"
+  }
+ },
+ {
+  "id": "why-recreational-exercise-protects-your-brain-wh",
+  "cat": "health",
+  "tags": [
+   "health",
+   "fitness",
+   "science",
+   "psychology"
+  ],
+  "title": "Why recreational exercise protects your brain while physical labor does not",
+  "snippet": "New research shows that recreational exercise cuts dementia risk by 24%, while high physical activity at work is linked to a 20% higher risk. The context of movement matters greatly for long-term brain health.",
+  "bullets": [
+   "Recreational exercise like walking, swimming, and cycling is associated with a 24 percent lower risk of dementia [1].",
+   "Physical activity at work is linked to a 20 percent greater risk of developing dementia [1].",
+   "The study analyzed data from more than 4.2 million people aged 45 to 93 across 30 countries [1]."
+  ],
+  "report": [
+   {
+    "h": "The Exercise Paradox",
+    "t": "Researchers at the University of Southern California found that not all physical movement offers the same brain benefits [1]. While free-time exercise helps protect cognitive health, manual labor at work can carry a higher risk [1]."
+   },
+   {
+    "h": "Workplace Stressors",
+    "t": "The elevated risk from job-related activity is likely driven by social and environmental factors like lack of control, exhaustion, and pollution [1]. Recreational exercise gives people control over intensity, stress relief, and social connection [1]."
+   },
+   {
+    "h": "Sedentary Activities",
+    "t": "Separate research indicates that mentally stimulating sitting activities, such as desk work, are linked to greater brain volume than passive sitting like watching television [1]. Context and mental engagement shape how activities affect our neural structure [1]."
+   }
+  ],
+  "why": "Understanding how different types of physical activity impact your brain helps you plan a sustainable, health-focused routine that balances work demands with restorative downtime.",
+  "tryit": "Schedule a dedicated 30-minute recreational walk or swim this week to get the specific brain benefits linked to free-time exercise.",
+  "qa": [
+   [
+    "What is the main finding regarding recreational exercise?",
+    "Participants who engaged in higher levels of recreational physical activity had a 24 percent lower risk of dementia [1]."
+   ],
+   [
+    "What did the study reveal about occupational physical activity?",
+    "Higher levels of physical activity at work were linked to a 20 percent greater risk of developing dementia [1]."
+   ],
+   [
+    "How many people were included in the research analysis?",
+    "The analysis involved more than 4.2 million people between the ages of 45 and 93 from 30 countries [1]."
+   ],
+   [
+    "Why might work-related physical activity increase dementia risk?",
+    "The risk may arise from stress, limited control, unsafe conditions, fatigue, and exposure to air and noise pollution [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
+    "status": 200,
+    "title": "One type of physical activity is linked to a 20% higher dementia risk",
+    "domain": "sciencedaily.com"
+   }
+  ],
+  "date": "2026-11-27",
+  "publishedAt": "2026-11-27T08:45:06Z",
+  "addedAt": "2026-11-27T10:42:26Z",
+  "audio": "audio/why-recreational-exercise-protects-your-brain-wh.mp3",
+  "image": {
+   "src": "img/why-recreational-exercise-protects-your-brain-wh.jpg",
+   "credit": "ScienceDaily",
+   "license": "© ScienceDaily, shown with credit",
+   "page": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
+   "from_url": "https://www.sciencedaily.com/images/1920/tired-warehouse-worker.webp"
+  }
+ },
+ {
+  "id": "protect-your-festive-travel-plans-with-these-pra",
+  "cat": "travel",
+  "tags": [
+   "travel",
+   "visas",
+   "passports",
+   "money",
+   "negotiation"
+  ],
+  "title": "Protect your festive travel plans with these practical insider tips",
+  "snippet": "Discover simple ways to safeguard your holiday travel, from checking airline bag drop rules to avoiding overstaying traps and navigating peak road traffic.",
+  "bullets": [
+   "Ryanair recently updated its bag drop desk closing time to 60 minutes before departure [1].",
+   "UK passport holders should use the EES Calculator to check that their EU exits were properly recorded [1].",
+   "The AA estimates heavy road traffic during festive amber alerts, suggesting alternative travel days like Sunday 20 December 2026 [1]."
+  ],
+  "report": [
+   {
+    "h": "Check airline baggage rules",
+    "t": "Do not assume airline rules stay the same. Ryanair bag drop desks now close 60 minutes before departure instead of 40, so consider twilight bag drop the night before if available [1]."
+   },
+   {
+    "h": "Monitor your EU border records",
+    "t": "Verify that your exits are properly recorded using the EES Calculator to prevent being wrongly flagged as an overstayer in European countries [1]."
+   },
+   {
+    "h": "Smart driving and navigation",
+    "t": "Use navigation apps like Waze and Google Maps to avoid traffic hazards and compare fuel prices at service stations along your route [1]."
+   }
+  ],
+  "why": "This matters when you travel for holidays or cross borders, helping you dodge unexpected fees, border mix-ups and road congestion.",
+  "tryit": "Check your airline's current baggage drop times and explore navigation apps like Waze or Google Maps before your next trip.",
+  "qa": [
+   [
+    "When do Ryanair bag drop desks close?",
+    "They close 60 minutes before departure [1]."
+   ],
+   [
+    "What is the EES Calculator used for?",
+    "It helps UK passport holders check that their exit from Europe was properly recorded by border guards [1]."
+   ],
+   [
+    "Should you volunteer to give up your seat on an overbooked flight?",
+    "No, because you could get stranded or left paying for your own accommodation out of pocket [1]."
+   ],
+   [
+    "Which app can show fuel prices at service stations?",
+    "Google Maps and the AA app both show fuel prices [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.which.co.uk/news/article/christmas-travel-disruption-flight-train-a6lbn3x5EDF6",
+    "status": 200,
+    "title": "7 ways the travel team are protecting their festive travel plans in 2026 - Which?",
+    "domain": "which.co.uk"
+   }
+  ],
+  "date": "2026-11-26",
+  "publishedAt": "2026-11-26T15:36:58Z",
+  "addedAt": "2026-11-27T10:42:26Z",
+  "audio": "audio/protect-your-festive-travel-plans-with-these-pra.mp3",
+  "image": {
+   "src": "img/protect-your-festive-travel-plans-with-these-pra.jpg",
+   "credit": "Which?",
+   "license": "© Which?, shown with credit",
+   "page": "https://www.which.co.uk/news/article/christmas-travel-disruption-flight-train-a6lbn3x5EDF6",
+   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/5568acf01d9f-img3027.jpg"
+  }
+ },
+ {
+  "id": "why-your-annual-business-plan-fails-before-execu",
+  "cat": "money",
+  "tags": [
+   "business",
+   "negotiation",
+   "economics",
+   "money"
+  ],
+  "title": "Why Your Annual Business Plan Fails Before Execution Even Begins",
+  "snippet": "Old carryover work often gets a free pass in planning, consuming scarce specialist capacity that new priorities desperately need. [1]",
+  "bullets": [
+   "A business unit entered its planning cycle with three new priorities competing for specialist capacity [1].",
+   "An older regulatory-remediation program was treated as fixed background rather than a competing choice [1].",
+   "Scarce risk, legal, and data specialists ended up stretched across both commitments during execution [1]."
+  ],
+  "report": [
+   {
+    "h": "The Hidden Carryover Trap",
+    "t": "Planning baselines often record older programs as non-negotiable obligations rather than forcing them to compete against new projects [1]. Listing carryover work on a page is not the same as making it earn its place in the budget again [1]."
+   },
+   {
+    "h": "When Execution Hits a Wall",
+    "t": "A new priority needed the exact same risk, legal, and data specialists who were still closing the remediation program [1]. Because final regulatory findings required extra analysis, those specialists stayed fully engaged and never freed up [1]."
+   },
+   {
+    "h": "Forcing Hard Tradeoffs Early",
+    "t": "When old work and new work clash during execution, meetings multiply and milestones slip [1]. Leaders are forced into reactive firefighting instead of making portfolio tradeoffs when they still had room to change [1]."
+   }
+  ],
+  "why": "Understanding how carryover work drains capacity helps you negotiate resource allocation and protect your own business projects from hidden bottlenecks.",
+  "tryit": "Review your current project backlog and force every older, ongoing commitment to justify its resource claim directly against your newest priority.",
+  "qa": [
+   [
+    "What started competing for specialist capacity during the annual planning cycle?",
+    "Three new priorities with strong business cases and clear owners [1]."
+   ],
+   [
+    "Why was the older remediation program not made to compete with new work?",
+    "It was treated as a fixed background obligation because it had already been approved in the prior year [1]."
+   ],
+   [
+    "What happened when the new priority attempted to start?",
+    "The necessary risk, legal, and data specialists were still fully engaged in closing the remediation program [1]."
+   ],
+   [
+    "How did leadership first respond when capacity pressure appeared?",
+    "They asked whether one of the new initiatives should move more slowly [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.entrepreneur.com/building-a-business/your-plan-for-next-year-could-be-in-trouble-before-it-even-begins-unless-you-ask-the-right-question",
+    "status": 200,
+    "title": "Your Plan for Next Year Could Be in Trouble Before It Even Begins — Unless You Ask the Right Question",
+    "domain": "entrepreneur.com"
+   }
+  ],
+  "date": "2026-11-25",
+  "publishedAt": "2026-11-25T19:00:00Z",
+  "addedAt": "2026-11-27T10:42:26Z",
+  "audio": "audio/why-your-annual-business-plan-fails-before-execu.mp3",
+  "image": {
+   "src": "img/why-your-annual-business-plan-fails-before-execu.jpg",
+   "credit": "Entrepreneur",
+   "license": "© Entrepreneur, shown with credit",
+   "page": "https://www.entrepreneur.com/building-a-business/your-plan-for-next-year-could-be-in-trouble-before-it-even-begins-unless-you-ask-the-right-question",
+   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/plan-for-next-year-1126-g-863559056.jpg"
+  }
+ },
+ {
+  "id": "early-smartphone-ownership-linked-to-higher-risk",
+  "cat": "health",
+  "tags": [
+   "health",
+   "adhd",
+   "psychology",
+   "science"
+  ],
+  "title": "Early Smartphone Ownership Linked To Higher Risk Of Eating Disorder Symptoms",
+  "snippet": "A large study reveals that owning a personal smartphone by age 12 is linked to an increased risk of eating disorder symptoms two years later. Researchers analyzed data from nearly 9,000 U.S. adolescents and found connections to binge eating and weight concerns.",
+  "bullets": [
+   "Nearly 70% of the adolescents analyzed owned a smartphone at age 12 [1].",
+   "At age 14, 24.2% of early smartphone owners reported at least one eating disorder symptom, compared with 15.5% of peers who had not owned one [1].",
+   "The study accounted for family demographics, body weight, stage of puberty, and parent-reported depressive symptoms [1]."
+  ],
+  "report": [
+   {
+    "h": "The New Study Findings",
+    "t": "Researchers examined data from nearly 9,000 U.S. adolescents across 21 study sites to see how early smartphone ownership relates to eating disorder symptoms [1]. They found that 12-year-old smartphone owners were 36% more likely to report at least one eating disorder symptom compared to non-owners [1]."
+   },
+   {
+    "h": "Two-Year Follow-Up",
+    "t": "When the same teens were followed up at age 14, early phone owners faced a 49% higher risk of reporting at least one eating disorder symptom [1]. The findings also showed a 67% higher risk of binge eating and a higher risk of compensatory behaviors [1]."
+   },
+   {
+    "h": "Potential Explanations",
+    "t": "Authors suggest that personal smartphones offer private, continuous access to online platforms and appearance-focused content during a sensitive developmental window [1]. The study cannot prove direct causation, but points to timing as a potential piece of the adolescent health puzzle [1]."
+   }
+  ],
+  "why": "Understanding how early tech exposure affects adolescent mental health and impulse-driven behaviors offers helpful context for focus, self-compassion, and supporting young people around you.",
+  "tryit": "Talk to a GP, pharmacist, or healthcare professional if you or someone you know is experiencing worries about eating habits, body image, or compulsive screen habits.",
+  "qa": [
+   [
+    "What percentage of adolescents owned a smartphone at age 12 in the study?",
+    "Nearly 70% of the adolescents owned a smartphone at age 12 [1]."
+   ],
+   [
+    "Who led the study?",
+    "The study was led by Jason M. Nagata, an associate professor of pediatrics at the University of California, San Francisco [1]."
+   ],
+   [
+    "Did the study prove that smartphones directly cause eating disorders?",
+    "No, the authors noted that observational research cannot establish direct causation and that eating disorders have complex biological, psychological, and social influences [1]."
+   ],
+   [
+    "What data source was used for the research?",
+    "The researchers analyzed data from the Adolescent Brain Cognitive Development Study collected between 2018 and 2024 [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.psypost.org/smartphone-ownership-at-age-12-linked-to-higher-risk-of-eating-disorder-symptoms-two-years-later/",
+    "status": 200,
+    "title": "Smartphone ownership at age 12 linked to higher risk of eating disorder symptoms two years later",
+    "domain": "psypost.org"
+   }
+  ],
+  "date": "2026-11-26",
+  "publishedAt": "2026-11-26T15:00:09Z",
+  "addedAt": "2026-11-27T10:42:26Z",
+  "audio": "audio/early-smartphone-ownership-linked-to-higher-risk.mp3",
+  "image": {
+   "src": "img/early-smartphone-ownership-linked-to-higher-risk.jpg",
+   "credit": "PsyPost",
+   "license": "© PsyPost, shown with credit",
+   "page": "https://www.psypost.org/smartphone-ownership-at-age-12-linked-to-higher-risk-of-eating-disorder-symptoms-two-years-later/",
+   "from_url": "https://www.psypost.org/wp-content/uploads/2025/08/using-smartphone.jpg"
+  }
+ },
+ {
+  "id": "a-simple-guide-to-the-science-behind-the-winter",
+  "cat": "whoa",
+  "tags": [
+   "science",
+   "travel",
+   "calm"
+  ],
+  "title": "A Simple Guide To The Science Behind The Winter Solstice",
+  "snippet": "The winter solstice brings Earth’s shortest and darkest day on Dec. 21. Learn how the tilt of the planet creates this event and explore ancient solstice traditions.",
+  "bullets": [
+   "The winter solstice occurs on Monday, Dec. 21 at 3:50 p.m. ET when the North Pole is tilted as far away from the sun as possible [1].",
+   "Sunlight levels vary drastically by location, ranging from about 10 hours in Florida to zero sun in Utqiaġvik, Alaska [1].",
+   "Many modern Christmas traditions like decorating evergreen trees and burning Yule logs originate from ancient Norse solstice celebrations [1]."
+  ],
+  "report": [
+   {
+    "h": "The Shortest Day",
+    "t": "The winter solstice marks the shortest day and longest night of the year in the Northern Hemisphere [1]. The exact moment happens on Monday, Dec. 21 at 3:50 p.m. ET when the Earth’s axis is physically tilted as far away from the sun as it can get [1]."
+   },
+   {
+    "h": "Varying Sunlight",
+    "t": "Sunlight during the solstice depends entirely on your location on the globe [1]. The southern US gets more than 10 hours of sun, while northern areas like Utqiaġvik, Alaska, experience no sun at all until late January [1]."
+   },
+   {
+    "h": "Ancient Traditions",
+    "t": "Long before modern holidays, ancient Norse festivals like Yule used bonfires, feasts, and evergreen decorations to celebrate the turning of the season [1]. Many of these customs were later adopted into Christmas traditions [1]."
+   }
+  ],
+  "why": "Understanding natural cycles offers a grounded way to track the changing seasons and appreciate the science behind our planet's orbit.",
+  "tryit": "Check your local sunrise and sunset times by using the Time and Date tool and entering your zip code into the search bar [1].",
+  "qa": [
+   [
+    "When is the winter solstice?",
+    "It happens on Monday, Dec. 21 at 3:50 p.m. ET [1]."
+   ],
+   [
+    "Why does the solstice happen?",
+    "It occurs because the North Pole is tilted as far away from the sun as it can get during that time [1]."
+   ],
+   [
+    "How much sunlight does Florida get on the solstice?",
+    "Florida gets a little over 10 hours of sunlight [1]."
+   ],
+   [
+    "What is the difference between a solstice and an equinox?",
+    "A solstice happens when the Earth's poles are tilted as far away from the sun as possible, while equinoxes take place at halfway points when the poles are minimally tilted [1]."
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.cnet.com/science/longest-night-guide-to-the-winter-solstice/",
+    "status": 200,
+    "title": "The Winter Solstice Is Coming: A Guide to the Longest Night - CNET",
+    "domain": "cnet.com"
+   }
+  ],
+  "date": "2026-11-26",
+  "publishedAt": "2026-11-26T01:48:39Z",
+  "addedAt": "2026-11-27T10:42:26Z",
+  "audio": "audio/a-simple-guide-to-the-science-behind-the-winter.mp3",
+  "image": {
+   "src": "img/a-simple-guide-to-the-science-behind-the-winter.jpg",
+   "credit": "CNET",
+   "license": "© CNET, shown with credit",
+   "page": "https://www.cnet.com/science/longest-night-guide-to-the-winter-solstice/",
+   "from_url": "https://www.cnet.com/wp-content/uploads/sites/2/3dfaf527-0aea-467a-895a-cd7f50de76f9.jpg"
+  }
+ },
+ {
   "id": "why-paying-output-bonuses-can-backfire-and-what",
   "cat": "money",
   "tags": [
@@ -556,7 +1394,27 @@
    "license": "© TechCrunch, shown with credit",
    "page": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
    "from_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
-  }
+  },
+  "sides": [
+   {
+    "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
+    "url": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf",
+    "outlet": "DW",
+    "domain": "dw.com",
+    "lean": "C",
+    "leanLabel": "Centre",
+    "publishedAt": "2026-11-23T14:18:00Z"
+   },
+   {
+    "title": "The Jensen Huang-Nvidia affair turns up the heat on the US-China AI race",
+    "url": "https://www.washingtonexaminer.com/premium/4812636/jensen-huang-nvidia-affair-us-china-ai-race/",
+    "outlet": "Washington Examiner",
+    "domain": "washingtonexaminer.com",
+    "lean": "R",
+    "leanLabel": "Right-leaning",
+    "publishedAt": "2026-11-27T11:05:00Z"
+   }
+  ]
  },
  {
   "id": "how-a-screen-free-retreat-in-south-africa-rewire",
@@ -905,7 +1763,36 @@
    "license": "© Which?, shown with credit",
    "page": "https://www.which.co.uk/news/article/where-to-go-and-what-to-buy-in-the-black-friday-sales-a41e62S36gLd",
    "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/ab5ca35e5414-black-friday-shoppinglead.jpg"
-  }
+  },
+  "sides": [
+   {
+    "title": "Shopping with Friends: 8 Black Friday deals to shop now",
+    "url": "https://www.foxnews.com/deals/shopping-with-friends-black-friday-deals",
+    "outlet": "Fox News",
+    "domain": "foxnews.com",
+    "lean": "R",
+    "leanLabel": "Right-leaning",
+    "publishedAt": "2026-11-27T05:30:24Z"
+   },
+   {
+    "title": "Fake online stores may fool AI shopping bots on Black Friday",
+    "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/",
+    "outlet": "CBS News",
+    "domain": "cbsnews.com",
+    "lean": "C",
+    "leanLabel": "Centre",
+    "publishedAt": "2026-11-26T19:00:44Z"
+   },
+   {
+    "title": "The 19+ best deals worth shopping from Target’s Black Friday sale",
+    "url": "https://www.nbcnews.com/select/shopping/target-black-friday-deals-2026-rcna611469",
+    "outlet": "NBC News",
+    "domain": "nbcnews.com",
+    "lean": "L",
+    "leanLabel": "Left-leaning",
+    "publishedAt": "2026-11-27T08:53:05Z"
+   }
+  ]
  },
  {
   "id": "anthropic-ceo-dario-amodei-rejects-claims-of-sur",
@@ -3979,7 +4866,27 @@
    "license": "© BBC News, shown with credit",
    "page": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
    "from_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80fb/live/5a6a1700-e753-11f1-99b6-a35a62fa4264.jpg"
-  }
+  },
+  "sides": [
+   {
+    "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
+    "url": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf",
+    "outlet": "DW",
+    "domain": "dw.com",
+    "lean": "C",
+    "leanLabel": "Centre",
+    "publishedAt": "2026-11-23T14:18:00Z"
+   },
+   {
+    "title": "The Jensen Huang-Nvidia affair turns up the heat on the US-China AI race",
+    "url": "https://www.washingtonexaminer.com/premium/4812636/jensen-huang-nvidia-affair-us-china-ai-race/",
+    "outlet": "Washington Examiner",
+    "domain": "washingtonexaminer.com",
+    "lean": "R",
+    "leanLabel": "Right-leaning",
+    "publishedAt": "2026-11-27T11:05:00Z"
+   }
+  ]
  },
  {
   "id": "how-to-save-your-google-nest-videos-before-the-2",
@@ -13496,77 +14403,6 @@
   }
  },
  {
-  "id": "maui-is-rebuilding-through-regenerative-tourism",
-  "cat": "news",
-  "tags": [
-   "travel",
-   "community",
-   "science",
-   "business",
-   "psychology"
-  ],
-  "title": "Maui Is Rebuilding Through Regenerative Tourism and Community Action",
-  "snippet": "Following the 2023 fires, Maui is pioneering regenerative tourism by uniting Indigenous knowledge, local entrepreneurship, and sustainable agriculture to heal ecosystems and support residents.",
-  "bullets": [
-   "Kenneth Duane Sparkman and local groups used donated GPS technology to map and save stressed trees after the fires [1].",
-   "Hua Momona Foundation provided tons of free food boxes and hot meals for displaced residents and workers [1].",
-   "Landscaping management in Kāʻanapali has shifted to composting, aeration, and microbial inputs instead of synthetic pesticides [1]."
-  ],
-  "report": [
-   {
-    "h": "Regenerative Tree Recovery",
-    "t": "Following the 2023 fires, local experts used donated GPS technology to locate and water stressed trees that survived the disaster [1]. This tree recovery effort has expanded to help families replace lost trees and shares its methods with other disaster-hit regions [1]."
-   },
-   {
-    "h": "Nourishing the Community",
-    "t": "The Hua Momona Foundation scaled up food production to provide hot meals and farm boxes for people living in temporary housing [1]. Even as the immediate emergency slowed down, the foundation continued preparing hundreds of weekly meals [1]."
-   },
-   {
-    "h": "Sustainable Tourism Shifts",
-    "t": "Resorts like Royal Lahaina installed solar parking lot panels to reduce the heat island effect and protect local ecosystems [1]. Landscaping across properties has moved away from chemical pesticides in favor of soil health and organic practices [1]."
-   }
-  ],
-  "why": "This story shows how communities can turn difficult crises into practical, forward-thinking opportunities for sustainable business and local resilience.",
-  "tryit": "Explore local volunteering or give-back opportunities when planning your next trip to connect meaningfully with communities working toward a sustainable future.",
-  "qa": [
-   [
-    "What is regenerative tourism?",
-    "It is an approach where the goal of travel is to leave the destination better than before through restoration and community resilience [1]."
-   ],
-   [
-    "How did the Hua Momona Foundation help after the fires?",
-    "They stepped up food production to deliver hot meals and fresh farm boxes to people in temporary housing [1]."
-   ],
-   [
-    "What changes were made to landscaping in Kāʻanapali?",
-    "Management moved away from pesticides and fertilizers in favor of composting, aeration, and microbial inputs [1]."
-   ],
-   [
-    "What is the RISE Maui Summit?",
-    "It is an event organized by Gary Grube to bring together farmers, cultural practitioners, scientists, and leaders to discuss community rebuilding [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://reasonstobecheerful.world/maui-living-laboratory-regenerative-tourism/",
-    "status": 200,
-    "title": "Maui Is Becoming a Living Laboratory for Regenerative Tourism",
-    "domain": "reasonstobecheerful.world"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T08:00:12Z",
-  "addedAt": "2026-11-18T10:39:34Z",
-  "audio": "audio/maui-is-rebuilding-through-regenerative-tourism.mp3",
-  "image": {
-   "src": "img/maui-is-rebuilding-through-regenerative-tourism.jpg",
-   "credit": "Reasons to be Cheerful",
-   "license": "© Reasons to be Cheerful, shown with credit",
-   "page": "https://reasonstobecheerful.world/maui-living-laboratory-regenerative-tourism/",
-   "from_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/L1060171.jpg"
-  }
- },
- {
   "id": "supermarket-meat-labels-cutting-through-marketin",
   "cat": "money",
   "tags": [
@@ -16226,75 +17062,6 @@
   }
  },
  {
-  "id": "roku-drops-smart-home-products-to-focus-entirely",
-  "cat": "adhd",
-  "tags": [
-   "business",
-   "strategy",
-   "focus"
-  ],
-  "title": "Roku drops smart home products to focus entirely on streaming",
-  "snippet": "Roku is winding down sales of its smart home hardware to sharpen its focus on its core streaming mission after its acquisition by Fox.",
-  "bullets": [
-   "Roku plans to wind down sales of smart home hardware while providing continued support for existing products [1].",
-   "The formal sale of Roku to Fox closed on Nov. 6 [1].",
-   "Financial disclosures noted that smart home gear does not contribute to streaming hours or revenue [1]."
-  ],
-  "report": [
-   {
-    "h": "Core Focus",
-    "t": "Roku is stepping back from smart home gear to concentrate on its core mission as a streaming platform [1]."
-   },
-   {
-    "h": "Recent Sale",
-    "t": "The company was recently acquired by Fox, with the formal sale closing on Nov. 6 [1]."
-   },
-   {
-    "h": "Retail Changes",
-    "t": "Many Roku listings at retailers like Amazon, Walmart, and Home Depot have been removed or marked for clearance [1]."
-   }
-  ],
-  "why": "Understanding how a major company ruthless-prunes non-core activities to refocus on a primary mission offers a great mental model for managing complex business projects or personal focus.",
-  "tryit": "Audit your own current projects or daily tasks today, and write down one major distraction to drop so you can concentrate fully on your core goal.",
-  "qa": [
-   [
-    "Why is Roku dropping smart home products?",
-    "The company wants to sharpen its focus on being the top streaming platform [1]."
-   ],
-   [
-    "When did the sale of Roku to Fox close?",
-    "The formal sale closed on Nov. 6 [1]."
-   ],
-   [
-    "What will happen to existing Roku Smart Home products?",
-    "Roku will provide continued support and services for Roku Smart Home products [1]."
-   ],
-   [
-    "Where have Roku listings been removed?",
-    "Listings have been removed or marked for clearance at retailers like Home Depot, Amazon, and Walmart [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products/",
-    "status": 200,
-    "title": "Roku drops smart home products to focus on streaming - what that means for your devices - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T18:43:08Z",
-  "addedAt": "2026-11-15T10:36:50Z",
-  "audio": "audio/roku-drops-smart-home-products-to-focus-entirely.mp3",
-  "image": {
-   "src": "img/roku-drops-smart-home-products-to-focus-entirely.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg"
-  }
- },
- {
   "id": "netflix-creator-explores-messy-first-queer-love",
   "cat": "mind",
   "tags": [
@@ -16361,76 +17128,6 @@
    "license": "© PinkNews, shown with credit",
    "page": "https://www.thepinknews.com/2026/11/13/netflix-the-body-lesbian-teen-drama-cast/",
    "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/the-bdy.jpg"
-  }
- },
- {
-  "id": "automating-creator-outreach-with-nectar-s-new-ai",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "negotiation"
-  ],
-  "title": "Automating creator outreach with Nectar's new AI agent system",
-  "snippet": "Nectar has launched an AI agent designed to automate creator discovery, outreach, and relationship management for brands. The tool searches millions of profiles, sends personalized messages, and handles contracts without spreadsheets [1].",
-  "bullets": [
-   "Nectar launched a new Creator Agent to automate influencer marketing tasks like finding creators and tracking campaign results [1].",
-   "The system searches over 300 million creator profiles and analyzes videos for brand safety and context [1].",
-   "The agent can draft personalized messages, coordinate collaborations, and manage contracts and shipping details [1]."
-  ],
-  "report": [
-   {
-    "h": "Automated Creator Discovery",
-    "t": "Nectar has launched a new Creator Agent that searches through more than 300 million creator profiles to find potential brand partners [1]. The tool analyzes video content and context to check brand safety rather than relying on simple keyword searches [1]."
-   },
-   {
-    "h": "Streamlining Outreach",
-    "t": "Once matches are found, the agent drafts and sends personalized messages in the specific voice of the brand [1]. It also remembers past interactions, manages contracts, and coordinates product gifting without the need for manual spreadsheets [1]."
-   },
-   {
-    "h": "Integration Options",
-    "t": "The Creator Agent is available globally for Instagram and TikTok creators [1]. Nectar plans to offer the agent through the Model Context Protocol, allowing teams to use it via assistants like Claude, ChatGPT, Gemini, and Copilot [1]."
-   }
-  ],
-  "why": "This tool shows how AI agents can take over repetitive administrative workflows like outreach and relationship tracking, freeing up time for high-value strategy and negotiation.",
-  "tryit": "Explore how Model Context Protocol (MCP) and agentic workflows are changing outreach by testing a custom prompt in Claude or ChatGPT to draft personalized partnership messages based on a specific brand voice.",
-  "qa": [
-   [
-    "What does Nectar's Creator Agent do?",
-    "It automates creator discovery, checks content for brand safety, sends personalized messages, coordinates collaborations, and monitors campaign performance [1]."
-   ],
-   [
-    "How many creator profiles does the agent search?",
-    "It searches more than 300 million creator profiles to find potential partners [1]."
-   ],
-   [
-    "Which platforms does the Creator Agent cover?",
-    "It covers Instagram creators and TikTokers globally [1]."
-   ],
-   [
-    "How can teams access the new agent?",
-    "It is available today globally and will be accessible through the Model Context Protocol in AI assistants like Claude, ChatGPT, Gemini, and Copilot [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-    "status": 200,
-    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T19:11:00Z",
-  "addedAt": "2026-11-15T10:36:50Z",
-  "audio": "audio/automating-creator-outreach-with-nectar-s-new-ai.mp3",
-  "image": {
-   "src": "img/automating-creator-outreach-with-nectar-s-new-ai.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/Nectar_OliverL_3199.jpg?resize=1200,800"
   }
  },
  {
@@ -20075,498 +20772,6 @@
   }
  },
  {
-  "id": "nebius-plans-massive-ai-infrastructure-spending",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "negotiation",
-   "economics"
-  ],
-  "title": "Nebius plans massive AI infrastructure spending while facing third-party data center delays",
-  "snippet": "Neocloud company Nebius has announced plans for $40 billion in spending for 2027. However, its strategy faces hurdles due to delays at third-party data center sites involving major clients like Microsoft.",
-  "bullets": [
-   "Nebius outlined $40 billion in planned spending for 2027 during its third-quarter earnings call [1].",
-   "A key data center project in Vineland, New Jersey, is months behind schedule due to issues with third-party operator DataOne [1].",
-   "Despite delays, Nebius reported third-quarter revenue of $981 million, which is up 571% from a year earlier [1]."
-  ],
-  "report": [
-   {
-    "h": "Massive Spending Plans",
-    "t": "The neocloud firm Nebius laid out $40 billion in planned spending for 2027 during its third-quarter earnings call [1]. The company aims to fund this buildout through customer pre-payments and loans backed by customer contracts [1]."
-   },
-   {
-    "h": "Third-Party Delays",
-    "t": "Delays at a Vineland, New Jersey site operated by DataOne have pushed back capacity delivery for Microsoft [1]. The site faced regulatory fines and a noise-complaint lawsuit, leading to shifted deadlines and contractual scrutiny [1]."
-   },
-   {
-    "h": "Financial Outlook",
-    "t": "Nebius reported third-quarter revenue of $981 million, though it cut its 2026 revenue forecast by $200 million due to site delays [1]. The company ended the quarter with $7.4 billion in cash [1]."
-   }
-  ],
-  "why": "Understanding how major infrastructure providers finance expansion and manage third-party supply chain risks offers useful insights into large-scale tech deal structuring and negotiation dynamics.",
-  "tryit": "Review your own vendor or contractor agreements today to ensure clear penalty clauses and grace periods are outlined for missed project delivery dates.",
-  "qa": [
-   [
-    "How much is Nebius planning to spend in 2027?",
-    "Nebius laid out $40 billion in planned spending for 2027 [1]."
-   ],
-   [
-    "What is causing the delay at the New Jersey data center?",
-    "The delay happened because DataOne, the third-party operator, decided to wind down temporary generation faster than expected while switching to fuel cells [1]."
-   ],
-   [
-    "What was Nebius' third-quarter revenue?",
-    "Nebius reported third-quarter revenue of $981 million [1]."
-   ],
-   [
-    "How much cash did Nebius finish the quarter with?",
-    "Nebius ended the quarter with $7.4 billion in cash [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-    "status": 200,
-    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T21:27:10Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/nebius-plans-massive-ai-infrastructure-spending.mp3",
-  "image": {
-   "src": "img/nebius-plans-massive-ai-infrastructure-spending.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2300447831.jpg?w=1024"
-  }
- },
- {
-  "id": "turn-dashboard-data-into-actionable-business-dec",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "money",
-   "economics"
-  ],
-  "title": "Turn Dashboard Data Into Actionable Business Decisions With Integrated AI Tools",
-  "snippet": "Small business owners often have plenty of workforce data trapped in separate dashboards. The key is bringing AI insights directly into daily workflow tools to make faster decisions.",
-  "bullets": [
-   "Most small businesses already have plenty of workforce data and plenty of tools telling them what it means [1].",
-   "Paychex’s 2026 Business Leaders Priorities Report found that AI adoption and usage rank among top challenges keeping businesses tied to slower processes [1].",
-   "The real barrier to effective decision-making is speed and the need for proof [1]."
-  ],
-  "report": [
-   {
-    "h": "The Data Gap",
-    "t": "Small business owners can track turnover, overtime, and engagement on real-time dashboards [1]. However, insight and action often live in different places, slowing down timely decisions [1]."
-   },
-   {
-    "h": "Speed And Proof",
-    "t": "Leaders are expected to justify workforce decisions to the C-suite as they happen [1]. Every extra tab or login gives the moment a chance to pass before a choice is made [1]."
-   },
-   {
-    "h": "Embedded AI Value",
-    "t": "The most effective AI tools deliver guidance within the workflows where managers already spend their time [1]. This shortens the distance between knowing and doing without removing human judgment [1]."
-   }
-  ],
-  "why": "If you are looking at buying a small business or running automated operations, cutting out extra software steps and embedding intelligence directly into daily tools saves crucial time.",
-  "tryit": "Audit where your team's data lives compared to where decisions actually get made by listing out every separate login and report required.",
-  "qa": [
-   [
-    "What is the main barrier for small businesses regarding data?",
-    "The real barrier is speed and proof, not a lack of information [1]."
-   ],
-   [
-    "What report highlighted this gap in AI adoption?",
-    "Paychex’s 2026 Business Leaders Priorities Report [1]."
-   ],
-   [
-    "Where should workforce insights ideally show up?",
-    "Inside the systems people already use every day, such as payroll and scheduling [1]."
-   ],
-   [
-    "What should the goal of AI be in a business setting?",
-    "To give the right person the right information in the right context at the moment it is most useful [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.entrepreneur.com/business-news/small-business-owners-have-more-ai-insight-than-ever-but-its-stuck-in-dashboards-heres-how-to-put-it-to-work",
-    "status": 200,
-    "title": "Small Business Owners Have More AI Insight Than Ever — But It’s Stuck in Dashboards. Here’s How to Put It to Work.",
-    "domain": "entrepreneur.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T20:00:00Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/turn-dashboard-data-into-actionable-business-dec.mp3",
-  "image": {
-   "src": "img/turn-dashboard-data-into-actionable-business-dec.jpg",
-   "credit": "Entrepreneur",
-   "license": "© Entrepreneur, shown with credit",
-   "page": "https://www.entrepreneur.com/business-news/small-business-owners-have-more-ai-insight-than-ever-but-its-stuck-in-dashboards-heres-how-to-put-it-to-work",
-   "from_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/ai-small-business-utilize-dashboard-1126_g2247282312.jpg"
-  }
- },
- {
-  "id": "how-collaborative-ai-robots-are-changing-factory",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "money",
-   "science"
-  ],
-  "title": "How collaborative AI robots are changing factory and warehouse floors",
-  "snippet": "A new startup called Robust AI has designed a mobile robot named Carter to work alongside humans in busy warehouses and factories. The robot features a force-sensitive handlebar and an AI-powered vision system to help workers move items easily.",
-  "bullets": [
-   "Robust AI built a mobile robot named Carter that resembles a utility cart on wheels and works alongside humans [1].",
-   "The robot includes a force-sensitive handlebar, an AI-powered vision system, and holonomic wheels for instant movement [1].",
-   "Founders Anthony Jules and Rodney Brooks started the company in 2019 to target logistics and manufacturing industries [1]."
-  ],
-  "report": [
-   {
-    "h": "Collaborative Robot Design",
-    "t": "Robust AI created Carter to fit seamlessly alongside human workers in fast-changing environments like warehouses and factories [1]. The machine uses an AI-powered vision system and a force-sensitive handlebar for simple guidance [1]."
-   },
-   {
-    "h": "Flexible Workflows",
-    "t": "Humans can cut Carter off, push or pull it with one hand, and direct it using gestures or a touch screen [1]. The robots help employees by moving items, guiding workers to specific spaces, and carrying loads across large facilities [1]."
-   },
-   {
-    "h": "Experienced Founders",
-    "t": "The company was co-founded by Anthony Jules and MIT Professor Emeritus Rodney Brooks in 2019 [1]. Brooks previously co-founded iRobot, which invented the popular Roomba vacuum [1]."
-   }
-  ],
-  "why": "Why it matters to you: Understanding how practical AI and hardware systems solve real logistics problems offers inspiration for building or investing in automation businesses.",
-  "tryit": "Try this today: Research how small-scale collaborative automation tools are applied in supply chain management by reading recent case studies on robotics startup websites.",
-  "qa": [
-   [
-    "What is the name of the mobile robot built by Robust AI?",
-    "The mobile robot is named Carter and resembles a utility cart on wheels [1]."
-   ],
-   [
-    "Who co-founded Robust AI?",
-    "The company was co-founded by Anthony Jules and MIT Professor Emeritus Rodney Brooks [1]."
-   ],
-   [
-    "What features does the Carter robot include?",
-    "Carter features a force-sensitive handlebar, an AI-powered vision system, and holonomic wheels [1]."
-   ],
-   [
-    "When was Robust AI founded?",
-    "Robust AI was founded in 2019 [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
-    "status": 200,
-    "title": "Helping robots fit into the human workplace",
-    "domain": "news.mit.edu"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T05:00:00Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/how-collaborative-ai-robots-are-changing-factory.mp3",
-  "image": {
-   "src": "img/how-collaborative-ai-robots-are-changing-factory.jpg",
-   "credit": "MIT News",
-   "license": "© MIT News, shown with credit",
-   "page": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
-   "from_url": "https://news.mit.edu/sites/default/files/images/202611/MIT-Robust-AI-01-press.jpg"
-  }
- },
- {
-  "id": "how-to-view-and-edit-what-google-gemini-remember",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "privacy",
-   "business",
-   "productivity"
-  ],
-  "title": "How to view and edit what Google Gemini remembers about you",
-  "snippet": "Google Gemini now has a Memory summary feature that lets you view, edit, or delete the personal details the AI has gathered over time. You can manage these settings across the web, mobile apps, and desktop apps [1].",
-  "bullets": [
-   "A new feature called Memory summary lets you view details that Gemini has gathered about you over time [1].",
-   "You can access the feature on the Gemini website, mobile iOS and Android apps, and Windows and Mac desktop apps [1].",
-   "You can alter incorrect or too personal details by editing the text directly or by simply telling Gemini what change to make [1]."
-  ],
-  "report": [
-   {
-    "h": "Viewing Your Memory",
-    "t": "Launch Gemini via the web or in the apps and select the Settings icon in the left pane. From the Settings screen, select Personal Intelligence and then click Memory summary to view your stored details [1]."
-   },
-   {
-    "h": "Editing Details Directly",
-    "t": "At the website or in one of the desktop apps, you can click the pencil icon at the top to directly edit the text and save your changes [1]."
-   },
-   {
-    "h": "Using Voice or Prompts",
-    "t": "If you are using the mobile apps, you can simply type or speak your request at the prompt to tell Gemini what changes you want to make [1]."
-   }
-  ],
-  "why": "Managing AI memory helps you keep your business and personal data private while still benefiting from personalized AI responses [1].",
-  "tryit": "Open Gemini today, go to Settings, select Personal Intelligence, and check your Memory summary to clear out any incorrect details [1].",
-  "qa": [
-   [
-    "What is the new Gemini feature called?",
-    "It is called Memory summary [1]."
-   ],
-   [
-    "How do you access the memory settings in Gemini?",
-    "Select the Settings icon at the bottom of the left pane, choose Personal Intelligence, and click Memory summary [1]."
-   ],
-   [
-    "Can you edit the memory on mobile apps?",
-    "The mobile apps lack direct text editing, but you can tell Gemini what change you want to make using the prompt [1]."
-   ],
-   [
-    "What categories does the summary use?",
-    "The summary arranges information across categories such as Essentials, Business and Career, Reading and Interests, and Culinary Preferences [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
-    "status": 200,
-    "title": "You can force Gemini to forget about you now - how to edit its Memory - ZDNET",
-    "domain": "zdnet.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T17:58:52Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/how-to-view-and-edit-what-google-gemini-remember.mp3",
-  "image": {
-   "src": "img/how-to-view-and-edit-what-google-gemini-remember.jpg",
-   "credit": "ZDNET",
-   "license": "© ZDNET, shown with credit",
-   "page": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
-   "from_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Gemini-memory-summary.jpg"
-  }
- },
- {
-  "id": "nvidia-ceo-jensen-huang-resigns-leaving-open-sou",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "money",
-   "business",
-   "agents"
-  ],
-  "title": "Nvidia CEO Jensen Huang Resigns, Leaving Open Source AI Strategy Uncertain",
-  "snippet": "Nvidia CEO Jensen Huang resigned after admitting to an affair with an alleged Chinese spy. His exit leaves the future of Nvidia's open source AI strategy and pending deals uncertain.",
-  "bullets": [
-   "Nvidia CEO Jensen Huang resigned Thursday following revelations about his personal life [1].",
-   "Nvidia has yet to finalize a deal to acquire open source platform Hugging Face for $13 billion [1].",
-   "Nvidia named CFO Colette Kress as interim CEO while questions linger over future open source support [1]."
-  ],
-  "report": [
-   {
-    "h": "Leadership Departure",
-    "t": "Nvidia CEO Jensen Huang resigned on Thursday after admitting to an affair with an alleged Chinese spy [1]."
-   },
-   {
-    "h": "Open Source Deals",
-    "t": "The company has an unfinalized $13 billion deal for Hugging Face and a $6 billion agreement for Poolside [1]."
-   },
-   {
-    "h": "Interim Leadership",
-    "t": "Nvidia appointed CFO Colette Kress as interim CEO, leaving future open source commitments under review [1]."
-   }
-  ],
-  "why": "Understanding shifts in big tech leadership helps you anticipate changes in the AI tools and open-source models you use for your business agents.",
-  "tryit": "Review your AI agent stack today to check if your workflows depend heavily on open-weight models that might be impacted by shifting industry leadership.",
-  "qa": [
-   [
-    "Why did Jensen Huang resign?",
-    "He resigned after admitting to an affair with an alleged Chinese spy [1]."
-   ],
-   [
-    "Who is the interim CEO of Nvidia?",
-    "Nvidia named CFO Colette Kress as interim CEO [1]."
-   ],
-   [
-    "What open source platform was Nvidia planning to acquire?",
-    "Nvidia agreed to terms to acquire Hugging Face for $13 billion, though the deal is not yet finalized [1]."
-   ],
-   [
-    "How much did Nvidia agree to pay for Poolside?",
-    "Nvidia agreed to pay $6 billion for a non-exclusive license for Poolside's technology [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-    "status": 200,
-    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T18:39:23Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/nvidia-ceo-jensen-huang-resigns-leaving-open-sou.mp3",
-  "image": {
-   "src": "img/nvidia-ceo-jensen-huang-resigns-leaving-open-sou.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
-  }
- },
- {
-  "id": "world-s-fastest-ocean-liner-finds-new-life-as-gi",
-  "cat": "news",
-  "tags": [
-   "history",
-   "travel",
-   "science",
-   "animals",
-   "news"
-  ],
-  "title": "World's Fastest Ocean Liner Finds New Life as Giant Artificial Reef",
-  "snippet": "The historic S.S. United States ocean liner has sunk to the bottom of the Gulf of Mexico to become the world's largest artificial reef. After decades of sitting idle, the legendary ship will now host marine life and divers.",
-  "bullets": [
-   "The S.S. United States crossed the Atlantic in a record-breaking three days, 10 hours and 40 minutes in 1952 [1].",
-   "Florida's Okaloosa County purchased the ship for $1 million to turn it into an artificial reef [1].",
-   "Workers removed wiring and cut passages inside the ship to make it safe for marine life and divers [1]."
-  ],
-  "report": [
-   {
-    "h": "Legendary Speed and History",
-    "t": "Built by naval architect William Francis Gibbs, the S.S. United States set a transatlantic speed record that remains unbroken today [1]. Over its career, it hosted celebrities, world leaders, and four U.S. presidents [1]."
-   },
-   {
-    "h": "A New Artificial Reef",
-    "t": "After years of failed plans and sitting at a Philadelphia pier, Florida's Okaloosa County bought the vessel [1]. It was towed to the Gulf of Mexico to start its new chapter as a marine habitat and dive destination [1]."
-   },
-   {
-    "h": "Preparing for the Deep",
-    "t": "Crews spent months removing wiring, glass, and over 400 portholes to ensure the hull was safe for divers and sea creatures [1]. Its iconic smokestacks were saved to be featured in a future museum near the diving site [1]."
-   }
-  ],
-  "why": "It is a fascinating piece of engineering history showing how monumental structures can be repurposed into vibrant natural habitats.",
-  "tryit": "Search online for historical photos and footage of the S.S. United States to explore mid-century maritime design and its record-breaking maiden voyage.",
-  "qa": [
-   [
-    "How fast was the S.S. United States?",
-    "It reached England in a record-breaking three days, 10 hours and 40 minutes in 1952 [1]."
-   ],
-   [
-    "Who bought the ship?",
-    "Florida's Okaloosa County purchased the ship for $1 million [1]."
-   ],
-   [
-    "What will happen to the ship now?",
-    "It rests on the ocean floor as an artificial reef for marine species and a destination for divers [1]."
-   ],
-   [
-    "What happened to the ship's smokestacks?",
-    "They were removed and earmarked for a future museum near the pier where diving expeditions will set out [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.smithsonianmag.com/smart-news/designed-to-be-unsinkable-the-worlds-fastest-ocean-liner-finally-hits-the-ocean-floor-the-53330-ton-ss-united-states-is-now-the-worlds-largest-artificial-reef-180989866/",
-    "status": 200,
-    "title": "Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef",
-    "domain": "smithsonianmag.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T21:32:57Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/world-s-fastest-ocean-liner-finds-new-life-as-gi.mp3",
-  "image": {
-   "src": "img/world-s-fastest-ocean-liner-finds-new-life-as-gi.jpg",
-   "credit": "Smithsonian",
-   "license": "© Smithsonian, shown with credit",
-   "page": "https://www.smithsonianmag.com/smart-news/designed-to-be-unsinkable-the-worlds-fastest-ocean-liner-finally-hits-the-ocean-floor-the-53330-ton-ss-united-states-is-now-the-worlds-largest-artificial-reef-180989866/",
-   "from_url": "https://th-thumbnailer.cdn-si-edu.com/2pukTXkydFEfzR0k20uvOFfYmMM=/fit-in/1600x0/filters:focal(2636x1481:2637x1482)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/26/e026d4c9-9c3a-4c05-8a7c-c5c1e83a35fc/ss_united_states_on_the_morning_before_her_tow_out_of_philadelphia.jpg"
-  }
- },
- {
-  "id": "navigating-tax-free-pension-lump-sums-and-allowa",
-  "cat": "money",
-  "tags": [
-   "tax",
-   "money",
-   "economics",
-   "business"
-  ],
-  "title": "Navigating Tax-Free Pension Lump Sums and Allowances in the UK",
-  "snippet": "Discover how UK pensions let you take up to 25% tax-free from age 55. Learn about the rules, allowances, and ways to access your pot without rushing.",
-  "bullets": [
-   "You can take up to 25% of your defined-contribution pension pot tax-free starting from the age of 55, rising to 57 in April 2028 [1].",
-   "The specific lump sum allowance introduced in 2024 is £268,275, which caps your total tax-free cash entitlements over your lifetime [1].",
-   "FCA data suggests a massive surge of £23bn in tax-free cash withdrawals was taken out ahead of recent budgets due to fear of policy changes [1]."
-  ],
-  "report": [
-   {
-    "h": "The Basics of Tax-Free Cash",
-    "t": "Defined-contribution pensions allow you to withdraw up to a quarter of your pot tax-free once you hit the age threshold [1]. This core rule remains a primary incentive to lock money away for long-term retirement security [1]."
-   },
-   {
-    "h": "Understanding the Allowances",
-    "t": "The lump sum allowance is set at £268,275, representing a quarter of the old lifetime allowance [1]. Most people fall well below this threshold, meaning their entire 25% chunk stays completely tax-free [1]."
-   },
-   {
-    "h": "Flexibility and Withdrawal Methods",
-    "t": "You can take your tax-free money as a single lump sum, or use phased drawdown and uncrystallised funds pension lump sums [1]. Each approach requires careful planning regarding what happens to the remaining funds in your pot [1]."
-   }
-  ],
-  "why": "Understanding UK pension rules helps you keep perspective on long-term tax planning and avoid costly panic decisions driven by budget rumors.",
-  "tryit": "Review your current pension provider dashboard or statement to check your pot size and verify your projected retirement age milestones under current UK rules.",
-  "qa": [
-   [
-    "What age can I take my tax-free pension lump sum?",
-    "You can take it from the age of 55, which is rising to 57 in April 2028 [1]."
-   ],
-   [
-    "What is the maximum lump sum allowance?",
-    "The specific lump sum allowance is £268,275 [1]."
-   ],
-   [
-    "What happens if I exceed the lump sum allowance?",
-    "Any amount taken above that threshold will be subject to a tax charge on the money [1]."
-   ],
-   [
-    "How much tax-free cash was withdrawn ahead of recent budgets?",
-    "FCA data suggests somewhere in the region of £23bn of tax-free cash was taken out [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.which.co.uk/news/article/how-to-take-a-tax-free-lump-sum-from-your-pension-aY0m98N7MWDh",
-    "status": 200,
-    "title": "How to take a tax-free lump sum from your pension - Which?",
-    "domain": "which.co.uk"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T07:19:00Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/navigating-tax-free-pension-lump-sums-and-allowa.mp3",
-  "image": {
-   "src": "img/navigating-tax-free-pension-lump-sums-and-allowa.jpg",
-   "credit": "Which?",
-   "license": "© Which?, shown with credit",
-   "page": "https://www.which.co.uk/news/article/how-to-take-a-tax-free-lump-sum-from-your-pension-aY0m98N7MWDh",
-   "from_url": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/70feed178138-retirementmoneypodcast.jpg"
-  }
- },
- {
   "id": "ohio-senator-uses-lady-gaga-lyrics-to-push-for-c",
   "cat": "mind",
   "tags": [
@@ -20632,917 +20837,6 @@
    "license": "© PinkNews, shown with credit",
    "page": "https://www.thepinknews.com/2026/11/13/ohio-conversion-therapy-ban-2026/",
    "from_url": "https://www.thepinknews.com/wp-content/uploads/2026/11/ohio-senator-lady-gaga-conversion-therapy_4e99f6.jpg"
-  }
- },
- {
-  "id": "discover-the-27-best-places-to-go-in-2027-for-sl",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "armenia",
-   "albania",
-   "chile",
-   "benin"
-  ],
-  "title": "Discover the 27 Best Places to Go in 2027 for Slow Travel",
-  "snippet": "Travel experts reveal the top destinations for 2027, highlighting remote mountain trails in Albania and Armenia, cultural rebirth in Benin, and wine tasting in Chile.",
-  "bullets": [
-   "Northern Albania offers jagged alpine peaks, inn-to-inn hiking, and home-cooked meals in wooden B&Bs [1].",
-   "Armenia features the expanding Transcaucasian Trail and ancient wine history across dramatic mountain landscapes [1].",
-   "Chile combines new chef-led culinary tours with luxury vineyard bungalows and experimental wine regions [1]."
-  ],
-  "report": [
-   {
-    "h": "Northern Albanian Alps",
-    "t": "Alpinists can explore jagged peaks and turquoise rivers while staying in Albanian-owned wooden guesthouses [1]. Trails link villages like Theth and Valbona, offering a secret mountain experience [1]."
-   },
-   {
-    "h": "Armenian Mountain Trails",
-    "t": "The Transcaucasian Trail is becoming easier to hike with new downloadable maps, updated signage, and trekking services [1]. Visitors can stay with local families and experience ancient winemaking history [1]."
-   },
-   {
-    "h": "Chilean Wine Valleys",
-    "t": "Chef Kurt Schmidt offers menu-to-territory day tours expanding from Santiago into emerging wine valleys [1]. Visitors can also explore new glass-mirrored bungalows and natural wine cellars in Cachapoal [1]."
-   }
-  ],
-  "why": "Why it matters to you: When you need a break from business or screen fatigue, discovering emerging global destinations offers a fresh perspective and restorative travel inspiration.",
-  "tryit": "Try this today: Browse the Transcaucasian Trail website for downloadable maps and itinerary planning tools to spark ideas for an active mountain adventure.",
-  "qa": [
-   [
-    "What can hikers expect in northern Albania?",
-    "Hikers can enjoy jagged snow-dipped peaks, turquoise rivers, and inn-to-inn hiking with stays in traditional wooden B&Bs [1]."
-   ],
-   [
-    "What trail is expanding in Armenia for 2027?",
-    "The Transcaucasian Trail is expanding with new downloadable maps, updated trail sections, and trekking services [1]."
-   ],
-   [
-    "What new food tours are launching in Chile?",
-    "Chef Kurt Schmidt is teaming up with a rural tourism cooperative on menu-to-territory day tours starting from Santiago [1]."
-   ],
-   [
-    "What cultural developments are happening in Benin?",
-    "Benin is investing in tourism with new museum openings like the International Museum of Memory and Slavery in Ouidah [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.cntraveler.com/story/27-best-places-to-go-in-2027",
-    "status": 200,
-    "title": "The 27 Best Places to Go in 2027",
-    "domain": "cntraveler.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T07:00:00Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/discover-the-27-best-places-to-go-in-2027-for-sl.mp3",
-  "image": {
-   "src": "img/discover-the-27-best-places-to-go-in-2027-for-sl.jpg",
-   "credit": "Condé Nast Traveler",
-   "license": "© Condé Nast Traveler, shown with credit",
-   "page": "https://www.cntraveler.com/story/27-best-places-to-go-in-2027",
-   "from_url": "https://media.cntraveler.com/photos/6af4b624d6cfa3ee10128e00/16:9/w_1280,c_limit/BPTG%20gloabal%20lede_96564860.jpg"
-  }
- },
- {
-  "id": "new-study-tracks-how-daily-mood-swings-affect-se",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "mind",
-   "health"
-  ],
-  "title": "New Study Tracks How Daily Mood Swings Affect Sexual Well-Being",
-  "snippet": "A new six-month study reveals how depressive symptoms and daily mood swings correspond with sexual desire and distress in newly diagnosed patients. [1]",
-  "bullets": [
-   "A six-month study of newly diagnosed patients tracked how mood shifts connect to sexual desire and distress [1].",
-   "Participants logged their mood daily using a smartphone application to measure day-to-day emotional turbulence [1].",
-   "Only about 16 percent of the participants met the criteria for overall sexual dysfunction [1]."
-  ],
-  "report": [
-   {
-    "h": "Tracking Mood and Desire",
-    "t": "A recent study investigated how mood shifts in newly diagnosed patients correspond with changes in sexual desire [1]. Researchers found that depressive symptoms correspond with lower sexual desire and increased distress [1]."
-   },
-   {
-    "h": "Daily Mood Instability",
-    "t": "Using smartphone logs, researchers discovered that erratic daily mood changes are linked specifically to higher sexual distress [1]. Day-to-day emotional fluctuations affect a person's sexual well-being even outside of severe mood episodes [1]."
-   },
-   {
-    "h": "Study Limitations",
-    "t": "Only about 16 percent of the participants met the criteria for overall sexual dysfunction [1]. The researchers noted that excluding patients taking specific antidepressants likely influenced these lower rates [1]."
-   }
-  ],
-  "why": "Understanding how emotional fluctuations influence personal well-being helps build self-compassion when navigating mental health and daily focus.",
-  "tryit": "Talk to a healthcare professional or sexual health clinic if you have questions about how medications or mood changes affect your personal well-being.",
-  "qa": [
-   [
-    "How long was the study?",
-    "The study spanned six months with participants attending in-person clinical visits [1]."
-   ],
-   [
-    "How many adults participated?",
-    "The researchers recruited 236 adults between the ages of 18 and 68 [1]."
-   ],
-   [
-    "What tool did participants use daily?",
-    "Participants logged their mood every day using a smartphone application [1]."
-   ],
-   [
-    "What percentage met the criteria for sexual dysfunction?",
-    "Only about 16 percent of the participants met the criteria for overall sexual dysfunction [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psypost.org/tracking-the-connection-between-bipolar-disorder-and-sexual-distress/",
-    "status": 200,
-    "title": "Tracking the connection between bipolar disorder and sexual distress",
-    "domain": "psypost.org"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T01:00:36Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/new-study-tracks-how-daily-mood-swings-affect-se.mp3",
-  "image": {
-   "src": "img/new-study-tracks-how-daily-mood-swings-affect-se.jpg",
-   "credit": "PsyPost",
-   "license": "© PsyPost, shown with credit",
-   "page": "https://www.psypost.org/tracking-the-connection-between-bipolar-disorder-and-sexual-distress/",
-   "from_url": "https://www.psypost.org/wp-content/uploads/2025/02/sad-frustrated-woman-feeling-regret-covering-face-with-hand-ashamed.jpg"
-  }
- },
- {
-  "id": "china-switches-on-world-s-biggest-liquid-air-ren",
-  "cat": "news",
-  "tags": [
-   "science",
-   "economics",
-   "energy",
-   "technology",
-   "business"
-  ],
-  "title": "China Switches on World's Biggest Liquid Air Renewable Energy Storage Plant",
-  "snippet": "A new liquid-air energy storage plant in China turns surplus renewable energy into liquid air to power the grid when the sun and wind are low.",
-  "bullets": [
-   "The new liquid-air energy storage facility is located in Qinghai Province [1].",
-   "The plant is rated at 600 megawatt-hours and provides 10 hours of continual power [1].",
-   "Financial analyst firm Lazard notes that liquid-air storage costs at least 33 cents on the dollar compared to lithium-ion systems [1]."
-  ],
-  "report": [
-   {
-    "h": "New Energy Storage",
-    "t": "The world's largest liquid-air energy storage plant is now running in western China [1]. It uses excess renewable electricity to compress air until it turns into a liquid [1]."
-   },
-   {
-    "h": "How LAES Works",
-    "t": "When power is needed, the liquid air is warmed and rapidly expands into a gas to spin a turbine [1]. The facility is rated at 600 megawatt-hours and includes its own 250MW solar farm [1]."
-   },
-   {
-    "h": "Cost Advantages",
-    "t": "According to financial analyst firm Lazard, liquid-air storage costs at least 33 cents on the dollar compared to standard lithium-ion batteries [1]. Similar projects are also being developed in places like northern Vermont [1]."
-   }
-  ],
-  "why": "This breakthrough highlights major shifts in green energy economics, showing how large-scale infrastructure innovations can dramatically lower costs.",
-  "tryit": "Read more about how liquid-air energy storage systems operate by looking up recent reports from financial analyst firm Lazard to understand emerging cost trends in clean tech.",
-  "qa": [
-   [
-    "Where is the new liquid-air energy storage plant located?",
-    "It is located in Qinghai Province in the west of China [1]."
-   ],
-   [
-    "What is the energy capacity of the new plant?",
-    "The facility is rated at 600 megawatt-hours and provides 10 hours of continual power [1]."
-   ],
-   [
-    "How does liquid-air energy storage work?",
-    "It cools air down to around -190°C until it turns to liquid, then warms it up later to expand back into a gas that drives a turbine [1]."
-   ],
-   [
-    "How do costs compare to lithium-ion batteries?",
-    "Lazard reports that liquid-air energy storage costs at least 33 cents on the dollar compared to standard lithium-ion battery storage systems [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
-    "status": 200,
-    "title": "China Switches on World's Biggest Example of New, Cheap Green Energy Storage",
-    "domain": "goodnewsnetwork.org"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T19:30:02Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/china-switches-on-world-s-biggest-liquid-air-ren.mp3",
-  "image": {
-   "src": "img/china-switches-on-world-s-biggest-liquid-air-ren.jpg",
-   "credit": "Good News Network",
-   "license": "© Good News Network, shown with credit",
-   "page": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
-   "from_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Qinghai-60MW-Liquid-Air-Energy-Storage-Project-credit-China-Green-Development-Investment-Group.jpg"
-  }
- },
- {
-  "id": "engineers-crack-400-year-old-shipwreck-combinati",
-  "cat": "whoa",
-  "tags": [
-   "science",
-   "history",
-   "travel"
-  ],
-  "title": "Engineers Crack 400-Year-Old Shipwreck Combination Lock Using Modern Scanners",
-  "snippet": "A brass combination lock from a 1583 shipwreck has been opened for the first time in over four centuries. Researchers used micro-CT scans to reveal the four-letter code ANCE without damaging the delicate artifact.",
-  "bullets": [
-   "Peter Hughes found the brass combination lock on Margam Beach in Wales in 1999 [1].",
-   "The artifact originated from the Ann Francis, a merchant ship that sank in a storm on December 28, 1583 [1].",
-   "Cardiff University researchers used micro-CT scans to discover the correct four-letter code of ANCE [1]."
-  ],
-  "report": [
-   {
-    "h": "The Long Lost Artifact",
-    "t": "In 1999, Peter Hughes discovered a brass combination lock on Margam Beach in Wales after hunting for decades [1]. The lock came from the Ann Francis, a merchant ship that sank during a storm on December 28, 1583 [1]."
-   },
-   {
-    "h": "Cracking the Code",
-    "t": "Museum Wales asked Cardiff University engineers to peer inside the device using micro-CT scanning technology normally reserved for studying bones [1]. The third scan successfully revealed that the long-lost code was ANCE [1]."
-   },
-   {
-    "h": "On Public Display",
-    "t": "After conservators cleaned out accumulated grit, the dials clicked open for the first time in more than four centuries [1]. The lock is now on public display at a free exhibition titled Tides of Treasure at the National Waterfront Museum in Swansea [1]."
-   }
-  ],
-  "why": "It is a fascinating historical puzzle solved by combining modern engineering technology with patient artifact hunting.",
-  "tryit": "Visit the free Tides of Treasure exhibition at the National Waterfront Museum in Swansea to view the lock in person before it closes on June 26, 2027.",
-  "qa": [
-   [
-    "Where was the lock found?",
-    "It was found on Margam Beach in Wales by metal detectorist Peter Hughes [1]."
-   ],
-   [
-    "What ship did the lock come from?",
-    "It belonged to the Ann Francis, a merchant ship that sank in 1583 [1]."
-   ],
-   [
-    "What technology opened the lock?",
-    "Researchers used micro-CT scanners to look inside the lock without damaging it [1]."
-   ],
-   [
-    "What was the secret code?",
-    "The code was the four-letter combination ANCE [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.smithsonianmag.com/smart-news/this-mysterious-combination-lock-sank-in-a-1583-shipwreck-when-engineers-cracked-the-code-it-clicked-open-for-the-first-time-in-more-than-400-years-180989864/",
-    "status": 200,
-    "title": "This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years",
-    "domain": "smithsonianmag.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T18:48:24Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/engineers-crack-400-year-old-shipwreck-combinati.mp3",
-  "image": {
-   "src": "img/engineers-crack-400-year-old-shipwreck-combinati.jpg",
-   "credit": "Smithsonian",
-   "license": "© Smithsonian, shown with credit",
-   "page": "https://www.smithsonianmag.com/smart-news/this-mysterious-combination-lock-sank-in-a-1583-shipwreck-when-engineers-cracked-the-code-it-clicked-open-for-the-first-time-in-more-than-400-years-180989864/",
-   "from_url": "https://th-thumbnailer.cdn-si-edu.com/aTyYdqa5aCRdOEC9M6rZKcSpzWs=/fit-in/1600x0/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f3/36/f3363810-d769-42fa-ae92-6da75b1a704f/lock.jpg"
-  }
- },
- {
-  "id": "viral-tiktok-reveals-surprising-fibre-discrepanc",
-  "cat": "money",
-  "tags": [
-   "money",
-   "business",
-   "negotiation",
-   "economics"
-  ],
-  "title": "Viral TikTok Reveals Surprising Fibre Discrepancies in Men and Women Knitwear",
-  "snippet": "A viral video highlights how lower-priced men's jumpers often use pure natural fibres while women's items at the same price use synthetics [1]. Data shows affordable men's knitwear is up to five times more likely to be 100% natural [1]. Experts explain how trend cycles and production habits drive these material differences [1].",
-  "bullets": [
-   "A content creator noticed a menswear merino wool jumper and a womenswear synthetic blend jumper were sold at the same price [1].",
-   "Data analysis of six major US brands showed affordable men's jumpers are up to five times more likely to use 100% natural fibres [1].",
-   "Experts note that menswear relies on steadier styles allowing bulk yarn buying, whereas womenswear follows fast-moving trends [1]."
-  ],
-  "report": [
-   {
-    "h": "The Pricing Discrepancy",
-    "t": "A social media video highlighted a $95 price point where a men's jumper was pure merino wool and a women's version was mostly synthetic [1]. This spark led to broader investigations into clothing composition across major brands [1]."
-   },
-   {
-    "h": "What the Data Shows",
-    "t": "Research across six major brand sites found that jumpers under $100 for men are up to five times more likely to consist of 100% natural fibres [1]. Women's jumpers in the same budget bracket are twice as likely to contain polyester [1]."
-   },
-   {
-    "h": "Why Materials Differ",
-    "t": "Menswear changes less across seasons, letting brands buy yarn in bulk and optimise production costs [1]. Meanwhile, fast fashion trends and sizing adjustments push women's lines toward cheaper petroleum-derived fabrics [1]."
-   }
-  ],
-  "why": "Why it matters to you: Understanding material quality and pricing discrepancies helps you negotiate better value and make smarter purchasing decisions when buying clothing or reviewing retail margins.",
-  "tryit": "Try this today: Check care labels closely on your next clothing purchase to verify fibre content rather than relying solely on marketing terms like wool blend.",
-  "qa": [
-   [
-    "What sparked the debate about knitwear materials?",
-    "A TikTok video by Rachael Brownfield highlighting a price and material discrepancy between men's and women's jumpers at Abercrombie & Fitch [1]."
-   ],
-   [
-    "How much more likely are men's jumpers to be 100% natural fibres under $100?",
-    "They are up to five times more likely to be made of 100% natural fibres such as wool, cotton, or cashmere [1]."
-   ],
-   [
-    "Why do women's jumpers contain more synthetics?",
-    "Fast fashion trends, sizing needs, and the desire to cut costs in a tough economic climate drive the use of cheaper petroleum-derived fabrics [1]."
-   ],
-   [
-    "At what price point does the knitwear gender gap close?",
-    "The knitwear gender gap only closes once you spend $100 or more [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/fashion/2026/nov/12/wool-pricing-natural-fibre-menswear-knitwear-women",
-    "status": 200,
-    "title": "‘Pretty weird’: How a viral video shows a striking discrepancy in men and women’s knitwear",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T07:00:12Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/viral-tiktok-reveals-surprising-fibre-discrepanc.mp3",
-  "image": {
-   "src": "img/viral-tiktok-reveals-surprising-fibre-discrepanc.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/fashion/2026/nov/12/wool-pricing-natural-fibre-menswear-knitwear-women",
-   "from_url": "https://i.guim.co.uk/img/media/097532687d01922b3fd358222acf83c0e5ba64e1/541_0_4827_3862/master/4827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a047d43d4c040d3e3c9f6967ed33a64c"
-  }
- },
- {
-  "id": "new-study-shows-paid-sexual-exchanges-among-youn",
-  "cat": "mind",
-  "tags": [
-   "psychology",
-   "research",
-   "health",
-   "money",
-   "mind"
-  ],
-  "title": "New Study Shows Paid Sexual Exchanges Among Young Adults Are More Common Than Thought",
-  "snippet": "A nationally representative survey reveals that 36% of young adults in the United States have provided paid sexual acts or virtual materials in their lifetimes. This rate is over four times higher than traditional single-question surveys indicate.",
-  "bullets": [
-   "Over one-third of young adults in the United States report lifetime participation in paid virtual or physical sexual exchanges [1].",
-   "Using a detailed 10-item questionnaire revealed a 36% lifetime rate compared to just 8.3% using a traditional single question [1].",
-   "Participants reporting these exchanges also faced elevated rates of trauma, mental health struggles, and substance misuse [1]."
-  ],
-  "report": [
-   {
-    "h": "Detailed Questions Reveal Higher Rates",
-    "t": "Traditional surveys using a single blunt question miss online platforms and stigmatized acts, capturing only an 8.3% rate compared to the new 36% finding [1]."
-   },
-   {
-    "h": "Virtual and In-Person Exchanges",
-    "t": "Across the sample, 28% provided virtual materials like paid sexting or explicit photos, while 26% provided in-person acts [1]."
-   },
-   {
-    "h": "Complex Motivations and Outcomes",
-    "t": "While many respondents cited paying living expenses or exploring fantasies, participants also reported higher rates of depression, PTSD symptoms, and financial relief [1]."
-   }
-  ],
-  "why": "Understanding how survey design and stigma affect self-reporting helps when evaluating research findings on sensitive human behaviors and mental health.",
-  "tryit": "Review survey methodologies critically when reading behavioral studies to understand how specific questioning methods influence reported data.",
-  "qa": [
-   [
-    "What was the lifetime rate found by the new study?",
-    "The study found a 36% lifetime rate of provided sexual acts or materials for financial compensation [1]."
-   ],
-   [
-    "What questionnaire did the researchers use?",
-    "They used a 10-item index covering four virtual acts and six in-person acts provided for pay [1]."
-   ],
-   [
-    "What common reasons did participants give for participating?",
-    "Common reasons included wanting to please someone, seeking pleasure or fantasies, and paying for living expenses [1]."
-   ],
-   [
-    "Did the study establish whether mental health struggles preceded the exchanges?",
-    "Because data were collected at one point in time, the survey cannot establish whether depression, PTSD, or substance misuse preceded the exchanges [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.psypost.org/paid-sexual-exchanges-are-far-more-common-among-young-adults-than-once-thought-new-study-suggests/",
-    "status": 200,
-    "title": "Paid sexual exchanges are far more common among young adults than once thought, new study suggests",
-    "domain": "psypost.org"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T21:00:39Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/new-study-shows-paid-sexual-exchanges-among-youn.mp3",
-  "image": {
-   "src": "img/new-study-shows-paid-sexual-exchanges-among-youn.jpg",
-   "credit": "PsyPost",
-   "license": "© PsyPost, shown with credit",
-   "page": "https://www.psypost.org/paid-sexual-exchanges-are-far-more-common-among-young-adults-than-once-thought-new-study-suggests/",
-   "from_url": "https://www.psypost.org/wp-content/uploads/2026/11/woman-taking-money.jpg"
-  }
- },
- {
-  "id": "new-stanford-study-reveals-brain-differences-beh",
-  "cat": "adhd",
-  "tags": [
-   "adhd",
-   "focus",
-   "science",
-   "psychology"
-  ],
-  "title": "New Stanford Study Reveals Brain Differences Behind Persistent Math Struggles",
-  "snippet": "Researchers at Stanford University have found that children with persistent math difficulties struggle to adjust their problem-solving strategies. The study links these challenges to executive functions like attention and cognitive flexibility.",
-  "bullets": [
-   "Researchers at Stanford University studied 68 children between the ages of 8 and 10 [1].",
-   "Children with developmental dyscalculia were less effective at using and switching between different mathematical strategies [1].",
-   "The findings highlight the role of executive functions such as attention, memory, and cognitive flexibility [1]."
-  ],
-  "report": [
-   {
-    "h": "Strategy Selection",
-    "t": "Solving math problems requires deciding which approach works best, such as using a familiar mathematical relationship [1]. Children with persistent math difficulties took longer to shift methods when problem difficulty changed [1]."
-   },
-   {
-    "h": "Brain Activity Clues",
-    "t": "Scientists discovered that activity within a particular brain system differed between children with developmental dyscalculia and those skilled at strategy selection [1]. These neural patterns predicted how well children switched between approaches [1]."
-   },
-   {
-    "h": "Executive Functions",
-    "t": "The study points to the importance of executive functions like attention, memory, and cognitive flexibility [1]. These mental processes help people organize information and change plans when an approach is not working [1]."
-   }
-  ],
-  "why": "Understanding how cognitive flexibility and executive functions govern problem-solving offers a compassionate lens on how our brains manage complex tasks and shifting strategies.",
-  "tryit": "Notice when you get stuck switching tasks today by pausing, taking a breath, and consciously choosing a completely different approach to the problem.",
-  "qa": [
-   [
-    "How many children did the Stanford team study?",
-    "The team studied 68 children between the ages of 8 and 10 [1]."
-   ],
-   [
-    "What condition did the research focus on?",
-    "The research focused on developmental dyscalculia, a condition causing ongoing difficulty with mathematical problem solving [1]."
-   ],
-   [
-    "Where were the findings published?",
-    "The findings were published in JNeurosci [1]."
-   ],
-   [
-    "Who led the research at Stanford University?",
-    "The research was led by Oliver Lasnick and colleagues [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.sciencedaily.com/releases/2026/11/261112025542.htm",
-    "status": 200,
-    "title": "A surprising brain difference may explain why some kids struggle with math",
-    "domain": "sciencedaily.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T23:33:12Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/new-stanford-study-reveals-brain-differences-beh.mp3",
-  "image": {
-   "src": "img/new-stanford-study-reveals-brain-differences-beh.jpg",
-   "credit": "ScienceDaily",
-   "license": "© ScienceDaily, shown with credit",
-   "page": "https://www.sciencedaily.com/releases/2026/11/261112025542.htm",
-   "from_url": "https://www.sciencedaily.com/images/1920/smart-boy-math-homework.webp"
-  }
- },
- {
-  "id": "how-a-barren-desert-town-grew-into-the-global-ca",
-  "cat": "news",
-  "tags": [
-   "travel",
-   "science",
-   "history"
-  ],
-  "title": "How a Barren Desert Town Grew into the Global Capital of Magic",
-  "snippet": "Discover how Las Vegas transformed from a humble railway town into a dazzling capital of illusion and mega-resorts. Explore its rich theatrical history, legendary performers, and modern magic spots.",
-  "bullets": [
-   "Las Vegas was founded on May 15, 1905, when 110 acres of private railroad land were auctioned off [1].",
-   "A young sleight-of-hand magician named Gloria Dea became the first artist to perform magic on the Las Vegas Strip in 1941 [1].",
-   "Penn & Teller are now the longest continuously running headlining act in Vegas history [1]."
-  ],
-  "report": [
-   {
-    "h": "Desert Roots and Early Magic",
-    "t": "Las Vegas started as a railway town in 1905 before statewide gambling legalization and the Hoover Dam project transformed it in the 1930s [1]. Vaudeville acts brought early variety shows, paving the way for Gloria Dea to introduce magic to the Strip in 1941 [1]."
-   },
-   {
-    "h": "The Mega-Resort Revolution",
-    "t": "The opening of the Mirage in 1989 shifted the city toward immersive, self-contained fantasy destinations [1]. This era featured massive volcanoes, pirate ships, and iconic residencies like Siegfried & Roy alongside illusionists such as David Copperfield [1]."
-   },
-   {
-    "h": "Modern Reinvention and Shows",
-    "t": "After a shift in entertainment following 2003, Vegas magic evolved toward intimate venues, digital tech, and experiential art spaces like Omega Mart [1]. Visitors can still catch legendary acts like Penn & Teller or close-up artists like Shin Lim today [1]."
-   }
-  ],
-  "why": "It is a fascinating look at how a city built its entire identity on pure imagination and reinvention, offering great inspiration for travel planning.",
-  "tryit": "Plan a future evening exploring classic magic shows by checking out performances from resident artists like Penn & Teller or Shin Lim when visiting Las Vegas.",
-  "qa": [
-   [
-    "When was Las Vegas founded?",
-    "It was founded on May 15, 1905, when 110 acres of private railroad land were auctioned off [1]."
-   ],
-   [
-    "Who was the first magician to perform on the Las Vegas Strip?",
-    "A young sleight-of-hand magician named Gloria Dea became the first in 1941 [1]."
-   ],
-   [
-    "When did the Mirage open?",
-    "Developer Steve Wynn opened the Mirage on November 22, 1989 [1]."
-   ],
-   [
-    "Which duo is the longest continuously running headlining act in Vegas history?",
-    "Penn & Teller hold that title [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.smithsonianmag.com/travel/how-the-desert-town-of-las-vegas-became-a-hotbed-of-magic-180989859/",
-    "status": 200,
-    "title": "How the Desert Town of Las Vegas Became a Hotbed of Magic",
-    "domain": "smithsonianmag.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T18:16:24Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/how-a-barren-desert-town-grew-into-the-global-ca.mp3",
-  "image": {
-   "src": "img/how-a-barren-desert-town-grew-into-the-global-ca.jpg",
-   "credit": "Smithsonian",
-   "license": "© Smithsonian, shown with credit",
-   "page": "https://www.smithsonianmag.com/travel/how-the-desert-town-of-las-vegas-became-a-hotbed-of-magic-180989859/",
-   "from_url": "https://th-thumbnailer.cdn-si-edu.com/xLqQ1UNeuQvDtSXy5l3z_JxU_Wo=/fit-in/1600x0/filters:focal(1064x705:1065x706)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/1a/b61a5963-3e34-4aef-8087-1bbaaa2b7272/gettyimages-520146358.jpg"
-  }
- },
- {
-  "id": "discovering-secret-beaches-and-mountain-views-in",
-  "cat": "travel",
-  "tags": [
-   "travel",
-   "scotland",
-   "nature",
-   "hiking",
-   "islands"
-  ],
-  "title": "Discovering Secret Beaches and Mountain Views in Wild Scotland",
-  "snippet": "Explore reader-recommended wild escapes across Scotland, from the Isle of Skye to remote bothies in the Cairngorms. Discover hidden white-sand beaches, quiet lochs, and unforgettable mountain summits [1].",
-  "bullets": [
-   "At Camasunary bay on the Isle of Skye, visitors watched an otter lift seaweed to find crabs at low tide [1].",
-   "Volunteers can join rewilding projects with Trees for Life in Glen Affric for £690 including food and accommodation [1].",
-   "Hikers starting at Glenmore can walk up to Ryvoan bothy and experience the stunning corries of the Cairngorms [1]."
-  ],
-  "report": [
-   {
-    "h": "Isle of Skye Wonders",
-    "t": "At Camasunary bay on the Strathaird peninsula, explorers can spot otters and cross rivers before heading up to Sgùrr na Strì for incredible mountain views [1]. Further west, Ardroil Sands offers a tropical feel with glassy Atlantic waters and turquoise bays [1]."
-   },
-   {
-    "h": "Rewilding and Bothies",
-    "t": "Adventurers can stay in traditional bothies or join volunteering trips with Trees for Life in Glen Affric to plant trees and view beaver lodges [1]. Other highlights include the uninhabited southern part of Iona and the remote Kintyre peninsula [1]."
-   },
-   {
-    "h": "Cairngorms and Coastlines",
-    "t": "A multiday hike into the heart of the Cairngorms from Glenmore takes walkers past Ryvoan bothy and up to the breathtaking Loch Avon [1]. Meanwhile, sea kayaking around Moidart and Arisaig provides daily camp spots on glorious white beaches [1]."
-   }
-  ],
-  "why": "It offers inspiring, practical ideas for planning a restorative, nature-filled escape in the UK to unwind and clear your head.",
-  "tryit": "Research the Arisaig Sea Kayak Centre or Trees for Life rewilding projects online to plan an active weekend adventure in the Scottish highlands.",
-  "qa": [
-   [
-    "Where is Camasunary bay located?",
-    "It is located on the Strathaird peninsula of the Isle of Skye [1]."
-   ],
-   [
-    "How much does the Trees for Life volunteering trip cost?",
-    "The cost is £690, which includes accommodation and food with profits going to the charity [1]."
-   ],
-   [
-    "What can you see on the Isle of Iona?",
-    "The whole southern part of Iona is uninhabited and features an abandoned marble quarry, idyllic bays, and stunning views [1]."
-   ],
-   [
-    "Where does the Cairngorms hike recommended by the winning tip start?",
-    "It starts at Glenmore, where there is a campsite on the beach of Loch Morlich [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/travel/2026/nov/13/readers-favourite-wild-escapes-scotland-skye-cairngorms",
-    "status": 200,
-    "title": "‘I found the best mountain view in Europe’: readers’ favourite wild escapes in Scotland",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-13",
-  "publishedAt": "2026-11-13T07:00:11Z",
-  "addedAt": "2026-11-13T10:57:08Z",
-  "audio": "audio/discovering-secret-beaches-and-mountain-views-in.mp3",
-  "image": {
-   "src": "img/discovering-secret-beaches-and-mountain-views-in.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/travel/2026/nov/13/readers-favourite-wild-escapes-scotland-skye-cairngorms",
-   "from_url": "https://i.guim.co.uk/img/media/a9cb63937daaeea868dd9dfaa967c522ab7ba0b7/976_0_4049_3240/master/4049.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c86133d0dfcb34eb4f5c83f0e969df6b"
-  }
- },
- {
-  "id": "why-nvidia-s-leadership-shakeup-proves-strong-go",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "money",
-   "economics"
-  ],
-  "title": "Why Nvidia's Leadership Shakeup Proves Strong Governance Beats Key Person Risk",
-  "snippet": "Jensen Huang's sudden departure from Nvidia shows why a business must move beyond relying on a single leader. Good governance and strong interim leadership can steady a giant tech firm through political storms.",
-  "bullets": [
-   "Nvidia co-founder Jensen Huang resigned following an extramarital affair and concerns over potential conflicts of interest [1].",
-   "The company's share price initially dropped 13% before narrowing to a 5% fall as investors reassessed the business [1].",
-   "Chief financial officer Colette Kress stepped in as chief executive while Harvey Jones took over as independent chair [1]."
-  ],
-  "report": [
-   {
-    "h": "The Cost of Recklessness",
-    "t": "Jensen Huang stepped down after revelations regarding an affair with a Singapore-based executive linked to chip smuggling concerns [1]. This created severe national security risks and political liabilities in Washington [1]."
-   },
-   {
-    "h": "Market Resilience",
-    "t": "While initial kneejerk reactions caused a 13% drop in the share price, the loss quickly narrowed to 5% [1]. Investors recognised that Nvidia still produces the world's most in-demand graphics processing units [1]."
-   },
-   {
-    "h": "New Governance Structure",
-    "t": "Chief financial officer Colette Kress stepped in as chief executive, and Harvey Jones took the role of independent chair [1]. This shift addresses long-standing criticisms regarding over-reliance on a single individual [1]."
-   }
-  ],
-  "why": "Understanding how major tech giants handle leadership crises and governance transitions helps you spot resilience in large business ecosystems.",
-  "tryit": "Review your own business or portfolio operations to ensure you have clear backups and checks in place so no single person creates a critical point of failure.",
-  "qa": [
-   [
-    "Who replaced Jensen Huang as chief executive?",
-    "Colette Kress, the chief financial officer, stepped in as chief executive [1]."
-   ],
-   [
-    "Who became the new independent chair at Nvidia?",
-    "Harvey Jones, a former chief executive at Synopsys and board member, got the gig [1]."
-   ],
-   [
-    "How much did Nvidia's share price drop initially?",
-    "The kneejerk reaction resulted in a 13% drop in the share price [1]."
-   ],
-   [
-    "To what level did the share price fall narrow?",
-    "The fall in the share price narrowed to 5% within a couple of hours [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
-    "status": 200,
-    "title": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
-    "domain": "theguardian.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T18:46:48Z",
-  "addedAt": "2026-11-12T23:36:17Z",
-  "audio": "audio/why-nvidia-s-leadership-shakeup-proves-strong-go.mp3",
-  "image": {
-   "src": "img/why-nvidia-s-leadership-shakeup-proves-strong-go.jpg",
-   "credit": "The Guardian",
-   "license": "© The Guardian, shown with credit",
-   "page": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
-   "from_url": "https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/125_0_4666_3734/master/4666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=5c5275cd0e88ecae5e5f6eb6f124ab77"
-  }
- },
- {
-  "id": "three-mit-lincoln-laboratory-innovations-win-202",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "science",
-   "business",
-   "technology",
-   "security"
-  ],
-  "title": "Three MIT Lincoln Laboratory Innovations Win 2026 R&D 100 Awards",
-  "snippet": "Three MIT Lincoln Laboratory technologies have won 2026 R&D 100 Awards for major advances in cybersecurity, quantum computing, and 5G communications. These innovations include an ultra-secure operating system, a wafer-scale quantum microsystems platform, and a 5G interference-removal algorithm.",
-  "bullets": [
-   "Three technologies developed by MIT Lincoln Laboratory received 2026 R&D 100 Awards [1].",
-   "An operating system named Magnetite uses formal verification and Rust to protect embedded systems from cyberattacks [1].",
-   "A new algorithm successfully removes 5G cellular interference to recover radar signals [1]."
-  ],
-  "report": [
-   {
-    "h": "Award-Winning Innovations",
-    "t": "Three technologies developed by MIT Lincoln Laboratory received 2026 R&D 100 Awards, which recognize significant innovations made available for license [1]."
-   },
-   {
-    "h": "Cybersecurity and Quantum",
-    "t": "Magnetite is a secure operating system built on a formally verified microkernel using the Rust programming language, while a new quantum microsystems platform integrates hundreds of chips using AI routing [1]."
-   },
-   {
-    "h": "Clearing 5G Interference",
-    "t": "Researchers developed an algorithm that reconstructs and subtracts interfering 5G signals from nearby antennas, successfully restoring radar detection ranges [1]."
-   }
-  ],
-  "why": "This breakthrough showcases advanced AI routing, robust systems architecture, and secure software design principles like Rust that underpin modern high-performance engineering.",
-  "tryit": "Explore the principles of memory-safe programming languages like Rust for your next software project or business automation tool.",
-  "qa": [
-   [
-    "What are the three award-winning technologies?",
-    "They are the Magnetite operating system, the Quantum Microsystems platform, and a 5G interference-removal algorithm [1]."
-   ],
-   [
-    "How does the Magnetite operating system ensure security?",
-    "It is built on a formally verified microkernel and uses the Rust programming language to prevent memory-corruption bugs [1]."
-   ],
-   [
-    "What does the Quantum Microsystems platform do?",
-    "It integrates hundreds of superconductor and semiconductor chips into a single wafer-scale system using AI routing [1]."
-   ],
-   [
-    "How does the 5G interference algorithm work?",
-    "It decodes base station transmissions to reconstruct and subtract the interfering signal from incoming antenna data [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
-    "status": 200,
-    "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
-    "domain": "news.mit.edu"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T21:15:00Z",
-  "addedAt": "2026-11-12T23:36:17Z",
-  "audio": "audio/three-mit-lincoln-laboratory-innovations-win-202.mp3",
-  "image": {
-   "src": "img/three-mit-lincoln-laboratory-innovations-win-202.jpg",
-   "credit": "MIT News",
-   "license": "© MIT News, shown with credit",
-   "page": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
-   "from_url": "https://news.mit.edu/sites/default/files/images/202610/mit-lincoln-awards.jpg"
-  }
- },
- {
-  "id": "examining-the-real-costs-of-modern-middle-class",
-  "cat": "money",
-  "tags": [
-   "money",
-   "business",
-   "economics",
-   "tax"
-  ],
-  "title": "Examining the Real Costs of Modern Middle-Class Life and Housing",
-  "snippet": "While podcasters claim young people need massive incomes to live comfortably, median household earnings remain far lower. Housing supply constraints and high childcare costs drive the feeling that traditional milestones are out of reach.",
-  "bullets": [
-   "In Michigan, the median household income is around $65,000, which serves as a standard benchmark for middle-class life [1].",
-   "A person earning $65,000 can typically afford a house priced between $200,000 and $300,000 [1].",
-   "Government regulations and zoning rules artificially constrain housing supply and drive up childcare expenses [1]."
-  ],
-  "report": [
-   {
-    "h": "The Income Reality",
-    "t": "Viral claims suggest people need $1 million annually to enjoy a middle-class lifestyle, but median household earnings sit much lower at around $65,000 [1]. This income allows individuals to buy homes in the $200,000 to $300,000 range, depending on the state [1]."
-   },
-   {
-    "h": "Urban Cost Pressures",
-    "t": "Young professionals chasing higher-paying jobs in major cities face astronomical housing prices and severe regulatory constraints [1]. Childcare and education expenses are heavily inflated due to government rules and mandates that limit supply [1]."
-   },
-   {
-    "h": "Economic Policy Focus",
-    "t": "Pro-family economic reforms should focus on free market solutions like reducing property taxes for younger homeowners and easing zoning laws [1]. Freeing up regulatory burdens lets workers keep more cash to spend efficiently on family needs [1]."
-   }
-  ],
-  "why": "Understanding how housing and regulatory costs impact household formation helps you evaluate where to live and how to manage your capital effectively.",
-  "tryit": "Review your current housing and living expenses against national median costs to identify potential areas for long-term savings or relocation opportunities.",
-  "qa": [
-   [
-    "What is the median household income in Michigan?",
-    "The median household income in Michigan is around $65,000 [1]."
-   ],
-   [
-    "What is the average price range for a house a person making $65,000 can buy?",
-    "A person making $65,000 a year should be able to buy a house that costs between $200,000 and $300,000 [1]."
-   ],
-   [
-    "Why are childcare and education so expensive?",
-    "These services are highly regulated and subjected to various governmental constraints that drive up the price and lower the available supply [1]."
-   ],
-   [
-    "What policy reforms could help young families?",
-    "Free market reforms include income and property tax reductions, regulatory reform, zoning reform, and school choice [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://reason.com/2026/11/12/do-young-men-need-1-million-to-live-a-middle-class-lifestyle/",
-    "status": 200,
-    "title": "Do young men need $1 million to live a middle-class lifestyle?",
-    "domain": "reason.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T22:15:25Z",
-  "addedAt": "2026-11-12T23:36:17Z",
-  "audio": "audio/examining-the-real-costs-of-modern-middle-class.mp3",
-  "image": {
-   "src": "img/examining-the-real-costs-of-modern-middle-class.jpg",
-   "credit": "Reason",
-   "license": "© Reason, shown with credit",
-   "page": "https://reason.com/2026/11/12/do-young-men-need-1-million-to-live-a-middle-class-lifestyle/",
-   "from_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/Dave-Smith.jpg"
-  }
- },
- {
-  "id": "nvidia-ceo-jensen-huang-resigns-after-security-a",
-  "cat": "ai",
-  "tags": [
-   "ai",
-   "business",
-   "news"
-  ],
-  "title": "Nvidia CEO Jensen Huang resigns after security and personal conduct controversies",
-  "snippet": "Nvidia co-founder Jensen Huang has resigned as CEO following revelations regarding personal affairs and national security concerns tied to chip export investigations. Colette Kress takes over as interim CEO while the board searches for a permanent successor.",
-  "bullets": [
-   "Nvidia co-founder Jensen Huang admitted to extramarital affairs and resigned from his role as CEO [1].",
-   "U.S. officials investigated Megaspeed executive Alice Huang over suspicions of sharing chip intelligence with Beijing [1].",
-   "Chief Financial Officer Colette Kress was appointed as interim CEO while the board conducts a leadership search [1]."
-  ],
-  "report": [
-   {
-    "h": "Leadership changes at Nvidia",
-    "t": "Following reports of multiple affairs and scrutiny over chip export controls, Jensen Huang resigned after leading the company for 33 years [1]. Chief Financial Officer Colette Kress has stepped in as interim CEO while Harvey C. Jones became the first chair of the board of directors [1]."
-   },
-   {
-    "h": "National security investigations",
-    "t": "U.S. and Singapore authorities previously investigated Megaspeed over allegations that the firm illegally routed advanced hardware to China [1]. Jensen Huang agreed to testify before Congress in a closed-door briefing before Thanksgiving [1]."
-   },
-   {
-    "h": "Market and stock impact",
-    "t": "Nvidia shares experienced declines in after-hours trading following the board meetings and news of the leadership transition [1]. The company continues to cooperate with independent board investigations into the matter [1]."
-   }
-  ],
-  "why": "This major industry shift highlights how corporate governance, geopolitical export controls, and executive stability intersect at the highest levels of the AI hardware market.",
-  "tryit": "Review your portfolio exposure or business dependencies on major AI infrastructure suppliers to stay informed on sudden market shifts.",
-  "qa": [
-   [
-    "Who replaced Jensen Huang as CEO?",
-    "CFO Colette Kress was named interim CEO [1]."
-   ],
-   [
-    "When is Huang expected to testify?",
-    "Huang agreed to testify before Congress before Thanksgiving on November 26 [1]."
-   ],
-   [
-    "What company was investigated alongside these events?",
-    "Singapore-based AI infrastructure firm Megaspeed was investigated over chip export rules [1]."
-   ],
-   [
-    "Who was appointed as the first-ever chair of the board?",
-    "Harvey C. Jones was appointed as the first-ever chair of the board of directors [1]."
-   ]
-  ],
-  "sources": [
-   {
-    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "status": 200,
-    "title": "The unfolding Jensen Huang scandal: a timeline | TechCrunch",
-    "domain": "techcrunch.com"
-   }
-  ],
-  "date": "2026-11-12",
-  "publishedAt": "2026-11-12T21:35:00Z",
-  "addedAt": "2026-11-12T23:36:17Z",
-  "audio": "audio/nvidia-ceo-jensen-huang-resigns-after-security-a.mp3",
-  "image": {
-   "src": "img/nvidia-ceo-jensen-huang-resigns-after-security-a.jpg",
-   "credit": "TechCrunch",
-   "license": "© TechCrunch, shown with credit",
-   "page": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "from_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
   }
  },
  {
